@@ -1,0 +1,264 @@
+{
+"seeds": [
+  {
+    "name": "Inky",
+    "tier": 1,
+    "amount": 4,
+    "nether": false,
+    "input": "dyeBlack",
+    "output": "minecraft:dye:0#8",
+    "color": "#161616",
+    "seedReq": {}
+  },
+  {
+    "name": "Fleshy",
+    "tier": 1,
+    "amount": 4,
+    "nether": false,
+    "input": "minecraft:rotten_flesh:0#0",
+    "output": "minecraft:rotten_flesh:0#8",
+    "color": "#FFA088",
+    "seedReq": {}
+  },
+  {
+    "name": "Feathery",
+    "tier": 1,
+    "amount": 4,
+    "nether": false,
+    "input": "minecraft:feather:0#0",
+    "output": "minecraft:feather:0#8",
+    "color": "#D0CBC7",
+    "seedReq": {}
+  },
+  {
+    "name": "Coal",
+    "tier": 2,
+    "amount": 4,
+    "nether": false,
+    "input": "minecraft:coal:0#0",
+    "output": "minecraft:coal:0#4",
+    "color": "#2D2C2F",
+    "seedReq": {}
+  },
+  {
+    "name": "Charcoal",
+    "tier": 2,
+    "amount": 4,
+    "nether": false,
+    "input": "minecraft:coal:1#0",
+    "output": "minecraft:coal:1#4",
+    "color": "#2D2C2F",
+    "seedReq": {}
+  },
+  {
+    "name": "Leathery",
+    "tier": 2,
+    "amount": 4,
+    "nether": false,
+    "input": "minecraft:leather:0#0",
+    "output": "minecraft:leather:0#4",
+    "color": "#FF4411",
+    "seedReq": {}
+  },
+  {
+    "name": "Stringy",
+    "tier": 2,
+    "amount": 4,
+    "nether": false,
+    "input": "minecraft:string:0#0",
+    "output": "minecraft:string:0#8",
+    "color": "#F1FFD2",
+    "seedReq": {}
+  },
+  {
+    "name": "Boney",
+    "tier": 2,
+    "amount": 4,
+    "nether": false,
+    "input": "minecraft:bone:0#0",
+    "output": "minecraft:bone:0#4",
+    "color": "#FFF0CD",
+    "seedReq": {}
+  },
+  {
+    "name": "Slimey",
+    "tier": 2,
+    "amount": 4,
+    "nether": false,
+    "input": "minecraft:slime_ball:0#0",
+    "output": "minecraft:slime_ball:0#4",
+    "color": "#3EFF77",
+    "seedReq": {}
+  },
+  {
+    "name": "Blaze",
+    "tier": 3,
+    "amount": 4,
+    "nether": false,
+    "input": "minecraft:blaze_rod:0#0",
+    "output": "minecraft:blaze_rod:0#2",
+    "color": "#FFD742",
+    "seedReq": {}
+  },
+  {
+    "name": "Iron",
+    "tier": 3,
+    "amount": 4,
+    "nether": false,
+    "input": "ingotIron",
+    "output": "minecraft:iron_ingot:0#4",
+    "color": "#9F9CA0",
+    "seedReq": {}
+  },
+  {
+    "name": "Gold",
+    "tier": 3,
+    "amount": 4,
+    "nether": false,
+    "input": "ingotGold",
+    "output": "minecraft:gold_ingot:0#4",
+    "color": "#FFFF00",
+    "seedReq": {}
+  },
+  {
+    "name": "Ender",
+    "tier": 3,
+    "amount": 4,
+    "nether": false,
+    "input": "minecraft:ender_pearl:0#0",
+    "output": "minecraft:ender_pearl:0#2",
+    "color": "#486461",
+    "seedReq": {}
+  },
+  {
+    "name": "Teary",
+    "tier": 3,
+    "amount": 4,
+    "nether": false,
+    "input": "minecraft:ghast_tear:0#0",
+    "output": "minecraft:ghast_tear:0#4",
+    "color": "#D4FFF1",
+    "seedReq": {}
+  },
+  {
+    "name": "Creepy",
+    "tier": 3,
+    "amount": 4,
+    "nether": false,
+    "input": "minecraft:gunpowder:0#0",
+    "output": "minecraft:gunpowder:0#8",
+    "color": "#00FF21",
+    "seedReq": {}
+  },
+  {
+    "name": "Skelesprout",
+    "tier": 3,
+    "amount": 2,
+    "nether": false,
+    "input": "minecraft:skull:0#0",
+    "output": "minecraft:skull:0#1",
+    "color": "#9FA49B",
+    "seedReq": {}
+  },
+  {
+    "name": "Brainy",
+    "tier": 3,
+    "amount": 2,
+    "nether": false,
+    "input": "minecraft:skull:2#0",
+    "output": "minecraft:skull:2#1",
+    "color": "#316932",
+    "seedReq": {}
+  },
+  {
+    "name": "Mindful",
+    "tier": 3,
+    "amount": 2,
+    "nether": false,
+    "input": "minecraft:skull:3#0",
+    "output": "minecraft:skull:3#1",
+    "color": "#E8BA83",
+    "seedReq": {}
+  },
+  {
+    "name": "Creepots",
+    "tier": 3,
+    "amount": 2,
+    "nether": false,
+    "input": "minecraft:skull:4#0",
+    "output": "minecraft:skull:4#1",
+    "color": "#47B24A",
+    "seedReq": {}
+  },
+  {
+    "name": "Glowstone",
+    "tier": 3,
+    "amount": 4,
+    "nether": false,
+    "input": "dustGlowstone",
+    "output": "minecraft:glowstone_dust:0#8",
+    "color": "#E9FF54",
+    "seedReq": {}
+  },
+  {
+    "name": "Redstone",
+    "tier": 3,
+    "amount": 4,
+    "nether": false,
+    "input": "dustRedstone",
+    "output": "minecraft:redstone:0#8",
+    "color": "#9F0D00",
+    "seedReq": {}
+  },
+  {
+    "name": "Lapis",
+    "tier": 3,
+    "amount": 4,
+    "nether": false,
+    "input": "gemLapis",
+    "output": "minecraft:dye:4#8",
+    "color": "#3F47CE",
+    "seedReq": {}
+  },
+  {
+    "name": "Quartz",
+    "tier": 3,
+    "amount": 4,
+    "nether": false,
+    "input": "gemQuartz",
+    "output": "minecraft:quartz:0#4",
+    "color": "#FFFFFF",
+    "seedReq": {}
+  },
+  {
+    "name": "Witherwheat",
+    "tier": 4,
+    "amount": 2,
+    "nether": false,
+    "input": "minecraft:skull:1#0",
+    "output": "minecraft:skull:1#1",
+    "color": "#343433",
+    "seedReq": {}
+  },
+  {
+    "name": "Diamond",
+    "tier": 4,
+    "amount": 2,
+    "nether": false,
+    "input": "gemDiamond",
+    "output": "minecraft:diamond:0#1",
+    "color": "#3AF2EF",
+    "seedReq": {}
+  },
+  {
+    "name": "Emerald",
+    "tier": 4,
+    "amount": 2,
+    "nether": false,
+    "input": "gemEmerald",
+    "output": "minecraft:emerald:0#1",
+    "color": "#57F26F",
+    "seedReq": {}
+  }
+]
+}
