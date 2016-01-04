@@ -12,4 +12,7 @@ https://mega.nz/#!ioZTUAIb!CF4wCRaWiYZw6OW0KdD_8Ho1EjPDQ2iDgWll3Wuuu2s
 # 0.5 Alpha (1.8.9!)
 https://mega.nz/#!jgRWnDIY!I-L20t4_L6l1UQCBvb3P3BRK_gQozt8SsnnYusinm0o
 
+# Installation
 Can be installed as a multimc instance.
+
+![](http://i.imgur.com/doXGYYz.png)
