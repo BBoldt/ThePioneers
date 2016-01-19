@@ -1,0 +1,9049 @@
+## Ore Dictionary Info                      ##
+##############################################
+## In the form:                             ##
+## <ore dictionary entry>                   ##
+##     <item id registered> - <item damage> ##
+##     etc...                               ##
+##############################################
+actAddCrystalRed
+actuallyadditions:itemCrystal - 0
+
+
+axe
+skyland:skyrite_axe - 0
+
+
+axeSkyrite
+skyland:skyrite_axe - 0
+
+
+bEnderAirBottle
+botania:manaResource - 15
+
+
+bFlask
+botania:vial - 1
+
+
+bPlaceholder
+botania:manaResource - 11
+
+
+bRedString
+botania:manaResource - 12
+
+
+bVial
+botania:vial - 0
+
+
+batteryUltimate
+techreborn:part - 8
+
+
+bellsIron
+totemic:subItems - 1
+
+
+blazePowder
+
+
+blockAdamantine
+
+
+blockAer
+
+
+blockAlduorite
+
+
+blockAluminium
+
+
+blockAluminum
+foundry:blockMetal1 - 11
+techreborn:techreborn.storage - 1
+
+
+blockAmber
+
+
+blockAmethyst
+
+
+blockAmordrine
+
+
+blockAngmallen
+
+
+blockAqua
+
+
+blockArdite
+tconstruct:metal - 1
+
+
+blockAstralSilver
+
+
+blockAtlarus
+
+
+blockBlackSteel
+
+
+blockBlaze
+botania:blazeBlock - 0
+
+
+blockBrass
+thaumcraft:metal - 4
+foundry:blockMetal1 - 7
+sem:metallbloecke - 2
+techreborn:techreborn.storage - 5
+
+
+blockBrick
+
+
+blockBricknether
+
+
+blockBrickseared
+
+
+blockBronze
+foundry:blockMetal1 - 2
+sem:metallbloecke - 0
+
+
+blockCactus
+minecraft:cactus - any
+
+
+blockCarbon
+
+
+blockCarmot
+
+
+blockCelenegil
+
+
+blockCeruclase
+
+
+blockChrome
+techreborn:techreborn.storage - 3
+
+
+blockChromium
+foundry:blockMetal1 - 12
+
+
+blockCinnabar
+
+
+blockCoal
+minecraft:coal_block - 0
+
+
+blockCobalt
+tconstruct:metal - 0
+
+
+blockCobaltite
+
+
+blockCopper
+foundry:blockMetal1 - 0
+neotech:blockCopper - 0
+sem:metallbloecke - 1
+
+
+blockCrystalCluster
+thaumicbases:crystalBlock - any
+
+
+blockCrystalcluster
+
+
+blockCupronickel
+foundry:blockMetal2 - 0
+
+
+blockDamascusSteel
+
+
+blockDeepIron
+
+
+blockDesichalkos
+
+
+blockDevilsIron
+sem:metallbloecke - 3
+
+
+blockDevilsiron
+
+
+blockDiamond
+minecraft:diamond_block - 0
+thaumicbases:oldDiamond - 0
+
+
+blockElectrum
+foundry:blockMetal1 - 3
+techreborn:techreborn.storage - 7
+
+
+blockElectrumFlux
+
+
+blockElementium
+
+
+blockElvenElementium
+botania:storage - 2
+
+
+blockElvenelementium
+
+
+blockEmerald
+minecraft:emerald_block - 0
+
+
+blockEnderium
+
+
+blockEndstone
+
+
+blockEssence
+
+
+blockEximite
+
+
+blockFlour
+
+
+blockGlass
+minecraft:glass - 0
+minecraft:stained_glass - any
+
+
+blockGlassBlack
+minecraft:stained_glass - 15
+
+
+blockGlassBlue
+minecraft:stained_glass - 11
+
+
+blockGlassBrown
+minecraft:stained_glass - 12
+
+
+blockGlassColorless
+minecraft:glass - 0
+
+
+blockGlassCyan
+minecraft:stained_glass - 9
+
+
+blockGlassGray
+minecraft:stained_glass - 7
+
+
+blockGlassGreen
+minecraft:stained_glass - 13
+
+
+blockGlassLightBlue
+minecraft:stained_glass - 3
+
+
+blockGlassLightGray
+minecraft:stained_glass - 8
+
+
+blockGlassLime
+minecraft:stained_glass - 5
+
+
+blockGlassMagenta
+minecraft:stained_glass - 2
+
+
+blockGlassOrange
+minecraft:stained_glass - 1
+
+
+blockGlassPink
+minecraft:stained_glass - 6
+
+
+blockGlassPurple
+minecraft:stained_glass - 10
+
+
+blockGlassRed
+minecraft:stained_glass - 14
+
+
+blockGlassWhite
+minecraft:stained_glass - 0
+
+
+blockGlassYellow
+minecraft:stained_glass - 4
+
+
+blockGlassblack
+
+
+blockGlassblue
+
+
+blockGlassbrown
+
+
+blockGlasscolorless
+
+
+blockGlasscyan
+
+
+blockGlassgray
+
+
+blockGlassgreen
+
+
+blockGlasslightblue
+
+
+blockGlasslightgray
+
+
+blockGlasslime
+
+
+blockGlassmagenta
+
+
+blockGlassorange
+
+
+blockGlasspink
+
+
+blockGlasspurple
+
+
+blockGlassred
+
+
+blockGlasswhite
+
+
+blockGlassyellow
+
+
+blockGlowstone
+
+
+blockGold
+minecraft:gold_block - 0
+thaumicbases:oldGold - 0
+
+
+blockGreenSapphire
+
+
+blockGunpowder
+
+
+blockHaderoth
+
+
+blockHepatizon
+
+
+blockIgnatius
+
+
+blockIgnis
+
+
+blockInfuscolium
+
+
+blockInolashite
+
+
+blockInvar
+foundry:blockMetal1 - 4
+techreborn:techreborn.storage - 12
+
+
+blockIridium
+techreborn:techreborn.storage - 14
+
+
+blockIron
+minecraft:iron_block - 0
+thaumicbases:oldIron - 0
+
+
+blockIronwood
+
+
+blockKalendrite
+
+
+blockKanthal
+
+
+blockKnightmetal
+
+
+blockKnightslime
+tconstruct:metal - 3
+
+
+blockLapis
+minecraft:lapis_block - 0
+thaumicbases:oldLapis - 0
+techreborn:part - 22
+
+
+blockLead
+foundry:blockMetal1 - 10
+techreborn:techreborn.storage - 6
+
+
+blockLemurite
+
+
+blockLodestone
+techreborn:techreborn.storage2 - 1
+
+
+blockLumium
+
+
+blockMalachite
+
+
+blockManasteel
+botania:storage - 0
+
+
+blockManganese
+foundry:blockMetal1 - 14
+
+
+blockManyullyn
+tconstruct:metal - 2
+
+
+blockMeatRaw
+biomesoplenty:flesh - 0
+
+
+blockMeatraw
+
+
+blockMetal
+minecraft:iron_block - 0
+minecraft:gold_block - 0
+
+
+blockMeutoite
+
+
+blockMidasium
+
+
+blockMithril
+
+
+blockNetherrack
+
+
+blockNichrome
+
+
+blockNickel
+foundry:blockMetal1 - 5
+techreborn:techreborn.storage - 11
+
+
+blockObsidian
+
+
+blockOlivine
+
+
+blockOrdo
+
+
+blockOrichalcum
+
+
+blockOsmium
+techreborn:techreborn.storage - 13
+
+
+blockOureclase
+
+
+blockPerditio
+
+
+blockPeridot
+techreborn:techreborn.storage2 - 7
+
+
+blockPigiron
+tconstruct:metal - 4
+
+
+blockPlatinum
+foundry:blockMetal1 - 13
+techreborn:techreborn.storage - 9
+
+
+blockPotentia
+
+
+blockPrimal
+
+
+blockPrismarine
+botania:prismarine - any
+minecraft:prismarine - any
+
+
+blockPrometheum
+
+
+blockQuartz
+minecraft:quartz_block - 0
+
+
+blockQuartzblack
+
+
+blockQuicksilver
+thaumicbases:quicksilverBlock - 0
+thaumicbases:quicksilverBrick - 0
+
+
+blockRedAlloy
+
+
+blockRedGarnet
+techreborn:techreborn.storage2 - 9
+
+
+blockRedstone
+minecraft:redstone_block - 0
+
+
+blockRubber
+
+
+blockRubracium
+
+
+blockRuby
+techreborn:techreborn.storage2 - 5
+
+
+blockSalisMundus
+thaumicbases:blockSalisMundus - 0
+
+
+blockSalismundus
+
+
+blockSalt
+sem:salzblock - 0
+
+
+blockSanguinite
+
+
+blockSapphire
+techreborn:techreborn.storage2 - 6
+
+
+blockSeared
+tconstruct:seared - any
+
+
+blockShadowIron
+
+
+blockShadowSteel
+
+
+blockSignalum
+
+
+blockSilver
+foundry:blockMetal1 - 8
+techreborn:techreborn.storage - 0
+
+
+blockSkyrite
+skyland:skyrite_block - 0
+
+
+blockSlime
+minecraft:slime - any
+tconstruct:slime - any
+
+
+blockSlimeCongealed
+tconstruct:slime_congealed - any
+
+
+blockSlimeDirt
+tconstruct:slime_dirt - any
+
+
+blockSlimeGrass
+tconstruct:slime_grass - any
+
+
+blockSlimecongealed
+
+
+blockSlimedirt
+
+
+blockSlimegrass
+
+
+blockSmallblaze
+
+
+blockSmallgunpowder
+
+
+blockStainlessSteel
+
+
+blockSteel
+foundry:blockMetal1 - 9
+sem:metallbloecke - 6
+techreborn:techreborn.storage - 4
+
+
+blockSteeleaf
+
+
+blockStone
+
+
+blockSulfur
+
+
+blockTanzanite
+
+
+blockTartarite
+
+
+blockTellurium
+techreborn:techreborn.storage2 - 2
+
+
+blockTerra
+
+
+blockTerrasteel
+
+
+blockThauminite
+thaumicbases:thauminiteBlock - 0
+
+
+blockThaumium
+thaumcraft:metal - 0
+
+
+blockTin
+foundry:blockMetal1 - 1
+neotech:blockTin - 0
+sem:metallbloecke - 4
+
+
+blockTitanium
+foundry:blockMetal1 - 15
+techreborn:techreborn.storage - 2
+
+
+blockTopaz
+
+
+blockTungsten
+techreborn:techreborn.storage - 10
+
+
+blockTungstensteel
+techreborn:techreborn.storage2 - 0
+
+
+blockUranium
+
+
+blockVacous
+
+
+blockVictus
+
+
+blockVoid
+thaumcraft:metal - 1
+
+
+blockVoidMetal
+thaumcraft:metal - 1
+
+
+blockVoidmetal
+
+
+blockVulcanite
+
+
+blockVyroxeres
+
+
+blockWood
+
+
+blockYellowGarnet
+techreborn:techreborn.storage2 - 8
+
+
+blockZinc
+foundry:blockMetal1 - 6
+sem:metallbloecke - 5
+techreborn:techreborn.storage - 8
+
+
+blockglassColorless
+
+
+bone
+
+
+book
+tis3d:bookCode - 0
+tis3d:bookManual - 0
+
+
+brick
+thaumicbases:oldBrick - 0
+
+
+bucket
+
+
+bucketLava
+
+
+bucketWater
+
+
+button
+
+
+cast
+tconstruct:cast - any
+
+
+cauldron
+
+
+charsetWireInsulated
+charsetwires:wire - 2
+charsetwires:wire - 4
+charsetwires:wire - 6
+charsetwires:wire - 8
+charsetwires:wire - 10
+charsetwires:wire - 12
+charsetwires:wire - 14
+charsetwires:wire - 16
+charsetwires:wire - 18
+charsetwires:wire - 20
+charsetwires:wire - 22
+charsetwires:wire - 24
+charsetwires:wire - 26
+charsetwires:wire - 28
+charsetwires:wire - 30
+charsetwires:wire - 32
+
+
+charsetWireInsulatedFreestanding
+charsetwires:wire - 2
+charsetwires:wire - 4
+charsetwires:wire - 6
+charsetwires:wire - 8
+charsetwires:wire - 10
+charsetwires:wire - 12
+charsetwires:wire - 14
+charsetwires:wire - 16
+charsetwires:wire - 18
+charsetwires:wire - 20
+charsetwires:wire - 22
+charsetwires:wire - 24
+charsetwires:wire - 26
+charsetwires:wire - 28
+charsetwires:wire - 30
+charsetwires:wire - 32
+
+
+chest
+minecraft:chest - 0
+minecraft:ender_chest - 0
+minecraft:trapped_chest - 0
+
+
+chestEnder
+minecraft:ender_chest - 0
+
+
+chestTrapped
+minecraft:trapped_chest - 0
+
+
+chestWood
+minecraft:chest - 0
+
+
+chipsetComp
+buildcraft|silicon:redstoneChipset - 6
+
+
+chipsetDiamond
+buildcraft|silicon:redstoneChipset - 3
+
+
+chipsetEmerald
+buildcraft|silicon:redstoneChipset - 7
+
+
+chipsetGold
+buildcraft|silicon:redstoneChipset - 2
+
+
+chipsetIron
+buildcraft|silicon:redstoneChipset - 1
+
+
+chipsetPulsating
+buildcraft|silicon:redstoneChipset - 4
+
+
+chipsetQuartz
+buildcraft|silicon:redstoneChipset - 5
+
+
+chipsetRed
+buildcraft|silicon:redstoneChipset - 0
+
+
+circuitAdvanced
+
+
+circuitBasic
+
+
+circuitData
+techreborn:part - 7
+
+
+circuitElite
+techreborn:part - 5
+
+
+circuitMaster
+techreborn:part - 4
+
+
+clay
+
+
+clock
+
+
+clothManaweave
+botania:manaResource - 22
+
+
+clusterAer
+
+
+clusterAluminum
+
+
+clusterAqua
+
+
+clusterBrass
+
+
+clusterBronze
+
+
+clusterChromium
+
+
+clusterCinnabar
+thaumcraft:cluster - 6
+
+
+clusterCopper
+thaumcraft:cluster - 2
+
+
+clusterCupronickel
+
+
+clusterElectrum
+
+
+clusterElectrumFlux
+
+
+clusterElementium
+
+
+clusterEnderium
+
+
+clusterGlass
+
+
+clusterGlass.black
+
+
+clusterGlass.blue
+
+
+clusterGlass.brown
+
+
+clusterGlass.cyan
+
+
+clusterGlass.gray
+
+
+clusterGlass.green
+
+
+clusterGlass.light_blue
+
+
+clusterGlass.lime
+
+
+clusterGlass.magenta
+
+
+clusterGlass.orange
+
+
+clusterGlass.pink
+
+
+clusterGlass.purple
+
+
+clusterGlass.red
+
+
+clusterGlass.silver
+
+
+clusterGlass.white
+
+
+clusterGlass.yellow
+
+
+clusterGold
+thaumcraft:cluster - 1
+
+
+clusterIgnis
+
+
+clusterInvar
+
+
+clusterIron
+thaumcraft:cluster - 0
+
+
+clusterKanthal
+
+
+clusterLead
+thaumcraft:cluster - 5
+
+
+clusterLumium
+
+
+clusterManasteel
+
+
+clusterManganese
+
+
+clusterMithril
+
+
+clusterNichrome
+
+
+clusterNickel
+
+
+clusterOrdo
+
+
+clusterPerditio
+
+
+clusterPlatinum
+
+
+clusterPotentia
+
+
+clusterPrimal
+
+
+clusterRedAlloy
+
+
+clusterRedstone
+
+
+clusterRubber
+
+
+clusterSignalum
+
+
+clusterSilver
+thaumcraft:cluster - 4
+
+
+clusterStainlessSteel
+
+
+clusterSteel
+
+
+clusterTerra
+
+
+clusterTerrasteel
+
+
+clusterThaumium
+
+
+clusterTin
+thaumcraft:cluster - 3
+
+
+clusterTitanium
+
+
+clusterVacous
+
+
+clusterVictus
+
+
+clusterVoid
+
+
+clusterZinc
+
+
+coal
+minecraft:coal - 0
+
+
+cobblestone
+minecraft:cobblestone - 0
+thaumicbases:oldCobble - 0
+thaumicbases:oldCobbleMossy - 0
+
+
+compass
+
+
+crafterWood
+minecraft:crafting_table - 0
+
+
+craftingGrinder
+techreborn:part - 8
+techreborn:part - 10
+
+
+craftingPiston
+minecraft:piston - 0
+minecraft:sticky_piston - 0
+
+
+craftingSuperconductor
+techreborn:part - 25
+
+
+craftingTableWood
+minecraft:crafting_table - 0
+
+
+cropCanola
+actuallyadditions:itemMisc - 13
+
+
+cropCarrot
+minecraft:carrot - 0
+
+
+cropCoffee
+actuallyadditions:itemCoffeeBeans - 0
+
+
+cropFlax
+minecraft:string - 0
+
+
+cropPeach
+biomesoplenty:peach - 0
+
+
+cropPear
+biomesoplenty:pear - 0
+
+
+cropPersimmon
+biomesoplenty:persimmon - 0
+
+
+cropPotato
+minecraft:potato - 0
+
+
+cropRice
+actuallyadditions:itemFood - 16
+
+
+cropTurnip
+biomesoplenty:turnip - 0
+
+
+cropVine
+minecraft:vine - 0
+
+
+cropWheat
+minecraft:wheat - 0
+
+
+cropWildcarrots
+biomesoplenty:wildcarrots - 0
+
+
+crushedAdamantine
+
+
+crushedAlduorite
+
+
+crushedAluminium
+techreborn:crushedore - 0
+
+
+crushedAluminum
+techreborn:crushedore - 0
+
+
+crushedAmethyst
+
+
+crushedAmordrine
+
+
+crushedAngmallen
+
+
+crushedArdite
+techreborn:crushedore - 1
+
+
+crushedAstralSilver
+
+
+crushedAtlarus
+
+
+crushedBauxite
+techreborn:crushedore - 2
+
+
+crushedBlackSteel
+
+
+crushedBrass
+
+
+crushedBronze
+
+
+crushedCadmium
+techreborn:crushedore - 3
+
+
+crushedCarbon
+
+
+crushedCarmot
+
+
+crushedCelenegil
+
+
+crushedCeruclase
+
+
+crushedChromium
+
+
+crushedCinnabar
+techreborn:crushedore - 4
+
+
+crushedCobalt
+techreborn:crushedore - 5
+
+
+crushedCobaltite
+
+
+crushedCopper
+
+
+crushedCupronickel
+
+
+crushedDamascusSteel
+
+
+crushedDarkIron
+techreborn:crushedore - 6
+
+
+crushedDeepIron
+
+
+crushedDesichalkos
+
+
+crushedDiamond
+
+
+crushedElectrum
+
+
+crushedEmerald
+
+
+crushedEndstone
+
+
+crushedEximite
+
+
+crushedGalena
+techreborn:crushedore - 16
+
+
+crushedGlowstone
+
+
+crushedGold
+
+
+crushedGreenSapphire
+
+
+crushedGunpowder
+
+
+crushedHaderoth
+
+
+crushedHepatizon
+
+
+crushedIgnatius
+
+
+crushedIndium
+techreborn:crushedore - 7
+
+
+crushedInfuscolium
+
+
+crushedInolashite
+
+
+crushedInvar
+
+
+crushedIridium
+techreborn:crushedore - 8
+
+
+crushedIron
+
+
+crushedIronwood
+
+
+crushedKalendrite
+
+
+crushedKanthal
+
+
+crushedKnightmetal
+
+
+crushedLead
+
+
+crushedLemurite
+
+
+crushedManganese
+
+
+crushedMeutoite
+
+
+crushedMidasium
+
+
+crushedNetherrack
+
+
+crushedNichrome
+
+
+crushedNickel
+techreborn:crushedore - 9
+
+
+crushedObsidian
+
+
+crushedOlivine
+
+
+crushedOrichalcum
+
+
+crushedOsmium
+techreborn:crushedore - 10
+
+
+crushedOureclase
+
+
+crushedPlatinum
+techreborn:crushedore - 11
+
+
+crushedPrometheum
+
+
+crushedPurifiedAdamantine
+
+
+crushedPurifiedAlduorite
+
+
+crushedPurifiedAluminium
+techreborn:purifiedCrushedOre - 0
+
+
+crushedPurifiedAluminum
+techreborn:purifiedCrushedOre - 0
+
+
+crushedPurifiedAmethyst
+
+
+crushedPurifiedAmordrine
+
+
+crushedPurifiedAngmallen
+
+
+crushedPurifiedArdite
+techreborn:purifiedCrushedOre - 1
+
+
+crushedPurifiedAstralSilver
+
+
+crushedPurifiedAtlarus
+
+
+crushedPurifiedBauxite
+techreborn:purifiedCrushedOre - 2
+
+
+crushedPurifiedBlackSteel
+
+
+crushedPurifiedBrass
+
+
+crushedPurifiedBronze
+
+
+crushedPurifiedCadmium
+techreborn:purifiedCrushedOre - 3
+
+
+crushedPurifiedCarbon
+
+
+crushedPurifiedCarmot
+
+
+crushedPurifiedCelenegil
+
+
+crushedPurifiedCeruclase
+
+
+crushedPurifiedChromium
+
+
+crushedPurifiedCinnabar
+techreborn:purifiedCrushedOre - 4
+
+
+crushedPurifiedCobalt
+techreborn:purifiedCrushedOre - 5
+
+
+crushedPurifiedCobaltite
+
+
+crushedPurifiedCopper
+
+
+crushedPurifiedCupronickel
+
+
+crushedPurifiedDamascusSteel
+
+
+crushedPurifiedDarkIron
+techreborn:purifiedCrushedOre - 6
+
+
+crushedPurifiedDeepIron
+
+
+crushedPurifiedDesichalkos
+
+
+crushedPurifiedDiamond
+
+
+crushedPurifiedElectrum
+
+
+crushedPurifiedEmerald
+
+
+crushedPurifiedEndstone
+
+
+crushedPurifiedEximite
+
+
+crushedPurifiedGalena
+techreborn:purifiedCrushedOre - 16
+
+
+crushedPurifiedGlowstone
+
+
+crushedPurifiedGold
+
+
+crushedPurifiedGreenSapphire
+
+
+crushedPurifiedGunpowder
+
+
+crushedPurifiedHaderoth
+
+
+crushedPurifiedHepatizon
+
+
+crushedPurifiedIgnatius
+
+
+crushedPurifiedIndium
+techreborn:purifiedCrushedOre - 7
+
+
+crushedPurifiedInfuscolium
+
+
+crushedPurifiedInolashite
+
+
+crushedPurifiedInvar
+
+
+crushedPurifiedIridium
+techreborn:purifiedCrushedOre - 8
+
+
+crushedPurifiedIron
+
+
+crushedPurifiedIronwood
+
+
+crushedPurifiedKalendrite
+
+
+crushedPurifiedKanthal
+
+
+crushedPurifiedKnightmetal
+
+
+crushedPurifiedLead
+
+
+crushedPurifiedLemurite
+
+
+crushedPurifiedManganese
+
+
+crushedPurifiedMeutoite
+
+
+crushedPurifiedMidasium
+
+
+crushedPurifiedNetherrack
+
+
+crushedPurifiedNichrome
+
+
+crushedPurifiedNickel
+techreborn:purifiedCrushedOre - 9
+
+
+crushedPurifiedObsidian
+
+
+crushedPurifiedOlivine
+
+
+crushedPurifiedOrichalcum
+
+
+crushedPurifiedOsmium
+techreborn:purifiedCrushedOre - 10
+
+
+crushedPurifiedOureclase
+
+
+crushedPurifiedPlatinum
+techreborn:purifiedCrushedOre - 11
+
+
+crushedPurifiedPrometheum
+
+
+crushedPurifiedPyrite
+techreborn:purifiedCrushedOre - 12
+
+
+crushedPurifiedQuicksilver
+
+
+crushedPurifiedRedAlloy
+
+
+crushedPurifiedRedstone
+
+
+crushedPurifiedRubber
+
+
+crushedPurifiedRubracium
+
+
+crushedPurifiedRuby
+
+
+crushedPurifiedSanguinite
+
+
+crushedPurifiedSapphire
+
+
+crushedPurifiedShadowIron
+
+
+crushedPurifiedShadowSteel
+
+
+crushedPurifiedSilver
+
+
+crushedPurifiedSphalerite
+techreborn:purifiedCrushedOre - 13
+
+
+crushedPurifiedStainlessSteel
+
+
+crushedPurifiedSteel
+
+
+crushedPurifiedSteeleaf
+
+
+crushedPurifiedStone
+
+
+crushedPurifiedTartarite
+
+
+crushedPurifiedTetrahedrite
+techreborn:purifiedCrushedOre - 14
+
+
+crushedPurifiedThaumium
+
+
+crushedPurifiedTin
+
+
+crushedPurifiedTitanium
+
+
+crushedPurifiedTopaz
+
+
+crushedPurifiedTungsten
+techreborn:purifiedCrushedOre - 15
+
+
+crushedPurifiedUranium
+
+
+crushedPurifiedVoidmetal
+
+
+crushedPurifiedVulcanite
+
+
+crushedPurifiedVyroxeres
+
+
+crushedPurifiedWood
+
+
+crushedPurifiedZinc
+
+
+crushedPyrite
+techreborn:crushedore - 12
+
+
+crushedQuicksilver
+
+
+crushedRedAlloy
+
+
+crushedRedstone
+
+
+crushedRubber
+
+
+crushedRubracium
+
+
+crushedRuby
+
+
+crushedSanguinite
+
+
+crushedSapphire
+
+
+crushedShadowIron
+
+
+crushedShadowSteel
+
+
+crushedSilver
+
+
+crushedSphalerite
+techreborn:crushedore - 13
+
+
+crushedStainlessSteel
+
+
+crushedSteel
+
+
+crushedSteeleaf
+
+
+crushedStone
+
+
+crushedTartarite
+
+
+crushedTetrahedrite
+techreborn:crushedore - 14
+
+
+crushedThaumium
+
+
+crushedTin
+
+
+crushedTitanium
+
+
+crushedTopaz
+
+
+crushedTungsten
+techreborn:crushedore - 15
+
+
+crushedUranium
+
+
+crushedVoidmetal
+
+
+crushedVulcanite
+
+
+crushedVyroxeres
+
+
+crushedWood
+
+
+crushedZinc
+
+
+crystalRedstone
+buildcraft|silicon:redstoneCrystal - 0
+
+
+daylightDetector
+
+
+diamond
+
+
+dirt
+minecraft:dirt - 0
+minecraft:dirt - any
+
+
+dispenser
+
+
+drawerBasic
+storagedrawers:basicDrawers - any
+
+
+dreamwood
+botania:dreamwood - 0
+
+
+dreamwoodTwig
+botania:manaResource - 13
+
+
+dropper
+
+
+dustAdamantine
+
+
+dustAer
+
+
+dustAlduorite
+
+
+dustAlmandine
+techreborn:dust - 0
+
+
+dustAluminium
+techreborn:dust - 2
+
+
+dustAluminum
+foundry:foundryDust - 11
+techreborn:dust - 2
+
+
+dustAluminumBrass
+techreborn:dust - 1
+
+
+dustAlumite
+techreborn:dust - 3
+
+
+dustAmber
+
+
+dustAmethyst
+
+
+dustAmordrine
+
+
+dustAndradite
+techreborn:dust - 4
+
+
+dustAngmallen
+
+
+dustAntimony
+techreborn:dust - 5
+
+
+dustApatite
+
+
+dustAqua
+
+
+dustArdite
+techreborn:dust - 6
+
+
+dustAsh
+techreborn:dust - 7
+
+
+dustAstralSilver
+
+
+dustAtlarus
+
+
+dustBasalt
+techreborn:dust - 8
+
+
+dustBatteryAlloy
+
+
+dustBauxite
+techreborn:dust - 9
+
+
+dustBiotite
+techreborn:dust - 10
+
+
+dustBlackSteel
+
+
+dustBlaze
+
+
+dustBlueAlloy
+
+
+dustBrass
+foundry:foundryDust - 7
+foundry:foundryComponent - 19
+sem:normaleitems - 8
+techreborn:dust - 11
+
+
+dustBrickSeared
+
+
+dustBricknether
+
+
+dustBrickseared
+
+
+dustBronze
+foundry:foundryDust - 2
+neotech:dustBronze - 0
+sem:normaleitems - 28
+techreborn:dust - 12
+
+
+dustCactus
+
+
+dustCadmium
+techreborn:dust - 13
+
+
+dustCalcite
+techreborn:dust - 14
+
+
+dustCarbon
+
+
+dustCarmot
+
+
+dustCelenegil
+
+
+dustCertusQuartz
+
+
+dustCeruclase
+
+
+dustCharcoal
+techreborn:dust - 15
+
+
+dustChargedCertusQuartz
+
+
+dustChrome
+techreborn:dust - 16
+
+
+dustChromium
+foundry:foundryDust - 12
+
+
+dustCinnabar
+techreborn:dust - 17
+
+
+dustClay
+techreborn:dust - 18
+
+
+dustCoal
+actuallyadditions:itemDust - 6
+techreborn:dust - 19
+
+
+dustCobalt
+techreborn:dust - 20
+
+
+dustCobaltite
+
+
+dustConductiveIron
+
+
+dustCopper
+foundry:foundryDust - 0
+neotech:dustCopper - 0
+sem:normaleitems - 31
+techreborn:dust - 21
+
+
+dustCrystalcluster
+
+
+dustCupronickel
+foundry:foundryDust - 16
+foundry:foundryComponent - 20
+techreborn:dust - 22
+
+
+dustDamascusSteel
+
+
+dustDarkAsh
+techreborn:dust - 23
+
+
+dustDarkIron
+techreborn:dust - 24
+
+
+dustDeepIron
+
+
+dustDesichalkos
+
+
+dustDevilsIron
+sem:normaleitems - 32
+
+
+dustDevilsiron
+
+
+dustDiamond
+actuallyadditions:itemDust - 2
+techreborn:dust - 25
+
+
+dustElectrum
+foundry:foundryDust - 3
+techreborn:dust - 26
+
+
+dustElectrumFlux
+
+
+dustElementium
+
+
+dustElvenElementium
+
+
+dustElvenelementium
+
+
+dustEmerald
+actuallyadditions:itemDust - 3
+techreborn:dust - 27
+
+
+dustEnderEye
+techreborn:dust - 28
+
+
+dustEnderPearl
+techreborn:dust - 29
+
+
+dustEnderium
+
+
+dustEndstone
+techreborn:dust - 30
+
+
+dustEnergeticAlloy
+
+
+dustEssence
+
+
+dustEximite
+
+
+dustFlint
+techreborn:dust - 31
+
+
+dustFlour
+sem:normaleitems - 24
+
+
+dustGaianite
+
+
+dustGalena
+techreborn:dust - 32
+
+
+dustGlass
+glass_shards:glass_shards - any
+
+
+dustGlassBlack
+glass_shards:glass_shards - 15
+
+
+dustGlassBlue
+glass_shards:glass_shards - 11
+
+
+dustGlassBrown
+glass_shards:glass_shards - 12
+
+
+dustGlassCyan
+glass_shards:glass_shards - 9
+
+
+dustGlassGray
+glass_shards:glass_shards - 7
+
+
+dustGlassGreen
+glass_shards:glass_shards - 13
+
+
+dustGlassLightBlue
+glass_shards:glass_shards - 3
+
+
+dustGlassLightGray
+glass_shards:glass_shards - 8
+
+
+dustGlassLime
+glass_shards:glass_shards - 5
+
+
+dustGlassMagenta
+glass_shards:glass_shards - 2
+
+
+dustGlassOrange
+glass_shards:glass_shards - 1
+
+
+dustGlassPink
+glass_shards:glass_shards - 6
+
+
+dustGlassPurple
+glass_shards:glass_shards - 10
+
+
+dustGlassRed
+glass_shards:glass_shards - 14
+
+
+dustGlassWhite
+glass_shards:glass_shards - 0
+
+
+dustGlassYellow
+glass_shards:glass_shards - 4
+
+
+dustGlassblack
+
+
+dustGlassblue
+
+
+dustGlassbrown
+
+
+dustGlasscolorless
+
+
+dustGlasscyan
+
+
+dustGlassgray
+
+
+dustGlassgreen
+
+
+dustGlasslightblue
+
+
+dustGlasslightgray
+
+
+dustGlasslime
+
+
+dustGlassmagenta
+
+
+dustGlassorange
+
+
+dustGlasspink
+
+
+dustGlasspurple
+
+
+dustGlassred
+
+
+dustGlasswhite
+
+
+dustGlassyellow
+
+
+dustGlowstone
+minecraft:glowstone_dust - 0
+
+
+dustGold
+foundry:foundryDust - 18
+neotech:dustGold - 0
+sem:normaleitems - 7
+actuallyadditions:itemDust - 1
+techreborn:dust - 33
+crisscross:dust - 1
+
+
+dustGraphite
+techreborn:dust - 34
+
+
+dustGreenSapphire
+
+
+dustGrossular
+techreborn:dust - 35
+
+
+dustGunpowder
+
+
+dustHaderoth
+
+
+dustHepatizon
+
+
+dustHotTungstenSteel
+
+
+dustIgnatius
+
+
+dustIgnis
+
+
+dustIndium
+techreborn:dust - 36
+
+
+dustInfuscolium
+
+
+dustInolashite
+
+
+dustInvar
+foundry:foundryDust - 4
+techreborn:dust - 37
+
+
+dustIridium
+techreborn:dust - 38
+
+
+dustIridium_reinforced_stone
+
+
+dustIridium_reinforced_tungstensteel
+
+
+dustIron
+foundry:foundryDust - 17
+neotech:dustIron - 0
+sem:normaleitems - 6
+actuallyadditions:itemDust - 0
+techreborn:dust - 39
+crisscross:dust - 0
+
+
+dustIronwood
+
+
+dustKalendrite
+
+
+dustKanthal
+techreborn:dust - 40
+
+
+dustKnightmetal
+
+
+dustKnightslime
+
+
+dustLapis
+actuallyadditions:itemDust - 4
+techreborn:dust - 41
+
+
+dustLazurite
+techreborn:dust - 42
+
+
+dustLead
+foundry:foundryDust - 10
+techreborn:dust - 43
+
+
+dustLemurite
+
+
+dustLimestone
+techreborn:dust - 44
+
+
+dustLodestone
+techreborn:dust - 45
+
+
+dustLumium
+
+
+dustMagnalium
+
+
+dustMagnesium
+techreborn:dust - 46
+
+
+dustMagnetite
+techreborn:dust - 47
+
+
+dustMalachite
+
+
+dustManasteel
+
+
+dustManganese
+foundry:foundryDust - 14
+techreborn:dust - 48
+
+
+dustManyullyn
+techreborn:dust - 49
+
+
+dustMarble
+techreborn:dust - 50
+
+
+dustMeatraw
+
+
+dustMetal
+
+
+dustMeutoite
+
+
+dustMidasium
+
+
+dustMithril
+techreborn:dust - 51
+
+
+dustNetherQuartz
+
+
+dustNetherrack
+techreborn:dust - 52
+
+
+dustNichrome
+techreborn:dust - 53
+
+
+dustNickel
+foundry:foundryDust - 5
+techreborn:dust - 54
+
+
+dustObsidian
+sem:normaleitems - 9
+techreborn:dust - 55
+
+
+dustOlivine
+techreborn:dust - 88
+
+
+dustOrdo
+
+
+dustOrichalcum
+
+
+dustOsmium
+techreborn:dust - 56
+
+
+dustOureclase
+
+
+dustPerditio
+
+
+dustPeridot
+techreborn:dust - 57
+
+
+dustPhasedIron
+
+
+dustPhosphorous
+techreborn:dust - 58
+
+
+dustPigiron
+
+
+dustPlatinum
+foundry:foundryDust - 13
+techreborn:dust - 59
+
+
+dustPotassiumFeldspar
+techreborn:dust - 60
+
+
+dustPotentia
+
+
+dustPrimal
+
+
+dustPrismarine
+
+
+dustPrometheum
+
+
+dustPurpleAlloy
+
+
+dustPyrite
+techreborn:dust - 61
+
+
+dustPyrope
+techreborn:dust - 62
+
+
+dustQuartz
+actuallyadditions:itemDust - 5
+
+
+dustQuartzBlack
+actuallyadditions:itemDust - 7
+
+
+dustQuartzblack
+
+
+dustQuicksilver
+
+
+dustRedAlloy
+
+
+dustRedGarnet
+techreborn:dust - 63
+
+
+dustRedrock
+techreborn:dust - 64
+
+
+dustRedstone
+minecraft:redstone - 0
+
+
+dustRedstoneAlloy
+
+
+dustRefinedIron
+
+
+dustRubber
+
+
+dustRubracium
+
+
+dustRuby
+techreborn:dust - 65
+
+
+dustSalismundus
+
+
+dustSalt
+sem:normaleitems - 22
+
+
+dustSaltpeter
+techreborn:dust - 66
+
+
+dustSanguinite
+
+
+dustSapphire
+techreborn:dust - 67
+
+
+dustSeared
+
+
+dustShadowIron
+
+
+dustShadowSteel
+
+
+dustSheldonite
+
+
+dustSignalum
+
+
+dustSilicon
+techreborn:dust - 69
+
+
+dustSilver
+foundry:foundryDust - 8
+techreborn:dust - 70
+
+
+dustSkyrite
+
+
+dustSlime
+
+
+dustSlimecongealed
+
+
+dustSlimedirt
+
+
+dustSlimegrass
+
+
+dustSmallAdamantine
+
+
+dustSmallAlduorite
+
+
+dustSmallAlmandine
+techreborn:smallDust - 0
+
+
+dustSmallAluminium
+techreborn:smallDust - 2
+
+
+dustSmallAluminum
+techreborn:smallDust - 2
+
+
+dustSmallAluminumBrass
+techreborn:smallDust - 1
+
+
+dustSmallAlumite
+techreborn:smallDust - 3
+
+
+dustSmallAmethyst
+
+
+dustSmallAmordrine
+
+
+dustSmallAndradite
+techreborn:smallDust - 4
+
+
+dustSmallAngmallen
+
+
+dustSmallAntimony
+techreborn:smallDust - 5
+
+
+dustSmallArdite
+techreborn:smallDust - 6
+
+
+dustSmallAsh
+techreborn:smallDust - 7
+
+
+dustSmallAstralSilver
+
+
+dustSmallAtlarus
+
+
+dustSmallBasalt
+techreborn:smallDust - 8
+
+
+dustSmallBauxite
+techreborn:smallDust - 9
+
+
+dustSmallBiotite
+techreborn:smallDust - 10
+
+
+dustSmallBlackSteel
+
+
+dustSmallBlaze
+foundry:foundryComponent - 13
+
+
+dustSmallBrass
+techreborn:smallDust - 11
+
+
+dustSmallBronze
+techreborn:smallDust - 12
+
+
+dustSmallCadmium
+techreborn:smallDust - 13
+
+
+dustSmallCalcite
+techreborn:smallDust - 14
+
+
+dustSmallCarbon
+
+
+dustSmallCarmot
+
+
+dustSmallCelenegil
+
+
+dustSmallCeruclase
+
+
+dustSmallCharcoal
+techreborn:smallDust - 15
+
+
+dustSmallChrome
+techreborn:smallDust - 16
+
+
+dustSmallChromium
+
+
+dustSmallCinnabar
+techreborn:smallDust - 17
+
+
+dustSmallClay
+techreborn:smallDust - 18
+
+
+dustSmallCoal
+techreborn:smallDust - 19
+
+
+dustSmallCobalt
+techreborn:smallDust - 20
+
+
+dustSmallCobaltite
+
+
+dustSmallCopper
+techreborn:smallDust - 21
+
+
+dustSmallCupronickel
+techreborn:smallDust - 22
+
+
+dustSmallDamascusSteel
+
+
+dustSmallDarkAsh
+techreborn:smallDust - 23
+
+
+dustSmallDarkIron
+techreborn:smallDust - 24
+
+
+dustSmallDeepIron
+
+
+dustSmallDesichalkos
+
+
+dustSmallDiamond
+techreborn:smallDust - 25
+
+
+dustSmallElectrum
+techreborn:smallDust - 26
+
+
+dustSmallEmerald
+techreborn:smallDust - 27
+
+
+dustSmallEnderEye
+techreborn:smallDust - 28
+
+
+dustSmallEnderPearl
+techreborn:smallDust - 29
+
+
+dustSmallEndstone
+techreborn:smallDust - 30
+
+
+dustSmallEximite
+
+
+dustSmallFlint
+techreborn:smallDust - 31
+
+
+dustSmallGalena
+techreborn:smallDust - 88
+
+
+dustSmallGlowstone
+techreborn:smallDust - 32
+
+
+dustSmallGold
+techreborn:smallDust - 33
+
+
+dustSmallGraphite
+techreborn:smallDust - 34
+
+
+dustSmallGreenSapphire
+
+
+dustSmallGrossular
+techreborn:smallDust - 35
+
+
+dustSmallGunpowder
+foundry:foundryComponent - 12
+techreborn:smallDust - 36
+
+
+dustSmallHaderoth
+
+
+dustSmallHepatizon
+
+
+dustSmallIgnatius
+
+
+dustSmallIndium
+techreborn:smallDust - 37
+
+
+dustSmallInfuscolium
+
+
+dustSmallInolashite
+
+
+dustSmallInvar
+techreborn:smallDust - 38
+
+
+dustSmallIridium
+techreborn:smallDust - 39
+
+
+dustSmallIron
+techreborn:smallDust - 40
+
+
+dustSmallIronwood
+
+
+dustSmallKalendrite
+
+
+dustSmallKanthal
+techreborn:smallDust - 41
+
+
+dustSmallKnightmetal
+
+
+dustSmallLapis
+techreborn:smallDust - 42
+
+
+dustSmallLazurite
+techreborn:smallDust - 43
+
+
+dustSmallLead
+techreborn:smallDust - 44
+
+
+dustSmallLemurite
+
+
+dustSmallLimestone
+techreborn:smallDust - 45
+
+
+dustSmallLodestone
+techreborn:smallDust - 46
+
+
+dustSmallMagnesium
+techreborn:smallDust - 47
+
+
+dustSmallMagnetite
+techreborn:smallDust - 48
+
+
+dustSmallManganese
+techreborn:smallDust - 49
+
+
+dustSmallManyullyn
+techreborn:smallDust - 50
+
+
+dustSmallMarble
+techreborn:smallDust - 51
+
+
+dustSmallMeutoite
+
+
+dustSmallMidasium
+
+
+dustSmallMithril
+techreborn:smallDust - 52
+
+
+dustSmallNetherrack
+techreborn:smallDust - 53
+
+
+dustSmallNichrome
+techreborn:smallDust - 54
+
+
+dustSmallNickel
+techreborn:smallDust - 55
+
+
+dustSmallObsidian
+techreborn:smallDust - 56
+
+
+dustSmallOlivine
+techreborn:smallDust - 89
+
+
+dustSmallOrichalcum
+
+
+dustSmallOsmium
+techreborn:smallDust - 57
+
+
+dustSmallOureclase
+
+
+dustSmallPeridot
+techreborn:smallDust - 58
+
+
+dustSmallPhosphorous
+techreborn:smallDust - 59
+
+
+dustSmallPlatinum
+techreborn:smallDust - 60
+
+
+dustSmallPotassiumFeldspar
+techreborn:smallDust - 61
+
+
+dustSmallPrometheum
+
+
+dustSmallPyrite
+techreborn:smallDust - 62
+
+
+dustSmallPyrope
+techreborn:smallDust - 63
+
+
+dustSmallQuicksilver
+
+
+dustSmallRedAlloy
+
+
+dustSmallRedGarnet
+techreborn:smallDust - 64
+
+
+dustSmallRedrock
+techreborn:smallDust - 65
+
+
+dustSmallRedstone
+techreborn:smallDust - 66
+
+
+dustSmallRubber
+
+
+dustSmallRubracium
+
+
+dustSmallRuby
+techreborn:smallDust - 67
+
+
+dustSmallSaltpeter
+techreborn:smallDust - 68
+
+
+dustSmallSanguinite
+
+
+dustSmallSapphire
+techreborn:smallDust - 69
+
+
+dustSmallShadowIron
+
+
+dustSmallShadowSteel
+
+
+dustSmallSilicon
+techreborn:smallDust - 70
+
+
+dustSmallSilver
+techreborn:smallDust - 71
+
+
+dustSmallSodalite
+techreborn:smallDust - 72
+
+
+dustSmallSpessartine
+techreborn:smallDust - 73
+
+
+dustSmallSphalerite
+techreborn:smallDust - 74
+
+
+dustSmallStainlessSteel
+
+
+dustSmallSteel
+techreborn:smallDust - 75
+
+
+dustSmallSteeleaf
+
+
+dustSmallStone
+
+
+dustSmallSulfur
+techreborn:smallDust - 76
+
+
+dustSmallTartarite
+
+
+dustSmallTellurium
+techreborn:smallDust - 77
+
+
+dustSmallTeslatite
+techreborn:smallDust - 78
+
+
+dustSmallTetrahedrite
+techreborn:smallDust - 79
+
+
+dustSmallThaumium
+
+
+dustSmallTin
+techreborn:smallDust - 80
+
+
+dustSmallTitanium
+techreborn:smallDust - 81
+
+
+dustSmallTopaz
+
+
+dustSmallTungsten
+techreborn:smallDust - 82
+
+
+dustSmallUranium
+
+
+dustSmallUvarovite
+techreborn:smallDust - 83
+
+
+dustSmallVinteum
+techreborn:smallDust - 84
+
+
+dustSmallVoidmetal
+
+
+dustSmallVoidstone
+techreborn:smallDust - 85
+
+
+dustSmallVulcanite
+
+
+dustSmallVyroxeres
+
+
+dustSmallWood
+
+
+dustSmallYellowGarnet
+techreborn:smallDust - 86
+
+
+dustSmallZinc
+techreborn:smallDust - 87
+
+
+dustSmallblaze
+
+
+dustSmallgunpowder
+
+
+dustSodalite
+techreborn:dust - 71
+
+
+dustSoularium
+
+
+dustSpessartine
+techreborn:dust - 72
+
+
+dustSphalerite
+techreborn:dust - 73
+
+
+dustStainlessSteel
+
+
+dustSteel
+foundry:foundryDust - 9
+techreborn:dust - 74
+
+
+dustSteeleaf
+
+
+dustStone
+
+
+dustSulfur
+sem:normaleitems - 34
+techreborn:dust - 75
+
+
+dustTanzanite
+
+
+dustTartarite
+
+
+dustTellurium
+techreborn:dust - 76
+
+
+dustTerra
+
+
+dustTerrasteel
+
+
+dustTeslatite
+techreborn:dust - 77
+
+
+dustTetrahedrite
+techreborn:dust - 78
+
+
+dustThauminite
+
+
+dustThaumium
+
+
+dustTin
+foundry:foundryDust - 1
+neotech:dustTin - 0
+sem:normaleitems - 29
+techreborn:dust - 79
+
+
+dustTinyAdamantine
+
+
+dustTinyAlduorite
+
+
+dustTinyAluminum
+
+
+dustTinyAmethyst
+
+
+dustTinyAmordrine
+
+
+dustTinyAngmallen
+
+
+dustTinyAstralSilver
+
+
+dustTinyAtlarus
+
+
+dustTinyBlackSteel
+
+
+dustTinyBrass
+
+
+dustTinyBronze
+
+
+dustTinyCarbon
+
+
+dustTinyCarmot
+
+
+dustTinyCelenegil
+
+
+dustTinyCeruclase
+
+
+dustTinyChromium
+
+
+dustTinyCobalt
+
+
+dustTinyCobaltite
+
+
+dustTinyCopper
+
+
+dustTinyCupronickel
+
+
+dustTinyDamascusSteel
+
+
+dustTinyDeepIron
+
+
+dustTinyDesichalkos
+
+
+dustTinyDiamond
+
+
+dustTinyElectrum
+
+
+dustTinyEmerald
+
+
+dustTinyEndstone
+
+
+dustTinyEximite
+
+
+dustTinyGlowstone
+
+
+dustTinyGold
+
+
+dustTinyGreenSapphire
+
+
+dustTinyGunpowder
+
+
+dustTinyHaderoth
+
+
+dustTinyHepatizon
+
+
+dustTinyIgnatius
+
+
+dustTinyInfuscolium
+
+
+dustTinyInolashite
+
+
+dustTinyInvar
+
+
+dustTinyIron
+
+
+dustTinyIronwood
+
+
+dustTinyKalendrite
+
+
+dustTinyKanthal
+
+
+dustTinyKnightmetal
+
+
+dustTinyLead
+
+
+dustTinyLemurite
+
+
+dustTinyManganese
+
+
+dustTinyMeutoite
+
+
+dustTinyMidasium
+
+
+dustTinyNetherrack
+
+
+dustTinyNichrome
+
+
+dustTinyNickel
+
+
+dustTinyObsidian
+
+
+dustTinyOlivine
+
+
+dustTinyOrichalcum
+
+
+dustTinyOsmium
+
+
+dustTinyOureclase
+
+
+dustTinyPlatinum
+
+
+dustTinyPrometheum
+
+
+dustTinyQuicksilver
+
+
+dustTinyRedAlloy
+
+
+dustTinyRedstone
+
+
+dustTinyRubber
+
+
+dustTinyRubracium
+
+
+dustTinyRuby
+
+
+dustTinySanguinite
+
+
+dustTinySapphire
+
+
+dustTinyShadowIron
+
+
+dustTinyShadowSteel
+
+
+dustTinySilver
+
+
+dustTinyStainlessSteel
+
+
+dustTinySteel
+
+
+dustTinySteeleaf
+
+
+dustTinyStone
+
+
+dustTinyTartarite
+
+
+dustTinyThaumium
+
+
+dustTinyTin
+
+
+dustTinyTitanium
+
+
+dustTinyTopaz
+
+
+dustTinyTungsten
+
+
+dustTinyUranium
+
+
+dustTinyVoidmetal
+
+
+dustTinyVulcanite
+
+
+dustTinyVyroxeres
+
+
+dustTinyWood
+
+
+dustTinyZinc
+
+
+dustTitanium
+foundry:foundryDust - 15
+techreborn:dust - 80
+
+
+dustTopaz
+
+
+dustTungsten
+techreborn:dust - 81
+
+
+dustTungstensteel
+
+
+dustUranium
+
+
+dustUvarovite
+techreborn:dust - 82
+
+
+dustVacous
+
+
+dustVictus
+
+
+dustVinteum
+techreborn:dust - 83
+
+
+dustVoid
+
+
+dustVoidmetal
+
+
+dustVoidstone
+techreborn:dust - 84
+
+
+dustVulcanite
+
+
+dustVyroxeres
+
+
+dustWood
+
+
+dustYellowGarnet
+techreborn:dust - 85
+
+
+dustZinc
+foundry:foundryDust - 6
+foundry:foundryComponent - 18
+sem:normaleitems - 30
+techreborn:dust - 86
+
+
+dye
+minecraft:dye - any
+
+
+dyeBlack
+minecraft:dye - 0
+biomesoplenty:black_dye - 0
+botania:dye - 15
+actuallyadditions:itemMisc - 17
+charsettweaks:graphite - 0
+
+
+dyeBlue
+minecraft:dye - 4
+biomesoplenty:blue_dye - 0
+botania:dye - 11
+
+
+dyeBrown
+minecraft:dye - 3
+biomesoplenty:brown_dye - 0
+botania:dye - 12
+
+
+dyeCyan
+minecraft:dye - 6
+botania:dye - 9
+
+
+dyeGray
+minecraft:dye - 8
+botania:dye - 7
+
+
+dyeGreen
+minecraft:dye - 2
+biomesoplenty:green_dye - 0
+botania:dye - 13
+
+
+dyeLightBlue
+minecraft:dye - 12
+botania:dye - 3
+
+
+dyeLightGray
+minecraft:dye - 7
+botania:dye - 8
+
+
+dyeLime
+minecraft:dye - 10
+botania:dye - 5
+
+
+dyeMagenta
+minecraft:dye - 13
+botania:dye - 2
+
+
+dyeOrange
+minecraft:dye - 14
+botania:dye - 1
+
+
+dyePink
+minecraft:dye - 9
+botania:dye - 6
+
+
+dyePurple
+minecraft:dye - 5
+botania:dye - 10
+
+
+dyeRed
+minecraft:dye - 1
+botania:dye - 14
+
+
+dyeWhite
+minecraft:dye - 15
+biomesoplenty:white_dye - 0
+botania:dye - 0
+
+
+dyeYellow
+minecraft:dye - 11
+botania:dye - 4
+
+
+elvenDragonstone
+botania:manaResource - 9
+
+
+elvenPixieDust
+botania:manaResource - 8
+
+
+emerald
+
+
+eternalLifeEssence
+botania:manaResource - 5
+
+
+eyeOfEnder
+
+
+feather
+skyland:sky_feather - 0
+
+
+fenceGateWood
+biomesoplenty:sacred_oak_fence_gate - 0
+biomesoplenty:cherry_fence_gate - 0
+biomesoplenty:dark_fence_gate - 0
+biomesoplenty:fir_fence_gate - 0
+biomesoplenty:ethereal_fence_gate - 0
+biomesoplenty:magic_fence_gate - 0
+biomesoplenty:mangrove_fence_gate - 0
+biomesoplenty:palm_fence_gate - 0
+biomesoplenty:redwood_fence_gate - 0
+biomesoplenty:willow_fence_gate - 0
+biomesoplenty:pine_fence_gate - 0
+biomesoplenty:hellbark_fence_gate - 0
+biomesoplenty:jacaranda_fence_gate - 0
+biomesoplenty:mahogany_fence_gate - 0
+
+
+fenceIron
+
+
+fenceWood
+biomesoplenty:sacred_oak_fence - 0
+biomesoplenty:cherry_fence - 0
+biomesoplenty:dark_fence - 0
+biomesoplenty:fir_fence - 0
+biomesoplenty:ethereal_fence - 0
+biomesoplenty:magic_fence - 0
+biomesoplenty:mangrove_fence - 0
+biomesoplenty:palm_fence - 0
+biomesoplenty:redwood_fence - 0
+biomesoplenty:willow_fence - 0
+biomesoplenty:pine_fence - 0
+biomesoplenty:hellbark_fence - 0
+biomesoplenty:jacaranda_fence - 0
+biomesoplenty:mahogany_fence - 0
+
+
+fermentedSpiderEye
+
+
+flowerBlueHydrangea
+biomesoplenty:flower_0 - 4
+
+
+flowerBluebells
+biomesoplenty:flower_1 - 2
+
+
+flowerBromeliad
+biomesoplenty:flower_0 - 11
+
+
+flowerBurningBlossom
+biomesoplenty:flower_0 - 15
+
+
+flowerClover
+biomesoplenty:flower_0 - 0
+
+
+flowerDandelion
+biomesoplenty:flower_0 - 12
+
+
+flowerDeathbloom
+biomesoplenty:flower_0 - 2
+
+
+flowerEnderlotus
+biomesoplenty:flower_0 - 10
+
+
+flowerGlowflower
+biomesoplenty:flower_0 - 3
+
+
+flowerGoldenrod
+biomesoplenty:flower_1 - 1
+
+
+flowerIcyIris
+biomesoplenty:flower_1 - 4
+
+
+flowerLavender
+biomesoplenty:flower_1 - 0
+
+
+flowerLilyOfTheValley
+biomesoplenty:flower_0 - 14
+
+
+flowerMinersDelight
+biomesoplenty:flower_1 - 3
+
+
+flowerOrangeCosmos
+biomesoplenty:flower_0 - 5
+
+
+flowerPinkDaffodil
+biomesoplenty:flower_0 - 6
+
+
+flowerPinkHibiscus
+biomesoplenty:flower_0 - 13
+
+
+flowerRose
+biomesoplenty:flower_1 - 5
+
+
+flowerSwampflower
+biomesoplenty:flower_0 - 1
+
+
+flowerViolet
+biomesoplenty:flower_0 - 8
+
+
+flowerWhiteAnemone
+biomesoplenty:flower_0 - 9
+
+
+flowerWildflower
+biomesoplenty:flower_0 - 7
+
+
+foodAmbrosia
+biomesoplenty:ambrosia - 0
+
+
+foodBowlofrice
+biomesoplenty:ricebowl - 0
+
+
+foodFilledhoneycomb
+biomesoplenty:filled_honeycomb - 0
+
+
+foodFruitsalad
+biomesoplenty:saladfruit - 0
+
+
+foodMushroompowder
+biomesoplenty:shroompowder - 0
+
+
+foodMushroomsalad
+biomesoplenty:saladshroom - 0
+
+
+foodVeggiesalad
+biomesoplenty:saladveggie - 0
+
+
+gaiaIngot
+botania:manaResource - 14
+
+
+gearAdamantine
+
+
+gearAer
+
+
+gearAlduorite
+
+
+gearAluminum
+
+
+gearAmethyst
+
+
+gearAmordrine
+
+
+gearAngmallen
+
+
+gearAqua
+
+
+gearAstralSilver
+
+
+gearAtlarus
+
+
+gearBlackSteel
+
+
+gearBrass
+thaumcraft:gear - 0
+
+
+gearBronze
+
+
+gearCarbon
+
+
+gearCarmot
+
+
+gearCelenegil
+
+
+gearCeruclase
+
+
+gearChromium
+
+
+gearCobalt
+
+
+gearCobaltite
+
+
+gearCopper
+
+
+gearCupronickel
+
+
+gearDamascusSteel
+
+
+gearDeepIron
+
+
+gearDesichalkos
+
+
+gearDiamond
+buildcraft|core:diamondGearItem - 0
+
+
+gearElectrum
+
+
+gearElectrumFlux
+
+
+gearElementium
+
+
+gearEmerald
+
+
+gearEnderium
+
+
+gearEndstone
+
+
+gearEximite
+
+
+gearGlass
+
+
+gearGlass.black
+
+
+gearGlass.blue
+
+
+gearGlass.brown
+
+
+gearGlass.cyan
+
+
+gearGlass.gray
+
+
+gearGlass.green
+
+
+gearGlass.light_blue
+
+
+gearGlass.lime
+
+
+gearGlass.magenta
+
+
+gearGlass.orange
+
+
+gearGlass.pink
+
+
+gearGlass.purple
+
+
+gearGlass.red
+
+
+gearGlass.silver
+
+
+gearGlass.white
+
+
+gearGlass.yellow
+
+
+gearGlowstone
+
+
+gearGold
+buildcraft|core:goldGearItem - 0
+
+
+gearGreenSapphire
+
+
+gearGunpowder
+
+
+gearHaderoth
+
+
+gearHepatizon
+
+
+gearIgnatius
+
+
+gearIgnis
+
+
+gearInfuscolium
+
+
+gearInolashite
+
+
+gearInvar
+
+
+gearIron
+buildcraft|core:ironGearItem - 0
+
+
+gearIronwood
+
+
+gearKalendrite
+
+
+gearKanthal
+
+
+gearKnightmetal
+
+
+gearLead
+
+
+gearLemurite
+
+
+gearLumium
+
+
+gearManasteel
+
+
+gearManganese
+
+
+gearMeutoite
+
+
+gearMidasium
+
+
+gearMithril
+
+
+gearNetherrack
+
+
+gearNichrome
+
+
+gearNickel
+
+
+gearObsidian
+
+
+gearOlivine
+
+
+gearOrdo
+
+
+gearOrichalcum
+
+
+gearOsmium
+
+
+gearOureclase
+
+
+gearPerditio
+
+
+gearPlatinum
+
+
+gearPotentia
+
+
+gearPrimal
+
+
+gearPrometheum
+
+
+gearQuicksilver
+
+
+gearRedAlloy
+
+
+gearRedstone
+
+
+gearRubber
+
+
+gearRubracium
+
+
+gearRuby
+
+
+gearSanguinite
+
+
+gearSapphire
+
+
+gearShadowIron
+
+
+gearShadowSteel
+
+
+gearSignalum
+
+
+gearSilver
+
+
+gearStainlessSteel
+
+
+gearSteel
+
+
+gearSteeleaf
+
+
+gearStone
+buildcraft|core:stoneGearItem - 0
+
+
+gearTartarite
+
+
+gearTerra
+
+
+gearTerrasteel
+
+
+gearThaumium
+thaumcraft:gear - 1
+
+
+gearTin
+
+
+gearTitanium
+
+
+gearTopaz
+
+
+gearTungsten
+
+
+gearUranium
+
+
+gearVacous
+
+
+gearVictus
+
+
+gearVoid
+thaumcraft:gear - 2
+
+
+gearVoidmetal
+
+
+gearVulcanite
+
+
+gearVyroxeres
+
+
+gearWood
+buildcraft|core:woodenGearItem - 0
+
+
+gearZinc
+
+
+gemAdamantine
+
+
+gemAlduorite
+
+
+gemAluminum
+
+
+gemAmber
+biomesoplenty:gem - 7
+thaumcraft:amber - 0
+
+
+gemAmethyst
+
+
+gemAmordrine
+
+
+gemAngmallen
+
+
+gemApatite
+
+
+gemAstralSilver
+
+
+gemAtlarus
+
+
+gemBlackSteel
+
+
+gemBrass
+
+
+gemBronze
+
+
+gemCarbon
+
+
+gemCarmot
+
+
+gemCelenegil
+
+
+gemCeruclase
+
+
+gemChromium
+
+
+gemCobalt
+
+
+gemCobaltite
+
+
+gemCopper
+
+
+gemCupronickel
+
+
+gemDamascusSteel
+
+
+gemDeepIron
+
+
+gemDesichalkos
+
+
+gemDiamond
+minecraft:diamond - 0
+
+
+gemElectrum
+
+
+gemEmerald
+minecraft:emerald - 0
+
+
+gemEndstone
+
+
+gemEximite
+
+
+gemGlowstone
+
+
+gemGold
+
+
+gemGreenSapphire
+
+
+gemGunpowder
+
+
+gemHaderoth
+
+
+gemHepatizon
+
+
+gemIgnatius
+
+
+gemInfuscolium
+
+
+gemInolashite
+
+
+gemInvar
+
+
+gemIron
+
+
+gemIronwood
+
+
+gemKalendrite
+
+
+gemKanthal
+
+
+gemKnightmetal
+
+
+gemLapis
+minecraft:dye - 4
+
+
+gemLead
+
+
+gemLemurite
+
+
+gemMalachite
+biomesoplenty:gem - 5
+
+
+gemManganese
+
+
+gemMeutoite
+
+
+gemMidasium
+
+
+gemNetherrack
+
+
+gemNichrome
+
+
+gemNickel
+
+
+gemObsidian
+
+
+gemOlivine
+
+
+gemOrichalcum
+
+
+gemOsmium
+
+
+gemOureclase
+
+
+gemPeridot
+biomesoplenty:gem - 2
+techreborn:gem - 2
+
+
+gemPlatinum
+
+
+gemPrometheum
+
+
+gemQuartz
+minecraft:quartz - 0
+
+
+gemQuartzBlack
+actuallyadditions:itemMisc - 5
+
+
+gemQuicksilver
+
+
+gemRedAlloy
+
+
+gemRedGarnet
+techreborn:gem - 3
+
+
+gemRedstone
+
+
+gemRubber
+
+
+gemRubracium
+
+
+gemRuby
+biomesoplenty:gem - 1
+techreborn:gem - 0
+
+
+gemSanguinite
+
+
+gemSapphire
+biomesoplenty:gem - 6
+techreborn:gem - 1
+
+
+gemShadowIron
+
+
+gemShadowSteel
+
+
+gemSilver
+
+
+gemSkyrite
+skyland:skyrite - 0
+
+
+gemStainlessSteel
+
+
+gemSteel
+
+
+gemSteeleaf
+
+
+gemStone
+
+
+gemTanzanite
+biomesoplenty:gem - 4
+
+
+gemTartarite
+
+
+gemThaumium
+
+
+gemTin
+
+
+gemTitanium
+
+
+gemTopaz
+biomesoplenty:gem - 3
+
+
+gemTungsten
+
+
+gemUranium
+
+
+gemVoidmetal
+
+
+gemVulcanite
+
+
+gemVyroxeres
+
+
+gemWood
+
+
+gemYellowGarnet
+techreborn:gem - 4
+
+
+gemZinc
+
+
+glassBottle
+
+
+glowstone
+minecraft:glowstone - 0
+
+
+grass
+minecraft:grass - 0
+
+
+gravel
+minecraft:gravel - 0
+thaumicbases:oldGravel - 0
+
+
+hardenedClay
+minecraft:hardened_clay - any
+
+
+hideBuffalo
+totemic:buffaloItems - 0
+
+
+hoe
+skyland:skyrite_hoe - 0
+
+
+hoeSkyrite
+skyland:skyrite_hoe - 0
+
+
+hopper
+
+
+ice
+minecraft:ice - 0
+
+
+ingotAdamantine
+
+
+ingotAer
+
+
+ingotAlduorite
+
+
+ingotAluminium
+techreborn:ingot - 0
+
+
+ingotAluminum
+foundry:foundryIngot - 11
+techreborn:ingot - 0
+
+
+ingotAluminumBrass
+
+
+ingotAmber
+
+
+ingotAmethyst
+
+
+ingotAmordrine
+
+
+ingotAngmallen
+
+
+ingotAntimony
+techreborn:ingot - 1
+
+
+ingotAqua
+
+
+ingotArdite
+tconstruct:ingots - 1
+
+
+ingotAstralSilver
+
+
+ingotAtlarus
+
+
+ingotBatteryAlloy
+techreborn:ingot - 2
+
+
+ingotBlackSteel
+
+
+ingotBlaze
+
+
+ingotBlueAlloy
+techreborn:ingot - 4
+
+
+ingotBrass
+thaumcraft:ingot - 2
+foundry:foundryIngot - 7
+sem:normaleitems - 14
+techreborn:ingot - 5
+
+
+ingotBrick
+minecraft:brick - 0
+
+
+ingotBrickNether
+minecraft:netherbrick - 0
+
+
+ingotBrickSeared
+tconstruct:materials - 0
+
+
+ingotBricknether
+
+
+ingotBrickseared
+
+
+ingotBronze
+foundry:foundryIngot - 2
+neotech:ingotBronze - 0
+sem:normaleitems - 12
+techreborn:ingot - 6
+
+
+ingotCactus
+
+
+ingotCadmium
+techreborn:ingot - 7
+
+
+ingotCarbon
+
+
+ingotCarmot
+
+
+ingotCelenegil
+
+
+ingotCeruclase
+
+
+ingotChrome
+techreborn:ingot - 8
+
+
+ingotChromium
+foundry:foundryIngot - 12
+
+
+ingotCinnabar
+
+
+ingotCoal
+
+
+ingotCobalt
+tconstruct:ingots - 0
+
+
+ingotCobaltite
+
+
+ingotConductiveIron
+
+
+ingotCopper
+foundry:foundryIngot - 0
+neotech:ingotCopper - 0
+sem:normaleitems - 10
+techreborn:ingot - 9
+
+
+ingotCrystalcluster
+
+
+ingotCupronickel
+foundry:foundryIngot - 16
+techreborn:ingot - 10
+
+
+ingotDamascusSteel
+
+
+ingotDeepIron
+
+
+ingotDesichalkos
+
+
+ingotDevilsIron
+sem:normaleitems - 15
+
+
+ingotDevilsiron
+
+
+ingotDiamond
+
+
+ingotElectrum
+foundry:foundryIngot - 3
+techreborn:ingot - 11
+
+
+ingotElectrumFlux
+
+
+ingotElementium
+
+
+ingotElvenElementium
+botania:manaResource - 7
+
+
+ingotElvenelementium
+
+
+ingotEmerald
+
+
+ingotEnderium
+
+
+ingotEndstone
+
+
+ingotEnergeticAlloy
+
+
+ingotEssence
+
+
+ingotEximite
+
+
+ingotFlour
+
+
+ingotGlass
+
+
+ingotGlassblack
+
+
+ingotGlassblue
+
+
+ingotGlassbrown
+
+
+ingotGlasscolorless
+
+
+ingotGlasscyan
+
+
+ingotGlassgray
+
+
+ingotGlassgreen
+
+
+ingotGlasslightblue
+
+
+ingotGlasslightgray
+
+
+ingotGlasslime
+
+
+ingotGlassmagenta
+
+
+ingotGlassorange
+
+
+ingotGlasspink
+
+
+ingotGlasspurple
+
+
+ingotGlassred
+
+
+ingotGlasswhite
+
+
+ingotGlassyellow
+
+
+ingotGlowstone
+
+
+ingotGold
+minecraft:gold_ingot - 0
+
+
+ingotGreenSapphire
+
+
+ingotGunpowder
+
+
+ingotHaderoth
+
+
+ingotHepatizon
+
+
+ingotHotTungstenSteel
+techreborn:ingot - 29
+
+
+ingotIgnatius
+
+
+ingotIgnis
+
+
+ingotIndium
+techreborn:ingot - 12
+
+
+ingotInfuscolium
+
+
+ingotInolashite
+
+
+ingotInvar
+foundry:foundryIngot - 4
+techreborn:ingot - 13
+
+
+ingotIridium
+techreborn:ingot - 14
+
+
+ingotIridium_reinforced_stone
+
+
+ingotIridium_reinforced_tungstensteel
+
+
+ingotIron
+minecraft:iron_ingot - 0
+
+
+ingotIronwood
+
+
+ingotKalendrite
+
+
+ingotKanthal
+techreborn:ingot - 15
+
+
+ingotKnightmetal
+
+
+ingotKnightslime
+tconstruct:ingots - 3
+
+
+ingotLapis
+
+
+ingotLead
+foundry:foundryIngot - 10
+techreborn:ingot - 16
+
+
+ingotLemurite
+
+
+ingotLodestone
+techreborn:ingot - 17
+
+
+ingotLumium
+
+
+ingotMagnalium
+techreborn:ingot - 18
+
+
+ingotMalachite
+
+
+ingotManasteel
+botania:manaResource - 0
+
+
+ingotManganese
+foundry:foundryIngot - 14
+
+
+ingotManyullyn
+tconstruct:ingots - 2
+
+
+ingotMeatraw
+
+
+ingotMetal
+
+
+ingotMeutoite
+
+
+ingotMidasium
+
+
+ingotMithril
+
+
+ingotNetherrack
+
+
+ingotNichrome
+techreborn:ingot - 19
+
+
+ingotNickel
+foundry:foundryIngot - 5
+techreborn:ingot - 20
+
+
+ingotObsidian
+
+
+ingotOlivine
+
+
+ingotOrdo
+
+
+ingotOrichalcum
+
+
+ingotOsmium
+techreborn:ingot - 21
+
+
+ingotOureclase
+
+
+ingotPerditio
+
+
+ingotPeridot
+
+
+ingotPhasedIron
+
+
+ingotPigiron
+tconstruct:ingots - 4
+
+
+ingotPlatinum
+foundry:foundryIngot - 13
+techreborn:ingot - 22
+
+
+ingotPotentia
+
+
+ingotPrimal
+
+
+ingotPrismarine
+
+
+ingotPrometheum
+
+
+ingotPurpleAlloy
+
+
+ingotQuartz
+
+
+ingotQuartzblack
+
+
+ingotQuicksilver
+
+
+ingotRedAlloy
+techreborn:ingot - 3
+
+
+ingotRedGarnet
+
+
+ingotRedstone
+
+
+ingotRedstoneAlloy
+
+
+ingotRefinedIron
+
+
+ingotRubber
+
+
+ingotRubracium
+
+
+ingotRuby
+
+
+ingotSalismundus
+
+
+ingotSalt
+
+
+ingotSanguinite
+
+
+ingotSapphire
+
+
+ingotSeared
+
+
+ingotShadowIron
+
+
+ingotShadowSteel
+
+
+ingotSignalum
+
+
+ingotSilver
+foundry:foundryIngot - 8
+techreborn:ingot - 23
+
+
+ingotSkyrite
+
+
+ingotSlime
+
+
+ingotSlimecongealed
+
+
+ingotSlimedirt
+
+
+ingotSlimegrass
+
+
+ingotSmallblaze
+
+
+ingotSmallgunpowder
+
+
+ingotSoularium
+
+
+ingotStainlessSteel
+
+
+ingotSteel
+foundry:foundryIngot - 9
+sem:normaleitems - 33
+techreborn:ingot - 24
+
+
+ingotSteeleaf
+
+
+ingotStone
+
+
+ingotSulfur
+
+
+ingotTanzanite
+
+
+ingotTartarite
+
+
+ingotTellurium
+techreborn:ingot - 25
+
+
+ingotTerra
+
+
+ingotTerrasteel
+botania:manaResource - 4
+
+
+ingotThauminite
+
+
+ingotThaumium
+thaumcraft:ingot - 0
+
+
+ingotTin
+foundry:foundryIngot - 1
+neotech:ingotTin - 0
+sem:normaleitems - 11
+techreborn:ingot - 26
+
+
+ingotTitanium
+foundry:foundryIngot - 15
+techreborn:ingot - 27
+
+
+ingotTopaz
+
+
+ingotTungsten
+techreborn:ingot - 28
+
+
+ingotTungstensteel
+techreborn:ingot - 30
+
+
+ingotUranium
+
+
+ingotVacous
+
+
+ingotVictus
+
+
+ingotVoid
+thaumcraft:ingot - 1
+
+
+ingotVoidmetal
+
+
+ingotVulcanite
+
+
+ingotVyroxeres
+
+
+ingotWood
+
+
+ingotYellowGarnet
+
+
+ingotZinc
+foundry:foundryIngot - 6
+sem:normaleitems - 13
+techreborn:ingot - 31
+
+
+itemRubber
+
+
+leather
+
+
+lever
+
+
+lexicaBotania
+botania:lexicon - 0
+
+
+listAllfruit
+biomesoplenty:peach - 0
+biomesoplenty:persimmon - 0
+biomesoplenty:pear - 0
+
+
+listAllmeatcooked
+minecraft:cooked_beef - 0
+minecraft:cooked_porkchop - 0
+minecraft:cooked_chicken - 0
+
+
+listAllmeatraw
+minecraft:beef - 0
+minecraft:porkchop - 0
+minecraft:chicken - 0
+
+
+listAllrootveggie
+biomesoplenty:turnip - 0
+
+
+listAllseed
+biomesoplenty:turnip_seeds - 0
+
+
+listAllveggie
+biomesoplenty:turnip - 0
+
+
+livingRoot
+botania:manaResource - 20
+
+
+livingrock
+botania:livingrock - 0
+
+
+livingwood
+botania:livingwood - 0
+
+
+livingwoodTwig
+botania:manaResource - 3
+
+
+logWood
+minecraft:log - any
+minecraft:log2 - any
+biomesoplenty:log_0 - 4
+biomesoplenty:log_0 - 5
+biomesoplenty:log_0 - 6
+biomesoplenty:log_0 - 7
+biomesoplenty:log_1 - 4
+biomesoplenty:log_1 - 5
+biomesoplenty:log_1 - 6
+biomesoplenty:log_1 - 7
+biomesoplenty:log_2 - 4
+biomesoplenty:log_2 - 5
+biomesoplenty:log_2 - 6
+biomesoplenty:log_2 - 7
+biomesoplenty:log_3 - 4
+biomesoplenty:log_3 - 5
+biomesoplenty:log_3 - 6
+biomesoplenty:log_3 - 7
+thaumcraft:log - 0
+thaumcraft:log - 3
+sem:finsternisbaumstamm - 0
+thaumicbases:genLogs - any
+totemic:cedarLog - 0
+
+
+machineBasic
+techreborn:techreborn.machineFrame - 0
+
+
+manaDiamond
+botania:manaResource - 2
+
+
+manaPearl
+botania:manaResource - 1
+
+
+manaString
+botania:manaResource - 16
+
+
+marble
+sem:normaleblocke - 0
+
+
+materialEnderPearl
+minecraft:ender_pearl - 0
+
+
+materialMarble
+sem:normaleblocke - 0
+
+
+materialMarbleBrick
+sem:normaleblocke - 1
+
+
+materialStraw
+sem:stroh - 0
+
+
+mossyCobblestone
+thaumicbases:oldCobbleMossy - 0
+
+
+mycelium
+minecraft:mycelium - 0
+
+
+mysticFlowerBlack
+botania:flower - 15
+
+
+mysticFlowerBlackDouble
+botania:doubleFlower2 - 7
+
+
+mysticFlowerBlue
+botania:flower - 11
+
+
+mysticFlowerBlueDouble
+botania:doubleFlower2 - 3
+
+
+mysticFlowerBrown
+botania:flower - 12
+
+
+mysticFlowerBrownDouble
+botania:doubleFlower2 - 4
+
+
+mysticFlowerCyan
+botania:flower - 9
+
+
+mysticFlowerCyanDouble
+botania:doubleFlower2 - 1
+
+
+mysticFlowerGray
+botania:flower - 7
+
+
+mysticFlowerGrayDouble
+botania:doubleFlower1 - 7
+
+
+mysticFlowerGreen
+botania:flower - 13
+
+
+mysticFlowerGreenDouble
+botania:doubleFlower2 - 5
+
+
+mysticFlowerLightBlue
+botania:flower - 3
+
+
+mysticFlowerLightBlueDouble
+botania:doubleFlower1 - 3
+
+
+mysticFlowerLightGray
+botania:flower - 8
+
+
+mysticFlowerLightGrayDouble
+botania:doubleFlower2 - 0
+
+
+mysticFlowerLime
+botania:flower - 5
+
+
+mysticFlowerLimeDouble
+botania:doubleFlower1 - 5
+
+
+mysticFlowerMagenta
+botania:flower - 2
+
+
+mysticFlowerMagentaDouble
+botania:doubleFlower1 - 2
+
+
+mysticFlowerOrange
+botania:flower - 1
+
+
+mysticFlowerOrangeDouble
+botania:doubleFlower1 - 1
+
+
+mysticFlowerPink
+botania:flower - 6
+
+
+mysticFlowerPinkDouble
+botania:doubleFlower1 - 6
+
+
+mysticFlowerPurple
+botania:flower - 10
+
+
+mysticFlowerPurpleDouble
+botania:doubleFlower2 - 2
+
+
+mysticFlowerRed
+botania:flower - 14
+
+
+mysticFlowerRedDouble
+botania:doubleFlower2 - 6
+
+
+mysticFlowerWhite
+botania:flower - 0
+
+
+mysticFlowerWhiteDouble
+botania:doubleFlower1 - 0
+
+
+mysticFlowerYellow
+botania:flower - 4
+
+
+mysticFlowerYellowDouble
+botania:doubleFlower1 - 4
+
+
+netherrack
+minecraft:netherrack - 0
+minecraft:netherrack - any
+
+
+nitor
+thaumcraft:nitor - any
+
+
+none
+
+
+nuggetAdamantine
+
+
+nuggetAlduorite
+
+
+nuggetAluminium
+techreborn:nuggets - 0
+
+
+nuggetAluminum
+foundry:foundryNugget - 11
+techreborn:nuggets - 0
+
+
+nuggetAmethyst
+
+
+nuggetAmordrine
+
+
+nuggetAngmallen
+
+
+nuggetAntimony
+techreborn:nuggets - 1
+
+
+nuggetArdite
+tconstruct:nuggets - 1
+
+
+nuggetAstralSilver
+
+
+nuggetAtlarus
+
+
+nuggetBlackSteel
+
+
+nuggetBrass
+thaumcraft:nugget - 8
+foundry:foundryNugget - 7
+techreborn:nuggets - 2
+
+
+nuggetBronze
+foundry:foundryNugget - 2
+techreborn:nuggets - 3
+
+
+nuggetCarbon
+
+
+nuggetCarmot
+
+
+nuggetCelenegil
+
+
+nuggetCeruclase
+
+
+nuggetChrome
+techreborn:nuggets - 4
+
+
+nuggetChromium
+foundry:foundryNugget - 12
+
+
+nuggetCobalt
+tconstruct:nuggets - 0
+
+
+nuggetCobaltite
+
+
+nuggetCopper
+thaumcraft:nugget - 1
+foundry:foundryNugget - 0
+techreborn:nuggets - 5
+
+
+nuggetCupronickel
+foundry:foundryNugget - 16
+
+
+nuggetDamascusSteel
+
+
+nuggetDeepIron
+
+
+nuggetDesichalkos
+
+
+nuggetDiamond
+
+
+nuggetElectrum
+foundry:foundryNugget - 3
+techreborn:nuggets - 6
+
+
+nuggetElectrumFlux
+
+
+nuggetElementium
+
+
+nuggetElvenElementium
+botania:manaResource - 19
+
+
+nuggetEmerald
+
+
+nuggetEnderium
+
+
+nuggetEndstone
+
+
+nuggetEximite
+
+
+nuggetGlowstone
+
+
+nuggetGold
+minecraft:gold_nugget - 0
+thaumcraft:coin - 0
+
+
+nuggetGreenSapphire
+
+
+nuggetGunpowder
+
+
+nuggetHaderoth
+
+
+nuggetHepatizon
+
+
+nuggetIgnatius
+
+
+nuggetInfuscolium
+
+
+nuggetInolashite
+
+
+nuggetInvar
+foundry:foundryNugget - 4
+techreborn:nuggets - 7
+
+
+nuggetIridium
+techreborn:nuggets - 8
+
+
+nuggetIron
+thaumcraft:nugget - 0
+foundry:foundryNugget - 17
+techreborn:nuggets - 9
+totemic:subItems - 0
+
+
+nuggetIronwood
+
+
+nuggetKalendrite
+
+
+nuggetKanthal
+
+
+nuggetKnightmetal
+
+
+nuggetKnightslime
+tconstruct:nuggets - 3
+
+
+nuggetLead
+thaumcraft:nugget - 4
+foundry:foundryNugget - 10
+techreborn:nuggets - 10
+
+
+nuggetLemurite
+
+
+nuggetLumium
+
+
+nuggetManasteel
+botania:manaResource - 17
+
+
+nuggetManganese
+foundry:foundryNugget - 14
+
+
+nuggetManyullyn
+tconstruct:nuggets - 2
+
+
+nuggetMeutoite
+
+
+nuggetMidasium
+
+
+nuggetMithril
+
+
+nuggetNetherrack
+
+
+nuggetNichrome
+
+
+nuggetNickel
+foundry:foundryNugget - 5
+techreborn:nuggets - 11
+
+
+nuggetObsidian
+
+
+nuggetOlivine
+
+
+nuggetOrichalcum
+
+
+nuggetOsmium
+techreborn:nuggets - 12
+
+
+nuggetOureclase
+
+
+nuggetPigiron
+tconstruct:nuggets - 4
+
+
+nuggetPlatinum
+foundry:foundryNugget - 13
+techreborn:nuggets - 13
+
+
+nuggetPrometheum
+
+
+nuggetQuicksilver
+thaumcraft:nugget - 5
+
+
+nuggetRedAlloy
+
+
+nuggetRedstone
+
+
+nuggetRubber
+
+
+nuggetRubracium
+
+
+nuggetRuby
+
+
+nuggetSanguinite
+
+
+nuggetSapphire
+
+
+nuggetShadowIron
+
+
+nuggetShadowSteel
+
+
+nuggetSignalum
+
+
+nuggetSilver
+thaumcraft:nugget - 3
+foundry:foundryNugget - 8
+techreborn:nuggets - 14
+
+
+nuggetStainlessSteel
+
+
+nuggetSteel
+foundry:foundryNugget - 9
+techreborn:nuggets - 15
+
+
+nuggetSteeleaf
+
+
+nuggetStone
+
+
+nuggetTartarite
+
+
+nuggetTerrasteel
+botania:manaResource - 18
+
+
+nuggetThaumium
+thaumcraft:nugget - 6
+
+
+nuggetTin
+thaumcraft:nugget - 2
+foundry:foundryNugget - 1
+techreborn:nuggets - 16
+
+
+nuggetTitanium
+foundry:foundryNugget - 15
+techreborn:nuggets - 17
+
+
+nuggetTopaz
+
+
+nuggetTungsten
+techreborn:nuggets - 18
+
+
+nuggetUranium
+
+
+nuggetVoid
+thaumcraft:nugget - 7
+
+
+nuggetVoidmetal
+
+
+nuggetVulcanite
+
+
+nuggetVyroxeres
+
+
+nuggetWood
+
+
+nuggetZinc
+foundry:foundryNugget - 6
+techreborn:nuggets - 19
+
+
+obsidian
+minecraft:obsidian - 0
+minecraft:obsidian - any
+
+
+oc:adapter
+opencomputers:adapter - 0
+
+
+oc:analyzer
+opencomputers:tool - 0
+
+
+oc:angelUpgrade
+opencomputers:upgrade - 0
+
+
+oc:apu1
+opencomputers:component - 16
+
+
+oc:apu2
+opencomputers:component - 17
+
+
+oc:assembler
+opencomputers:assembler - 0
+
+
+oc:batteryUpgrade1
+opencomputers:upgrade - 1
+
+
+oc:batteryUpgrade2
+opencomputers:upgrade - 2
+
+
+oc:batteryUpgrade3
+opencomputers:upgrade - 3
+
+
+oc:cable
+opencomputers:cable - 0
+
+
+oc:capacitor
+opencomputers:capacitor - 0
+
+
+oc:cardContainer1
+opencomputers:upgrade - 5
+
+
+oc:cardContainer2
+opencomputers:upgrade - 6
+
+
+oc:cardContainer3
+opencomputers:upgrade - 7
+
+
+oc:case1
+opencomputers:case1 - 0
+
+
+oc:case2
+opencomputers:case2 - 0
+
+
+oc:case3
+opencomputers:case3 - 0
+
+
+oc:chamelium
+opencomputers:material - 29
+
+
+oc:chameliumBlock
+opencomputers:chameliumBlock - 0
+
+
+oc:charger
+opencomputers:charger - 0
+
+
+oc:chunkloaderUpgrade
+opencomputers:upgrade - 4
+
+
+oc:circuitChip1
+opencomputers:material - 8
+
+
+oc:circuitChip2
+opencomputers:material - 9
+
+
+oc:circuitChip3
+opencomputers:material - 10
+
+
+oc:componentBus1
+opencomputers:component - 3
+
+
+oc:componentBus2
+opencomputers:component - 4
+
+
+oc:componentBus3
+opencomputers:component - 5
+
+
+oc:cpu1
+opencomputers:component - 0
+
+
+oc:cpu2
+opencomputers:component - 1
+
+
+oc:cpu3
+opencomputers:component - 2
+
+
+oc:craftingUpgrade
+opencomputers:upgrade - 11
+
+
+oc:dataCard
+opencomputers:card - 10
+
+
+oc:dataCard1
+opencomputers:card - 10
+
+
+oc:dataCard2
+opencomputers:card - 11
+
+
+oc:dataCard3
+opencomputers:card - 12
+
+
+oc:databaseUpgrade1
+opencomputers:upgrade - 12
+
+
+oc:databaseUpgrade2
+opencomputers:upgrade - 13
+
+
+oc:databaseUpgrade3
+opencomputers:upgrade - 14
+
+
+oc:disassembler
+opencomputers:disassembler - 0
+
+
+oc:diskDrive
+opencomputers:diskDrive - 0
+
+
+oc:droneCase1
+opencomputers:material - 24
+
+
+oc:droneCase2
+opencomputers:material - 25
+
+
+oc:eeprom
+opencomputers:storage - 0
+
+
+oc:experienceUpgrade
+opencomputers:upgrade - 15
+
+
+oc:floppy
+opencomputers:storage - 1
+
+
+oc:generatorUpgrade
+opencomputers:upgrade - 16
+
+
+oc:geolyzer
+opencomputers:geolyzer - 0
+
+
+oc:graphicsCard1
+opencomputers:card - 1
+
+
+oc:graphicsCard2
+opencomputers:card - 2
+
+
+oc:graphicsCard3
+opencomputers:card - 3
+
+
+oc:hdd1
+opencomputers:storage - 2
+
+
+oc:hdd2
+opencomputers:storage - 3
+
+
+oc:hdd3
+opencomputers:storage - 4
+
+
+oc:hologram1
+opencomputers:hologram1 - 0
+
+
+oc:hologram2
+opencomputers:hologram2 - 0
+
+
+oc:hoverBoots
+opencomputers:hoverBoots - 0
+
+
+oc:hoverUpgrade1
+opencomputers:upgrade - 27
+
+
+oc:hoverUpgrade2
+opencomputers:upgrade - 28
+
+
+oc:inkCartridge
+opencomputers:material - 28
+
+
+oc:inkCartridgeEmpty
+opencomputers:material - 27
+
+
+oc:internetCard
+opencomputers:card - 8
+
+
+oc:inventoryControllerUpgrade
+opencomputers:upgrade - 18
+
+
+oc:inventoryUpgrade
+opencomputers:upgrade - 17
+
+
+oc:keyboard
+opencomputers:keyboard - 0
+
+
+oc:lanCard
+opencomputers:card - 6
+
+
+oc:leashUpgrade
+opencomputers:upgrade - 26
+
+
+oc:linkedCard
+opencomputers:card - 9
+
+
+oc:manual
+opencomputers:tool - 4
+
+
+oc:materialALU
+opencomputers:material - 11
+
+
+oc:materialAcid
+opencomputers:material - 2
+
+
+oc:materialArrowKey
+opencomputers:material - 16
+
+
+oc:materialButtonGroup
+opencomputers:material - 15
+
+
+oc:materialCU
+opencomputers:material - 12
+
+
+oc:materialCard
+opencomputers:material - 6
+
+
+oc:materialCircuitBoard
+opencomputers:material - 4
+
+
+oc:materialCircuitBoardPrinted
+opencomputers:material - 5
+
+
+oc:materialCircuitBoardRaw
+opencomputers:material - 3
+
+
+oc:materialCuttingWire
+opencomputers:material - 1
+
+
+oc:materialDisk
+opencomputers:material - 13
+
+
+oc:materialInterweb
+opencomputers:material - 14
+
+
+oc:materialNumPad
+opencomputers:material - 17
+
+
+oc:materialTransistor
+opencomputers:material - 7
+
+
+oc:microcontrollerCase1
+opencomputers:material - 21
+
+
+oc:microcontrollerCase2
+opencomputers:material - 22
+
+
+oc:motionSensor
+opencomputers:motionSensor - 0
+
+
+oc:nanomachines
+opencomputers:tool - 5
+
+
+oc:navigationUpgrade
+opencomputers:upgrade - 19
+
+
+oc:netSplitter
+opencomputers:netSplitter - 0
+
+
+oc:pistonUpgrade
+opencomputers:upgrade - 20
+
+
+oc:powerConverter
+opencomputers:powerConverter - 0
+
+
+oc:powerDistributor
+opencomputers:powerDistributor - 0
+
+
+oc:printer
+opencomputers:printer - 0
+
+
+oc:raid
+opencomputers:raid - 0
+
+
+oc:ram1
+opencomputers:component - 6
+
+
+oc:ram2
+opencomputers:component - 7
+
+
+oc:ram3
+opencomputers:component - 8
+
+
+oc:ram4
+opencomputers:component - 9
+
+
+oc:ram5
+opencomputers:component - 10
+
+
+oc:ram6
+opencomputers:component - 11
+
+
+oc:redstone
+opencomputers:redstone - 0
+
+
+oc:redstoneCard1
+opencomputers:card - 4
+
+
+oc:redstoneCard2
+opencomputers:card - 5
+
+
+oc:relay
+opencomputers:relay - 0
+
+
+oc:screen1
+opencomputers:screen1 - 0
+
+
+oc:screen2
+opencomputers:screen2 - 0
+
+
+oc:screen3
+opencomputers:screen3 - 0
+
+
+oc:server1
+opencomputers:component - 13
+
+
+oc:server2
+opencomputers:component - 14
+
+
+oc:server3
+opencomputers:component - 15
+
+
+oc:serverRack
+opencomputers:serverRack - 0
+
+
+oc:signUpgrade
+opencomputers:upgrade - 21
+
+
+oc:solarGeneratorUpgrade
+opencomputers:upgrade - 22
+
+
+oc:stoneEndstone
+minecraft:end_stone - 0
+opencomputers:endstone - 0
+
+
+oc:tabletCase1
+opencomputers:material - 18
+
+
+oc:tabletCase2
+opencomputers:material - 19
+
+
+oc:tankControllerUpgrade
+opencomputers:upgrade - 24
+
+
+oc:tankUpgrade
+opencomputers:upgrade - 23
+
+
+oc:terminal
+opencomputers:tool - 2
+
+
+oc:texturePicker
+opencomputers:tool - 3
+
+
+oc:tractorBeamUpgrade
+opencomputers:upgrade - 25
+
+
+oc:transposer
+opencomputers:transposer - 0
+
+
+oc:upgradeContainer1
+opencomputers:upgrade - 8
+
+
+oc:upgradeContainer2
+opencomputers:upgrade - 9
+
+
+oc:upgradeContainer3
+opencomputers:upgrade - 10
+
+
+oc:waypoint
+opencomputers:waypoint - 0
+
+
+oc:wlanCard
+opencomputers:card - 7
+
+
+oc:wrench
+opencomputers:wrench - 0
+
+
+oreAdamantine
+
+
+oreAlduorite
+
+
+oreAluminium
+
+
+oreAluminum
+
+
+oreAmber
+biomesoplenty:gem_ore - 7
+thaumcraft:ore_amber - 0
+
+
+oreAmethyst
+
+
+oreAmordrine
+
+
+oreAngmallen
+
+
+oreApatite
+
+
+oreArdite
+tconstruct:ore - 1
+
+
+oreAstralSilver
+
+
+oreAtlarus
+
+
+oreBauxite
+techreborn:techreborn.ore - 4
+
+
+oreBlackSteel
+
+
+oreBrass
+
+
+oreBronze
+
+
+oreCarbon
+
+
+oreCarmot
+
+
+oreCelenegil
+
+
+oreCertusQuartz
+
+
+oreCeruclase
+
+
+oreChargedCertusQuartz
+
+
+oreChrome
+
+
+oreChromium
+
+
+oreCinnabar
+thaumcraft:ore_cinnabar - 0
+techreborn:techreborn.ore - 6
+
+
+oreCoal
+minecraft:coal_ore - 0
+sem:erze - 6
+sem:erze - 7
+
+
+oreCobalt
+tconstruct:ore - 0
+
+
+oreCobaltite
+
+
+oreCopper
+foundry:ore - 0
+neotech:oreCopper - 0
+sem:erze - 2
+
+
+oreCupronickel
+
+
+oreDamascusSteel
+
+
+oreDeepIron
+
+
+oreDesichalkos
+
+
+oreDevilsIron
+sem:erze - 4
+
+
+oreDiamond
+minecraft:diamond_ore - 0
+
+
+oreElectrum
+
+
+oreElectrumFlux
+
+
+oreElementium
+
+
+oreEmerald
+minecraft:emerald_ore - 0
+
+
+oreEnderium
+
+
+oreEndstone
+
+
+oreEssence
+
+
+oreEximite
+
+
+oreGaianite
+resourcefulcrops:BlockROre - 0
+resourcefulcrops:BlockROre - 1
+
+
+oreGalena
+techreborn:techreborn.ore - 0
+
+
+oreGlowstone
+
+
+oreGold
+minecraft:gold_ore - 0
+
+
+oreGreenSapphire
+
+
+oreGunpowder
+
+
+oreHaderoth
+
+
+oreHepatizon
+
+
+oreIgnatius
+
+
+oreInfuscolium
+
+
+oreInolashite
+
+
+oreInvar
+
+
+oreIridium
+techreborn:techreborn.ore - 1
+
+
+oreIron
+minecraft:iron_ore - 0
+
+
+oreIronwood
+
+
+oreKalendrite
+
+
+oreKanthal
+
+
+oreKnightmetal
+
+
+oreKnightslime
+
+
+oreLapis
+minecraft:lapis_ore - 0
+
+
+oreLead
+foundry:ore - 5
+techreborn:techreborn.ore - 14
+
+
+oreLemurite
+
+
+oreLumium
+
+
+oreMalachite
+biomesoplenty:gem_ore - 5
+
+
+oreManasteel
+
+
+oreManganese
+
+
+oreManyullyn
+
+
+oreMeutoite
+
+
+oreMidasium
+
+
+oreMithril
+
+
+oreNetherrack
+
+
+oreNichrome
+
+
+oreNickel
+foundry:ore - 2
+
+
+oreObsidian
+
+
+oreOlivine
+
+
+oreOrichalcum
+
+
+oreOsmium
+
+
+oreOureclase
+
+
+orePeridot
+biomesoplenty:gem_ore - 2
+techreborn:techreborn.ore - 10
+
+
+orePigiron
+
+
+orePlatinum
+techreborn:techreborn.ore - 9
+
+
+orePoorAdamantine
+
+
+orePoorAlduorite
+
+
+orePoorAluminum
+
+
+orePoorAmethyst
+
+
+orePoorAmordrine
+
+
+orePoorAngmallen
+
+
+orePoorAstralSilver
+
+
+orePoorAtlarus
+
+
+orePoorBlackSteel
+
+
+orePoorBrass
+
+
+orePoorBronze
+
+
+orePoorCarbon
+
+
+orePoorCarmot
+
+
+orePoorCelenegil
+
+
+orePoorCeruclase
+
+
+orePoorChromium
+
+
+orePoorCobalt
+
+
+orePoorCobaltite
+
+
+orePoorCopper
+
+
+orePoorCupronickel
+
+
+orePoorDamascusSteel
+
+
+orePoorDeepIron
+
+
+orePoorDesichalkos
+
+
+orePoorDiamond
+
+
+orePoorElectrum
+
+
+orePoorEmerald
+
+
+orePoorEndstone
+
+
+orePoorEximite
+
+
+orePoorGlowstone
+
+
+orePoorGold
+
+
+orePoorGreenSapphire
+
+
+orePoorGunpowder
+
+
+orePoorHaderoth
+
+
+orePoorHepatizon
+
+
+orePoorIgnatius
+
+
+orePoorInfuscolium
+
+
+orePoorInolashite
+
+
+orePoorInvar
+
+
+orePoorIron
+
+
+orePoorIronwood
+
+
+orePoorKalendrite
+
+
+orePoorKanthal
+
+
+orePoorKnightmetal
+
+
+orePoorLead
+
+
+orePoorLemurite
+
+
+orePoorManganese
+
+
+orePoorMeutoite
+
+
+orePoorMidasium
+
+
+orePoorNetherrack
+
+
+orePoorNichrome
+
+
+orePoorNickel
+
+
+orePoorObsidian
+
+
+orePoorOlivine
+
+
+orePoorOrichalcum
+
+
+orePoorOsmium
+
+
+orePoorOureclase
+
+
+orePoorPlatinum
+
+
+orePoorPrometheum
+
+
+orePoorQuicksilver
+
+
+orePoorRedAlloy
+
+
+orePoorRedstone
+
+
+orePoorRubber
+
+
+orePoorRubracium
+
+
+orePoorRuby
+
+
+orePoorSanguinite
+
+
+orePoorSapphire
+
+
+orePoorShadowIron
+
+
+orePoorShadowSteel
+
+
+orePoorSilver
+
+
+orePoorStainlessSteel
+
+
+orePoorSteel
+
+
+orePoorSteeleaf
+
+
+orePoorStone
+
+
+orePoorTartarite
+
+
+orePoorThaumium
+
+
+orePoorTin
+
+
+orePoorTitanium
+
+
+orePoorTopaz
+
+
+orePoorTungsten
+
+
+orePoorUranium
+
+
+orePoorVoidmetal
+
+
+orePoorVulcanite
+
+
+orePoorVyroxeres
+
+
+orePoorWood
+
+
+orePoorZinc
+
+
+orePrometheum
+
+
+orePyrite
+techreborn:techreborn.ore - 5
+
+
+oreQuartz
+minecraft:quartz_ore - 0
+
+
+oreQuartzBlack
+actuallyadditions:blockMisc - 3
+
+
+oreQuicksilver
+
+
+oreRedAlloy
+
+
+oreRedstone
+minecraft:redstone_ore - 0
+
+
+oreRubber
+
+
+oreRubracium
+
+
+oreRuby
+biomesoplenty:gem_ore - 1
+techreborn:techreborn.ore - 2
+
+
+oreSalt
+sem:erze - 3
+
+
+oreSanguinite
+
+
+oreSapphire
+biomesoplenty:gem_ore - 6
+techreborn:techreborn.ore - 3
+
+
+oreShadowIron
+
+
+oreShadowSteel
+
+
+oreSheldonite
+techreborn:techreborn.ore - 9
+
+
+oreSignalum
+
+
+oreSilver
+foundry:ore - 4
+techreborn:techreborn.ore - 15
+
+
+oreSkyrite
+skyland:skyrite_ore - 0
+
+
+oreSodalite
+techreborn:techreborn.ore - 11
+
+
+oreSphalerite
+techreborn:techreborn.ore - 7
+
+
+oreStainlessSteel
+
+
+oreSteel
+
+
+oreSteeleaf
+
+
+oreStone
+
+
+oreSulfur
+sem:erze - 5
+
+
+oreTanzanite
+biomesoplenty:gem_ore - 4
+
+
+oreTartarite
+
+
+oreTerrasteel
+
+
+oreTetrahedrite
+techreborn:techreborn.ore - 12
+
+
+oreThaumium
+
+
+oreTin
+foundry:ore - 1
+neotech:oreTin - 0
+sem:erze - 0
+techreborn:techreborn.ore - 13
+
+
+oreTitanium
+
+
+oreTopaz
+biomesoplenty:gem_ore - 3
+
+
+oreTungsten
+techreborn:techreborn.ore - 8
+
+
+oreUranium
+
+
+oreVoid
+
+
+oreVoidmetal
+
+
+oreVulcanite
+
+
+oreVyroxeres
+
+
+oreWood
+
+
+oreZinc
+foundry:ore - 3
+sem:erze - 1
+
+
+paneGlass
+minecraft:glass_pane - 0
+minecraft:stained_glass_pane - any
+
+
+paneGlassBlack
+minecraft:stained_glass_pane - 15
+
+
+paneGlassBlue
+minecraft:stained_glass_pane - 11
+
+
+paneGlassBrown
+minecraft:stained_glass_pane - 12
+
+
+paneGlassColorless
+minecraft:glass_pane - 0
+
+
+paneGlassCyan
+minecraft:stained_glass_pane - 9
+
+
+paneGlassGray
+minecraft:stained_glass_pane - 7
+
+
+paneGlassGreen
+minecraft:stained_glass_pane - 13
+
+
+paneGlassLightBlue
+minecraft:stained_glass_pane - 3
+
+
+paneGlassLightGray
+minecraft:stained_glass_pane - 8
+
+
+paneGlassLime
+minecraft:stained_glass_pane - 5
+
+
+paneGlassMagenta
+minecraft:stained_glass_pane - 2
+
+
+paneGlassOrange
+minecraft:stained_glass_pane - 1
+
+
+paneGlassPink
+minecraft:stained_glass_pane - 6
+
+
+paneGlassPurple
+minecraft:stained_glass_pane - 10
+
+
+paneGlassRed
+minecraft:stained_glass_pane - 14
+
+
+paneGlassWhite
+minecraft:stained_glass_pane - 0
+
+
+paneGlassYellow
+minecraft:stained_glass_pane - 4
+
+
+paneglassColorless
+
+
+paper
+
+
+partBinding
+tconstruct:binding - any
+
+
+partPickHead
+tconstruct:pick_head - any
+
+
+partToolRod
+tconstruct:tool_rod - any
+
+
+pattern
+tconstruct:pattern - any
+
+
+pebble
+botania:manaResource - 21
+
+
+pestleAndMortar
+botania:pestleAndMortar - 0
+thaumicbases:mortar - any
+
+
+petalBlack
+botania:petal - 15
+
+
+petalBlue
+botania:petal - 11
+
+
+petalBrown
+botania:petal - 12
+
+
+petalCyan
+botania:petal - 9
+
+
+petalGray
+botania:petal - 7
+
+
+petalGreen
+botania:petal - 13
+
+
+petalLightBlue
+botania:petal - 3
+
+
+petalLightGray
+botania:petal - 8
+
+
+petalLime
+botania:petal - 5
+
+
+petalMagenta
+botania:petal - 2
+
+
+petalOrange
+botania:petal - 1
+
+
+petalPink
+botania:petal - 6
+
+
+petalPurple
+botania:petal - 10
+
+
+petalRed
+botania:petal - 14
+
+
+petalWhite
+botania:petal - 0
+
+
+petalYellow
+botania:petal - 4
+
+
+pickaxe
+skyland:skyrite_pickaxe - 0
+
+
+pickaxeSkyrite
+skyland:skyrite_pickaxe - 0
+
+
+pipeStructure
+neotech:pipeStructure - 0
+neotech:pipeStructure - 1
+neotech:pipeStructure - 2
+neotech:pipeStructure - 3
+neotech:pipeStructure - 4
+neotech:pipeStructure - 5
+neotech:pipeStructure - 6
+neotech:pipeStructure - 7
+neotech:pipeStructure - 8
+neotech:pipeStructure - 9
+neotech:pipeStructure - 10
+neotech:pipeStructure - 11
+neotech:pipeStructure - 12
+neotech:pipeStructure - 13
+neotech:pipeStructure - 14
+neotech:pipeStructure - 15
+
+
+pistonStickyBase
+
+
+plankWood
+minecraft:planks - any
+biomesoplenty:planks_0 - 0
+biomesoplenty:planks_0 - 1
+biomesoplenty:planks_0 - 2
+biomesoplenty:planks_0 - 3
+biomesoplenty:planks_0 - 4
+biomesoplenty:planks_0 - 5
+biomesoplenty:planks_0 - 6
+biomesoplenty:planks_0 - 7
+biomesoplenty:planks_0 - 8
+biomesoplenty:planks_0 - 9
+biomesoplenty:planks_0 - 10
+biomesoplenty:planks_0 - 11
+biomesoplenty:planks_0 - 12
+biomesoplenty:planks_0 - 13
+thaumcraft:plank - 0
+thaumcraft:plank - 1
+sem:finsternisholz - 0
+thaumicbases:planks - any
+totemic:redCedarPlank - 0
+
+
+planksAdamantine
+
+
+planksAlduorite
+
+
+planksAluminum
+
+
+planksAmethyst
+
+
+planksAmordrine
+
+
+planksAngmallen
+
+
+planksAstralSilver
+
+
+planksAtlarus
+
+
+planksBlackSteel
+
+
+planksBrass
+
+
+planksBronze
+
+
+planksCarbon
+
+
+planksCarmot
+
+
+planksCelenegil
+
+
+planksCeruclase
+
+
+planksChromium
+
+
+planksCobalt
+
+
+planksCobaltite
+
+
+planksCopper
+
+
+planksCupronickel
+
+
+planksDamascusSteel
+
+
+planksDeepIron
+
+
+planksDesichalkos
+
+
+planksDiamond
+
+
+planksElectrum
+
+
+planksEmerald
+
+
+planksEndstone
+
+
+planksEximite
+
+
+planksGlowstone
+
+
+planksGold
+
+
+planksGreenSapphire
+
+
+planksGunpowder
+
+
+planksHaderoth
+
+
+planksHepatizon
+
+
+planksIgnatius
+
+
+planksInfuscolium
+
+
+planksInolashite
+
+
+planksInvar
+
+
+planksIron
+
+
+planksIronwood
+
+
+planksKalendrite
+
+
+planksKanthal
+
+
+planksKnightmetal
+
+
+planksLead
+
+
+planksLemurite
+
+
+planksManganese
+
+
+planksMeutoite
+
+
+planksMidasium
+
+
+planksNetherrack
+
+
+planksNichrome
+
+
+planksNickel
+
+
+planksObsidian
+
+
+planksOlivine
+
+
+planksOrichalcum
+
+
+planksOsmium
+
+
+planksOureclase
+
+
+planksPlatinum
+
+
+planksPrometheum
+
+
+planksQuicksilver
+
+
+planksRedAlloy
+
+
+planksRedstone
+
+
+planksRubber
+
+
+planksRubracium
+
+
+planksRuby
+
+
+planksSanguinite
+
+
+planksSapphire
+
+
+planksShadowIron
+
+
+planksShadowSteel
+
+
+planksSilver
+
+
+planksStainlessSteel
+
+
+planksSteel
+
+
+planksSteeleaf
+
+
+planksStone
+
+
+planksTartarite
+
+
+planksThaumium
+
+
+planksTin
+
+
+planksTitanium
+
+
+planksTopaz
+
+
+planksTungsten
+
+
+planksUranium
+
+
+planksVoidmetal
+
+
+planksVulcanite
+
+
+planksVyroxeres
+
+
+planksWood
+
+
+planksZinc
+
+
+plantBerrybush
+biomesoplenty:plant_0 - 5
+
+
+plantBush
+biomesoplenty:plant_0 - 2
+
+
+plantCattail
+biomesoplenty:plant_1 - 4
+biomesoplenty:double_plant - 1
+
+
+plantCloverpatch
+biomesoplenty:plant_0 - 10
+
+
+plantDampgrass
+biomesoplenty:plant_0 - 8
+
+
+plantDeadgrass
+biomesoplenty:plant_0 - 13
+
+
+plantDeadleafpile
+biomesoplenty:plant_0 - 12
+
+
+plantDesertgrass
+biomesoplenty:plant_0 - 14
+
+
+plantDesertsprouts
+biomesoplenty:plant_0 - 15
+
+
+plantDunegrass
+biomesoplenty:plant_1 - 0
+
+
+plantFlax
+biomesoplenty:double_plant - 0
+
+
+plantKoru
+biomesoplenty:plant_0 - 9
+
+
+plantLeafpile
+biomesoplenty:plant_0 - 11
+
+
+plantMediumgrass
+biomesoplenty:plant_0 - 1
+
+
+plantPoisonivy
+biomesoplenty:plant_0 - 4
+
+
+plantReed
+biomesoplenty:plant_1 - 9
+
+
+plantRivercane
+biomesoplenty:plant_1 - 5
+
+
+plantRoot
+biomesoplenty:plant_1 - 10
+
+
+plantShortgrass
+biomesoplenty:plant_0 - 0
+
+
+plantShrub
+biomesoplenty:plant_0 - 6
+
+
+plantSpectralfern
+biomesoplenty:plant_1 - 1
+
+
+plantSprout
+biomesoplenty:plant_0 - 3
+
+
+plantThorn
+biomesoplenty:plant_1 - 2
+
+
+plantTinycactus
+biomesoplenty:plant_1 - 7
+
+
+plantWheatgrass
+biomesoplenty:plant_0 - 7
+
+
+plantWildcarrot
+biomesoplenty:plant_1 - 6
+
+
+plantWildrice
+biomesoplenty:plant_1 - 3
+
+
+plantWitherwart
+biomesoplenty:plant_1 - 8
+
+
+plateAdamantine
+
+
+plateAlduorite
+
+
+plateAluminium
+techreborn:plates - 0
+
+
+plateAluminum
+techreborn:plates - 0
+
+
+plateAmethyst
+
+
+plateAmordrine
+
+
+plateAngmallen
+
+
+plateAstralSilver
+
+
+plateAtlarus
+
+
+plateBatteryAlloy
+techreborn:plates - 1
+
+
+plateBlackSteel
+
+
+plateBrass
+thaumcraft:plate - 0
+techreborn:plates - 2
+
+
+plateBronze
+techreborn:plates - 3
+
+
+plateCarbon
+
+
+plateCarmot
+
+
+plateCelenegil
+
+
+plateCeruclase
+
+
+plateChrome
+techreborn:plates - 5
+
+
+plateChromium
+
+
+plateCoal
+techreborn:plates - 6
+
+
+plateCobalt
+
+
+plateCobaltite
+
+
+plateCopper
+techreborn:plates - 7
+
+
+plateCupronickel
+
+
+plateDamascusSteel
+
+
+plateDeepIron
+
+
+plateDenseAdamantine
+
+
+plateDenseAlduorite
+
+
+plateDenseAluminum
+
+
+plateDenseAmethyst
+
+
+plateDenseAmordrine
+
+
+plateDenseAngmallen
+
+
+plateDenseAstralSilver
+
+
+plateDenseAtlarus
+
+
+plateDenseBlackSteel
+
+
+plateDenseBrass
+
+
+plateDenseBronze
+
+
+plateDenseCarbon
+
+
+plateDenseCarmot
+
+
+plateDenseCelenegil
+
+
+plateDenseCeruclase
+
+
+plateDenseChromium
+
+
+plateDenseCobalt
+
+
+plateDenseCobaltite
+
+
+plateDenseCopper
+
+
+plateDenseCupronickel
+
+
+plateDenseDamascusSteel
+
+
+plateDenseDeepIron
+
+
+plateDenseDesichalkos
+
+
+plateDenseDiamond
+
+
+plateDenseElectrum
+
+
+plateDenseEmerald
+
+
+plateDenseEndstone
+
+
+plateDenseEximite
+
+
+plateDenseGlowstone
+
+
+plateDenseGold
+
+
+plateDenseGreenSapphire
+
+
+plateDenseGunpowder
+
+
+plateDenseHaderoth
+
+
+plateDenseHepatizon
+
+
+plateDenseIgnatius
+
+
+plateDenseInfuscolium
+
+
+plateDenseInolashite
+
+
+plateDenseInvar
+
+
+plateDenseIron
+
+
+plateDenseIronwood
+
+
+plateDenseKalendrite
+
+
+plateDenseKanthal
+
+
+plateDenseKnightmetal
+
+
+plateDenseLead
+
+
+plateDenseLemurite
+
+
+plateDenseManganese
+
+
+plateDenseMeutoite
+
+
+plateDenseMidasium
+
+
+plateDenseNetherrack
+
+
+plateDenseNichrome
+
+
+plateDenseNickel
+
+
+plateDenseObsidian
+
+
+plateDenseOlivine
+
+
+plateDenseOrichalcum
+
+
+plateDenseOsmium
+
+
+plateDenseOureclase
+
+
+plateDensePlatinum
+
+
+plateDensePrometheum
+
+
+plateDenseQuicksilver
+
+
+plateDenseRedAlloy
+
+
+plateDenseRedstone
+
+
+plateDenseRubber
+
+
+plateDenseRubracium
+
+
+plateDenseRuby
+
+
+plateDenseSanguinite
+
+
+plateDenseSapphire
+
+
+plateDenseShadowIron
+
+
+plateDenseShadowSteel
+
+
+plateDenseSilver
+
+
+plateDenseStainlessSteel
+
+
+plateDenseSteel
+
+
+plateDenseSteeleaf
+
+
+plateDenseStone
+
+
+plateDenseTartarite
+
+
+plateDenseThaumium
+
+
+plateDenseTin
+
+
+plateDenseTitanium
+
+
+plateDenseTopaz
+
+
+plateDenseTungsten
+
+
+plateDenseUranium
+
+
+plateDenseVoidmetal
+
+
+plateDenseVulcanite
+
+
+plateDenseVyroxeres
+
+
+plateDenseWood
+
+
+plateDenseZinc
+
+
+plateDesichalkos
+
+
+plateDiamond
+techreborn:plates - 8
+
+
+plateElectrum
+techreborn:plates - 9
+
+
+plateEmerald
+techreborn:plates - 10
+
+
+plateEndstone
+
+
+plateEximite
+
+
+plateGlowstone
+
+
+plateGold
+techreborn:plates - 11
+
+
+plateGreenSapphire
+
+
+plateGunpowder
+
+
+plateHaderoth
+
+
+plateHepatizon
+
+
+plateIgnatius
+
+
+plateInfuscolium
+
+
+plateInolashite
+
+
+plateInvar
+techreborn:plates - 12
+
+
+plateIridium
+techreborn:plates - 13
+
+
+plateIron
+thaumcraft:plate - 1
+techreborn:plates - 14
+
+
+plateIronwood
+
+
+plateKalendrite
+
+
+plateKanthal
+
+
+plateKnightmetal
+
+
+plateLapis
+techreborn:plates - 15
+
+
+plateLead
+techreborn:plates - 16
+
+
+plateLemurite
+
+
+plateMagnalium
+techreborn:plates - 17
+
+
+plateManganese
+
+
+plateMeutoite
+
+
+plateMidasium
+
+
+plateNetherrack
+
+
+plateNichrome
+
+
+plateNickel
+techreborn:plates - 18
+
+
+plateObsidian
+techreborn:plates - 19
+
+
+plateOlivine
+
+
+plateOrichalcum
+
+
+plateOsmium
+techreborn:plates - 20
+
+
+plateOureclase
+
+
+platePeridot
+techreborn:plates - 21
+
+
+platePlatinum
+techreborn:plates - 22
+
+
+platePrometheum
+
+
+plateQuicksilver
+
+
+plateRedAlloy
+
+
+plateRedGarnet
+techreborn:plates - 23
+
+
+plateRedstone
+techreborn:plates - 24
+
+
+plateRedstoneAlloy
+techreborn:plates - 24
+
+
+plateRubber
+
+
+plateRubracium
+
+
+plateRuby
+techreborn:plates - 25
+
+
+plateSanguinite
+
+
+plateSapphire
+techreborn:plates - 26
+
+
+plateShadowIron
+
+
+plateShadowSteel
+
+
+plateSilicon
+techreborn:plates - 27
+
+
+plateSilver
+techreborn:plates - 28
+
+
+plateStainlessSteel
+
+
+plateSteel
+techreborn:plates - 29
+
+
+plateSteeleaf
+
+
+plateStone
+
+
+plateTartarite
+
+
+plateTeslatite
+techreborn:plates - 30
+
+
+plateThaumium
+thaumcraft:plate - 2
+
+
+plateTin
+techreborn:plates - 31
+
+
+plateTitanium
+techreborn:plates - 32
+
+
+plateTopaz
+
+
+plateTungsten
+techreborn:plates - 33
+
+
+plateTungstensteel
+techreborn:plates - 34
+
+
+plateUranium
+
+
+plateVoid
+thaumcraft:plate - 3
+
+
+plateVoidmetal
+
+
+plateVulcanite
+
+
+plateVyroxeres
+
+
+plateWood
+
+
+plateYellowGarnet
+techreborn:plates - 35
+
+
+plateZinc
+techreborn:plates - 36
+
+
+podzol
+minecraft:dirt - 2
+
+
+potion
+
+
+powderBlaze
+minecraft:blaze_powder - 0
+
+
+powderMana
+botania:manaResource - 23
+
+
+prismarine
+minecraft:prismarine - any
+
+
+pulpWood
+techreborn:dust - 68
+
+
+quicksilver
+thaumcraft:quicksilver - 0
+
+
+rcropPouchBlaze
+resourcefulcrops:ItemPouch - 9
+
+
+rcropPouchBoney
+resourcefulcrops:ItemPouch - 7
+
+
+rcropPouchBrainy
+resourcefulcrops:ItemPouch - 16
+
+
+rcropPouchCharcoal
+resourcefulcrops:ItemPouch - 4
+
+
+rcropPouchCoal
+resourcefulcrops:ItemPouch - 3
+
+
+rcropPouchCreepots
+resourcefulcrops:ItemPouch - 18
+
+
+rcropPouchCreepy
+resourcefulcrops:ItemPouch - 14
+
+
+rcropPouchDiamond
+resourcefulcrops:ItemPouch - 24
+
+
+rcropPouchEmerald
+resourcefulcrops:ItemPouch - 25
+
+
+rcropPouchEnder
+resourcefulcrops:ItemPouch - 12
+
+
+rcropPouchFeathery
+resourcefulcrops:ItemPouch - 2
+
+
+rcropPouchFleshy
+resourcefulcrops:ItemPouch - 1
+
+
+rcropPouchGlowstone
+resourcefulcrops:ItemPouch - 19
+
+
+rcropPouchGold
+resourcefulcrops:ItemPouch - 11
+
+
+rcropPouchInky
+resourcefulcrops:ItemPouch - 0
+
+
+rcropPouchIron
+resourcefulcrops:ItemPouch - 10
+
+
+rcropPouchLapis
+resourcefulcrops:ItemPouch - 21
+
+
+rcropPouchLeathery
+resourcefulcrops:ItemPouch - 5
+
+
+rcropPouchMindful
+resourcefulcrops:ItemPouch - 17
+
+
+rcropPouchQuartz
+resourcefulcrops:ItemPouch - 22
+
+
+rcropPouchRedstone
+resourcefulcrops:ItemPouch - 20
+
+
+rcropPouchSkelesprout
+resourcefulcrops:ItemPouch - 15
+
+
+rcropPouchSlimey
+resourcefulcrops:ItemPouch - 8
+
+
+rcropPouchStringy
+resourcefulcrops:ItemPouch - 6
+
+
+rcropPouchTeary
+resourcefulcrops:ItemPouch - 13
+
+
+rcropPouchWitherwheat
+resourcefulcrops:ItemPouch - 23
+
+
+rcropSeedBlaze
+resourcefulcrops:ItemSeed - 9
+
+
+rcropSeedBoney
+resourcefulcrops:ItemSeed - 7
+
+
+rcropSeedBrainy
+resourcefulcrops:ItemSeed - 16
+
+
+rcropSeedCharcoal
+resourcefulcrops:ItemSeed - 4
+
+
+rcropSeedCoal
+resourcefulcrops:ItemSeed - 3
+
+
+rcropSeedCreepots
+resourcefulcrops:ItemSeed - 18
+
+
+rcropSeedCreepy
+resourcefulcrops:ItemSeed - 14
+
+
+rcropSeedDiamond
+resourcefulcrops:ItemSeed - 24
+
+
+rcropSeedEmerald
+resourcefulcrops:ItemSeed - 25
+
+
+rcropSeedEnder
+resourcefulcrops:ItemSeed - 12
+
+
+rcropSeedFeathery
+resourcefulcrops:ItemSeed - 2
+
+
+rcropSeedFleshy
+resourcefulcrops:ItemSeed - 1
+
+
+rcropSeedGlowstone
+resourcefulcrops:ItemSeed - 19
+
+
+rcropSeedGold
+resourcefulcrops:ItemSeed - 11
+
+
+rcropSeedInky
+resourcefulcrops:ItemSeed - 0
+
+
+rcropSeedIron
+resourcefulcrops:ItemSeed - 10
+
+
+rcropSeedLapis
+resourcefulcrops:ItemSeed - 21
+
+
+rcropSeedLeathery
+resourcefulcrops:ItemSeed - 5
+
+
+rcropSeedMindful
+resourcefulcrops:ItemSeed - 17
+
+
+rcropSeedQuartz
+resourcefulcrops:ItemSeed - 22
+
+
+rcropSeedRedstone
+resourcefulcrops:ItemSeed - 20
+
+
+rcropSeedSkelesprout
+resourcefulcrops:ItemSeed - 15
+
+
+rcropSeedSlimey
+resourcefulcrops:ItemSeed - 8
+
+
+rcropSeedStringy
+resourcefulcrops:ItemSeed - 6
+
+
+rcropSeedTeary
+resourcefulcrops:ItemSeed - 13
+
+
+rcropSeedWitherwheat
+resourcefulcrops:ItemSeed - 23
+
+
+rcropShardBlaze
+resourcefulcrops:ItemShard - 9
+
+
+rcropShardBoney
+resourcefulcrops:ItemShard - 7
+
+
+rcropShardBrainy
+resourcefulcrops:ItemShard - 16
+
+
+rcropShardCharcoal
+resourcefulcrops:ItemShard - 4
+
+
+rcropShardCoal
+resourcefulcrops:ItemShard - 3
+
+
+rcropShardCreepots
+resourcefulcrops:ItemShard - 18
+
+
+rcropShardCreepy
+resourcefulcrops:ItemShard - 14
+
+
+rcropShardDiamond
+resourcefulcrops:ItemShard - 24
+
+
+rcropShardEmerald
+resourcefulcrops:ItemShard - 25
+
+
+rcropShardEnder
+resourcefulcrops:ItemShard - 12
+
+
+rcropShardFeathery
+resourcefulcrops:ItemShard - 2
+
+
+rcropShardFleshy
+resourcefulcrops:ItemShard - 1
+
+
+rcropShardGlowstone
+resourcefulcrops:ItemShard - 19
+
+
+rcropShardGold
+resourcefulcrops:ItemShard - 11
+
+
+rcropShardInky
+resourcefulcrops:ItemShard - 0
+
+
+rcropShardIron
+resourcefulcrops:ItemShard - 10
+
+
+rcropShardLapis
+resourcefulcrops:ItemShard - 21
+
+
+rcropShardLeathery
+resourcefulcrops:ItemShard - 5
+
+
+rcropShardMindful
+resourcefulcrops:ItemShard - 17
+
+
+rcropShardQuartz
+resourcefulcrops:ItemShard - 22
+
+
+rcropShardRedstone
+resourcefulcrops:ItemShard - 20
+
+
+rcropShardSkelesprout
+resourcefulcrops:ItemShard - 15
+
+
+rcropShardSlimey
+resourcefulcrops:ItemShard - 8
+
+
+rcropShardStringy
+resourcefulcrops:ItemShard - 6
+
+
+rcropShardTeary
+resourcefulcrops:ItemShard - 13
+
+
+rcropShardWitherwheat
+resourcefulcrops:ItemShard - 23
+
+
+record
+minecraft:record_13 - 0
+minecraft:record_cat - 0
+minecraft:record_blocks - 0
+minecraft:record_chirp - 0
+minecraft:record_far - 0
+minecraft:record_mall - 0
+minecraft:record_mellohi - 0
+minecraft:record_stal - 0
+minecraft:record_strad - 0
+minecraft:record_ward - 0
+minecraft:record_11 - 0
+minecraft:record_wait - 0
+biomesoplenty:record_corruption - 0
+biomesoplenty:record_wanderer - 0
+skyland:record_skyland - 0
+
+
+redstone
+
+
+redstoneCrystal
+buildcraft|silicon:redstoneCrystal - 0
+
+
+redstoneRoot
+botania:manaResource - 6
+
+
+rodBlaze
+minecraft:blaze_rod - 0
+
+
+runeAirB
+botania:rune - 3
+
+
+runeAutumnB
+botania:rune - 6
+
+
+runeEarthB
+botania:rune - 2
+
+
+runeEnvyB
+botania:rune - 14
+
+
+runeFireB
+botania:rune - 1
+
+
+runeGluttonyB
+botania:rune - 10
+
+
+runeGreedB
+botania:rune - 11
+
+
+runeLustB
+botania:rune - 9
+
+
+runeManaB
+botania:rune - 8
+
+
+runePrideB
+botania:rune - 15
+
+
+runeSlothB
+botania:rune - 12
+
+
+runeSpringB
+botania:rune - 4
+
+
+runeSummerB
+botania:rune - 5
+
+
+runeWaterB
+botania:rune - 0
+
+
+runeWinterB
+botania:rune - 7
+
+
+runeWrathB
+botania:rune - 13
+
+
+sand
+minecraft:sand - any
+minecraft:sand - 0
+
+
+sandstone
+minecraft:sandstone - any
+
+
+seedCanola
+actuallyadditions:itemCanolaSeed - 0
+
+
+seedCoffee
+actuallyadditions:itemCoffeeSeed - 0
+
+
+seedFlax
+actuallyadditions:itemFlaxSeed - 0
+
+
+seedRice
+actuallyadditions:itemRiceSeed - 0
+
+
+seedTurnip
+biomesoplenty:turnip_seeds - 0
+
+
+shardAir
+thaumcraft:shard - 0
+
+
+shardBalanced
+thaumcraft:shard - 7
+
+
+shardEarth
+thaumcraft:shard - 3
+
+
+shardEntropy
+thaumcraft:shard - 5
+
+
+shardFire
+thaumcraft:shard - 1
+
+
+shardOrder
+thaumcraft:shard - 4
+
+
+shardPrismarine
+botania:manaResource - 10
+
+
+shardTainted
+thaumcraft:shard - 6
+
+
+shardWater
+thaumcraft:shard - 2
+
+
+shardsGlass
+glass_shards:glass_shards - any
+
+
+shardsGlassBlack
+glass_shards:glass_shards - 15
+
+
+shardsGlassBlue
+glass_shards:glass_shards - 11
+
+
+shardsGlassBrown
+glass_shards:glass_shards - 12
+
+
+shardsGlassCyan
+glass_shards:glass_shards - 9
+
+
+shardsGlassGray
+glass_shards:glass_shards - 7
+
+
+shardsGlassGreen
+glass_shards:glass_shards - 13
+
+
+shardsGlassLightBlue
+glass_shards:glass_shards - 3
+
+
+shardsGlassLightGray
+glass_shards:glass_shards - 8
+
+
+shardsGlassLime
+glass_shards:glass_shards - 5
+
+
+shardsGlassMagenta
+glass_shards:glass_shards - 2
+
+
+shardsGlassOrange
+glass_shards:glass_shards - 1
+
+
+shardsGlassPink
+glass_shards:glass_shards - 6
+
+
+shardsGlassPurple
+glass_shards:glass_shards - 10
+
+
+shardsGlassRed
+glass_shards:glass_shards - 14
+
+
+shardsGlassWhite
+glass_shards:glass_shards - 0
+
+
+shardsGlassYellow
+glass_shards:glass_shards - 4
+
+
+shardsIce
+ice_shards:ice_shards - 0
+
+
+shovel
+skyland:skyrite_shovel - 0
+
+
+shovelSkyrite
+skyland:skyrite_shovel - 0
+
+
+skyFeather
+skyland:sky_feather - 0
+
+
+skyrite
+skyland:skyrite - 0
+
+
+skyriteBlock
+skyland:skyrite_block - 0
+
+
+skyriteOre
+skyland:skyrite_ore - 0
+
+
+slabCobblestone
+minecraft:stone_slab - 3
+
+
+slabWood
+minecraft:wooden_slab - any
+biomesoplenty:wood_slab_0 - 0
+biomesoplenty:wood_slab_0 - 1
+biomesoplenty:wood_slab_0 - 2
+biomesoplenty:wood_slab_0 - 3
+biomesoplenty:wood_slab_0 - 4
+biomesoplenty:wood_slab_0 - 5
+biomesoplenty:wood_slab_0 - 6
+biomesoplenty:wood_slab_0 - 7
+biomesoplenty:wood_slab_1 - 0
+biomesoplenty:wood_slab_1 - 1
+biomesoplenty:wood_slab_1 - 2
+biomesoplenty:wood_slab_1 - 3
+biomesoplenty:wood_slab_1 - 4
+biomesoplenty:wood_slab_1 - 5
+thaumcraft:slab_wood - 0
+thaumcraft:slab_wood - 1
+
+
+slimeball
+minecraft:slime_ball - 0
+tconstruct:edible - 1
+tconstruct:edible - 2
+tconstruct:edible - 3
+actuallyadditions:itemMisc - 12
+
+
+slimeballBlood
+tconstruct:edible - 3
+
+
+slimeballBlue
+tconstruct:edible - 1
+
+
+slimeballGreen
+minecraft:slime_ball - any
+
+
+slimeballPurple
+tconstruct:edible - 2
+
+
+slimecrystal
+tconstruct:materials - 9
+tconstruct:materials - 10
+
+
+slimecrystalBlue
+tconstruct:materials - 10
+
+
+slimecrystalGreen
+tconstruct:materials - 9
+
+
+snowLayer
+minecraft:snow_layer - 0
+
+
+soulSand
+minecraft:soul_sand - 0
+
+
+stairWood
+minecraft:oak_stairs - 0
+minecraft:spruce_stairs - 0
+minecraft:birch_stairs - 0
+minecraft:jungle_stairs - 0
+minecraft:acacia_stairs - 0
+minecraft:dark_oak_stairs - 0
+biomesoplenty:sacred_oak_stairs - 0
+biomesoplenty:cherry_stairs - 0
+biomesoplenty:dark_stairs - 0
+biomesoplenty:fir_stairs - 0
+biomesoplenty:ethereal_stairs - 0
+biomesoplenty:magic_stairs - 0
+biomesoplenty:mangrove_stairs - 0
+biomesoplenty:palm_stairs - 0
+biomesoplenty:redwood_stairs - 0
+biomesoplenty:willow_stairs - 0
+biomesoplenty:pine_stairs - 0
+biomesoplenty:hellbark_stairs - 0
+biomesoplenty:jacaranda_stairs - 0
+biomesoplenty:mahogany_stairs - 0
+sem:finsternisholztreppe - 0
+
+
+stickWood
+minecraft:stick - 0
+biomesoplenty:bamboo - 0
+biomesoplenty:plant_1 - 5
+
+
+stone
+minecraft:stone - 0
+
+
+stoneAndesite
+botania:stone - 0
+minecraft:stone - 5
+
+
+stoneAndesiteBricks
+botania:stone - 8
+
+
+stoneAndesiteChiseled
+botania:stone - 12
+
+
+stoneAndesitePolished
+botania:stone - 4
+minecraft:stone - 6
+
+
+stoneBasalt
+botania:stone - 1
+
+
+stoneBasaltBricks
+botania:stone - 9
+
+
+stoneBasaltChiseled
+botania:stone - 13
+
+
+stoneBasaltPolished
+botania:stone - 5
+
+
+stoneDiorite
+botania:stone - 2
+minecraft:stone - 3
+
+
+stoneDioriteBricks
+botania:stone - 10
+
+
+stoneDioriteChiseled
+botania:stone - 14
+
+
+stoneDioritePolished
+botania:stone - 6
+minecraft:stone - 4
+
+
+stoneGranite
+botania:stone - 3
+minecraft:stone - 1
+
+
+stoneGraniteBricks
+botania:stone - 11
+
+
+stoneGraniteChiseled
+botania:stone - 15
+
+
+stoneGranitePolished
+botania:stone - 7
+minecraft:stone - 2
+
+
+string
+
+
+sugar
+
+
+sword
+skyland:skyrite_sword - 0
+
+
+swordSkyrite
+skyland:skyrite_sword - 0
+
+
+teethBuffalo
+totemic:buffaloItems - 1
+
+
+tis3d:module
+tis3d:moduleAudio - 0
+tis3d:moduleBundledRedstone - 0
+tis3d:moduleDisplay - 0
+tis3d:moduleExecution - 0
+tis3d:moduleInfrared - 0
+tis3d:moduleKeypad - 0
+tis3d:moduleRedstone - 0
+tis3d:moduleSerialPort - 0
+tis3d:moduleStack - 0
+tis3d:moduleRandom - 0
+tis3d:moduleRandomAccessMemory - 0
+
+
+torchRedstoneActive
+minecraft:redstone_torch - 0
+
+
+treeLeaves
+minecraft:leaves - any
+minecraft:leaves2 - any
+biomesoplenty:leaves_0 - 8
+biomesoplenty:leaves_0 - 9
+biomesoplenty:leaves_0 - 10
+biomesoplenty:leaves_0 - 11
+biomesoplenty:leaves_1 - 8
+biomesoplenty:leaves_1 - 9
+biomesoplenty:leaves_1 - 10
+biomesoplenty:leaves_1 - 11
+biomesoplenty:leaves_2 - 8
+biomesoplenty:leaves_2 - 9
+biomesoplenty:leaves_2 - 10
+biomesoplenty:leaves_2 - 11
+biomesoplenty:leaves_3 - 8
+biomesoplenty:leaves_3 - 9
+biomesoplenty:leaves_3 - 10
+biomesoplenty:leaves_3 - 11
+biomesoplenty:leaves_4 - 8
+biomesoplenty:leaves_4 - 9
+biomesoplenty:leaves_4 - 10
+biomesoplenty:leaves_4 - 11
+biomesoplenty:leaves_5 - 8
+biomesoplenty:leaves_5 - 9
+biomesoplenty:leaves_5 - 10
+biomesoplenty:leaves_5 - 11
+tconstruct:slime_leaves - any
+totemic:totemLeaves - 0
+
+
+treeSapling
+minecraft:sapling - any
+biomesoplenty:sapling_0 - 0
+biomesoplenty:sapling_0 - 1
+biomesoplenty:sapling_0 - 2
+biomesoplenty:sapling_0 - 3
+biomesoplenty:sapling_0 - 4
+biomesoplenty:sapling_0 - 5
+biomesoplenty:sapling_0 - 6
+biomesoplenty:sapling_0 - 7
+biomesoplenty:sapling_1 - 0
+biomesoplenty:sapling_1 - 1
+biomesoplenty:sapling_1 - 2
+biomesoplenty:sapling_1 - 3
+biomesoplenty:sapling_1 - 4
+biomesoplenty:sapling_1 - 5
+biomesoplenty:sapling_1 - 6
+biomesoplenty:sapling_1 - 7
+biomesoplenty:sapling_2 - 0
+biomesoplenty:sapling_2 - 1
+biomesoplenty:sapling_2 - 2
+biomesoplenty:sapling_2 - 3
+biomesoplenty:sapling_2 - 4
+biomesoplenty:sapling_2 - 5
+thaumcraft:sapling - 0
+thaumcraft:sapling - 1
+tconstruct:slime_sapling - any
+thaumicbases:goldenOakSapling - 0
+
+
+vine
+minecraft:vine - any
+tconstruct:slime_vine_blue - any
+tconstruct:slime_vine_blue_mid - any
+tconstruct:slime_vine_blue_end - any
+tconstruct:slime_vine_purple - any
+tconstruct:slime_vine_purple_mid - any
+tconstruct:slime_vine_purple_end - any
+
+
+workbench
+minecraft:crafting_table - any
+tconstruct:tooltables - 0
+
+
+yellowDust
+
+

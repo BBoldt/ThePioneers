@@ -1,0 +1,572 @@
+[
+  {
+    "input": "oreRedstone",
+    "output": "minecraft:redstone:0",
+    "qty": 6,
+    "outputSecondary": "minecraft:redstone:0"
+  },
+  {
+    "input": "oreLapis",
+    "output": "minecraft:dye:4",
+    "qty": 6,
+    "outputSecondary": "minecraft:dye:4"
+  },
+  {
+    "input": "rodBlaze",
+    "output": "minecraft:blaze_powder:0",
+    "qty": 5,
+    "outputSecondary": "minecraft:blaze_powder:0"
+  },
+  {
+    "input": "cobblestone",
+    "output": "minecraft:sand:0",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "minecraft:bone:0",
+    "output": "minecraft:dye:15",
+    "qty": 4,
+    "outputSecondary": "minecraft:dye:15"
+  },
+  {
+    "input": "oreQuartz",
+    "output": "minecraft:quartz:0",
+    "qty": 3,
+    "outputSecondary": "minecraft:quartz:0"
+  },
+  {
+    "input": "minecraft:clay:0",
+    "output": "minecraft:clay_ball:0",
+    "qty": 4,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreDiamond",
+    "output": "minecraft:diamond:0",
+    "qty": 2,
+    "outputSecondary": "minecraft:diamond:0"
+  },
+  {
+    "input": "oreEmerald",
+    "output": "minecraft:emerald:0",
+    "qty": 2,
+    "outputSecondary": "minecraft:emerald:0"
+  },
+  {
+    "input": "glowstone",
+    "output": "minecraft:glowstone_dust:0",
+    "qty": 3,
+    "outputSecondary": "minecraft:glowstone_dust:0"
+  },
+  {
+    "input": "oreCoal",
+    "output": "minecraft:coal:0",
+    "qty": 3,
+    "outputSecondary": "minecraft:coal:0"
+  },
+  {
+    "input": "minecraft:wool:0",
+    "output": "minecraft:string:0",
+    "qty": 3,
+    "outputSecondary": "minecraft:string:0"
+  },
+  {
+    "input": "blockGlass",
+    "output": "minecraft:sand:0",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "gravel",
+    "output": "minecraft:flint:0",
+    "qty": 1,
+    "outputSecondary": "minecraft:flint:0"
+  },
+  {
+    "input": "ingotIron",
+    "output": "foundry:foundryDust:17",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotGold",
+    "output": "foundry:foundryDust:18",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotBrass",
+    "output": "foundry:foundryDust:7",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotCopper",
+    "output": "foundry:foundryDust:0",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotTin",
+    "output": "foundry:foundryDust:1",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotBronze",
+    "output": "foundry:foundryDust:2",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotElectrum",
+    "output": "foundry:foundryDust:3",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotInvar",
+    "output": "foundry:foundryDust:4",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotNickel",
+    "output": "foundry:foundryDust:5",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotZinc",
+    "output": "foundry:foundryDust:6",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotSilver",
+    "output": "foundry:foundryDust:8",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotSteel",
+    "output": "foundry:foundryDust:9",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotLead",
+    "output": "foundry:foundryDust:10",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotAluminum",
+    "output": "foundry:foundryDust:11",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotChromium",
+    "output": "foundry:foundryDust:12",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotPlatinum",
+    "output": "foundry:foundryDust:13",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotManganese",
+    "output": "foundry:foundryDust:14",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotTitanium",
+    "output": "foundry:foundryDust:15",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotCupronickel",
+    "output": "foundry:foundryDust:16",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreCopper",
+    "output": "foundry:foundryDust:0",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreTin",
+    "output": "foundry:foundryDust:1",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreNickel",
+    "output": "foundry:foundryDust:5",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreZinc",
+    "output": "foundry:foundryDust:6",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreSilver",
+    "output": "foundry:foundryDust:8",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreLead",
+    "output": "foundry:foundryDust:10",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "orePlatinum",
+    "output": "foundry:foundryDust:13",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreIron",
+    "output": "foundry:foundryDust:17",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreGold",
+    "output": "foundry:foundryDust:18",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotDevilsIron",
+    "output": "sem:normaleitems:32",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreDevilsIron",
+    "output": "sem:normaleitems:32",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreSalt",
+    "output": "sem:normaleitems:22",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreSulfur",
+    "output": "sem:normaleitems:34",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotCobalt",
+    "output": "techreborn:dust:20",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotArdite",
+    "output": "techreborn:dust:6",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotManyullyn",
+    "output": "techreborn:dust:49",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreQuartzBlack",
+    "output": "actuallyadditions:itemDust:7",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreArdite",
+    "output": "techreborn:dust:6",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreBauxite",
+    "output": "techreborn:dust:9",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreCinnabar",
+    "output": "techreborn:dust:17",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreCobalt",
+    "output": "techreborn:dust:20",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreGalena",
+    "output": "techreborn:dust:32",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreIridium",
+    "output": "techreborn:dust:38",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "orePeridot",
+    "output": "techreborn:dust:57",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "orePyrite",
+    "output": "techreborn:dust:61",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreRuby",
+    "output": "techreborn:dust:65",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreSapphire",
+    "output": "techreborn:dust:67",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreSodalite",
+    "output": "techreborn:dust:71",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreSphalerite",
+    "output": "techreborn:dust:73",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreTetrahedrite",
+    "output": "techreborn:dust:78",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreTungsten",
+    "output": "techreborn:dust:81",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotAluminium",
+    "output": "techreborn:dust:2",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotAntimony",
+    "output": "techreborn:dust:5",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotCadmium",
+    "output": "techreborn:dust:13",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotChrome",
+    "output": "techreborn:dust:16",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotIndium",
+    "output": "techreborn:dust:36",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotIridium",
+    "output": "techreborn:dust:38",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotKanthal",
+    "output": "techreborn:dust:40",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotLodestone",
+    "output": "techreborn:dust:45",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotNichrome",
+    "output": "techreborn:dust:53",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotOsmium",
+    "output": "techreborn:dust:56",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotTellurium",
+    "output": "techreborn:dust:76",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotTungsten",
+    "output": "techreborn:dust:81",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotRuby",
+    "output": "techreborn:dust:65",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotSapphire",
+    "output": "techreborn:dust:67",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotPeridot",
+    "output": "techreborn:dust:57",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotYellowGarnet",
+    "output": "techreborn:dust:85",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotRedGarnet",
+    "output": "techreborn:dust:63",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotAluminumBrass",
+    "output": "techreborn:dust:1",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotLapis",
+    "output": "actuallyadditions:itemDust:4",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotDiamond",
+    "output": "actuallyadditions:itemDust:2",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotRedstone",
+    "output": "minecraft:redstone:0",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotEmerald",
+    "output": "actuallyadditions:itemDust:3",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotQuartz",
+    "output": "actuallyadditions:itemDust:5",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotCoal",
+    "output": "actuallyadditions:itemDust:6",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotGlass",
+    "output": "glass_shards:glass_shards:32767",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotGlowstone",
+    "output": "minecraft:glowstone_dust:0",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotCinnabar",
+    "output": "techreborn:dust:17",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotSalt",
+    "output": "sem:normaleitems:22",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotSulfur",
+    "output": "sem:normaleitems:34",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotObsidian",
+    "output": "sem:normaleitems:9",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotFlour",
+    "output": "sem:normaleitems:24",
+    "qty": 1,
+    "outputSecondary": ""
+  }
+]

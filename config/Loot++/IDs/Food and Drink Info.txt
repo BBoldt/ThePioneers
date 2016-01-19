@@ -1,0 +1,906 @@
+## Foods and Drinks (Note it's still a bit WIP)                ##
+#################################################################
+## In the form:                                                ##
+## <effect id>                                                 ##
+##    - Metadata: <item metadata>                              ##
+##    - Food or Drink? <Food or Drink (or Unknown)>            ##
+##    - Food Amount: <Number of food points restored>          ##
+##    - Saturation Amount: <Number of saturation points given> ##
+################################################################
+actuallyadditions:itemCoffee
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+actuallyadditions:itemCoffeeBeans
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+actuallyadditions:itemFood
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.5
+
+
+actuallyadditions:itemJam
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.1
+
+
+biomesoplenty:ambrosia
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Amount: 6
+	- Saturation Amount: 0.8
+
+
+biomesoplenty:berries
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+biomesoplenty:earth
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 0
+	- Saturation Amount: 0.0
+
+
+biomesoplenty:filled_honeycomb
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.4
+
+
+biomesoplenty:peach
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 0.2
+
+
+biomesoplenty:pear
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 0.3
+
+
+biomesoplenty:persimmon
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 0.2
+
+
+biomesoplenty:ricebowl
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.6
+
+
+biomesoplenty:saladfruit
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.6
+
+
+biomesoplenty:saladshroom
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.6
+
+
+biomesoplenty:saladveggie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.6
+
+
+biomesoplenty:shroompowder
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+biomesoplenty:turnip
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.4
+
+
+biomesoplenty:wildcarrots
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.5
+
+
+botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+botania:infiniteFruit
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+botania:manaBottle
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+botania:manaCookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 0
+	- Saturation Amount: 0.1
+
+
+cfm:item_bread_slice
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.6
+
+
+cfm:item_cup
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+cfm:item_drink
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+cfm:item_flesh
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 2.0
+
+
+cfm:item_flesh_cooked
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 4.0
+
+
+cfm:item_toast
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.6
+
+
+fe:ItemBacon
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+fe:ItemBaconAndEgg
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 7
+	- Saturation Amount: 0.8
+
+
+fe:ItemBatWing
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+fe:ItemBlazeCream
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.4
+
+
+fe:ItemCactusFruit
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+fe:ItemCarrotPie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 0.8
+
+
+fe:ItemCarrotSeedSoup
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 0.8
+
+
+fe:ItemChocolateBar
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 1.0
+
+
+fe:ItemCompressedFlesh
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.2
+
+
+fe:ItemCookedBacon
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.4
+
+
+fe:ItemCookedBatWing
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.2
+
+
+fe:ItemCookedHorseMeat
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 0.8
+
+
+fe:ItemCookedMushroom
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+fe:ItemCookedSquid
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.5
+
+
+fe:ItemForbiddenFruit
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 20.0
+
+
+fe:ItemFriedEgg
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+fe:ItemHorseMeat
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.3
+
+
+fe:ItemJelly
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.6
+
+
+fe:ItemMelonSalad
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.6
+
+
+fe:ItemNetherWartSoup
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.4
+
+
+fe:ItemRoastedSeed
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+fe:ItemSpiderSoup
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.4
+
+
+fe:ItemSquid
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+mahmeat:multi_meat_item
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.2
+
+
+minecraft:apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.3
+
+
+minecraft:baked_potato
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 0.6
+
+
+minecraft:beef
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.3
+
+
+minecraft:bread
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 0.6
+
+
+minecraft:carrot
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.6
+
+
+minecraft:chicken
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+minecraft:cooked_beef
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 0.8
+
+
+minecraft:cooked_chicken
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.6
+
+
+minecraft:cooked_fish
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 0.6
+
+
+minecraft:cooked_mutton
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.8
+
+
+minecraft:cooked_porkchop
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 0.8
+
+
+minecraft:cooked_rabbit
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 0.6
+
+
+minecraft:cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:golden_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.2
+
+
+minecraft:golden_carrot
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 1.2
+
+
+minecraft:melon
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+minecraft:milk_bucket
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:mushroom_stew
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.6
+
+
+minecraft:mutton
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+minecraft:poisonous_potato
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+minecraft:porkchop
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.3
+
+
+minecraft:potato
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+minecraft:potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:pumpkin_pie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 0.3
+
+
+minecraft:rabbit
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.3
+
+
+minecraft:rabbit_stew
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 10
+	- Saturation Amount: 0.6
+
+
+minecraft:rotten_flesh
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.1
+
+
+minecraft:spider_eye
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.8
+
+
+moswords:applesword
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 0.6
+
+
+moswords:breadsword
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 16
+	- Saturation Amount: 0.6
+
+
+moswords:chickensword
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 14
+	- Saturation Amount: 0.6
+
+
+moswords:cookiesword
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.6
+
+
+moswords:fishsword
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 17
+	- Saturation Amount: 0.6
+
+
+moswords:goldenapllesword
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 0.6
+
+
+moswords:karotsword
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.6
+
+
+moswords:licorice
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 2.0
+
+
+moswords:licoricesword
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 0.6
+
+
+moswords:melonsword
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.6
+
+
+moswords:porksword
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 14
+	- Saturation Amount: 0.6
+
+
+moswords:potatosword
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.6
+
+
+moswords:steaksword
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 18
+	- Saturation Amount: 0.6
+
+
+moswords:sugarsword
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.6
+
+
+practicalities:hamCheese
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 10
+	- Saturation Amount: 1.0
+
+
+randomthings:beanStew
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 0.6
+
+
+randomthings:bottleOfAir
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+randomthings:chaliceOfImmortality
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+randomthings:imbue
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+sem:bier
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+sem:kaese
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 1.0
+
+
+sem:kaesebrot
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 10
+	- Saturation Amount: 1.0
+
+
+sem:kartoffelbrot
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 9
+	- Saturation Amount: 1.0
+
+
+sem:pfannkuchen
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 1.0
+
+
+sem:schinken
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 1.0
+
+
+sem:schinkenbrot
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 10
+	- Saturation Amount: 1.0
+
+
+sem:spiegelei
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 1.0
+
+
+sem:waffel
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 7
+	- Saturation Amount: 1.0
+
+
+tconstruct:edible
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.6
+
+
+thaumcraft:brain
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.2
+
+
+thaumcraft:chunk
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+thaumcraft:triple_meat_treat
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.8
+
+
+thaumicbases:rosehipSyrup
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+thelittlethings:tlt_food_choco_cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 7.2
+
+
+thelittlethings:tlt_food_mushroom_stew
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 7.2
+
+
+thelittlethings:tlt_food_rabbit_stew
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 10
+	- Saturation Amount: 12.0
+
+
+thelittlethings:tlt_food_roasted_mushroom
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 7.2
+
+
+thelittlethings:tlt_food_spicy_chicken
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 10.0
+
+
+thelittlethings:tlt_food_spicy_fish
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 9.0
+
+
+thelittlethings:tlt_food_spicy_mushroom
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 10.0
+
+
+thelittlethings:tlt_food_spicy_mutton
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 12.0
+
+
+thelittlethings:tlt_food_spicy_porkchop
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 7
+	- Saturation Amount: 15.0
+
+
+thelittlethings:tlt_food_spicy_potato
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 10.0
+
+
+thelittlethings:tlt_food_spicy_rabbit
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 9.0
+
+
+thelittlethings:tlt_food_spicy_salmon
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 12.0
+
+
+thelittlethings:tlt_food_spicy_steak
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 7
+	- Saturation Amount: 15.0
+
+
+totemic:buffaloCookedMeat
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 9
+	- Saturation Amount: 0.9
+
+
+totemic:buffaloMeat
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.35
+
+
