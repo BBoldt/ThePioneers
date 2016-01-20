@@ -67,6 +67,10 @@ Ozelot
 Painting
 Pig
 PigZombie
+PneumaticCraft.Drone
+PneumaticCraft.Ring
+PneumaticCraft.Vortex
+PneumaticCraft.logisticDrone
 PrimedTnt
 Rabbit
 RandomThings.playerSoul

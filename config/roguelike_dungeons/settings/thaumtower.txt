@@ -1,0 +1,55 @@
+{
+	"name" : "thaumtower",
+	"tower" : {
+        "type" : "ENIKO",
+        "theme" : {
+            "base" : "NETHER",
+            "primary": {
+					"walls" : {
+                        "type" : "WEIGHTED", 
+                        "data" : [
+                            {"type" : "METABLOCK", "data" : {"name" : "chisel:arcane", "meta" : 4}, "weight" : 80},
+                            {"type" : "METABLOCK", "data" : {"name" : "thaumcraft:stone", "meta" : 1}, "weight" : 15},
+                            {"type" : "METABLOCK", "data" : {"name" : "chisel:arcane", "meta" : 1}, "weight" : 1},
+                            {"type" : "METABLOCK", "data" : {"name" : "chisel:arcane", "meta" : 10}, "weight" : 4}
+                        ]
+                    },
+					"pillar" : {
+						"type" : "METABLOCK",
+						"data" : {
+							"name" : "chisel:obsidian",
+							"meta" : 14
+						}
+					},
+					"stair" : {
+						"type" : "METABLOCK",
+						"data" : {
+							"name" : "botania:biomeStoneB3Stairs"
+						}
+					}
+				},
+				"secondary": {
+					"walls" : {
+                        "type" : "WEIGHTED", 
+                        "data" : [
+                            {"type" : "METABLOCK", "data" : {"name" : "botania:biomeStoneB", "meta" : 3}, "weight" : 70},
+                            {"type" : "METABLOCK", "data" : {"name" : "botania:biomeStoneB", "meta" : 11}, "weight" : 30}
+                        ]
+                    },
+					"pillar" : {
+						"type" : "METABLOCK",
+						"data" : {
+							"name" : "chisel:obsidian",
+							"meta" : 14
+						}
+					},
+					"stair" : {
+						"type" : "METABLOCK",
+						"data" : {
+							"name" : "botania:biomeStoneB3Stairs"
+						}
+					}
+				}
+        }
+    }
+}

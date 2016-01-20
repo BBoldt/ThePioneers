@@ -9,14 +9,6 @@ actAddCrystalRed
 actuallyadditions:itemCrystal - 0
 
 
-axe
-skyland:skyrite_axe - 0
-
-
-axeSkyrite
-skyland:skyrite_axe - 0
-
-
 bEnderAirBottle
 botania:manaResource - 15
 
@@ -401,6 +393,13 @@ minecraft:iron_block - 0
 thaumicbases:oldIron - 0
 
 
+blockIronCompressed
+pneumaticcraft:compressedIronBlock - 0
+
+
+blockIroncompressed
+
+
 blockIronwood
 
 
@@ -601,10 +600,6 @@ blockSignalum
 blockSilver
 foundry:blockMetal1 - 8
 techreborn:techreborn.storage - 0
-
-
-blockSkyrite
-skyland:skyrite_block - 0
 
 
 blockSlime
@@ -2308,6 +2303,12 @@ techreborn:dust - 39
 crisscross:dust - 0
 
 
+dustIronCompressed
+
+
+dustIroncompressed
+
+
 dustIronwood
 
 
@@ -2570,9 +2571,6 @@ techreborn:dust - 69
 dustSilver
 foundry:foundryDust - 8
 techreborn:dust - 70
-
-
-dustSkyrite
 
 
 dustSlime
@@ -3613,7 +3611,6 @@ eyeOfEnder
 
 
 feather
-skyland:sky_feather - 0
 
 
 fenceGateWood
@@ -4157,8 +4154,8 @@ gemAluminum
 
 
 gemAmber
-biomesoplenty:gem - 7
 thaumcraft:amber - 0
+biomesoplenty:gem - 7
 
 
 gemAmethyst
@@ -4393,10 +4390,6 @@ gemShadowSteel
 gemSilver
 
 
-gemSkyrite
-skyland:skyrite - 0
-
-
 gemStainlessSteel
 
 
@@ -4476,14 +4469,6 @@ minecraft:hardened_clay - any
 
 hideBuffalo
 totemic:buffaloItems - 0
-
-
-hoe
-skyland:skyrite_hoe - 0
-
-
-hoeSkyrite
-skyland:skyrite_hoe - 0
 
 
 hopper
@@ -4817,6 +4802,13 @@ ingotIron
 minecraft:iron_ingot - 0
 
 
+ingotIronCompressed
+pneumaticcraft:ingotIronCompressed - 0
+
+
+ingotIroncompressed
+
+
 ingotIronwood
 
 
@@ -5013,9 +5005,6 @@ foundry:foundryIngot - 8
 techreborn:ingot - 23
 
 
-ingotSkyrite
-
-
 ingotSlime
 
 
@@ -5198,6 +5187,8 @@ botania:manaResource - 3
 logWood
 minecraft:log - any
 minecraft:log2 - any
+thaumcraft:log - 0
+thaumcraft:log - 3
 biomesoplenty:log_0 - 4
 biomesoplenty:log_0 - 5
 biomesoplenty:log_0 - 6
@@ -5214,8 +5205,6 @@ biomesoplenty:log_3 - 4
 biomesoplenty:log_3 - 5
 biomesoplenty:log_3 - 6
 biomesoplenty:log_3 - 7
-thaumcraft:log - 0
-thaumcraft:log - 3
 sem:finsternisbaumstamm - 0
 thaumicbases:genLogs - any
 totemic:cedarLog - 0
@@ -6300,8 +6289,8 @@ oreAluminum
 
 
 oreAmber
-biomesoplenty:gem_ore - 7
 thaumcraft:ore_amber - 0
+biomesoplenty:gem_ore - 7
 
 
 oreAmethyst
@@ -6890,10 +6879,6 @@ foundry:ore - 4
 techreborn:techreborn.ore - 15
 
 
-oreSkyrite
-skyland:skyrite_ore - 0
-
-
 oreSodalite
 techreborn:techreborn.ore - 11
 
@@ -7144,14 +7129,6 @@ petalYellow
 botania:petal - 4
 
 
-pickaxe
-skyland:skyrite_pickaxe - 0
-
-
-pickaxeSkyrite
-skyland:skyrite_pickaxe - 0
-
-
 pipeStructure
 neotech:pipeStructure - 0
 neotech:pipeStructure - 1
@@ -7176,6 +7153,8 @@ pistonStickyBase
 
 plankWood
 minecraft:planks - any
+thaumcraft:plank - 0
+thaumcraft:plank - 1
 biomesoplenty:planks_0 - 0
 biomesoplenty:planks_0 - 1
 biomesoplenty:planks_0 - 2
@@ -7190,8 +7169,6 @@ biomesoplenty:planks_0 - 10
 biomesoplenty:planks_0 - 11
 biomesoplenty:planks_0 - 12
 biomesoplenty:planks_0 - 13
-thaumcraft:plank - 0
-thaumcraft:plank - 1
 sem:finsternisholz - 0
 thaumicbases:planks - any
 totemic:redCedarPlank - 0
@@ -8516,7 +8493,6 @@ minecraft:record_11 - 0
 minecraft:record_wait - 0
 biomesoplenty:record_corruption - 0
 biomesoplenty:record_wanderer - 0
-skyland:record_skyland - 0
 
 
 redstone
@@ -8735,36 +8711,14 @@ shardsIce
 ice_shards:ice_shards - 0
 
 
-shovel
-skyland:skyrite_shovel - 0
-
-
-shovelSkyrite
-skyland:skyrite_shovel - 0
-
-
-skyFeather
-skyland:sky_feather - 0
-
-
-skyrite
-skyland:skyrite - 0
-
-
-skyriteBlock
-skyland:skyrite_block - 0
-
-
-skyriteOre
-skyland:skyrite_ore - 0
-
-
 slabCobblestone
 minecraft:stone_slab - 3
 
 
 slabWood
 minecraft:wooden_slab - any
+thaumcraft:slab_wood - 0
+thaumcraft:slab_wood - 1
 biomesoplenty:wood_slab_0 - 0
 biomesoplenty:wood_slab_0 - 1
 biomesoplenty:wood_slab_0 - 2
@@ -8779,8 +8733,6 @@ biomesoplenty:wood_slab_1 - 2
 biomesoplenty:wood_slab_1 - 3
 biomesoplenty:wood_slab_1 - 4
 biomesoplenty:wood_slab_1 - 5
-thaumcraft:slab_wood - 0
-thaumcraft:slab_wood - 1
 
 
 slimeball
@@ -8938,14 +8890,6 @@ string
 sugar
 
 
-sword
-skyland:skyrite_sword - 0
-
-
-swordSkyrite
-skyland:skyrite_sword - 0
-
-
 teethBuffalo
 totemic:buffaloItems - 1
 
@@ -9001,6 +8945,8 @@ totemic:totemLeaves - 0
 
 treeSapling
 minecraft:sapling - any
+thaumcraft:sapling - 0
+thaumcraft:sapling - 1
 biomesoplenty:sapling_0 - 0
 biomesoplenty:sapling_0 - 1
 biomesoplenty:sapling_0 - 2
@@ -9023,8 +8969,6 @@ biomesoplenty:sapling_2 - 2
 biomesoplenty:sapling_2 - 3
 biomesoplenty:sapling_2 - 4
 biomesoplenty:sapling_2 - 5
-thaumcraft:sapling - 0
-thaumcraft:sapling - 1
 tconstruct:slime_sapling - any
 thaumicbases:goldenOakSapling - 0
 

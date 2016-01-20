@@ -1,0 +1,13 @@
+{
+	"name" : "darkthaum",
+	"criteria" : {
+		"biomeTypes" : [
+			"WASTELAND"
+		],
+		"weight" : 1
+	},
+	"inherit" : [
+		"thaumtower",
+		"darkthaum"
+	]
+}

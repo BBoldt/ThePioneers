@@ -36,39 +36,12 @@
 	- Terrain Scale: 1.0
 
 
--4
-	- Name: Skyland
-	- Height: 256
-	- Has Sky? true
-	- Cloud Height: 1.5
-	- Can Respawn Here? true
-	- Terrain Scale: 1.0
-
-
--7
-	- Name: Sugi Forest
-	- Height: 256
-	- Has Sky? true
-	- Cloud Height: 150.0
-	- Can Respawn Here? true
-	- Terrain Scale: 1.0
-
-
 -42
 	- Name: The Outer Lands
 	- Height: 128
 	- Has Sky? false
 	- Cloud Height: 1.0
 	- Can Respawn Here? false
-	- Terrain Scale: 1.0
-
-
--9
-	- Name: The Void
-	- Height: 256
-	- Has Sky? false
-	- Cloud Height: 0.0
-	- Can Respawn Here? true
 	- Terrain Scale: 1.0
 
 
