@@ -229,7 +229,7 @@
         
 		"packTxt":
         {
-            "text" : "The Pioneers - Release 0.7 -ALPHA-",
+            "text" : "The Pioneers - Release 0.8 -BETA-",
             "posX" : 5,
             "posY" : 5,
             "color" : -1,
@@ -245,13 +245,7 @@
             "slideshow":
             {
                 "images" : [
-					"custommainmenu:scrn/1.png",
-                    "custommainmenu:scrn/2.png",
-                    "custommainmenu:scrn/3.png",
-                    "custommainmenu:scrn/4.png",
-                    "custommainmenu:scrn/5.png",
-                    "custommainmenu:scrn/6.png",
-                    "custommainmenu:scrn/7.png"
+					"custommainmenu:scrn/1.png"
 							],
 				"displayDuration" : 100,
 				"fadeDuration" : 40,

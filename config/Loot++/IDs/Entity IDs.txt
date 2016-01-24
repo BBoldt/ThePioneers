@@ -2,10 +2,6 @@
 ArmorStand
 Arrow
 Bat
-BiomesOPlenty.dart
-BiomesOPlenty.mudball
-BiomesOPlenty.pixie
-BiomesOPlenty.wasp
 Blaze
 BloodMagic.BloodLight
 BloodMagic.SoulArrow
@@ -159,6 +155,7 @@ cfm.Mirror
 cfm.MountableBlock
 foundry.gunSkeleton
 lootplusplus.ThrownItem
+miab.JohnCena
 miab.memeSplash
 moSwords.ThrownKnife
 moSwords.ThrownLB

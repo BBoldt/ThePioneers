@@ -107,6 +107,7 @@ blockBrickseared
 
 blockBronze
 foundry:blockMetal1 - 2
+neotech:blockBronze - 0
 sem:metallbloecke - 0
 
 
@@ -437,9 +438,6 @@ techreborn:techreborn.storage2 - 1
 blockLumium
 
 
-blockMalachite
-
-
 blockManasteel
 botania:storage - 0
 
@@ -450,13 +448,6 @@ foundry:blockMetal1 - 14
 
 blockManyullyn
 tconstruct:metal - 2
-
-
-blockMeatRaw
-biomesoplenty:flesh - 0
-
-
-blockMeatraw
 
 
 blockMetal
@@ -650,9 +641,6 @@ blockStone
 
 
 blockSulfur
-
-
-blockTanzanite
 
 
 blockTartarite
@@ -1134,18 +1122,6 @@ cropFlax
 minecraft:string - 0
 
 
-cropPeach
-biomesoplenty:peach - 0
-
-
-cropPear
-biomesoplenty:pear - 0
-
-
-cropPersimmon
-biomesoplenty:persimmon - 0
-
-
 cropPotato
 minecraft:potato - 0
 
@@ -1154,20 +1130,12 @@ cropRice
 actuallyadditions:itemFood - 16
 
 
-cropTurnip
-biomesoplenty:turnip - 0
-
-
 cropVine
 minecraft:vine - 0
 
 
 cropWheat
 minecraft:wheat - 0
-
-
-cropWildcarrots
-biomesoplenty:wildcarrots - 0
 
 
 crushedAdamantine
@@ -2383,9 +2351,6 @@ dustMarble
 techreborn:dust - 50
 
 
-dustMeatraw
-
-
 dustMetal
 
 
@@ -3507,7 +3472,6 @@ minecraft:dye - any
 
 dyeBlack
 minecraft:dye - 0
-biomesoplenty:black_dye - 0
 botania:dye - 15
 actuallyadditions:itemMisc - 17
 charsettweaks:graphite - 0
@@ -3515,13 +3479,11 @@ charsettweaks:graphite - 0
 
 dyeBlue
 minecraft:dye - 4
-biomesoplenty:blue_dye - 0
 botania:dye - 11
 
 
 dyeBrown
 minecraft:dye - 3
-biomesoplenty:brown_dye - 0
 botania:dye - 12
 
 
@@ -3537,7 +3499,6 @@ botania:dye - 7
 
 dyeGreen
 minecraft:dye - 2
-biomesoplenty:green_dye - 0
 botania:dye - 13
 
 
@@ -3583,7 +3544,6 @@ botania:dye - 14
 
 dyeWhite
 minecraft:dye - 15
-biomesoplenty:white_dye - 0
 botania:dye - 0
 
 
@@ -3613,160 +3573,10 @@ eyeOfEnder
 feather
 
 
-fenceGateWood
-biomesoplenty:sacred_oak_fence_gate - 0
-biomesoplenty:cherry_fence_gate - 0
-biomesoplenty:dark_fence_gate - 0
-biomesoplenty:fir_fence_gate - 0
-biomesoplenty:ethereal_fence_gate - 0
-biomesoplenty:magic_fence_gate - 0
-biomesoplenty:mangrove_fence_gate - 0
-biomesoplenty:palm_fence_gate - 0
-biomesoplenty:redwood_fence_gate - 0
-biomesoplenty:willow_fence_gate - 0
-biomesoplenty:pine_fence_gate - 0
-biomesoplenty:hellbark_fence_gate - 0
-biomesoplenty:jacaranda_fence_gate - 0
-biomesoplenty:mahogany_fence_gate - 0
-
-
 fenceIron
 
 
-fenceWood
-biomesoplenty:sacred_oak_fence - 0
-biomesoplenty:cherry_fence - 0
-biomesoplenty:dark_fence - 0
-biomesoplenty:fir_fence - 0
-biomesoplenty:ethereal_fence - 0
-biomesoplenty:magic_fence - 0
-biomesoplenty:mangrove_fence - 0
-biomesoplenty:palm_fence - 0
-biomesoplenty:redwood_fence - 0
-biomesoplenty:willow_fence - 0
-biomesoplenty:pine_fence - 0
-biomesoplenty:hellbark_fence - 0
-biomesoplenty:jacaranda_fence - 0
-biomesoplenty:mahogany_fence - 0
-
-
 fermentedSpiderEye
-
-
-flowerBlueHydrangea
-biomesoplenty:flower_0 - 4
-
-
-flowerBluebells
-biomesoplenty:flower_1 - 2
-
-
-flowerBromeliad
-biomesoplenty:flower_0 - 11
-
-
-flowerBurningBlossom
-biomesoplenty:flower_0 - 15
-
-
-flowerClover
-biomesoplenty:flower_0 - 0
-
-
-flowerDandelion
-biomesoplenty:flower_0 - 12
-
-
-flowerDeathbloom
-biomesoplenty:flower_0 - 2
-
-
-flowerEnderlotus
-biomesoplenty:flower_0 - 10
-
-
-flowerGlowflower
-biomesoplenty:flower_0 - 3
-
-
-flowerGoldenrod
-biomesoplenty:flower_1 - 1
-
-
-flowerIcyIris
-biomesoplenty:flower_1 - 4
-
-
-flowerLavender
-biomesoplenty:flower_1 - 0
-
-
-flowerLilyOfTheValley
-biomesoplenty:flower_0 - 14
-
-
-flowerMinersDelight
-biomesoplenty:flower_1 - 3
-
-
-flowerOrangeCosmos
-biomesoplenty:flower_0 - 5
-
-
-flowerPinkDaffodil
-biomesoplenty:flower_0 - 6
-
-
-flowerPinkHibiscus
-biomesoplenty:flower_0 - 13
-
-
-flowerRose
-biomesoplenty:flower_1 - 5
-
-
-flowerSwampflower
-biomesoplenty:flower_0 - 1
-
-
-flowerViolet
-biomesoplenty:flower_0 - 8
-
-
-flowerWhiteAnemone
-biomesoplenty:flower_0 - 9
-
-
-flowerWildflower
-biomesoplenty:flower_0 - 7
-
-
-foodAmbrosia
-biomesoplenty:ambrosia - 0
-
-
-foodBowlofrice
-biomesoplenty:ricebowl - 0
-
-
-foodFilledhoneycomb
-biomesoplenty:filled_honeycomb - 0
-
-
-foodFruitsalad
-biomesoplenty:saladfruit - 0
-
-
-foodMushroompowder
-biomesoplenty:shroompowder - 0
-
-
-foodMushroomsalad
-biomesoplenty:saladshroom - 0
-
-
-foodVeggiesalad
-biomesoplenty:saladveggie - 0
 
 
 gaiaIngot
@@ -4155,7 +3965,6 @@ gemAluminum
 
 gemAmber
 thaumcraft:amber - 0
-biomesoplenty:gem - 7
 
 
 gemAmethyst
@@ -4293,10 +4102,6 @@ gemLead
 gemLemurite
 
 
-gemMalachite
-biomesoplenty:gem - 5
-
-
 gemManganese
 
 
@@ -4331,7 +4136,6 @@ gemOureclase
 
 
 gemPeridot
-biomesoplenty:gem - 2
 techreborn:gem - 2
 
 
@@ -4369,7 +4173,6 @@ gemRubracium
 
 
 gemRuby
-biomesoplenty:gem - 1
 techreborn:gem - 0
 
 
@@ -4377,7 +4180,6 @@ gemSanguinite
 
 
 gemSapphire
-biomesoplenty:gem - 6
 techreborn:gem - 1
 
 
@@ -4402,10 +4204,6 @@ gemSteeleaf
 gemStone
 
 
-gemTanzanite
-biomesoplenty:gem - 4
-
-
 gemTartarite
 
 
@@ -4419,7 +4217,6 @@ gemTitanium
 
 
 gemTopaz
-biomesoplenty:gem - 3
 
 
 gemTungsten
@@ -4848,9 +4645,6 @@ ingotMagnalium
 techreborn:ingot - 18
 
 
-ingotMalachite
-
-
 ingotManasteel
 botania:manaResource - 0
 
@@ -4861,9 +4655,6 @@ foundry:foundryIngot - 14
 
 ingotManyullyn
 tconstruct:ingots - 2
-
-
-ingotMeatraw
 
 
 ingotMetal
@@ -5044,9 +4835,6 @@ ingotStone
 ingotSulfur
 
 
-ingotTanzanite
-
-
 ingotTartarite
 
 
@@ -5138,12 +4926,6 @@ lexicaBotania
 botania:lexicon - 0
 
 
-listAllfruit
-biomesoplenty:peach - 0
-biomesoplenty:persimmon - 0
-biomesoplenty:pear - 0
-
-
 listAllmeatcooked
 minecraft:cooked_beef - 0
 minecraft:cooked_porkchop - 0
@@ -5154,18 +4936,6 @@ listAllmeatraw
 minecraft:beef - 0
 minecraft:porkchop - 0
 minecraft:chicken - 0
-
-
-listAllrootveggie
-biomesoplenty:turnip - 0
-
-
-listAllseed
-biomesoplenty:turnip_seeds - 0
-
-
-listAllveggie
-biomesoplenty:turnip - 0
 
 
 livingRoot
@@ -5189,22 +4959,6 @@ minecraft:log - any
 minecraft:log2 - any
 thaumcraft:log - 0
 thaumcraft:log - 3
-biomesoplenty:log_0 - 4
-biomesoplenty:log_0 - 5
-biomesoplenty:log_0 - 6
-biomesoplenty:log_0 - 7
-biomesoplenty:log_1 - 4
-biomesoplenty:log_1 - 5
-biomesoplenty:log_1 - 6
-biomesoplenty:log_1 - 7
-biomesoplenty:log_2 - 4
-biomesoplenty:log_2 - 5
-biomesoplenty:log_2 - 6
-biomesoplenty:log_2 - 7
-biomesoplenty:log_3 - 4
-biomesoplenty:log_3 - 5
-biomesoplenty:log_3 - 6
-biomesoplenty:log_3 - 7
 sem:finsternisbaumstamm - 0
 thaumicbases:genLogs - any
 totemic:cedarLog - 0
@@ -6290,7 +6044,6 @@ oreAluminum
 
 oreAmber
 thaumcraft:ore_amber - 0
-biomesoplenty:gem_ore - 7
 
 
 oreAmethyst
@@ -6500,7 +6253,6 @@ oreLumium
 
 
 oreMalachite
-biomesoplenty:gem_ore - 5
 
 
 oreManasteel
@@ -6547,7 +6299,6 @@ oreOureclase
 
 
 orePeridot
-biomesoplenty:gem_ore - 2
 techreborn:techreborn.ore - 10
 
 
@@ -6845,7 +6596,6 @@ oreRubracium
 
 
 oreRuby
-biomesoplenty:gem_ore - 1
 techreborn:techreborn.ore - 2
 
 
@@ -6857,7 +6607,6 @@ oreSanguinite
 
 
 oreSapphire
-biomesoplenty:gem_ore - 6
 techreborn:techreborn.ore - 3
 
 
@@ -6904,7 +6653,6 @@ sem:erze - 5
 
 
 oreTanzanite
-biomesoplenty:gem_ore - 4
 
 
 oreTartarite
@@ -6931,7 +6679,6 @@ oreTitanium
 
 
 oreTopaz
-biomesoplenty:gem_ore - 3
 
 
 oreTungsten
@@ -7155,20 +6902,6 @@ plankWood
 minecraft:planks - any
 thaumcraft:plank - 0
 thaumcraft:plank - 1
-biomesoplenty:planks_0 - 0
-biomesoplenty:planks_0 - 1
-biomesoplenty:planks_0 - 2
-biomesoplenty:planks_0 - 3
-biomesoplenty:planks_0 - 4
-biomesoplenty:planks_0 - 5
-biomesoplenty:planks_0 - 6
-biomesoplenty:planks_0 - 7
-biomesoplenty:planks_0 - 8
-biomesoplenty:planks_0 - 9
-biomesoplenty:planks_0 - 10
-biomesoplenty:planks_0 - 11
-biomesoplenty:planks_0 - 12
-biomesoplenty:planks_0 - 13
 sem:finsternisholz - 0
 thaumicbases:planks - any
 totemic:redCedarPlank - 0
@@ -7427,119 +7160,6 @@ planksWood
 
 
 planksZinc
-
-
-plantBerrybush
-biomesoplenty:plant_0 - 5
-
-
-plantBush
-biomesoplenty:plant_0 - 2
-
-
-plantCattail
-biomesoplenty:plant_1 - 4
-biomesoplenty:double_plant - 1
-
-
-plantCloverpatch
-biomesoplenty:plant_0 - 10
-
-
-plantDampgrass
-biomesoplenty:plant_0 - 8
-
-
-plantDeadgrass
-biomesoplenty:plant_0 - 13
-
-
-plantDeadleafpile
-biomesoplenty:plant_0 - 12
-
-
-plantDesertgrass
-biomesoplenty:plant_0 - 14
-
-
-plantDesertsprouts
-biomesoplenty:plant_0 - 15
-
-
-plantDunegrass
-biomesoplenty:plant_1 - 0
-
-
-plantFlax
-biomesoplenty:double_plant - 0
-
-
-plantKoru
-biomesoplenty:plant_0 - 9
-
-
-plantLeafpile
-biomesoplenty:plant_0 - 11
-
-
-plantMediumgrass
-biomesoplenty:plant_0 - 1
-
-
-plantPoisonivy
-biomesoplenty:plant_0 - 4
-
-
-plantReed
-biomesoplenty:plant_1 - 9
-
-
-plantRivercane
-biomesoplenty:plant_1 - 5
-
-
-plantRoot
-biomesoplenty:plant_1 - 10
-
-
-plantShortgrass
-biomesoplenty:plant_0 - 0
-
-
-plantShrub
-biomesoplenty:plant_0 - 6
-
-
-plantSpectralfern
-biomesoplenty:plant_1 - 1
-
-
-plantSprout
-biomesoplenty:plant_0 - 3
-
-
-plantThorn
-biomesoplenty:plant_1 - 2
-
-
-plantTinycactus
-biomesoplenty:plant_1 - 7
-
-
-plantWheatgrass
-biomesoplenty:plant_0 - 7
-
-
-plantWildcarrot
-biomesoplenty:plant_1 - 6
-
-
-plantWildrice
-biomesoplenty:plant_1 - 3
-
-
-plantWitherwart
-biomesoplenty:plant_1 - 8
 
 
 plateAdamantine
@@ -8210,6 +7830,10 @@ rcropPouchFeathery
 resourcefulcrops:ItemPouch - 2
 
 
+rcropPouchFlamingolia
+resourcefulcrops:ItemPouch - 26
+
+
 rcropPouchFleshy
 resourcefulcrops:ItemPouch - 1
 
@@ -8266,6 +7890,10 @@ rcropPouchTeary
 resourcefulcrops:ItemPouch - 13
 
 
+rcropPouchWaffle
+resourcefulcrops:ItemPouch - 27
+
+
 rcropPouchWitherwheat
 resourcefulcrops:ItemPouch - 23
 
@@ -8312,6 +7940,10 @@ resourcefulcrops:ItemSeed - 12
 
 rcropSeedFeathery
 resourcefulcrops:ItemSeed - 2
+
+
+rcropSeedFlamingolia
+resourcefulcrops:ItemSeed - 26
 
 
 rcropSeedFleshy
@@ -8370,6 +8002,10 @@ rcropSeedTeary
 resourcefulcrops:ItemSeed - 13
 
 
+rcropSeedWaffle
+resourcefulcrops:ItemSeed - 27
+
+
 rcropSeedWitherwheat
 resourcefulcrops:ItemSeed - 23
 
@@ -8416,6 +8052,10 @@ resourcefulcrops:ItemShard - 12
 
 rcropShardFeathery
 resourcefulcrops:ItemShard - 2
+
+
+rcropShardFlamingolia
+resourcefulcrops:ItemShard - 26
 
 
 rcropShardFleshy
@@ -8474,6 +8114,10 @@ rcropShardTeary
 resourcefulcrops:ItemShard - 13
 
 
+rcropShardWaffle
+resourcefulcrops:ItemShard - 27
+
+
 rcropShardWitherwheat
 resourcefulcrops:ItemShard - 23
 
@@ -8491,8 +8135,6 @@ minecraft:record_strad - 0
 minecraft:record_ward - 0
 minecraft:record_11 - 0
 minecraft:record_wait - 0
-biomesoplenty:record_corruption - 0
-biomesoplenty:record_wanderer - 0
 
 
 redstone
@@ -8597,10 +8239,6 @@ actuallyadditions:itemFlaxSeed - 0
 
 seedRice
 actuallyadditions:itemRiceSeed - 0
-
-
-seedTurnip
-biomesoplenty:turnip_seeds - 0
 
 
 shardAir
@@ -8719,20 +8357,6 @@ slabWood
 minecraft:wooden_slab - any
 thaumcraft:slab_wood - 0
 thaumcraft:slab_wood - 1
-biomesoplenty:wood_slab_0 - 0
-biomesoplenty:wood_slab_0 - 1
-biomesoplenty:wood_slab_0 - 2
-biomesoplenty:wood_slab_0 - 3
-biomesoplenty:wood_slab_0 - 4
-biomesoplenty:wood_slab_0 - 5
-biomesoplenty:wood_slab_0 - 6
-biomesoplenty:wood_slab_0 - 7
-biomesoplenty:wood_slab_1 - 0
-biomesoplenty:wood_slab_1 - 1
-biomesoplenty:wood_slab_1 - 2
-biomesoplenty:wood_slab_1 - 3
-biomesoplenty:wood_slab_1 - 4
-biomesoplenty:wood_slab_1 - 5
 
 
 slimeball
@@ -8787,27 +8411,11 @@ minecraft:birch_stairs - 0
 minecraft:jungle_stairs - 0
 minecraft:acacia_stairs - 0
 minecraft:dark_oak_stairs - 0
-biomesoplenty:sacred_oak_stairs - 0
-biomesoplenty:cherry_stairs - 0
-biomesoplenty:dark_stairs - 0
-biomesoplenty:fir_stairs - 0
-biomesoplenty:ethereal_stairs - 0
-biomesoplenty:magic_stairs - 0
-biomesoplenty:mangrove_stairs - 0
-biomesoplenty:palm_stairs - 0
-biomesoplenty:redwood_stairs - 0
-biomesoplenty:willow_stairs - 0
-biomesoplenty:pine_stairs - 0
-biomesoplenty:hellbark_stairs - 0
-biomesoplenty:jacaranda_stairs - 0
-biomesoplenty:mahogany_stairs - 0
 sem:finsternisholztreppe - 0
 
 
 stickWood
 minecraft:stick - 0
-biomesoplenty:bamboo - 0
-biomesoplenty:plant_1 - 5
 
 
 stone
@@ -8915,30 +8523,6 @@ minecraft:redstone_torch - 0
 treeLeaves
 minecraft:leaves - any
 minecraft:leaves2 - any
-biomesoplenty:leaves_0 - 8
-biomesoplenty:leaves_0 - 9
-biomesoplenty:leaves_0 - 10
-biomesoplenty:leaves_0 - 11
-biomesoplenty:leaves_1 - 8
-biomesoplenty:leaves_1 - 9
-biomesoplenty:leaves_1 - 10
-biomesoplenty:leaves_1 - 11
-biomesoplenty:leaves_2 - 8
-biomesoplenty:leaves_2 - 9
-biomesoplenty:leaves_2 - 10
-biomesoplenty:leaves_2 - 11
-biomesoplenty:leaves_3 - 8
-biomesoplenty:leaves_3 - 9
-biomesoplenty:leaves_3 - 10
-biomesoplenty:leaves_3 - 11
-biomesoplenty:leaves_4 - 8
-biomesoplenty:leaves_4 - 9
-biomesoplenty:leaves_4 - 10
-biomesoplenty:leaves_4 - 11
-biomesoplenty:leaves_5 - 8
-biomesoplenty:leaves_5 - 9
-biomesoplenty:leaves_5 - 10
-biomesoplenty:leaves_5 - 11
 tconstruct:slime_leaves - any
 totemic:totemLeaves - 0
 
@@ -8947,28 +8531,6 @@ treeSapling
 minecraft:sapling - any
 thaumcraft:sapling - 0
 thaumcraft:sapling - 1
-biomesoplenty:sapling_0 - 0
-biomesoplenty:sapling_0 - 1
-biomesoplenty:sapling_0 - 2
-biomesoplenty:sapling_0 - 3
-biomesoplenty:sapling_0 - 4
-biomesoplenty:sapling_0 - 5
-biomesoplenty:sapling_0 - 6
-biomesoplenty:sapling_0 - 7
-biomesoplenty:sapling_1 - 0
-biomesoplenty:sapling_1 - 1
-biomesoplenty:sapling_1 - 2
-biomesoplenty:sapling_1 - 3
-biomesoplenty:sapling_1 - 4
-biomesoplenty:sapling_1 - 5
-biomesoplenty:sapling_1 - 6
-biomesoplenty:sapling_1 - 7
-biomesoplenty:sapling_2 - 0
-biomesoplenty:sapling_2 - 1
-biomesoplenty:sapling_2 - 2
-biomesoplenty:sapling_2 - 3
-biomesoplenty:sapling_2 - 4
-biomesoplenty:sapling_2 - 5
 tconstruct:slime_sapling - any
 thaumicbases:goldenOakSapling - 0
 

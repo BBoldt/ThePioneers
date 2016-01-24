@@ -1,0 +1,8 @@
+Substituting default (textureface) json
+Setting custom resource location for Item.+with meta [0-9]+ to location
+Registering model for .+#(variation=[0-9]+inventory)
+^test$
+Adding the following recipe to the Compression Handler
+Failed to load wrench class
+w+S+  w+.w+.w+
+atsw+..+(.+)

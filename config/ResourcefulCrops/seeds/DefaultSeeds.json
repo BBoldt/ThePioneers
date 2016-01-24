@@ -259,6 +259,26 @@
     "output": "minecraft:emerald:0#1",
     "color": "#57F26F",
     "seedReq": {}
+  },
+  {
+    "name": "Flamingolia",
+    "tier": 2,
+    "amount": 1,
+    "nether": false,
+    "input": "flamingo:flamingo.flamingo:0#0",
+    "output": "flamingo:flamingo.flamingo:0#1",
+    "color": "#FFC0CB",
+    "seedReq": {}
+  },
+  {
+    "name": "Waffle",
+    "tier": 3,
+    "amount": 1,
+    "nether": false,
+    "input": "sem:normaleitems:16#0",
+    "output": "sem:waffel:0#2",
+    "color": "#F6CE24",
+    "seedReq": {}
   }
 ]
 }
