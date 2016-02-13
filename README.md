@@ -8,6 +8,10 @@
 
 <span style="font-size: 10pt;">    After the initial release, I will not be adding more mods, only updating mods and improving the experience with the mods we have. There are some exceptions to this rule, but nothing major. This will result in the pack not becoming too bloated, and it will be easier to maintain. It should be noted that a lot of mods in this pack currently are very early releases, and there are definitely some bugs. I intend to keep working on it and working with mod creators on getting the issues fixed. This is not going to be a "throwaway" pack. That being said, make sure you make a lot of backups!</span>
 
+<span style="font-size: 18pt;">**How do I get it?**</span>
+
+<span style="font-size: 10pt;">    You can download the pack using the Curse Launcher, just search for "Pioneers" and install. If your computer is allergic to Curse Launcher, try using this tool: https://github.com/portablejim/curseDownloader, you should be able to use multimc fairly easily. </span>
+
 <span style="font-size: 18pt;">**What is unique to this pack?**</span>
 
 *   <span style="font-size: 10pt;">A few custom crops for Resourceful Crops, so you can grow Flamingos and Waffles. Very important.</span>
