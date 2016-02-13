@@ -1,7 +1,16 @@
 ## Entity IDs ##
+ArchimedesShipsPlus.attachment.seat
+ArchimedesShipsPlus.parachute
+ArchimedesShipsPlus.shipmod
 ArmorStand
 Arrow
 Bat
+BiomesOPlenty.butterfly
+BiomesOPlenty.dart
+BiomesOPlenty.mudball
+BiomesOPlenty.pixie
+BiomesOPlenty.snail
+BiomesOPlenty.wasp
 Blaze
 BloodMagic.BloodLight
 BloodMagic.SoulArrow
@@ -68,9 +77,14 @@ PneumaticCraft.Ring
 PneumaticCraft.Vortex
 PneumaticCraft.logisticDrone
 PrimedTnt
+Psi.psi:spellCircle
+Psi.psi:spellGrenade
+Psi.psi:spellProjectile
 Rabbit
 RandomThings.playerSoul
 RandomThings.reviveCircle
+RandomThings.spirit
+SGCraft.Stargate Iris
 Sheep
 Silverfish
 Skeleton
@@ -154,22 +168,56 @@ aura.Fairy
 cfm.Mirror
 cfm.MountableBlock
 foundry.gunSkeleton
+intangible.avatarbiped
+intangible.chariot
+intangible.clone
+intangible.earthgolem
+intangible.food
+intangible.hollowirongolem
+intangible.javelin
+intangible.knowledgegem
+intangible.pigvillager
+intangible.raisingblock
+intangible.reaper
+intangible.seeker
+intangible.skybeam
+intangible.soul
+intangible.spell
+intangible.spellanchor
+intangible.spiderblock
+intangible.spikeball
+intangible.tool
+intangible.wreckinggolem
+ironbackpacks.EntityBackpack
 lootplusplus.ThrownItem
+miab.BillCipher
 miab.JohnCena
 miab.memeSplash
-moSwords.ThrownKnife
-moSwords.ThrownLB
-moSwords.meteorit
 tconstruct.Indestructible Item
 tconstruct.blueslime
 testdummy.Dummy
 testdummy.FloatingNumber
 testdummy.FloatingNumberDPS
-thaumicbases.tb.bullet
-thaumicbases.tb.old.tc.aspectOrb
 thaumicinfusion.InfusedBlockFalling
 tis3d.tis3d:infraredPacket
 totemic.buffalo
+xreliquary.entityBlazeShot
+xreliquary.entityBusterShot
+xreliquary.entityConcussiveShot
+xreliquary.entityEnderShot
+xreliquary.entityEnderStaffProjectile
+xreliquary.entityExorcismShot
+xreliquary.entityHGrenade
+xreliquary.entityHolyWater
+xreliquary.entityKSlime
+xreliquary.entityNeutralShot
+xreliquary.entitySandShot
+xreliquary.entitySeekerShot
+xreliquary.entitySpecialSnowball
+xreliquary.entitySplashAphrodite
+xreliquary.entitySplashFertility
+xreliquary.entityStormShot
+xreliquary.entityThrownPotion
 ## Spawn Egg IDs: in the form <number id> - <entity string id (which it spawns)> ##
 50 - Creeper
 51 - Skeleton
@@ -198,3 +246,4 @@ totemic.buffalo
 100 - EntityHorse
 101 - Rabbit
 120 - Villager
+6596 - intangible.pigvillager

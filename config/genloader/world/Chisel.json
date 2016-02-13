@@ -1,0 +1,64 @@
+[
+  {
+    "category": {
+      "name": "Chisel",
+      "defaultEnabled": false
+    },
+    "generatorPriority": "EARLIER",
+    "generatorType": "STANDARDVARIABLECLUSTER",
+    "chance": 0.25,
+    "frequency": 2,
+    "minY": 0,
+    "maxY": 80,
+    "size": 64,
+    "dimensions": [
+      0
+    ],
+    "weightedBlocks": [
+      {
+        "Weight": 10,
+        "Block": "chisel:marble",
+        "Properties": {
+          "Variation": "11"
+        }
+      }
+    ],
+    "blockToReplace": {
+      "Block": "minecraft:stone",
+      "Properties": {
+        "variant": "stone"
+      }
+    }
+  },
+  {
+    "category": {
+      "name": "Chisel",
+      "defaultEnabled": false
+    },
+    "generatorPriority": "EARLIER",
+    "generatorType": "STANDARDVARIABLECLUSTER",
+    "chance": 0.25,
+    "frequency": 2,
+    "minY": 0,
+    "maxY": 80,
+    "size": 64,
+    "dimensions": [
+      0
+    ],
+    "weightedBlocks": [
+      {
+        "Weight": 10,
+        "Block": "chisel:limestone",
+        "Properties": {
+          "Variation": "6"
+        }
+      }
+    ],
+    "blockToReplace": {
+      "Block": "minecraft:stone",
+      "Properties": {
+        "variant": "stone"
+      }
+    }
+  }
+]

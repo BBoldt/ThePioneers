@@ -5,6 +5,10 @@
 ##     <item id registered> - <item damage> ##
 ##     etc...                               ##
 ##############################################
+EFluxScrap
+eflux:GenericItems - 1
+
+
 actAddCrystalRed
 actuallyadditions:itemCrystal - 0
 
@@ -29,10 +33,6 @@ bVial
 botania:vial - 0
 
 
-batteryUltimate
-techreborn:part - 8
-
-
 bellsIron
 totemic:subItems - 1
 
@@ -54,10 +54,6 @@ blockAluminium
 
 blockAluminum
 foundry:blockMetal1 - 11
-techreborn:techreborn.storage - 1
-
-
-blockAmber
 
 
 blockAmethyst
@@ -91,24 +87,14 @@ botania:blazeBlock - 0
 
 blockBrass
 thaumcraft:metal - 4
+substratum:blockMetal1 - 7
 foundry:blockMetal1 - 7
-sem:metallbloecke - 2
-techreborn:techreborn.storage - 5
-
-
-blockBrick
-
-
-blockBricknether
-
-
-blockBrickseared
 
 
 blockBronze
+substratum:blockMetal1 - 2
 foundry:blockMetal1 - 2
 neotech:blockBronze - 0
-sem:metallbloecke - 0
 
 
 blockCactus
@@ -128,14 +114,10 @@ blockCeruclase
 
 
 blockChrome
-techreborn:techreborn.storage - 3
 
 
 blockChromium
 foundry:blockMetal1 - 12
-
-
-blockCinnabar
 
 
 blockCoal
@@ -150,19 +132,13 @@ blockCobaltite
 
 
 blockCopper
+substratum:blockMetal1 - 0
 foundry:blockMetal1 - 0
 neotech:blockCopper - 0
-sem:metallbloecke - 1
-
-
-blockCrystalCluster
-thaumicbases:crystalBlock - any
-
-
-blockCrystalcluster
 
 
 blockCupronickel
+substratum:blockMetal1 - 12
 foundry:blockMetal2 - 0
 
 
@@ -175,24 +151,17 @@ blockDeepIron
 blockDesichalkos
 
 
-blockDevilsIron
-sem:metallbloecke - 3
-
-
-blockDevilsiron
-
-
 blockDiamond
 minecraft:diamond_block - 0
-thaumicbases:oldDiamond - 0
+
+
+blockDirt
+minecraft:dirt - 0
 
 
 blockElectrum
+substratum:blockMetal1 - 3
 foundry:blockMetal1 - 3
-techreborn:techreborn.storage - 7
-
-
-blockElectrumFlux
 
 
 blockElementium
@@ -202,31 +171,71 @@ blockElvenElementium
 botania:storage - 2
 
 
-blockElvenelementium
-
-
 blockEmerald
 minecraft:emerald_block - 0
 
 
 blockEnderium
+substratum:blockMetal2 - 0
 
 
 blockEndstone
 
 
-blockEssence
-
-
 blockEximite
-
-
-blockFlour
 
 
 blockGlass
 minecraft:glass - 0
 minecraft:stained_glass - any
+
+
+blockGlass.BLACK
+
+
+blockGlass.BLUE
+
+
+blockGlass.BROWN
+
+
+blockGlass.CYAN
+
+
+blockGlass.GRAY
+
+
+blockGlass.GREEN
+
+
+blockGlass.LIGHT_BLUE
+
+
+blockGlass.LIME
+
+
+blockGlass.MAGENTA
+
+
+blockGlass.ORANGE
+
+
+blockGlass.PINK
+
+
+blockGlass.PURPLE
+
+
+blockGlass.RED
+
+
+blockGlass.SILVER
+
+
+blockGlass.WHITE
+
+
+blockGlass.YELLOW
 
 
 blockGlassBlack
@@ -297,63 +306,20 @@ blockGlassYellow
 minecraft:stained_glass - 4
 
 
-blockGlassblack
-
-
-blockGlassblue
-
-
-blockGlassbrown
-
-
-blockGlasscolorless
-
-
-blockGlasscyan
-
-
-blockGlassgray
-
-
-blockGlassgreen
-
-
-blockGlasslightblue
-
-
-blockGlasslightgray
-
-
-blockGlasslime
-
-
-blockGlassmagenta
-
-
-blockGlassorange
-
-
-blockGlasspink
-
-
-blockGlasspurple
-
-
-blockGlassred
-
-
-blockGlasswhite
-
-
-blockGlassyellow
-
-
 blockGlowstone
 
 
 blockGold
 minecraft:gold_block - 0
-thaumicbases:oldGold - 0
+
+
+blockGrass
+biomesoplenty:grass - 2
+biomesoplenty:grass - 4
+biomesoplenty:grass - 3
+biomesoplenty:grass - 7
+biomesoplenty:grass - 5
+minecraft:grass - 0
 
 
 blockGreenSapphire
@@ -381,24 +347,16 @@ blockInolashite
 
 
 blockInvar
+substratum:blockMetal1 - 4
 foundry:blockMetal1 - 4
-techreborn:techreborn.storage - 12
-
-
-blockIridium
-techreborn:techreborn.storage - 14
 
 
 blockIron
 minecraft:iron_block - 0
-thaumicbases:oldIron - 0
 
 
 blockIronCompressed
 pneumaticcraft:compressedIronBlock - 0
-
-
-blockIroncompressed
 
 
 blockIronwood
@@ -419,23 +377,18 @@ tconstruct:metal - 3
 
 blockLapis
 minecraft:lapis_block - 0
-thaumicbases:oldLapis - 0
-techreborn:part - 22
 
 
 blockLead
+substratum:blockMetal1 - 10
 foundry:blockMetal1 - 10
-techreborn:techreborn.storage - 6
 
 
 blockLemurite
 
 
-blockLodestone
-techreborn:techreborn.storage2 - 1
-
-
 blockLumium
+substratum:blockMetal1 - 14
 
 
 blockManasteel
@@ -450,6 +403,10 @@ blockManyullyn
 tconstruct:metal - 2
 
 
+blockMeatRaw
+biomesoplenty:flesh - 0
+
+
 blockMetal
 minecraft:iron_block - 0
 minecraft:gold_block - 0
@@ -461,7 +418,23 @@ blockMeutoite
 blockMidasium
 
 
-blockMithril
+blockMiniatureStar
+neotech:blockMiniatureStar - 0
+neotech:blockMiniatureStar - 1
+neotech:blockMiniatureStar - 2
+neotech:blockMiniatureStar - 3
+neotech:blockMiniatureStar - 4
+neotech:blockMiniatureStar - 5
+neotech:blockMiniatureStar - 6
+neotech:blockMiniatureStar - 7
+neotech:blockMiniatureStar - 8
+neotech:blockMiniatureStar - 9
+neotech:blockMiniatureStar - 10
+neotech:blockMiniatureStar - 11
+neotech:blockMiniatureStar - 12
+neotech:blockMiniatureStar - 13
+neotech:blockMiniatureStar - 14
+neotech:blockMiniatureStar - 15
 
 
 blockNetherrack
@@ -471,8 +444,8 @@ blockNichrome
 
 
 blockNickel
+substratum:blockMetal1 - 5
 foundry:blockMetal1 - 5
-techreborn:techreborn.storage - 11
 
 
 blockObsidian
@@ -488,7 +461,6 @@ blockOrichalcum
 
 
 blockOsmium
-techreborn:techreborn.storage - 13
 
 
 blockOureclase
@@ -497,17 +469,13 @@ blockOureclase
 blockPerditio
 
 
-blockPeridot
-techreborn:techreborn.storage2 - 7
-
-
 blockPigiron
 tconstruct:metal - 4
 
 
 blockPlatinum
+substratum:blockMetal1 - 11
 foundry:blockMetal1 - 13
-techreborn:techreborn.storage - 9
 
 
 blockPotentia
@@ -528,19 +496,10 @@ blockQuartz
 minecraft:quartz_block - 0
 
 
-blockQuartzblack
-
-
 blockQuicksilver
-thaumicbases:quicksilverBlock - 0
-thaumicbases:quicksilverBrick - 0
 
 
 blockRedAlloy
-
-
-blockRedGarnet
-techreborn:techreborn.storage2 - 9
 
 
 blockRedstone
@@ -554,25 +513,12 @@ blockRubracium
 
 
 blockRuby
-techreborn:techreborn.storage2 - 5
-
-
-blockSalisMundus
-thaumicbases:blockSalisMundus - 0
-
-
-blockSalismundus
-
-
-blockSalt
-sem:salzblock - 0
 
 
 blockSanguinite
 
 
 blockSapphire
-techreborn:techreborn.storage2 - 6
 
 
 blockSeared
@@ -586,11 +532,12 @@ blockShadowSteel
 
 
 blockSignalum
+substratum:blockMetal1 - 13
 
 
 blockSilver
+substratum:blockMetal1 - 8
 foundry:blockMetal1 - 8
-techreborn:techreborn.storage - 0
 
 
 blockSlime
@@ -610,28 +557,12 @@ blockSlimeGrass
 tconstruct:slime_grass - any
 
 
-blockSlimecongealed
-
-
-blockSlimedirt
-
-
-blockSlimegrass
-
-
-blockSmallblaze
-
-
-blockSmallgunpowder
-
-
 blockStainlessSteel
 
 
 blockSteel
+substratum:blockMetal1 - 9
 foundry:blockMetal1 - 9
-sem:metallbloecke - 6
-techreborn:techreborn.storage - 4
 
 
 blockSteeleaf
@@ -640,14 +571,7 @@ blockSteeleaf
 blockStone
 
 
-blockSulfur
-
-
 blockTartarite
-
-
-blockTellurium
-techreborn:techreborn.storage2 - 2
 
 
 blockTerra
@@ -656,34 +580,24 @@ blockTerra
 blockTerrasteel
 
 
-blockThauminite
-thaumicbases:thauminiteBlock - 0
-
-
 blockThaumium
 thaumcraft:metal - 0
 
 
 blockTin
+substratum:blockMetal1 - 1
 foundry:blockMetal1 - 1
 neotech:blockTin - 0
-sem:metallbloecke - 4
 
 
 blockTitanium
 foundry:blockMetal1 - 15
-techreborn:techreborn.storage - 2
 
 
 blockTopaz
 
 
 blockTungsten
-techreborn:techreborn.storage - 10
-
-
-blockTungstensteel
-techreborn:techreborn.storage2 - 0
 
 
 blockUranium
@@ -715,17 +629,9 @@ blockVyroxeres
 blockWood
 
 
-blockYellowGarnet
-techreborn:techreborn.storage2 - 8
-
-
 blockZinc
+substratum:blockMetal1 - 6
 foundry:blockMetal1 - 6
-sem:metallbloecke - 5
-techreborn:techreborn.storage - 8
-
-
-blockglassColorless
 
 
 bone
@@ -736,14 +642,34 @@ tis3d:bookCode - 0
 tis3d:bookManual - 0
 
 
-brick
-thaumicbases:oldBrick - 0
-
-
 bucket
 
 
+bucketDustEnderpearl
+substratum:bucketDust - 2
+
+
+bucketDustGlowstone
+substratum:bucketDust - 1
+
+
+bucketDustRedstone
+substratum:bucketDust - 0
+
+
 bucketLava
+
+
+bucketLiquidEnderpearl
+substratum:bucketLiquid - 2
+
+
+bucketLiquidGlowstone
+substratum:bucketLiquid - 1
+
+
+bucketLiquidRedstone
+substratum:bucketLiquid - 0
 
 
 bucketWater
@@ -847,24 +773,6 @@ chipsetRed
 buildcraft|silicon:redstoneChipset - 0
 
 
-circuitAdvanced
-
-
-circuitBasic
-
-
-circuitData
-techreborn:part - 7
-
-
-circuitElite
-techreborn:part - 5
-
-
-circuitMaster
-techreborn:part - 4
-
-
 clay
 
 
@@ -907,13 +815,13 @@ clusterCupronickel
 clusterElectrum
 
 
-clusterElectrumFlux
-
-
 clusterElementium
 
 
 clusterEnderium
+
+
+clusterEnderpearl
 
 
 clusterGlass
@@ -967,6 +875,9 @@ clusterGlass.white
 clusterGlass.yellow
 
 
+clusterGlowstone
+
+
 clusterGold
 thaumcraft:cluster - 1
 
@@ -997,9 +908,6 @@ clusterManasteel
 clusterManganese
 
 
-clusterMithril
-
-
 clusterNichrome
 
 
@@ -1019,9 +927,6 @@ clusterPotentia
 
 
 clusterPrimal
-
-
-clusterRedAlloy
 
 
 clusterRedstone
@@ -1077,29 +982,17 @@ minecraft:coal - 0
 
 cobblestone
 minecraft:cobblestone - 0
-thaumicbases:oldCobble - 0
-thaumicbases:oldCobbleMossy - 0
 
 
 compass
 
 
-crafterWood
-minecraft:crafting_table - 0
-
-
-craftingGrinder
-techreborn:part - 8
-techreborn:part - 10
+copper_ingot
 
 
 craftingPiston
 minecraft:piston - 0
 minecraft:sticky_piston - 0
-
-
-craftingSuperconductor
-techreborn:part - 25
 
 
 craftingTableWood
@@ -1122,12 +1015,28 @@ cropFlax
 minecraft:string - 0
 
 
+cropPeach
+biomesoplenty:peach - 0
+
+
+cropPear
+biomesoplenty:pear - 0
+
+
+cropPersimmon
+biomesoplenty:persimmon - 0
+
+
 cropPotato
 minecraft:potato - 0
 
 
 cropRice
 actuallyadditions:itemFood - 16
+
+
+cropTurnip
+biomesoplenty:turnip - 0
 
 
 cropVine
@@ -1144,12 +1053,7 @@ crushedAdamantine
 crushedAlduorite
 
 
-crushedAluminium
-techreborn:crushedore - 0
-
-
 crushedAluminum
-techreborn:crushedore - 0
 
 
 crushedAmethyst
@@ -1161,18 +1065,10 @@ crushedAmordrine
 crushedAngmallen
 
 
-crushedArdite
-techreborn:crushedore - 1
-
-
 crushedAstralSilver
 
 
 crushedAtlarus
-
-
-crushedBauxite
-techreborn:crushedore - 2
 
 
 crushedBlackSteel
@@ -1182,10 +1078,6 @@ crushedBrass
 
 
 crushedBronze
-
-
-crushedCadmium
-techreborn:crushedore - 3
 
 
 crushedCarbon
@@ -1203,12 +1095,7 @@ crushedCeruclase
 crushedChromium
 
 
-crushedCinnabar
-techreborn:crushedore - 4
-
-
 crushedCobalt
-techreborn:crushedore - 5
 
 
 crushedCobaltite
@@ -1221,10 +1108,6 @@ crushedCupronickel
 
 
 crushedDamascusSteel
-
-
-crushedDarkIron
-techreborn:crushedore - 6
 
 
 crushedDeepIron
@@ -1248,10 +1131,6 @@ crushedEndstone
 crushedEximite
 
 
-crushedGalena
-techreborn:crushedore - 16
-
-
 crushedGlowstone
 
 
@@ -1273,10 +1152,6 @@ crushedHepatizon
 crushedIgnatius
 
 
-crushedIndium
-techreborn:crushedore - 7
-
-
 crushedInfuscolium
 
 
@@ -1284,10 +1159,6 @@ crushedInolashite
 
 
 crushedInvar
-
-
-crushedIridium
-techreborn:crushedore - 8
 
 
 crushedIron
@@ -1327,7 +1198,6 @@ crushedNichrome
 
 
 crushedNickel
-techreborn:crushedore - 9
 
 
 crushedObsidian
@@ -1340,14 +1210,12 @@ crushedOrichalcum
 
 
 crushedOsmium
-techreborn:crushedore - 10
 
 
 crushedOureclase
 
 
 crushedPlatinum
-techreborn:crushedore - 11
 
 
 crushedPrometheum
@@ -1359,12 +1227,7 @@ crushedPurifiedAdamantine
 crushedPurifiedAlduorite
 
 
-crushedPurifiedAluminium
-techreborn:purifiedCrushedOre - 0
-
-
 crushedPurifiedAluminum
-techreborn:purifiedCrushedOre - 0
 
 
 crushedPurifiedAmethyst
@@ -1376,18 +1239,10 @@ crushedPurifiedAmordrine
 crushedPurifiedAngmallen
 
 
-crushedPurifiedArdite
-techreborn:purifiedCrushedOre - 1
-
-
 crushedPurifiedAstralSilver
 
 
 crushedPurifiedAtlarus
-
-
-crushedPurifiedBauxite
-techreborn:purifiedCrushedOre - 2
 
 
 crushedPurifiedBlackSteel
@@ -1397,10 +1252,6 @@ crushedPurifiedBrass
 
 
 crushedPurifiedBronze
-
-
-crushedPurifiedCadmium
-techreborn:purifiedCrushedOre - 3
 
 
 crushedPurifiedCarbon
@@ -1418,12 +1269,7 @@ crushedPurifiedCeruclase
 crushedPurifiedChromium
 
 
-crushedPurifiedCinnabar
-techreborn:purifiedCrushedOre - 4
-
-
 crushedPurifiedCobalt
-techreborn:purifiedCrushedOre - 5
 
 
 crushedPurifiedCobaltite
@@ -1436,10 +1282,6 @@ crushedPurifiedCupronickel
 
 
 crushedPurifiedDamascusSteel
-
-
-crushedPurifiedDarkIron
-techreborn:purifiedCrushedOre - 6
 
 
 crushedPurifiedDeepIron
@@ -1463,10 +1305,6 @@ crushedPurifiedEndstone
 crushedPurifiedEximite
 
 
-crushedPurifiedGalena
-techreborn:purifiedCrushedOre - 16
-
-
 crushedPurifiedGlowstone
 
 
@@ -1488,10 +1326,6 @@ crushedPurifiedHepatizon
 crushedPurifiedIgnatius
 
 
-crushedPurifiedIndium
-techreborn:purifiedCrushedOre - 7
-
-
 crushedPurifiedInfuscolium
 
 
@@ -1499,10 +1333,6 @@ crushedPurifiedInolashite
 
 
 crushedPurifiedInvar
-
-
-crushedPurifiedIridium
-techreborn:purifiedCrushedOre - 8
 
 
 crushedPurifiedIron
@@ -1542,7 +1372,6 @@ crushedPurifiedNichrome
 
 
 crushedPurifiedNickel
-techreborn:purifiedCrushedOre - 9
 
 
 crushedPurifiedObsidian
@@ -1555,21 +1384,15 @@ crushedPurifiedOrichalcum
 
 
 crushedPurifiedOsmium
-techreborn:purifiedCrushedOre - 10
 
 
 crushedPurifiedOureclase
 
 
 crushedPurifiedPlatinum
-techreborn:purifiedCrushedOre - 11
 
 
 crushedPurifiedPrometheum
-
-
-crushedPurifiedPyrite
-techreborn:purifiedCrushedOre - 12
 
 
 crushedPurifiedQuicksilver
@@ -1605,10 +1428,6 @@ crushedPurifiedShadowSteel
 crushedPurifiedSilver
 
 
-crushedPurifiedSphalerite
-techreborn:purifiedCrushedOre - 13
-
-
 crushedPurifiedStainlessSteel
 
 
@@ -1624,10 +1443,6 @@ crushedPurifiedStone
 crushedPurifiedTartarite
 
 
-crushedPurifiedTetrahedrite
-techreborn:purifiedCrushedOre - 14
-
-
 crushedPurifiedThaumium
 
 
@@ -1641,7 +1456,6 @@ crushedPurifiedTopaz
 
 
 crushedPurifiedTungsten
-techreborn:purifiedCrushedOre - 15
 
 
 crushedPurifiedUranium
@@ -1660,10 +1474,6 @@ crushedPurifiedWood
 
 
 crushedPurifiedZinc
-
-
-crushedPyrite
-techreborn:crushedore - 12
 
 
 crushedQuicksilver
@@ -1699,10 +1509,6 @@ crushedShadowSteel
 crushedSilver
 
 
-crushedSphalerite
-techreborn:crushedore - 13
-
-
 crushedStainlessSteel
 
 
@@ -1718,10 +1524,6 @@ crushedStone
 crushedTartarite
 
 
-crushedTetrahedrite
-techreborn:crushedore - 14
-
-
 crushedThaumium
 
 
@@ -1735,7 +1537,6 @@ crushedTopaz
 
 
 crushedTungsten
-techreborn:crushedore - 15
 
 
 crushedUranium
@@ -1758,6 +1559,10 @@ crushedZinc
 
 crystalRedstone
 buildcraft|silicon:redstoneCrystal - 0
+
+
+crystalsPrismarine
+minecraft:prismarine_crystals - 0
 
 
 daylightDetector
@@ -1798,25 +1603,11 @@ dustAer
 dustAlduorite
 
 
-dustAlmandine
-techreborn:dust - 0
-
-
 dustAluminium
-techreborn:dust - 2
 
 
 dustAluminum
 foundry:foundryDust - 11
-techreborn:dust - 2
-
-
-dustAluminumBrass
-techreborn:dust - 1
-
-
-dustAlumite
-techreborn:dust - 3
 
 
 dustAmber
@@ -1828,29 +1619,13 @@ dustAmethyst
 dustAmordrine
 
 
-dustAndradite
-techreborn:dust - 4
-
-
 dustAngmallen
-
-
-dustAntimony
-techreborn:dust - 5
-
-
-dustApatite
 
 
 dustAqua
 
 
 dustArdite
-techreborn:dust - 6
-
-
-dustAsh
-techreborn:dust - 7
 
 
 dustAstralSilver
@@ -1859,62 +1634,22 @@ dustAstralSilver
 dustAtlarus
 
 
-dustBasalt
-techreborn:dust - 8
-
-
-dustBatteryAlloy
-
-
-dustBauxite
-techreborn:dust - 9
-
-
-dustBiotite
-techreborn:dust - 10
-
-
 dustBlackSteel
 
 
-dustBlaze
-
-
-dustBlueAlloy
-
-
 dustBrass
+substratum:dust - 10
 foundry:foundryDust - 7
 foundry:foundryComponent - 19
-sem:normaleitems - 8
-techreborn:dust - 11
 
 
 dustBrickSeared
 
 
-dustBricknether
-
-
-dustBrickseared
-
-
 dustBronze
+substratum:dust - 5
 foundry:foundryDust - 2
 neotech:dustBronze - 0
-sem:normaleitems - 28
-techreborn:dust - 12
-
-
-dustCactus
-
-
-dustCadmium
-techreborn:dust - 13
-
-
-dustCalcite
-techreborn:dust - 14
 
 
 dustCarbon
@@ -1926,21 +1661,14 @@ dustCarmot
 dustCelenegil
 
 
-dustCertusQuartz
-
-
 dustCeruclase
 
 
 dustCharcoal
-techreborn:dust - 15
-
-
-dustChargedCertusQuartz
+substratum:dust - 20
 
 
 dustChrome
-techreborn:dust - 16
 
 
 dustChromium
@@ -1948,53 +1676,59 @@ foundry:foundryDust - 12
 
 
 dustCinnabar
-techreborn:dust - 17
-
-
-dustClay
-techreborn:dust - 18
 
 
 dustCoal
+substratum:dust - 0
 actuallyadditions:itemDust - 6
-techreborn:dust - 19
+eflux:EFluxDust - 5
 
 
 dustCobalt
-techreborn:dust - 20
 
 
 dustCobaltite
 
 
-dustConductiveIron
+dustConductive
+eflux:EFluxDust - 8
 
 
 dustCopper
+substratum:dust - 3
 foundry:foundryDust - 0
 neotech:dustCopper - 0
-sem:normaleitems - 31
-techreborn:dust - 21
+eflux:EFluxDust - 2
 
 
-dustCrystalcluster
+dustCrystalAir
+
+
+dustCrystalEarth
+
+
+dustCrystalEntropy
+
+
+dustCrystalFire
+
+
+dustCrystalOrder
+
+
+dustCrystalTaint
+
+
+dustCrystalWater
 
 
 dustCupronickel
+substratum:dust - 15
 foundry:foundryDust - 16
 foundry:foundryComponent - 20
-techreborn:dust - 22
 
 
 dustDamascusSteel
-
-
-dustDarkAsh
-techreborn:dust - 23
-
-
-dustDarkIron
-techreborn:dust - 24
 
 
 dustDeepIron
@@ -2003,24 +1737,16 @@ dustDeepIron
 dustDesichalkos
 
 
-dustDevilsIron
-sem:normaleitems - 32
-
-
-dustDevilsiron
-
-
 dustDiamond
 actuallyadditions:itemDust - 2
-techreborn:dust - 25
+
+
+dustEbonyPsi
 
 
 dustElectrum
+substratum:dust - 6
 foundry:foundryDust - 3
-techreborn:dust - 26
-
-
-dustElectrumFlux
 
 
 dustElementium
@@ -2029,30 +1755,19 @@ dustElementium
 dustElvenElementium
 
 
-dustElvenelementium
-
-
 dustEmerald
 actuallyadditions:itemDust - 3
-techreborn:dust - 27
-
-
-dustEnderEye
-techreborn:dust - 28
-
-
-dustEnderPearl
-techreborn:dust - 29
 
 
 dustEnderium
+substratum:dust - 19
+
+
+dustEnderpearl
+substratum:dust - 16
 
 
 dustEndstone
-techreborn:dust - 30
-
-
-dustEnergeticAlloy
 
 
 dustEssence
@@ -2061,19 +1776,7 @@ dustEssence
 dustEximite
 
 
-dustFlint
-techreborn:dust - 31
-
-
-dustFlour
-sem:normaleitems - 24
-
-
 dustGaianite
-
-
-dustGalena
-techreborn:dust - 32
 
 
 dustGlass
@@ -2144,79 +1847,20 @@ dustGlassYellow
 glass_shards:glass_shards - 4
 
 
-dustGlassblack
-
-
-dustGlassblue
-
-
-dustGlassbrown
-
-
-dustGlasscolorless
-
-
-dustGlasscyan
-
-
-dustGlassgray
-
-
-dustGlassgreen
-
-
-dustGlasslightblue
-
-
-dustGlasslightgray
-
-
-dustGlasslime
-
-
-dustGlassmagenta
-
-
-dustGlassorange
-
-
-dustGlasspink
-
-
-dustGlasspurple
-
-
-dustGlassred
-
-
-dustGlasswhite
-
-
-dustGlassyellow
-
-
 dustGlowstone
 minecraft:glowstone_dust - 0
 
 
 dustGold
+substratum:dust - 2
 foundry:foundryDust - 18
 neotech:dustGold - 0
-sem:normaleitems - 7
 actuallyadditions:itemDust - 1
-techreborn:dust - 33
+eflux:EFluxDust - 1
 crisscross:dust - 1
 
 
-dustGraphite
-techreborn:dust - 34
-
-
 dustGreenSapphire
-
-
-dustGrossular
-techreborn:dust - 35
 
 
 dustGunpowder
@@ -2228,17 +1872,10 @@ dustHaderoth
 dustHepatizon
 
 
-dustHotTungstenSteel
-
-
 dustIgnatius
 
 
 dustIgnis
-
-
-dustIndium
-techreborn:dust - 36
 
 
 dustInfuscolium
@@ -2248,43 +1885,32 @@ dustInolashite
 
 
 dustInvar
+substratum:dust - 7
 foundry:foundryDust - 4
-techreborn:dust - 37
-
-
-dustIridium
-techreborn:dust - 38
-
-
-dustIridium_reinforced_stone
-
-
-dustIridium_reinforced_tungstensteel
 
 
 dustIron
+substratum:dust - 1
 foundry:foundryDust - 17
 neotech:dustIron - 0
-sem:normaleitems - 6
 actuallyadditions:itemDust - 0
-techreborn:dust - 39
+eflux:EFluxDust - 0
 crisscross:dust - 0
 
 
 dustIronCompressed
 
 
-dustIroncompressed
-
-
 dustIronwood
+
+
+dustIvoryPsi
 
 
 dustKalendrite
 
 
 dustKanthal
-techreborn:dust - 40
 
 
 dustKnightmetal
@@ -2295,41 +1921,18 @@ dustKnightslime
 
 dustLapis
 actuallyadditions:itemDust - 4
-techreborn:dust - 41
-
-
-dustLazurite
-techreborn:dust - 42
 
 
 dustLead
+substratum:dust - 13
 foundry:foundryDust - 10
-techreborn:dust - 43
 
 
 dustLemurite
 
 
-dustLimestone
-techreborn:dust - 44
-
-
-dustLodestone
-techreborn:dust - 45
-
-
 dustLumium
-
-
-dustMagnalium
-
-
-dustMagnesium
-techreborn:dust - 46
-
-
-dustMagnetite
-techreborn:dust - 47
+substratum:dust - 18
 
 
 dustMalachite
@@ -2340,18 +1943,9 @@ dustManasteel
 
 dustManganese
 foundry:foundryDust - 14
-techreborn:dust - 48
 
 
 dustManyullyn
-techreborn:dust - 49
-
-
-dustMarble
-techreborn:dust - 50
-
-
-dustMetal
 
 
 dustMeutoite
@@ -2360,33 +1954,32 @@ dustMeutoite
 dustMidasium
 
 
-dustMithril
-techreborn:dust - 51
+dustNaquadah
 
 
-dustNetherQuartz
+dustNaquadahAlloy
 
 
 dustNetherrack
-techreborn:dust - 52
 
 
 dustNichrome
-techreborn:dust - 53
 
 
 dustNickel
+substratum:dust - 8
 foundry:foundryDust - 5
-techreborn:dust - 54
+
+
+dustNiter
+substratum:dust - 23
 
 
 dustObsidian
-sem:normaleitems - 9
-techreborn:dust - 55
+substratum:dust - 21
 
 
 dustOlivine
-techreborn:dust - 88
 
 
 dustOrdo
@@ -2396,7 +1989,6 @@ dustOrichalcum
 
 
 dustOsmium
-techreborn:dust - 56
 
 
 dustOureclase
@@ -2406,26 +1998,14 @@ dustPerditio
 
 
 dustPeridot
-techreborn:dust - 57
-
-
-dustPhasedIron
-
-
-dustPhosphorous
-techreborn:dust - 58
 
 
 dustPigiron
 
 
 dustPlatinum
+substratum:dust - 14
 foundry:foundryDust - 13
-techreborn:dust - 59
-
-
-dustPotassiumFeldspar
-techreborn:dust - 60
 
 
 dustPotentia
@@ -2434,21 +2014,11 @@ dustPotentia
 dustPrimal
 
 
-dustPrismarine
-
-
 dustPrometheum
 
 
-dustPurpleAlloy
-
-
-dustPyrite
-techreborn:dust - 61
-
-
-dustPyrope
-techreborn:dust - 62
+dustPsi
+psi:material - 0
 
 
 dustQuartz
@@ -2459,28 +2029,14 @@ dustQuartzBlack
 actuallyadditions:itemDust - 7
 
 
-dustQuartzblack
-
-
 dustQuicksilver
 
 
 dustRedAlloy
 
 
-dustRedGarnet
-techreborn:dust - 63
-
-
-dustRedrock
-techreborn:dust - 64
-
-
 dustRedstone
 minecraft:redstone - 0
-
-
-dustRedstoneAlloy
 
 
 dustRefinedIron
@@ -2493,28 +2049,12 @@ dustRubracium
 
 
 dustRuby
-techreborn:dust - 65
-
-
-dustSalismundus
-
-
-dustSalt
-sem:normaleitems - 22
-
-
-dustSaltpeter
-techreborn:dust - 66
 
 
 dustSanguinite
 
 
 dustSapphire
-techreborn:dust - 67
-
-
-dustSeared
 
 
 dustShadowIron
@@ -2523,31 +2063,14 @@ dustShadowIron
 dustShadowSteel
 
 
-dustSheldonite
-
-
 dustSignalum
-
-
-dustSilicon
-techreborn:dust - 69
+substratum:dust - 17
 
 
 dustSilver
+substratum:dust - 11
 foundry:foundryDust - 8
-techreborn:dust - 70
-
-
-dustSlime
-
-
-dustSlimecongealed
-
-
-dustSlimedirt
-
-
-dustSlimegrass
+eflux:EFluxDust - 4
 
 
 dustSmallAdamantine
@@ -2556,24 +2079,7 @@ dustSmallAdamantine
 dustSmallAlduorite
 
 
-dustSmallAlmandine
-techreborn:smallDust - 0
-
-
-dustSmallAluminium
-techreborn:smallDust - 2
-
-
 dustSmallAluminum
-techreborn:smallDust - 2
-
-
-dustSmallAluminumBrass
-techreborn:smallDust - 1
-
-
-dustSmallAlumite
-techreborn:smallDust - 3
 
 
 dustSmallAmethyst
@@ -2582,41 +2088,13 @@ dustSmallAmethyst
 dustSmallAmordrine
 
 
-dustSmallAndradite
-techreborn:smallDust - 4
-
-
 dustSmallAngmallen
-
-
-dustSmallAntimony
-techreborn:smallDust - 5
-
-
-dustSmallArdite
-techreborn:smallDust - 6
-
-
-dustSmallAsh
-techreborn:smallDust - 7
 
 
 dustSmallAstralSilver
 
 
 dustSmallAtlarus
-
-
-dustSmallBasalt
-techreborn:smallDust - 8
-
-
-dustSmallBauxite
-techreborn:smallDust - 9
-
-
-dustSmallBiotite
-techreborn:smallDust - 10
 
 
 dustSmallBlackSteel
@@ -2627,19 +2105,11 @@ foundry:foundryComponent - 13
 
 
 dustSmallBrass
-techreborn:smallDust - 11
+substratum:dustSmall - 10
 
 
 dustSmallBronze
-techreborn:smallDust - 12
-
-
-dustSmallCadmium
-techreborn:smallDust - 13
-
-
-dustSmallCalcite
-techreborn:smallDust - 14
+substratum:dustSmall - 5
 
 
 dustSmallCarbon
@@ -2655,52 +2125,31 @@ dustSmallCeruclase
 
 
 dustSmallCharcoal
-techreborn:smallDust - 15
-
-
-dustSmallChrome
-techreborn:smallDust - 16
+substratum:dustSmall - 20
 
 
 dustSmallChromium
 
 
-dustSmallCinnabar
-techreborn:smallDust - 17
-
-
-dustSmallClay
-techreborn:smallDust - 18
-
-
 dustSmallCoal
-techreborn:smallDust - 19
+substratum:dustSmall - 0
 
 
 dustSmallCobalt
-techreborn:smallDust - 20
 
 
 dustSmallCobaltite
 
 
 dustSmallCopper
-techreborn:smallDust - 21
+substratum:dustSmall - 3
 
 
 dustSmallCupronickel
-techreborn:smallDust - 22
+substratum:dustSmall - 15
 
 
 dustSmallDamascusSteel
-
-
-dustSmallDarkAsh
-techreborn:smallDust - 23
-
-
-dustSmallDarkIron
-techreborn:smallDust - 24
 
 
 dustSmallDeepIron
@@ -2710,62 +2159,41 @@ dustSmallDesichalkos
 
 
 dustSmallDiamond
-techreborn:smallDust - 25
 
 
 dustSmallElectrum
-techreborn:smallDust - 26
+substratum:dustSmall - 6
 
 
 dustSmallEmerald
-techreborn:smallDust - 27
 
 
-dustSmallEnderEye
-techreborn:smallDust - 28
+dustSmallEnderium
+substratum:dustSmall - 19
 
 
-dustSmallEnderPearl
-techreborn:smallDust - 29
+dustSmallEnderpearl
+substratum:dustSmall - 16
 
 
 dustSmallEndstone
-techreborn:smallDust - 30
 
 
 dustSmallEximite
 
 
-dustSmallFlint
-techreborn:smallDust - 31
-
-
-dustSmallGalena
-techreborn:smallDust - 88
-
-
 dustSmallGlowstone
-techreborn:smallDust - 32
 
 
 dustSmallGold
-techreborn:smallDust - 33
-
-
-dustSmallGraphite
-techreborn:smallDust - 34
+substratum:dustSmall - 2
 
 
 dustSmallGreenSapphire
 
 
-dustSmallGrossular
-techreborn:smallDust - 35
-
-
 dustSmallGunpowder
 foundry:foundryComponent - 12
-techreborn:smallDust - 36
 
 
 dustSmallHaderoth
@@ -2777,10 +2205,6 @@ dustSmallHepatizon
 dustSmallIgnatius
 
 
-dustSmallIndium
-techreborn:smallDust - 37
-
-
 dustSmallInfuscolium
 
 
@@ -2788,15 +2212,11 @@ dustSmallInolashite
 
 
 dustSmallInvar
-techreborn:smallDust - 38
-
-
-dustSmallIridium
-techreborn:smallDust - 39
+substratum:dustSmall - 7
 
 
 dustSmallIron
-techreborn:smallDust - 40
+substratum:dustSmall - 1
 
 
 dustSmallIronwood
@@ -2806,53 +2226,23 @@ dustSmallKalendrite
 
 
 dustSmallKanthal
-techreborn:smallDust - 41
 
 
 dustSmallKnightmetal
 
 
-dustSmallLapis
-techreborn:smallDust - 42
-
-
-dustSmallLazurite
-techreborn:smallDust - 43
-
-
 dustSmallLead
-techreborn:smallDust - 44
+substratum:dustSmall - 13
 
 
 dustSmallLemurite
 
 
-dustSmallLimestone
-techreborn:smallDust - 45
-
-
-dustSmallLodestone
-techreborn:smallDust - 46
-
-
-dustSmallMagnesium
-techreborn:smallDust - 47
-
-
-dustSmallMagnetite
-techreborn:smallDust - 48
+dustSmallLumium
+substratum:dustSmall - 18
 
 
 dustSmallManganese
-techreborn:smallDust - 49
-
-
-dustSmallManyullyn
-techreborn:smallDust - 50
-
-
-dustSmallMarble
-techreborn:smallDust - 51
 
 
 dustSmallMeutoite
@@ -2861,65 +2251,41 @@ dustSmallMeutoite
 dustSmallMidasium
 
 
-dustSmallMithril
-techreborn:smallDust - 52
-
-
 dustSmallNetherrack
-techreborn:smallDust - 53
 
 
 dustSmallNichrome
-techreborn:smallDust - 54
 
 
 dustSmallNickel
-techreborn:smallDust - 55
+substratum:dustSmall - 8
+
+
+dustSmallNiter
+substratum:dustSmall - 23
 
 
 dustSmallObsidian
-techreborn:smallDust - 56
+substratum:dustSmall - 21
 
 
 dustSmallOlivine
-techreborn:smallDust - 89
 
 
 dustSmallOrichalcum
 
 
 dustSmallOsmium
-techreborn:smallDust - 57
 
 
 dustSmallOureclase
 
 
-dustSmallPeridot
-techreborn:smallDust - 58
-
-
-dustSmallPhosphorous
-techreborn:smallDust - 59
-
-
 dustSmallPlatinum
-techreborn:smallDust - 60
-
-
-dustSmallPotassiumFeldspar
-techreborn:smallDust - 61
+substratum:dustSmall - 14
 
 
 dustSmallPrometheum
-
-
-dustSmallPyrite
-techreborn:smallDust - 62
-
-
-dustSmallPyrope
-techreborn:smallDust - 63
 
 
 dustSmallQuicksilver
@@ -2928,16 +2294,7 @@ dustSmallQuicksilver
 dustSmallRedAlloy
 
 
-dustSmallRedGarnet
-techreborn:smallDust - 64
-
-
-dustSmallRedrock
-techreborn:smallDust - 65
-
-
 dustSmallRedstone
-techreborn:smallDust - 66
 
 
 dustSmallRubber
@@ -2947,18 +2304,12 @@ dustSmallRubracium
 
 
 dustSmallRuby
-techreborn:smallDust - 67
-
-
-dustSmallSaltpeter
-techreborn:smallDust - 68
 
 
 dustSmallSanguinite
 
 
 dustSmallSapphire
-techreborn:smallDust - 69
 
 
 dustSmallShadowIron
@@ -2967,31 +2318,19 @@ dustSmallShadowIron
 dustSmallShadowSteel
 
 
-dustSmallSilicon
-techreborn:smallDust - 70
+dustSmallSignalum
+substratum:dustSmall - 17
 
 
 dustSmallSilver
-techreborn:smallDust - 71
-
-
-dustSmallSodalite
-techreborn:smallDust - 72
-
-
-dustSmallSpessartine
-techreborn:smallDust - 73
-
-
-dustSmallSphalerite
-techreborn:smallDust - 74
+substratum:dustSmall - 11
 
 
 dustSmallStainlessSteel
 
 
 dustSmallSteel
-techreborn:smallDust - 75
+substratum:dustSmall - 12
 
 
 dustSmallSteeleaf
@@ -3001,58 +2340,32 @@ dustSmallStone
 
 
 dustSmallSulfur
-techreborn:smallDust - 76
+substratum:dustSmall - 22
 
 
 dustSmallTartarite
-
-
-dustSmallTellurium
-techreborn:smallDust - 77
-
-
-dustSmallTeslatite
-techreborn:smallDust - 78
-
-
-dustSmallTetrahedrite
-techreborn:smallDust - 79
 
 
 dustSmallThaumium
 
 
 dustSmallTin
-techreborn:smallDust - 80
+substratum:dustSmall - 4
 
 
 dustSmallTitanium
-techreborn:smallDust - 81
 
 
 dustSmallTopaz
 
 
 dustSmallTungsten
-techreborn:smallDust - 82
 
 
 dustSmallUranium
 
 
-dustSmallUvarovite
-techreborn:smallDust - 83
-
-
-dustSmallVinteum
-techreborn:smallDust - 84
-
-
 dustSmallVoidmetal
-
-
-dustSmallVoidstone
-techreborn:smallDust - 85
 
 
 dustSmallVulcanite
@@ -3064,52 +2377,27 @@ dustSmallVyroxeres
 dustSmallWood
 
 
-dustSmallYellowGarnet
-techreborn:smallDust - 86
-
-
 dustSmallZinc
-techreborn:smallDust - 87
-
-
-dustSmallblaze
-
-
-dustSmallgunpowder
-
-
-dustSodalite
-techreborn:dust - 71
-
-
-dustSoularium
-
-
-dustSpessartine
-techreborn:dust - 72
-
-
-dustSphalerite
-techreborn:dust - 73
+substratum:dustSmall - 9
 
 
 dustStainlessSteel
 
 
 dustSteel
+substratum:dust - 12
 foundry:foundryDust - 9
-techreborn:dust - 74
 
 
 dustSteeleaf
 
 
 dustStone
+eflux:EFluxDust - 6
 
 
 dustSulfur
-sem:normaleitems - 34
-techreborn:dust - 75
+substratum:dust - 22
 
 
 dustTanzanite
@@ -3118,35 +2406,20 @@ dustTanzanite
 dustTartarite
 
 
-dustTellurium
-techreborn:dust - 76
-
-
 dustTerra
 
 
 dustTerrasteel
 
 
-dustTeslatite
-techreborn:dust - 77
-
-
-dustTetrahedrite
-techreborn:dust - 78
-
-
-dustThauminite
-
-
 dustThaumium
 
 
 dustTin
+substratum:dust - 4
 foundry:foundryDust - 1
 neotech:dustTin - 0
-sem:normaleitems - 29
-techreborn:dust - 79
+eflux:EFluxDust - 7
 
 
 dustTinyAdamantine
@@ -3406,24 +2679,15 @@ dustTinyZinc
 
 dustTitanium
 foundry:foundryDust - 15
-techreborn:dust - 80
 
 
 dustTopaz
 
 
 dustTungsten
-techreborn:dust - 81
-
-
-dustTungstensteel
 
 
 dustUranium
-
-
-dustUvarovite
-techreborn:dust - 82
 
 
 dustVacous
@@ -3432,18 +2696,10 @@ dustVacous
 dustVictus
 
 
-dustVinteum
-techreborn:dust - 83
-
-
 dustVoid
 
 
 dustVoidmetal
-
-
-dustVoidstone
-techreborn:dust - 84
 
 
 dustVulcanite
@@ -3455,23 +2711,23 @@ dustVyroxeres
 dustWood
 
 
-dustYellowGarnet
-techreborn:dust - 85
-
-
 dustZinc
+substratum:dust - 9
 foundry:foundryDust - 6
 foundry:foundryComponent - 18
-sem:normaleitems - 30
-techreborn:dust - 86
+eflux:EFluxDust - 3
 
 
 dye
 minecraft:dye - any
 
 
+dye Black
+
+
 dyeBlack
 minecraft:dye - 0
+biomesoplenty:black_dye - 0
 botania:dye - 15
 actuallyadditions:itemMisc - 17
 charsettweaks:graphite - 0
@@ -3479,11 +2735,13 @@ charsettweaks:graphite - 0
 
 dyeBlue
 minecraft:dye - 4
+biomesoplenty:blue_dye - 0
 botania:dye - 11
 
 
 dyeBrown
 minecraft:dye - 3
+biomesoplenty:brown_dye - 0
 botania:dye - 12
 
 
@@ -3499,6 +2757,7 @@ botania:dye - 7
 
 dyeGreen
 minecraft:dye - 2
+biomesoplenty:green_dye - 0
 botania:dye - 13
 
 
@@ -3544,6 +2803,7 @@ botania:dye - 14
 
 dyeWhite
 minecraft:dye - 15
+biomesoplenty:white_dye - 0
 botania:dye - 0
 
 
@@ -3573,10 +2833,164 @@ eyeOfEnder
 feather
 
 
+fenceGateWood
+biomesoplenty:sacred_oak_fence_gate - 0
+biomesoplenty:cherry_fence_gate - 0
+biomesoplenty:umbran_fence_gate - 0
+biomesoplenty:fir_fence_gate - 0
+biomesoplenty:ethereal_fence_gate - 0
+biomesoplenty:magic_fence_gate - 0
+biomesoplenty:mangrove_fence_gate - 0
+biomesoplenty:palm_fence_gate - 0
+biomesoplenty:redwood_fence_gate - 0
+biomesoplenty:willow_fence_gate - 0
+biomesoplenty:pine_fence_gate - 0
+biomesoplenty:hellbark_fence_gate - 0
+biomesoplenty:jacaranda_fence_gate - 0
+biomesoplenty:mahogany_fence_gate - 0
+biomesoplenty:ebony_fence_gate - 0
+biomesoplenty:eucalyptus_fence_gate - 0
+
+
 fenceIron
 
 
+fenceWood
+biomesoplenty:sacred_oak_fence - 0
+biomesoplenty:cherry_fence - 0
+biomesoplenty:umbran_fence - 0
+biomesoplenty:fir_fence - 0
+biomesoplenty:ethereal_fence - 0
+biomesoplenty:magic_fence - 0
+biomesoplenty:mangrove_fence - 0
+biomesoplenty:palm_fence - 0
+biomesoplenty:redwood_fence - 0
+biomesoplenty:willow_fence - 0
+biomesoplenty:pine_fence - 0
+biomesoplenty:hellbark_fence - 0
+biomesoplenty:jacaranda_fence - 0
+biomesoplenty:mahogany_fence - 0
+biomesoplenty:ebony_fence - 0
+biomesoplenty:eucalyptus_fence - 0
+
+
 fermentedSpiderEye
+
+
+flowerBlueHydrangea
+biomesoplenty:flower_0 - 4
+
+
+flowerBluebells
+biomesoplenty:flower_1 - 2
+
+
+flowerBromeliad
+biomesoplenty:flower_0 - 11
+
+
+flowerBurningBlossom
+biomesoplenty:flower_0 - 15
+
+
+flowerClover
+biomesoplenty:flower_0 - 0
+
+
+flowerDeathbloom
+biomesoplenty:flower_0 - 2
+
+
+flowerEnderlotus
+biomesoplenty:flower_0 - 10
+
+
+flowerGlowflower
+biomesoplenty:flower_0 - 3
+
+
+flowerGoldenrod
+biomesoplenty:flower_1 - 1
+
+
+flowerIcyIris
+biomesoplenty:flower_1 - 4
+
+
+flowerLavender
+biomesoplenty:flower_1 - 0
+
+
+flowerLilyOfTheValley
+biomesoplenty:flower_0 - 14
+
+
+flowerMinersDelight
+biomesoplenty:flower_1 - 3
+
+
+flowerOrangeCosmos
+biomesoplenty:flower_0 - 5
+
+
+flowerPinkDaffodil
+biomesoplenty:flower_0 - 6
+
+
+flowerPinkHibiscus
+biomesoplenty:flower_0 - 13
+
+
+flowerRose
+biomesoplenty:flower_1 - 5
+
+
+flowerSwampflower
+biomesoplenty:flower_0 - 1
+
+
+flowerViolet
+biomesoplenty:flower_0 - 8
+
+
+flowerWhiteAnemone
+biomesoplenty:flower_0 - 9
+
+
+flowerWildflower
+biomesoplenty:flower_0 - 7
+
+
+flowerWiltedLily
+biomesoplenty:flower_0 - 12
+
+
+foodAmbrosia
+biomesoplenty:ambrosia - 0
+
+
+foodBowlofrice
+biomesoplenty:ricebowl - 0
+
+
+foodFilledhoneycomb
+biomesoplenty:filled_honeycomb - 0
+
+
+foodFruitsalad
+biomesoplenty:saladfruit - 0
+
+
+foodMushroompowder
+biomesoplenty:shroompowder - 0
+
+
+foodMushroomsalad
+biomesoplenty:saladshroom - 0
+
+
+foodVeggiesalad
+biomesoplenty:saladveggie - 0
 
 
 gaiaIngot
@@ -3618,9 +3032,11 @@ gearBlackSteel
 
 gearBrass
 thaumcraft:gear - 0
+substratum:gear - 10
 
 
 gearBronze
+substratum:gear - 5
 
 
 gearCarbon
@@ -3645,9 +3061,11 @@ gearCobaltite
 
 
 gearCopper
+substratum:gear - 3
 
 
 gearCupronickel
+substratum:gear - 15
 
 
 gearDamascusSteel
@@ -3664,9 +3082,7 @@ buildcraft|core:diamondGearItem - 0
 
 
 gearElectrum
-
-
-gearElectrumFlux
+substratum:gear - 6
 
 
 gearElementium
@@ -3676,6 +3092,7 @@ gearEmerald
 
 
 gearEnderium
+substratum:gear - 18
 
 
 gearEndstone
@@ -3684,62 +3101,12 @@ gearEndstone
 gearEximite
 
 
-gearGlass
-
-
-gearGlass.black
-
-
-gearGlass.blue
-
-
-gearGlass.brown
-
-
-gearGlass.cyan
-
-
-gearGlass.gray
-
-
-gearGlass.green
-
-
-gearGlass.light_blue
-
-
-gearGlass.lime
-
-
-gearGlass.magenta
-
-
-gearGlass.orange
-
-
-gearGlass.pink
-
-
-gearGlass.purple
-
-
-gearGlass.red
-
-
-gearGlass.silver
-
-
-gearGlass.white
-
-
-gearGlass.yellow
-
-
 gearGlowstone
 
 
 gearGold
 buildcraft|core:goldGearItem - 0
+substratum:gear - 2
 
 
 gearGreenSapphire
@@ -3767,10 +3134,12 @@ gearInolashite
 
 
 gearInvar
+substratum:gear - 7
 
 
 gearIron
 buildcraft|core:ironGearItem - 0
+substratum:gear - 1
 
 
 gearIronwood
@@ -3786,12 +3155,14 @@ gearKnightmetal
 
 
 gearLead
+substratum:gear - 13
 
 
 gearLemurite
 
 
 gearLumium
+substratum:gear - 17
 
 
 gearManasteel
@@ -3806,9 +3177,6 @@ gearMeutoite
 gearMidasium
 
 
-gearMithril
-
-
 gearNetherrack
 
 
@@ -3816,6 +3184,7 @@ gearNichrome
 
 
 gearNickel
+substratum:gear - 8
 
 
 gearObsidian
@@ -3840,6 +3209,7 @@ gearPerditio
 
 
 gearPlatinum
+substratum:gear - 14
 
 
 gearPotentia
@@ -3882,15 +3252,18 @@ gearShadowSteel
 
 
 gearSignalum
+substratum:gear - 16
 
 
 gearSilver
+substratum:gear - 11
 
 
 gearStainlessSteel
 
 
 gearSteel
+substratum:gear - 12
 
 
 gearSteeleaf
@@ -3898,6 +3271,7 @@ gearSteeleaf
 
 gearStone
 buildcraft|core:stoneGearItem - 0
+substratum:gear - 0
 
 
 gearTartarite
@@ -3914,6 +3288,7 @@ thaumcraft:gear - 1
 
 
 gearTin
+substratum:gear - 4
 
 
 gearTitanium
@@ -3952,6 +3327,7 @@ buildcraft|core:woodenGearItem - 0
 
 
 gearZinc
+substratum:gear - 9
 
 
 gemAdamantine
@@ -3964,6 +3340,7 @@ gemAluminum
 
 
 gemAmber
+biomesoplenty:gem - 7
 thaumcraft:amber - 0
 
 
@@ -3974,9 +3351,6 @@ gemAmordrine
 
 
 gemAngmallen
-
-
-gemApatite
 
 
 gemAstralSilver
@@ -4102,6 +3476,10 @@ gemLead
 gemLemurite
 
 
+gemMalachite
+biomesoplenty:gem - 5
+
+
 gemManganese
 
 
@@ -4136,13 +3514,17 @@ gemOureclase
 
 
 gemPeridot
-techreborn:gem - 2
+biomesoplenty:gem - 2
 
 
 gemPlatinum
 
 
 gemPrometheum
+
+
+gemPsi
+psi:material - 2
 
 
 gemQuartz
@@ -4159,10 +3541,6 @@ gemQuicksilver
 gemRedAlloy
 
 
-gemRedGarnet
-techreborn:gem - 3
-
-
 gemRedstone
 
 
@@ -4173,14 +3551,14 @@ gemRubracium
 
 
 gemRuby
-techreborn:gem - 0
+biomesoplenty:gem - 1
 
 
 gemSanguinite
 
 
 gemSapphire
-techreborn:gem - 1
+biomesoplenty:gem - 6
 
 
 gemShadowIron
@@ -4204,6 +3582,10 @@ gemSteeleaf
 gemStone
 
 
+gemTanzanite
+biomesoplenty:gem - 4
+
+
 gemTartarite
 
 
@@ -4217,6 +3599,7 @@ gemTitanium
 
 
 gemTopaz
+biomesoplenty:gem - 3
 
 
 gemTungsten
@@ -4237,10 +3620,6 @@ gemVyroxeres
 gemWood
 
 
-gemYellowGarnet
-techreborn:gem - 4
-
-
 gemZinc
 
 
@@ -4257,7 +3636,6 @@ minecraft:grass - 0
 
 gravel
 minecraft:gravel - 0
-thaumicbases:oldGravel - 0
 
 
 hardenedClay
@@ -4285,18 +3663,13 @@ ingotAlduorite
 
 
 ingotAluminium
-techreborn:ingot - 0
 
 
 ingotAluminum
 foundry:foundryIngot - 11
-techreborn:ingot - 0
 
 
 ingotAluminumBrass
-
-
-ingotAmber
 
 
 ingotAmethyst
@@ -4309,7 +3682,6 @@ ingotAngmallen
 
 
 ingotAntimony
-techreborn:ingot - 1
 
 
 ingotAqua
@@ -4325,25 +3697,13 @@ ingotAstralSilver
 ingotAtlarus
 
 
-ingotBatteryAlloy
-techreborn:ingot - 2
-
-
 ingotBlackSteel
-
-
-ingotBlaze
-
-
-ingotBlueAlloy
-techreborn:ingot - 4
 
 
 ingotBrass
 thaumcraft:ingot - 2
+substratum:ingot - 7
 foundry:foundryIngot - 7
-sem:normaleitems - 14
-techreborn:ingot - 5
 
 
 ingotBrick
@@ -4358,24 +3718,13 @@ ingotBrickSeared
 tconstruct:materials - 0
 
 
-ingotBricknether
-
-
-ingotBrickseared
-
-
 ingotBronze
+substratum:ingot - 2
 foundry:foundryIngot - 2
 neotech:ingotBronze - 0
-sem:normaleitems - 12
-techreborn:ingot - 6
-
-
-ingotCactus
 
 
 ingotCadmium
-techreborn:ingot - 7
 
 
 ingotCarbon
@@ -4390,8 +3739,10 @@ ingotCelenegil
 ingotCeruclase
 
 
+ingotCharcoal
+
+
 ingotChrome
-techreborn:ingot - 8
 
 
 ingotChromium
@@ -4411,25 +3762,26 @@ tconstruct:ingots - 0
 ingotCobaltite
 
 
-ingotConductiveIron
+ingotConductive
+eflux:EFluxIngot - 5
 
 
 ingotCopper
+substratum:ingot - 0
 foundry:foundryIngot - 0
 neotech:ingotCopper - 0
-sem:normaleitems - 10
-techreborn:ingot - 9
-
-
-ingotCrystalcluster
+eflux:EFluxIngot - 0
 
 
 ingotCupronickel
+substratum:ingot - 12
 foundry:foundryIngot - 16
-techreborn:ingot - 10
 
 
 ingotDamascusSteel
+
+
+ingotDarkIron
 
 
 ingotDeepIron
@@ -4438,22 +3790,16 @@ ingotDeepIron
 ingotDesichalkos
 
 
-ingotDevilsIron
-sem:normaleitems - 15
-
-
-ingotDevilsiron
-
-
 ingotDiamond
 
 
+ingotEbonyPsi
+psi:material - 3
+
+
 ingotElectrum
+substratum:ingot - 3
 foundry:foundryIngot - 3
-techreborn:ingot - 11
-
-
-ingotElectrumFlux
 
 
 ingotElementium
@@ -4463,82 +3809,23 @@ ingotElvenElementium
 botania:manaResource - 7
 
 
-ingotElvenelementium
-
-
 ingotEmerald
 
 
 ingotEnderium
+substratum:ingot - 15
+
+
+ingotEnderpearl
 
 
 ingotEndstone
 
 
-ingotEnergeticAlloy
-
-
-ingotEssence
-
-
 ingotEximite
 
 
-ingotFlour
-
-
 ingotGlass
-
-
-ingotGlassblack
-
-
-ingotGlassblue
-
-
-ingotGlassbrown
-
-
-ingotGlasscolorless
-
-
-ingotGlasscyan
-
-
-ingotGlassgray
-
-
-ingotGlassgreen
-
-
-ingotGlasslightblue
-
-
-ingotGlasslightgray
-
-
-ingotGlasslime
-
-
-ingotGlassmagenta
-
-
-ingotGlassorange
-
-
-ingotGlasspink
-
-
-ingotGlasspurple
-
-
-ingotGlassred
-
-
-ingotGlasswhite
-
-
-ingotGlassyellow
 
 
 ingotGlowstone
@@ -4560,10 +3847,6 @@ ingotHaderoth
 ingotHepatizon
 
 
-ingotHotTungstenSteel
-techreborn:ingot - 29
-
-
 ingotIgnatius
 
 
@@ -4571,7 +3854,6 @@ ingotIgnis
 
 
 ingotIndium
-techreborn:ingot - 12
 
 
 ingotInfuscolium
@@ -4581,18 +3863,11 @@ ingotInolashite
 
 
 ingotInvar
+substratum:ingot - 4
 foundry:foundryIngot - 4
-techreborn:ingot - 13
 
 
 ingotIridium
-techreborn:ingot - 14
-
-
-ingotIridium_reinforced_stone
-
-
-ingotIridium_reinforced_tungstensteel
 
 
 ingotIron
@@ -4603,17 +3878,17 @@ ingotIronCompressed
 pneumaticcraft:ingotIronCompressed - 0
 
 
-ingotIroncompressed
-
-
 ingotIronwood
+
+
+ingotIvoryPsi
+psi:material - 4
 
 
 ingotKalendrite
 
 
 ingotKanthal
-techreborn:ingot - 15
 
 
 ingotKnightmetal
@@ -4627,22 +3902,18 @@ ingotLapis
 
 
 ingotLead
+substratum:ingot - 10
 foundry:foundryIngot - 10
-techreborn:ingot - 16
 
 
 ingotLemurite
 
 
 ingotLodestone
-techreborn:ingot - 17
 
 
 ingotLumium
-
-
-ingotMagnalium
-techreborn:ingot - 18
+substratum:ingot - 14
 
 
 ingotManasteel
@@ -4657,28 +3928,28 @@ ingotManyullyn
 tconstruct:ingots - 2
 
 
-ingotMetal
-
-
 ingotMeutoite
 
 
 ingotMidasium
 
 
-ingotMithril
+ingotNaquadahAlloy
+sgcraft:naquadahIngot - 0
 
 
 ingotNetherrack
 
 
 ingotNichrome
-techreborn:ingot - 19
 
 
 ingotNickel
+substratum:ingot - 5
 foundry:foundryIngot - 5
-techreborn:ingot - 20
+
+
+ingotNiter
 
 
 ingotObsidian
@@ -4694,7 +3965,6 @@ ingotOrichalcum
 
 
 ingotOsmium
-techreborn:ingot - 21
 
 
 ingotOureclase
@@ -4706,16 +3976,13 @@ ingotPerditio
 ingotPeridot
 
 
-ingotPhasedIron
-
-
 ingotPigiron
 tconstruct:ingots - 4
 
 
 ingotPlatinum
+substratum:ingot - 11
 foundry:foundryIngot - 13
-techreborn:ingot - 22
 
 
 ingotPotentia
@@ -4724,35 +3991,26 @@ ingotPotentia
 ingotPrimal
 
 
-ingotPrismarine
-
-
 ingotPrometheum
 
 
-ingotPurpleAlloy
+ingotPsi
+psi:material - 1
 
 
 ingotQuartz
-
-
-ingotQuartzblack
 
 
 ingotQuicksilver
 
 
 ingotRedAlloy
-techreborn:ingot - 3
 
 
 ingotRedGarnet
 
 
 ingotRedstone
-
-
-ingotRedstoneAlloy
 
 
 ingotRefinedIron
@@ -4767,19 +4025,10 @@ ingotRubracium
 ingotRuby
 
 
-ingotSalismundus
-
-
-ingotSalt
-
-
 ingotSanguinite
 
 
 ingotSapphire
-
-
-ingotSeared
 
 
 ingotShadowIron
@@ -4789,41 +4038,21 @@ ingotShadowSteel
 
 
 ingotSignalum
+substratum:ingot - 13
 
 
 ingotSilver
+substratum:ingot - 8
 foundry:foundryIngot - 8
-techreborn:ingot - 23
-
-
-ingotSlime
-
-
-ingotSlimecongealed
-
-
-ingotSlimedirt
-
-
-ingotSlimegrass
-
-
-ingotSmallblaze
-
-
-ingotSmallgunpowder
-
-
-ingotSoularium
+eflux:EFluxIngot - 3
 
 
 ingotStainlessSteel
 
 
 ingotSteel
+substratum:ingot - 9
 foundry:foundryIngot - 9
-sem:normaleitems - 33
-techreborn:ingot - 24
 
 
 ingotSteeleaf
@@ -4839,7 +4068,6 @@ ingotTartarite
 
 
 ingotTellurium
-techreborn:ingot - 25
 
 
 ingotTerra
@@ -4849,34 +4077,25 @@ ingotTerrasteel
 botania:manaResource - 4
 
 
-ingotThauminite
-
-
 ingotThaumium
 thaumcraft:ingot - 0
 
 
 ingotTin
+substratum:ingot - 1
 foundry:foundryIngot - 1
 neotech:ingotTin - 0
-sem:normaleitems - 11
-techreborn:ingot - 26
+eflux:EFluxIngot - 1
 
 
 ingotTitanium
 foundry:foundryIngot - 15
-techreborn:ingot - 27
 
 
 ingotTopaz
 
 
 ingotTungsten
-techreborn:ingot - 28
-
-
-ingotTungstensteel
-techreborn:ingot - 30
 
 
 ingotUranium
@@ -4908,9 +4127,9 @@ ingotYellowGarnet
 
 
 ingotZinc
+substratum:ingot - 6
 foundry:foundryIngot - 6
-sem:normaleitems - 13
-techreborn:ingot - 31
+eflux:EFluxIngot - 2
 
 
 itemRubber
@@ -4926,6 +4145,12 @@ lexicaBotania
 botania:lexicon - 0
 
 
+listAllfruit
+biomesoplenty:peach - 0
+biomesoplenty:persimmon - 0
+biomesoplenty:pear - 0
+
+
 listAllmeatcooked
 minecraft:cooked_beef - 0
 minecraft:cooked_porkchop - 0
@@ -4936,6 +4161,18 @@ listAllmeatraw
 minecraft:beef - 0
 minecraft:porkchop - 0
 minecraft:chicken - 0
+
+
+listAllrootveggie
+biomesoplenty:turnip - 0
+
+
+listAllseed
+biomesoplenty:turnip_seeds - 0
+
+
+listAllveggie
+biomesoplenty:turnip - 0
 
 
 livingRoot
@@ -4957,15 +4194,27 @@ botania:manaResource - 3
 logWood
 minecraft:log - any
 minecraft:log2 - any
+biomesoplenty:log_0 - 4
+biomesoplenty:log_0 - 5
+biomesoplenty:log_0 - 6
+biomesoplenty:log_0 - 7
+biomesoplenty:log_1 - 4
+biomesoplenty:log_1 - 5
+biomesoplenty:log_1 - 6
+biomesoplenty:log_1 - 7
+biomesoplenty:log_2 - 4
+biomesoplenty:log_2 - 5
+biomesoplenty:log_2 - 6
+biomesoplenty:log_2 - 7
+biomesoplenty:log_3 - 4
+biomesoplenty:log_3 - 5
+biomesoplenty:log_3 - 6
+biomesoplenty:log_3 - 7
+biomesoplenty:log_4 - 4
+biomesoplenty:log_4 - 5
 thaumcraft:log - 0
 thaumcraft:log - 3
-sem:finsternisbaumstamm - 0
-thaumicbases:genLogs - any
 totemic:cedarLog - 0
-
-
-machineBasic
-techreborn:techreborn.machineFrame - 0
 
 
 manaDiamond
@@ -4980,28 +4229,8 @@ manaString
 botania:manaResource - 16
 
 
-marble
-sem:normaleblocke - 0
-
-
 materialEnderPearl
 minecraft:ender_pearl - 0
-
-
-materialMarble
-sem:normaleblocke - 0
-
-
-materialMarbleBrick
-sem:normaleblocke - 1
-
-
-materialStraw
-sem:stroh - 0
-
-
-mossyCobblestone
-thaumicbases:oldCobbleMossy - 0
 
 
 mycelium
@@ -5136,6 +4365,10 @@ mysticFlowerYellowDouble
 botania:doubleFlower1 - 4
 
 
+naquadah
+sgcraft:naquadah - 0
+
+
 netherrack
 minecraft:netherrack - 0
 minecraft:netherrack - any
@@ -5145,9 +4378,6 @@ nitor
 thaumcraft:nitor - any
 
 
-none
-
-
 nuggetAdamantine
 
 
@@ -5155,12 +4385,10 @@ nuggetAlduorite
 
 
 nuggetAluminium
-techreborn:nuggets - 0
 
 
 nuggetAluminum
 foundry:foundryNugget - 11
-techreborn:nuggets - 0
 
 
 nuggetAmethyst
@@ -5170,10 +4398,6 @@ nuggetAmordrine
 
 
 nuggetAngmallen
-
-
-nuggetAntimony
-techreborn:nuggets - 1
 
 
 nuggetArdite
@@ -5191,13 +4415,13 @@ nuggetBlackSteel
 
 nuggetBrass
 thaumcraft:nugget - 8
+substratum:nugget - 8
 foundry:foundryNugget - 7
-techreborn:nuggets - 2
 
 
 nuggetBronze
+substratum:nugget - 3
 foundry:foundryNugget - 2
-techreborn:nuggets - 3
 
 
 nuggetCarbon
@@ -5213,7 +4437,6 @@ nuggetCeruclase
 
 
 nuggetChrome
-techreborn:nuggets - 4
 
 
 nuggetChromium
@@ -5229,11 +4452,12 @@ nuggetCobaltite
 
 nuggetCopper
 thaumcraft:nugget - 1
+substratum:nugget - 1
 foundry:foundryNugget - 0
-techreborn:nuggets - 5
 
 
 nuggetCupronickel
+substratum:nugget - 13
 foundry:foundryNugget - 16
 
 
@@ -5247,14 +4471,12 @@ nuggetDesichalkos
 
 
 nuggetDiamond
+extrabitmanipulation:DiamondNugget - 0
 
 
 nuggetElectrum
+substratum:nugget - 4
 foundry:foundryNugget - 3
-techreborn:nuggets - 6
-
-
-nuggetElectrumFlux
 
 
 nuggetElementium
@@ -5268,6 +4490,7 @@ nuggetEmerald
 
 
 nuggetEnderium
+substratum:nugget - 16
 
 
 nuggetEndstone
@@ -5306,18 +4529,14 @@ nuggetInolashite
 
 
 nuggetInvar
+substratum:nugget - 5
 foundry:foundryNugget - 4
-techreborn:nuggets - 7
-
-
-nuggetIridium
-techreborn:nuggets - 8
 
 
 nuggetIron
 thaumcraft:nugget - 0
+substratum:nugget - 0
 foundry:foundryNugget - 17
-techreborn:nuggets - 9
 totemic:subItems - 0
 
 
@@ -5339,14 +4558,15 @@ tconstruct:nuggets - 3
 
 nuggetLead
 thaumcraft:nugget - 4
+substratum:nugget - 11
 foundry:foundryNugget - 10
-techreborn:nuggets - 10
 
 
 nuggetLemurite
 
 
 nuggetLumium
+substratum:nugget - 15
 
 
 nuggetManasteel
@@ -5367,9 +4587,6 @@ nuggetMeutoite
 nuggetMidasium
 
 
-nuggetMithril
-
-
 nuggetNetherrack
 
 
@@ -5377,8 +4594,8 @@ nuggetNichrome
 
 
 nuggetNickel
+substratum:nugget - 6
 foundry:foundryNugget - 5
-techreborn:nuggets - 11
 
 
 nuggetObsidian
@@ -5391,7 +4608,6 @@ nuggetOrichalcum
 
 
 nuggetOsmium
-techreborn:nuggets - 12
 
 
 nuggetOureclase
@@ -5402,8 +4618,8 @@ tconstruct:nuggets - 4
 
 
 nuggetPlatinum
+substratum:nugget - 12
 foundry:foundryNugget - 13
-techreborn:nuggets - 13
 
 
 nuggetPrometheum
@@ -5441,20 +4657,21 @@ nuggetShadowSteel
 
 
 nuggetSignalum
+substratum:nugget - 14
 
 
 nuggetSilver
 thaumcraft:nugget - 3
+substratum:nugget - 9
 foundry:foundryNugget - 8
-techreborn:nuggets - 14
 
 
 nuggetStainlessSteel
 
 
 nuggetSteel
+substratum:nugget - 10
 foundry:foundryNugget - 9
-techreborn:nuggets - 15
 
 
 nuggetSteeleaf
@@ -5476,20 +4693,18 @@ thaumcraft:nugget - 6
 
 nuggetTin
 thaumcraft:nugget - 2
+substratum:nugget - 2
 foundry:foundryNugget - 1
-techreborn:nuggets - 16
 
 
 nuggetTitanium
 foundry:foundryNugget - 15
-techreborn:nuggets - 17
 
 
 nuggetTopaz
 
 
 nuggetTungsten
-techreborn:nuggets - 18
 
 
 nuggetUranium
@@ -5512,8 +4727,8 @@ nuggetWood
 
 
 nuggetZinc
+substratum:nugget - 7
 foundry:foundryNugget - 6
-techreborn:nuggets - 19
 
 
 obsidian
@@ -6043,6 +5258,7 @@ oreAluminum
 
 
 oreAmber
+biomesoplenty:gem_ore - 7
 thaumcraft:ore_amber - 0
 
 
@@ -6053,9 +5269,6 @@ oreAmordrine
 
 
 oreAngmallen
-
-
-oreApatite
 
 
 oreArdite
@@ -6069,7 +5282,6 @@ oreAtlarus
 
 
 oreBauxite
-techreborn:techreborn.ore - 4
 
 
 oreBlackSteel
@@ -6090,13 +5302,7 @@ oreCarmot
 oreCelenegil
 
 
-oreCertusQuartz
-
-
 oreCeruclase
-
-
-oreChargedCertusQuartz
 
 
 oreChrome
@@ -6107,13 +5313,10 @@ oreChromium
 
 oreCinnabar
 thaumcraft:ore_cinnabar - 0
-techreborn:techreborn.ore - 6
 
 
 oreCoal
 minecraft:coal_ore - 0
-sem:erze - 6
-sem:erze - 7
 
 
 oreCobalt
@@ -6124,9 +5327,37 @@ oreCobaltite
 
 
 oreCopper
+substratum:ore - 0
 foundry:ore - 0
 neotech:oreCopper - 0
-sem:erze - 2
+
+
+oreCrystalAir
+thaumcraft:crystal_aer - any
+
+
+oreCrystalEarth
+thaumcraft:crystal_terra - any
+
+
+oreCrystalEntropy
+thaumcraft:crystal_perditio - any
+
+
+oreCrystalFire
+thaumcraft:crystal_ignis - any
+
+
+oreCrystalOrder
+thaumcraft:crystal_ordo - any
+
+
+oreCrystalTaint
+thaumcraft:crystal_vitium - any
+
+
+oreCrystalWater
+thaumcraft:crystal_aqua - any
 
 
 oreCupronickel
@@ -6141,18 +5372,11 @@ oreDeepIron
 oreDesichalkos
 
 
-oreDevilsIron
-sem:erze - 4
-
-
 oreDiamond
 minecraft:diamond_ore - 0
 
 
 oreElectrum
-
-
-oreElectrumFlux
 
 
 oreElementium
@@ -6180,7 +5404,6 @@ resourcefulcrops:BlockROre - 1
 
 
 oreGalena
-techreborn:techreborn.ore - 0
 
 
 oreGlowstone
@@ -6215,7 +5438,6 @@ oreInvar
 
 
 oreIridium
-techreborn:techreborn.ore - 1
 
 
 oreIron
@@ -6242,8 +5464,8 @@ minecraft:lapis_ore - 0
 
 
 oreLead
+substratum:ore - 5
 foundry:ore - 5
-techreborn:techreborn.ore - 14
 
 
 oreLemurite
@@ -6253,6 +5475,7 @@ oreLumium
 
 
 oreMalachite
+biomesoplenty:gem_ore - 5
 
 
 oreManasteel
@@ -6270,7 +5493,8 @@ oreMeutoite
 oreMidasium
 
 
-oreMithril
+oreNaquadah
+sgcraft:naquadahOre - 0
 
 
 oreNetherrack
@@ -6280,7 +5504,12 @@ oreNichrome
 
 
 oreNickel
+substratum:ore - 2
 foundry:ore - 2
+
+
+oreNiter
+substratum:oreDust - 1
 
 
 oreObsidian
@@ -6299,14 +5528,14 @@ oreOureclase
 
 
 orePeridot
-techreborn:techreborn.ore - 10
+biomesoplenty:gem_ore - 2
 
 
 orePigiron
 
 
 orePlatinum
-techreborn:techreborn.ore - 9
+substratum:ore - 6
 
 
 orePoorAdamantine
@@ -6568,7 +5797,6 @@ orePrometheum
 
 
 orePyrite
-techreborn:techreborn.ore - 5
 
 
 oreQuartz
@@ -6596,18 +5824,14 @@ oreRubracium
 
 
 oreRuby
-techreborn:techreborn.ore - 2
-
-
-oreSalt
-sem:erze - 3
+biomesoplenty:gem_ore - 1
 
 
 oreSanguinite
 
 
 oreSapphire
-techreborn:techreborn.ore - 3
+biomesoplenty:gem_ore - 6
 
 
 oreShadowIron
@@ -6616,24 +5840,18 @@ oreShadowIron
 oreShadowSteel
 
 
-oreSheldonite
-techreborn:techreborn.ore - 9
-
-
 oreSignalum
 
 
 oreSilver
+substratum:ore - 4
 foundry:ore - 4
-techreborn:techreborn.ore - 15
 
 
 oreSodalite
-techreborn:techreborn.ore - 11
 
 
 oreSphalerite
-techreborn:techreborn.ore - 7
 
 
 oreStainlessSteel
@@ -6649,10 +5867,11 @@ oreStone
 
 
 oreSulfur
-sem:erze - 5
+substratum:oreDust - 0
 
 
 oreTanzanite
+biomesoplenty:gem_ore - 4
 
 
 oreTartarite
@@ -6662,27 +5881,25 @@ oreTerrasteel
 
 
 oreTetrahedrite
-techreborn:techreborn.ore - 12
 
 
 oreThaumium
 
 
 oreTin
+substratum:ore - 1
 foundry:ore - 1
 neotech:oreTin - 0
-sem:erze - 0
-techreborn:techreborn.ore - 13
 
 
 oreTitanium
 
 
 oreTopaz
+biomesoplenty:gem_ore - 3
 
 
 oreTungsten
-techreborn:techreborn.ore - 8
 
 
 oreUranium
@@ -6704,8 +5921,8 @@ oreWood
 
 
 oreZinc
+substratum:ore - 3
 foundry:ore - 3
-sem:erze - 1
 
 
 paneGlass
@@ -6781,9 +5998,6 @@ paneGlassYellow
 minecraft:stained_glass_pane - 4
 
 
-paneglassColorless
-
-
 paper
 
 
@@ -6809,7 +6023,6 @@ botania:manaResource - 21
 
 pestleAndMortar
 botania:pestleAndMortar - 0
-thaumicbases:mortar - any
 
 
 petalBlack
@@ -6900,10 +6113,24 @@ pistonStickyBase
 
 plankWood
 minecraft:planks - any
+biomesoplenty:planks_0 - 0
+biomesoplenty:planks_0 - 1
+biomesoplenty:planks_0 - 2
+biomesoplenty:planks_0 - 3
+biomesoplenty:planks_0 - 4
+biomesoplenty:planks_0 - 5
+biomesoplenty:planks_0 - 6
+biomesoplenty:planks_0 - 7
+biomesoplenty:planks_0 - 8
+biomesoplenty:planks_0 - 9
+biomesoplenty:planks_0 - 10
+biomesoplenty:planks_0 - 11
+biomesoplenty:planks_0 - 12
+biomesoplenty:planks_0 - 13
+biomesoplenty:planks_0 - 14
+biomesoplenty:planks_0 - 15
 thaumcraft:plank - 0
 thaumcraft:plank - 1
-sem:finsternisholz - 0
-thaumicbases:planks - any
 totemic:redCedarPlank - 0
 
 
@@ -7162,18 +6389,137 @@ planksWood
 planksZinc
 
 
+plantBerrybush
+biomesoplenty:plant_0 - 5
+
+
+plantBush
+biomesoplenty:plant_0 - 2
+
+
+plantCattail
+biomesoplenty:plant_1 - 4
+biomesoplenty:double_plant - 1
+
+
+plantCaveweed
+biomesoplenty:plant_1 - 6
+
+
+plantCloverpatch
+biomesoplenty:plant_0 - 10
+
+
+plantDampgrass
+biomesoplenty:plant_0 - 8
+
+
+plantDeadgrass
+biomesoplenty:plant_0 - 13
+
+
+plantDeadleafpile
+biomesoplenty:plant_0 - 12
+
+
+plantDesertgrass
+biomesoplenty:plant_0 - 14
+
+
+plantDesertsprouts
+biomesoplenty:plant_0 - 15
+
+
+plantDunegrass
+biomesoplenty:plant_1 - 0
+
+
+plantFlax
+biomesoplenty:double_plant - 0
+
+
+plantKoru
+biomesoplenty:plant_0 - 9
+
+
+plantLeafpile
+biomesoplenty:plant_0 - 11
+
+
+plantMediumgrass
+biomesoplenty:plant_0 - 1
+
+
+plantPoisonivy
+biomesoplenty:plant_0 - 4
+
+
+plantRafflesia
+biomesoplenty:plant_1 - 11
+
+
+plantReed
+biomesoplenty:plant_1 - 9
+
+
+plantRivercane
+biomesoplenty:plant_1 - 5
+
+
+plantRoot
+biomesoplenty:plant_1 - 10
+
+
+plantShortgrass
+biomesoplenty:plant_0 - 0
+
+
+plantShrub
+biomesoplenty:plant_0 - 6
+
+
+plantSpectralfern
+biomesoplenty:plant_1 - 1
+
+
+plantSprout
+biomesoplenty:plant_0 - 3
+
+
+plantThorn
+biomesoplenty:plant_1 - 2
+
+
+plantTinycactus
+biomesoplenty:plant_1 - 7
+
+
+plantWheatgrass
+biomesoplenty:plant_0 - 7
+
+
+plantWildrice
+biomesoplenty:plant_1 - 3
+
+
+plantWisteria
+biomesoplenty:plant_1 - 12
+
+
+plantWitherwart
+biomesoplenty:plant_1 - 8
+
+
 plateAdamantine
+
+
+plateAer
 
 
 plateAlduorite
 
 
-plateAluminium
-techreborn:plates - 0
-
-
 plateAluminum
-techreborn:plates - 0
 
 
 plateAmethyst
@@ -7185,14 +6531,13 @@ plateAmordrine
 plateAngmallen
 
 
+plateAqua
+
+
 plateAstralSilver
 
 
 plateAtlarus
-
-
-plateBatteryAlloy
-techreborn:plates - 1
 
 
 plateBlackSteel
@@ -7200,11 +6545,11 @@ plateBlackSteel
 
 plateBrass
 thaumcraft:plate - 0
-techreborn:plates - 2
+substratum:plate - 9
 
 
 plateBronze
-techreborn:plates - 3
+substratum:plate - 4
 
 
 plateCarbon
@@ -7219,15 +6564,7 @@ plateCelenegil
 plateCeruclase
 
 
-plateChrome
-techreborn:plates - 5
-
-
 plateChromium
-
-
-plateCoal
-techreborn:plates - 6
 
 
 plateCobalt
@@ -7237,10 +6574,11 @@ plateCobaltite
 
 
 plateCopper
-techreborn:plates - 7
+substratum:plate - 2
 
 
 plateCupronickel
+substratum:plate - 14
 
 
 plateDamascusSteel
@@ -7508,15 +6846,20 @@ plateDesichalkos
 
 
 plateDiamond
-techreborn:plates - 8
 
 
 plateElectrum
-techreborn:plates - 9
+substratum:plate - 5
+
+
+plateElementium
 
 
 plateEmerald
-techreborn:plates - 10
+
+
+plateEnderium
+substratum:plate - 17
 
 
 plateEndstone
@@ -7529,7 +6872,7 @@ plateGlowstone
 
 
 plateGold
-techreborn:plates - 11
+substratum:plate - 1
 
 
 plateGreenSapphire
@@ -7547,6 +6890,9 @@ plateHepatizon
 plateIgnatius
 
 
+plateIgnis
+
+
 plateInfuscolium
 
 
@@ -7554,16 +6900,12 @@ plateInolashite
 
 
 plateInvar
-techreborn:plates - 12
-
-
-plateIridium
-techreborn:plates - 13
+substratum:plate - 6
 
 
 plateIron
 thaumcraft:plate - 1
-techreborn:plates - 14
+substratum:plate - 0
 
 
 plateIronwood
@@ -7578,19 +6920,18 @@ plateKanthal
 plateKnightmetal
 
 
-plateLapis
-techreborn:plates - 15
-
-
 plateLead
-techreborn:plates - 16
+substratum:plate - 12
 
 
 plateLemurite
 
 
-plateMagnalium
-techreborn:plates - 17
+plateLumium
+substratum:plate - 16
+
+
+plateManasteel
 
 
 plateManganese
@@ -7609,32 +6950,38 @@ plateNichrome
 
 
 plateNickel
-techreborn:plates - 18
+substratum:plate - 7
 
 
 plateObsidian
-techreborn:plates - 19
 
 
 plateOlivine
+
+
+plateOrdo
 
 
 plateOrichalcum
 
 
 plateOsmium
-techreborn:plates - 20
 
 
 plateOureclase
 
 
-platePeridot
-techreborn:plates - 21
+platePerditio
 
 
 platePlatinum
-techreborn:plates - 22
+substratum:plate - 13
+
+
+platePotentia
+
+
+platePrimal
 
 
 platePrometheum
@@ -7646,16 +6993,7 @@ plateQuicksilver
 plateRedAlloy
 
 
-plateRedGarnet
-techreborn:plates - 23
-
-
 plateRedstone
-techreborn:plates - 24
-
-
-plateRedstoneAlloy
-techreborn:plates - 24
 
 
 plateRubber
@@ -7665,14 +7003,12 @@ plateRubracium
 
 
 plateRuby
-techreborn:plates - 25
 
 
 plateSanguinite
 
 
 plateSapphire
-techreborn:plates - 26
 
 
 plateShadowIron
@@ -7681,19 +7017,19 @@ plateShadowIron
 plateShadowSteel
 
 
-plateSilicon
-techreborn:plates - 27
+plateSignalum
+substratum:plate - 15
 
 
 plateSilver
-techreborn:plates - 28
+substratum:plate - 10
 
 
 plateStainlessSteel
 
 
 plateSteel
-techreborn:plates - 29
+substratum:plate - 11
 
 
 plateSteeleaf
@@ -7705,8 +7041,10 @@ plateStone
 plateTartarite
 
 
-plateTeslatite
-techreborn:plates - 30
+plateTerra
+
+
+plateTerrasteel
 
 
 plateThaumium
@@ -7714,25 +7052,25 @@ thaumcraft:plate - 2
 
 
 plateTin
-techreborn:plates - 31
+substratum:plate - 3
 
 
 plateTitanium
-techreborn:plates - 32
 
 
 plateTopaz
 
 
 plateTungsten
-techreborn:plates - 33
-
-
-plateTungstensteel
-techreborn:plates - 34
 
 
 plateUranium
+
+
+plateVacous
+
+
+plateVictus
 
 
 plateVoid
@@ -7751,12 +7089,8 @@ plateVyroxeres
 plateWood
 
 
-plateYellowGarnet
-techreborn:plates - 35
-
-
 plateZinc
-techreborn:plates - 36
+substratum:plate - 8
 
 
 podzol
@@ -7776,10 +7110,6 @@ botania:manaResource - 23
 
 prismarine
 minecraft:prismarine - any
-
-
-pulpWood
-techreborn:dust - 68
 
 
 quicksilver
@@ -8135,6 +7465,8 @@ minecraft:record_strad - 0
 minecraft:record_ward - 0
 minecraft:record_11 - 0
 minecraft:record_wait - 0
+biomesoplenty:record_corruption - 0
+biomesoplenty:record_wanderer - 0
 
 
 redstone
@@ -8148,8 +7480,149 @@ redstoneRoot
 botania:manaResource - 6
 
 
+rodAer
+
+
+rodAluminum
+
+
+rodAqua
+
+
 rodBlaze
 minecraft:blaze_rod - 0
+
+
+rodBrass
+substratum:rod - 9
+
+
+rodBronze
+substratum:rod - 4
+
+
+rodChromium
+
+
+rodCopper
+substratum:rod - 2
+
+
+rodCupronickel
+substratum:rod - 14
+
+
+rodElectrum
+substratum:rod - 5
+
+
+rodElementium
+
+
+rodEnderium
+substratum:rod - 17
+
+
+rodGold
+substratum:rod - 1
+
+
+rodIgnis
+
+
+rodInvar
+substratum:rod - 6
+
+
+rodIron
+substratum:rod - 0
+
+
+rodKanthal
+
+
+rodLead
+substratum:rod - 12
+
+
+rodLumium
+substratum:rod - 16
+
+
+rodManasteel
+
+
+rodManganese
+
+
+rodNichrome
+
+
+rodNickel
+substratum:rod - 7
+
+
+rodOrdo
+
+
+rodPerditio
+
+
+rodPlatinum
+substratum:rod - 13
+
+
+rodPotentia
+
+
+rodPrimal
+
+
+rodRubber
+
+
+rodSignalum
+substratum:rod - 15
+
+
+rodSilver
+substratum:rod - 10
+
+
+rodStainlessSteel
+
+
+rodSteel
+substratum:rod - 11
+
+
+rodTerra
+
+
+rodTerrasteel
+
+
+rodThaumium
+
+
+rodTin
+substratum:rod - 3
+
+
+rodTitanium
+
+
+rodVacous
+
+
+rodVictus
+
+
+rodVoid
+
+
+rodZinc
+substratum:rod - 8
 
 
 runeAirB
@@ -8241,6 +7714,10 @@ seedRice
 actuallyadditions:itemRiceSeed - 0
 
 
+seedTurnip
+biomesoplenty:turnip_seeds - 0
+
+
 shardAir
 thaumcraft:shard - 0
 
@@ -8267,6 +7744,7 @@ thaumcraft:shard - 4
 
 shardPrismarine
 botania:manaResource - 10
+minecraft:prismarine_shard - 0
 
 
 shardTainted
@@ -8349,14 +7827,193 @@ shardsIce
 ice_shards:ice_shards - 0
 
 
+silver_ingot
+
+
+slabAer
+
+
+slabAluminum
+foundry:slabMetal2 - 5
+
+
+slabAqua
+
+
+slabBrass
+substratum:slab2 - 1
+foundry:slabMetal2 - 1
+
+
+slabBronze
+substratum:slab1 - 4
+foundry:slabMetal1 - 4
+
+
+slabChromium
+foundry:slabMetal2 - 6
+
+
 slabCobblestone
 minecraft:stone_slab - 3
 
 
+slabCopper
+substratum:slab1 - 2
+foundry:slabMetal1 - 2
+
+
+slabCupronickel
+substratum:slab2 - 6
+foundry:slabMetal3 - 2
+
+
+slabElectrum
+substratum:slab1 - 5
+foundry:slabMetal1 - 5
+
+
+slabElementium
+
+
+slabEnderium
+substratum:slab3 - 1
+
+
+slabGold
+substratum:slab1 - 1
+foundry:slabMetal1 - 1
+
+
+slabIgnis
+
+
+slabInvar
+substratum:slab1 - 6
+foundry:slabMetal1 - 6
+
+
+slabIron
+substratum:slab1 - 0
+foundry:slabMetal1 - 0
+
+
+slabKanthal
+
+
+slabLead
+substratum:slab2 - 4
+foundry:slabMetal2 - 4
+
+
+slabLumium
+substratum:slab3 - 0
+
+
+slabManasteel
+
+
+slabManganese
+foundry:slabMetal3 - 0
+
+
+slabNichrome
+
+
+slabNickel
+substratum:slab1 - 7
+foundry:slabMetal1 - 7
+
+
+slabOrdo
+
+
+slabPerditio
+
+
+slabPlatinum
+substratum:slab2 - 5
+foundry:slabMetal2 - 7
+
+
+slabPotentia
+
+
+slabPrimal
+
+
+slabRubber
+
+
+slabSignalum
+substratum:slab2 - 7
+
+
+slabSilver
+substratum:slab2 - 2
+foundry:slabMetal2 - 2
+
+
+slabStainlessSteel
+
+
+slabSteel
+substratum:slab2 - 3
+foundry:slabMetal2 - 3
+
+
+slabTerra
+
+
+slabTerrasteel
+
+
+slabThaumium
+
+
+slabTin
+substratum:slab1 - 3
+foundry:slabMetal1 - 3
+
+
+slabTitanium
+foundry:slabMetal3 - 1
+
+
+slabVacous
+
+
+slabVictus
+
+
+slabVoid
+
+
 slabWood
 minecraft:wooden_slab - any
+biomesoplenty:wood_slab_0 - 0
+biomesoplenty:wood_slab_0 - 1
+biomesoplenty:wood_slab_0 - 2
+biomesoplenty:wood_slab_0 - 3
+biomesoplenty:wood_slab_0 - 4
+biomesoplenty:wood_slab_0 - 5
+biomesoplenty:wood_slab_0 - 6
+biomesoplenty:wood_slab_0 - 7
+biomesoplenty:wood_slab_1 - 0
+biomesoplenty:wood_slab_1 - 1
+biomesoplenty:wood_slab_1 - 2
+biomesoplenty:wood_slab_1 - 3
+biomesoplenty:wood_slab_1 - 4
+biomesoplenty:wood_slab_1 - 5
+biomesoplenty:wood_slab_1 - 6
+biomesoplenty:wood_slab_1 - 7
 thaumcraft:slab_wood - 0
 thaumcraft:slab_wood - 1
+
+
+slabZinc
+substratum:slab2 - 0
+foundry:slabMetal2 - 0
 
 
 slimeball
@@ -8411,11 +8068,172 @@ minecraft:birch_stairs - 0
 minecraft:jungle_stairs - 0
 minecraft:acacia_stairs - 0
 minecraft:dark_oak_stairs - 0
-sem:finsternisholztreppe - 0
+biomesoplenty:sacred_oak_stairs - 0
+biomesoplenty:cherry_stairs - 0
+biomesoplenty:umbran_stairs - 0
+biomesoplenty:fir_stairs - 0
+biomesoplenty:ethereal_stairs - 0
+biomesoplenty:magic_stairs - 0
+biomesoplenty:mangrove_stairs - 0
+biomesoplenty:palm_stairs - 0
+biomesoplenty:redwood_stairs - 0
+biomesoplenty:willow_stairs - 0
+biomesoplenty:pine_stairs - 0
+biomesoplenty:hellbark_stairs - 0
+biomesoplenty:jacaranda_stairs - 0
+biomesoplenty:mahogany_stairs - 0
+biomesoplenty:ebony_stairs - 0
+biomesoplenty:eucalyptus_stairs - 0
+
+
+stairsAer
+
+
+stairsAluminum
+
+
+stairsAqua
+
+
+stairsBrass
+substratum:stairsBrass - 0
+
+
+stairsBronze
+substratum:stairsBronze - 0
+
+
+stairsChromium
+
+
+stairsCopper
+substratum:stairsCopper - 0
+
+
+stairsCupronickel
+substratum:stairsCupronickel - 0
+
+
+stairsElectrum
+substratum:stairsElectrum - 0
+
+
+stairsElementium
+
+
+stairsEnderium
+substratum:stairsEnderium - 0
+
+
+stairsGold
+substratum:stairsGold - 0
+
+
+stairsIgnis
+
+
+stairsInvar
+substratum:stairsInvar - 0
+
+
+stairsIron
+substratum:stairsIron - 0
+
+
+stairsKanthal
+
+
+stairsLead
+substratum:stairsLead - 0
+
+
+stairsLumium
+substratum:stairsLumium - 0
+
+
+stairsManasteel
+
+
+stairsManganese
+
+
+stairsNichrome
+
+
+stairsNickel
+substratum:stairsNickel - 0
+
+
+stairsOrdo
+
+
+stairsPerditio
+
+
+stairsPlatinum
+substratum:stairsPlatinum - 0
+
+
+stairsPotentia
+
+
+stairsPrimal
+
+
+stairsRubber
+
+
+stairsSignalum
+substratum:stairsSignalum - 0
+
+
+stairsSilver
+substratum:stairsSilver - 0
+
+
+stairsStainlessSteel
+
+
+stairsSteel
+substratum:stairsSteel - 0
+
+
+stairsTerra
+
+
+stairsTerrasteel
+
+
+stairsThaumium
+
+
+stairsTin
+substratum:stairsTin - 0
+
+
+stairsTitanium
+
+
+stairsVacous
+
+
+stairsVictus
+
+
+stairsVoid
+
+
+stairsZinc
+substratum:stairsZinc - 0
+
+
+steel_ingot
 
 
 stickWood
 minecraft:stick - 0
+biomesoplenty:bamboo - 0
+biomesoplenty:plant_1 - 5
 
 
 stone
@@ -8495,11 +8313,22 @@ minecraft:stone - 2
 string
 
 
+substanceEbony
+psi:material - 5
+
+
+substanceIvory
+psi:material - 6
+
+
 sugar
 
 
 teethBuffalo
 totemic:buffaloItems - 1
+
+
+tin_ingot
 
 
 tis3d:module
@@ -8523,16 +8352,69 @@ minecraft:redstone_torch - 0
 treeLeaves
 minecraft:leaves - any
 minecraft:leaves2 - any
+biomesoplenty:leaves_0 - 8
+biomesoplenty:leaves_0 - 9
+biomesoplenty:leaves_0 - 10
+biomesoplenty:leaves_0 - 11
+biomesoplenty:leaves_1 - 8
+biomesoplenty:leaves_1 - 9
+biomesoplenty:leaves_1 - 10
+biomesoplenty:leaves_1 - 11
+biomesoplenty:leaves_2 - 8
+biomesoplenty:leaves_2 - 9
+biomesoplenty:leaves_2 - 10
+biomesoplenty:leaves_2 - 11
+biomesoplenty:leaves_3 - 8
+biomesoplenty:leaves_3 - 9
+biomesoplenty:leaves_3 - 10
+biomesoplenty:leaves_3 - 11
+biomesoplenty:leaves_4 - 8
+biomesoplenty:leaves_4 - 9
+biomesoplenty:leaves_4 - 10
+biomesoplenty:leaves_4 - 11
+biomesoplenty:leaves_5 - 8
+biomesoplenty:leaves_5 - 9
+biomesoplenty:leaves_5 - 10
+biomesoplenty:leaves_5 - 11
+biomesoplenty:leaves_6 - 8
+biomesoplenty:leaves_6 - 9
 tconstruct:slime_leaves - any
 totemic:totemLeaves - 0
 
 
 treeSapling
 minecraft:sapling - any
+biomesoplenty:sapling_0 - 0
+biomesoplenty:sapling_0 - 1
+biomesoplenty:sapling_0 - 2
+biomesoplenty:sapling_0 - 3
+biomesoplenty:sapling_0 - 4
+biomesoplenty:sapling_0 - 5
+biomesoplenty:sapling_0 - 6
+biomesoplenty:sapling_0 - 7
+biomesoplenty:sapling_1 - 0
+biomesoplenty:sapling_1 - 1
+biomesoplenty:sapling_1 - 2
+biomesoplenty:sapling_1 - 3
+biomesoplenty:sapling_1 - 4
+biomesoplenty:sapling_1 - 5
+biomesoplenty:sapling_1 - 6
+biomesoplenty:sapling_1 - 7
+biomesoplenty:sapling_2 - 0
+biomesoplenty:sapling_2 - 1
+biomesoplenty:sapling_2 - 2
+biomesoplenty:sapling_2 - 3
+biomesoplenty:sapling_2 - 4
+biomesoplenty:sapling_2 - 5
+biomesoplenty:sapling_2 - 6
+biomesoplenty:sapling_2 - 7
 thaumcraft:sapling - 0
 thaumcraft:sapling - 1
 tconstruct:slime_sapling - any
-thaumicbases:goldenOakSapling - 0
+
+
+vanillaCoal
+minecraft:coal - 0
 
 
 vine

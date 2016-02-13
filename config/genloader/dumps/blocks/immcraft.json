@@ -1,0 +1,124 @@
+[
+  {
+    "Mod": "immcraft",
+    "Name": "furnace",
+    "States": [
+      "immcraft:furnace[burning=true,facing=north]",
+      "immcraft:furnace[burning=true,facing=south]",
+      "immcraft:furnace[burning=true,facing=west]",
+      "immcraft:furnace[burning=true,facing=east]",
+      "immcraft:furnace[burning=false,facing=north]",
+      "immcraft:furnace[burning=false,facing=south]",
+      "immcraft:furnace[burning=false,facing=west]",
+      "immcraft:furnace[burning=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "immcraft",
+    "Name": "workbench",
+    "States": [
+      "immcraft:workbench[facing=north]",
+      "immcraft:workbench[facing=south]",
+      "immcraft:workbench[facing=west]",
+      "immcraft:workbench[facing=east]"
+    ]
+  },
+  {
+    "Mod": "immcraft",
+    "Name": "workbench_sec",
+    "States": [
+      "immcraft:workbench_sec[facing=north]",
+      "immcraft:workbench_sec[facing=south]",
+      "immcraft:workbench_sec[facing=west]",
+      "immcraft:workbench_sec[facing=east]"
+    ]
+  },
+  {
+    "Mod": "immcraft",
+    "Name": "in_world_placer",
+    "States": [
+      "immcraft:in_world_placer[facing=north]",
+      "immcraft:in_world_placer[facing=south]",
+      "immcraft:in_world_placer[facing=west]",
+      "immcraft:in_world_placer[facing=east]"
+    ]
+  },
+  {
+    "Mod": "immcraft",
+    "Name": "in_world_vertical_placer",
+    "States": [
+      "immcraft:in_world_vertical_placer[facing=north]",
+      "immcraft:in_world_vertical_placer[facing=south]",
+      "immcraft:in_world_vertical_placer[facing=west]",
+      "immcraft:in_world_vertical_placer[facing=east]"
+    ]
+  },
+  {
+    "Mod": "immcraft",
+    "Name": "rock",
+    "States": [
+      "immcraft:rock[facing=north]",
+      "immcraft:rock[facing=south]",
+      "immcraft:rock[facing=west]",
+      "immcraft:rock[facing=east]"
+    ]
+  },
+  {
+    "Mod": "immcraft",
+    "Name": "sticks",
+    "States": [
+      "immcraft:sticks[amount=single,burning=true,facing=north]",
+      "immcraft:sticks[amount=single,burning=true,facing=south]",
+      "immcraft:sticks[amount=single,burning=true,facing=west]",
+      "immcraft:sticks[amount=single,burning=true,facing=east]",
+      "immcraft:sticks[amount=single,burning=false,facing=north]",
+      "immcraft:sticks[amount=single,burning=false,facing=south]",
+      "immcraft:sticks[amount=single,burning=false,facing=west]",
+      "immcraft:sticks[amount=single,burning=false,facing=east]",
+      "immcraft:sticks[amount=double,burning=true,facing=north]",
+      "immcraft:sticks[amount=double,burning=true,facing=south]",
+      "immcraft:sticks[amount=double,burning=true,facing=west]",
+      "immcraft:sticks[amount=double,burning=true,facing=east]",
+      "immcraft:sticks[amount=double,burning=false,facing=north]",
+      "immcraft:sticks[amount=double,burning=false,facing=south]",
+      "immcraft:sticks[amount=double,burning=false,facing=west]",
+      "immcraft:sticks[amount=double,burning=false,facing=east]",
+      "immcraft:sticks[amount=tripple,burning=true,facing=north]",
+      "immcraft:sticks[amount=tripple,burning=true,facing=south]",
+      "immcraft:sticks[amount=tripple,burning=true,facing=west]",
+      "immcraft:sticks[amount=tripple,burning=true,facing=east]",
+      "immcraft:sticks[amount=tripple,burning=false,facing=north]",
+      "immcraft:sticks[amount=tripple,burning=false,facing=south]",
+      "immcraft:sticks[amount=tripple,burning=false,facing=west]",
+      "immcraft:sticks[amount=tripple,burning=false,facing=east]",
+      "immcraft:sticks[amount=all,burning=true,facing=north]",
+      "immcraft:sticks[amount=all,burning=true,facing=south]",
+      "immcraft:sticks[amount=all,burning=true,facing=west]",
+      "immcraft:sticks[amount=all,burning=true,facing=east]",
+      "immcraft:sticks[amount=all,burning=false,facing=north]",
+      "immcraft:sticks[amount=all,burning=false,facing=south]",
+      "immcraft:sticks[amount=all,burning=false,facing=west]",
+      "immcraft:sticks[amount=all,burning=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "immcraft",
+    "Name": "chest",
+    "States": [
+      "immcraft:chest[facing=north]",
+      "immcraft:chest[facing=south]",
+      "immcraft:chest[facing=west]",
+      "immcraft:chest[facing=east]"
+    ]
+  },
+  {
+    "Mod": "immcraft",
+    "Name": "cupboard",
+    "States": [
+      "immcraft:cupboard[facing=north]",
+      "immcraft:cupboard[facing=south]",
+      "immcraft:cupboard[facing=west]",
+      "immcraft:cupboard[facing=east]"
+    ]
+  }
+]

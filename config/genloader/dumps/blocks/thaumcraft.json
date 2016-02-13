@@ -1,0 +1,1244 @@
+[
+  {
+    "Mod": "thaumcraft",
+    "Name": "ore_amber",
+    "States": [
+      "thaumcraft:ore_amber"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "ore_cinnabar",
+    "States": [
+      "thaumcraft:ore_cinnabar"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "crystal_aer",
+    "States": [
+      "thaumcraft:crystal_aer[size=0]",
+      "thaumcraft:crystal_aer[size=1]",
+      "thaumcraft:crystal_aer[size=2]",
+      "thaumcraft:crystal_aer[size=3]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "crystal_ignis",
+    "States": [
+      "thaumcraft:crystal_ignis[size=0]",
+      "thaumcraft:crystal_ignis[size=1]",
+      "thaumcraft:crystal_ignis[size=2]",
+      "thaumcraft:crystal_ignis[size=3]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "crystal_aqua",
+    "States": [
+      "thaumcraft:crystal_aqua[size=0]",
+      "thaumcraft:crystal_aqua[size=1]",
+      "thaumcraft:crystal_aqua[size=2]",
+      "thaumcraft:crystal_aqua[size=3]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "crystal_terra",
+    "States": [
+      "thaumcraft:crystal_terra[size=0]",
+      "thaumcraft:crystal_terra[size=1]",
+      "thaumcraft:crystal_terra[size=2]",
+      "thaumcraft:crystal_terra[size=3]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "crystal_ordo",
+    "States": [
+      "thaumcraft:crystal_ordo[size=0]",
+      "thaumcraft:crystal_ordo[size=1]",
+      "thaumcraft:crystal_ordo[size=2]",
+      "thaumcraft:crystal_ordo[size=3]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "crystal_perditio",
+    "States": [
+      "thaumcraft:crystal_perditio[size=0]",
+      "thaumcraft:crystal_perditio[size=1]",
+      "thaumcraft:crystal_perditio[size=2]",
+      "thaumcraft:crystal_perditio[size=3]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "crystal_vitium",
+    "States": [
+      "thaumcraft:crystal_vitium[size=0]",
+      "thaumcraft:crystal_vitium[size=1]",
+      "thaumcraft:crystal_vitium[size=2]",
+      "thaumcraft:crystal_vitium[size=3]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "log",
+    "States": [
+      "thaumcraft:log[axis=x,variant=greatwood]",
+      "thaumcraft:log[axis=x,variant=silverwood]",
+      "thaumcraft:log[axis=y,variant=greatwood]",
+      "thaumcraft:log[axis=y,variant=silverwood]",
+      "thaumcraft:log[axis=z,variant=greatwood]",
+      "thaumcraft:log[axis=z,variant=silverwood]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "leaf",
+    "States": [
+      "thaumcraft:leaf[check_decay=true,decayable=true,variant=greatwood]",
+      "thaumcraft:leaf[check_decay=true,decayable=true,variant=silverwood]",
+      "thaumcraft:leaf[check_decay=true,decayable=false,variant=greatwood]",
+      "thaumcraft:leaf[check_decay=true,decayable=false,variant=silverwood]",
+      "thaumcraft:leaf[check_decay=false,decayable=true,variant=greatwood]",
+      "thaumcraft:leaf[check_decay=false,decayable=true,variant=silverwood]",
+      "thaumcraft:leaf[check_decay=false,decayable=false,variant=greatwood]",
+      "thaumcraft:leaf[check_decay=false,decayable=false,variant=silverwood]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "plank",
+    "States": [
+      "thaumcraft:plank[variant=greatwood]",
+      "thaumcraft:plank[variant=silverwood]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "greatwood_stairs",
+    "States": [
+      "thaumcraft:greatwood_stairs[facing=north,half=top,shape=straight]",
+      "thaumcraft:greatwood_stairs[facing=north,half=top,shape=inner_left]",
+      "thaumcraft:greatwood_stairs[facing=north,half=top,shape=inner_right]",
+      "thaumcraft:greatwood_stairs[facing=north,half=top,shape=outer_left]",
+      "thaumcraft:greatwood_stairs[facing=north,half=top,shape=outer_right]",
+      "thaumcraft:greatwood_stairs[facing=north,half=bottom,shape=straight]",
+      "thaumcraft:greatwood_stairs[facing=north,half=bottom,shape=inner_left]",
+      "thaumcraft:greatwood_stairs[facing=north,half=bottom,shape=inner_right]",
+      "thaumcraft:greatwood_stairs[facing=north,half=bottom,shape=outer_left]",
+      "thaumcraft:greatwood_stairs[facing=north,half=bottom,shape=outer_right]",
+      "thaumcraft:greatwood_stairs[facing=south,half=top,shape=straight]",
+      "thaumcraft:greatwood_stairs[facing=south,half=top,shape=inner_left]",
+      "thaumcraft:greatwood_stairs[facing=south,half=top,shape=inner_right]",
+      "thaumcraft:greatwood_stairs[facing=south,half=top,shape=outer_left]",
+      "thaumcraft:greatwood_stairs[facing=south,half=top,shape=outer_right]",
+      "thaumcraft:greatwood_stairs[facing=south,half=bottom,shape=straight]",
+      "thaumcraft:greatwood_stairs[facing=south,half=bottom,shape=inner_left]",
+      "thaumcraft:greatwood_stairs[facing=south,half=bottom,shape=inner_right]",
+      "thaumcraft:greatwood_stairs[facing=south,half=bottom,shape=outer_left]",
+      "thaumcraft:greatwood_stairs[facing=south,half=bottom,shape=outer_right]",
+      "thaumcraft:greatwood_stairs[facing=west,half=top,shape=straight]",
+      "thaumcraft:greatwood_stairs[facing=west,half=top,shape=inner_left]",
+      "thaumcraft:greatwood_stairs[facing=west,half=top,shape=inner_right]",
+      "thaumcraft:greatwood_stairs[facing=west,half=top,shape=outer_left]",
+      "thaumcraft:greatwood_stairs[facing=west,half=top,shape=outer_right]",
+      "thaumcraft:greatwood_stairs[facing=west,half=bottom,shape=straight]",
+      "thaumcraft:greatwood_stairs[facing=west,half=bottom,shape=inner_left]",
+      "thaumcraft:greatwood_stairs[facing=west,half=bottom,shape=inner_right]",
+      "thaumcraft:greatwood_stairs[facing=west,half=bottom,shape=outer_left]",
+      "thaumcraft:greatwood_stairs[facing=west,half=bottom,shape=outer_right]",
+      "thaumcraft:greatwood_stairs[facing=east,half=top,shape=straight]",
+      "thaumcraft:greatwood_stairs[facing=east,half=top,shape=inner_left]",
+      "thaumcraft:greatwood_stairs[facing=east,half=top,shape=inner_right]",
+      "thaumcraft:greatwood_stairs[facing=east,half=top,shape=outer_left]",
+      "thaumcraft:greatwood_stairs[facing=east,half=top,shape=outer_right]",
+      "thaumcraft:greatwood_stairs[facing=east,half=bottom,shape=straight]",
+      "thaumcraft:greatwood_stairs[facing=east,half=bottom,shape=inner_left]",
+      "thaumcraft:greatwood_stairs[facing=east,half=bottom,shape=inner_right]",
+      "thaumcraft:greatwood_stairs[facing=east,half=bottom,shape=outer_left]",
+      "thaumcraft:greatwood_stairs[facing=east,half=bottom,shape=outer_right]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "silverwood_stairs",
+    "States": [
+      "thaumcraft:silverwood_stairs[facing=north,half=top,shape=straight]",
+      "thaumcraft:silverwood_stairs[facing=north,half=top,shape=inner_left]",
+      "thaumcraft:silverwood_stairs[facing=north,half=top,shape=inner_right]",
+      "thaumcraft:silverwood_stairs[facing=north,half=top,shape=outer_left]",
+      "thaumcraft:silverwood_stairs[facing=north,half=top,shape=outer_right]",
+      "thaumcraft:silverwood_stairs[facing=north,half=bottom,shape=straight]",
+      "thaumcraft:silverwood_stairs[facing=north,half=bottom,shape=inner_left]",
+      "thaumcraft:silverwood_stairs[facing=north,half=bottom,shape=inner_right]",
+      "thaumcraft:silverwood_stairs[facing=north,half=bottom,shape=outer_left]",
+      "thaumcraft:silverwood_stairs[facing=north,half=bottom,shape=outer_right]",
+      "thaumcraft:silverwood_stairs[facing=south,half=top,shape=straight]",
+      "thaumcraft:silverwood_stairs[facing=south,half=top,shape=inner_left]",
+      "thaumcraft:silverwood_stairs[facing=south,half=top,shape=inner_right]",
+      "thaumcraft:silverwood_stairs[facing=south,half=top,shape=outer_left]",
+      "thaumcraft:silverwood_stairs[facing=south,half=top,shape=outer_right]",
+      "thaumcraft:silverwood_stairs[facing=south,half=bottom,shape=straight]",
+      "thaumcraft:silverwood_stairs[facing=south,half=bottom,shape=inner_left]",
+      "thaumcraft:silverwood_stairs[facing=south,half=bottom,shape=inner_right]",
+      "thaumcraft:silverwood_stairs[facing=south,half=bottom,shape=outer_left]",
+      "thaumcraft:silverwood_stairs[facing=south,half=bottom,shape=outer_right]",
+      "thaumcraft:silverwood_stairs[facing=west,half=top,shape=straight]",
+      "thaumcraft:silverwood_stairs[facing=west,half=top,shape=inner_left]",
+      "thaumcraft:silverwood_stairs[facing=west,half=top,shape=inner_right]",
+      "thaumcraft:silverwood_stairs[facing=west,half=top,shape=outer_left]",
+      "thaumcraft:silverwood_stairs[facing=west,half=top,shape=outer_right]",
+      "thaumcraft:silverwood_stairs[facing=west,half=bottom,shape=straight]",
+      "thaumcraft:silverwood_stairs[facing=west,half=bottom,shape=inner_left]",
+      "thaumcraft:silverwood_stairs[facing=west,half=bottom,shape=inner_right]",
+      "thaumcraft:silverwood_stairs[facing=west,half=bottom,shape=outer_left]",
+      "thaumcraft:silverwood_stairs[facing=west,half=bottom,shape=outer_right]",
+      "thaumcraft:silverwood_stairs[facing=east,half=top,shape=straight]",
+      "thaumcraft:silverwood_stairs[facing=east,half=top,shape=inner_left]",
+      "thaumcraft:silverwood_stairs[facing=east,half=top,shape=inner_right]",
+      "thaumcraft:silverwood_stairs[facing=east,half=top,shape=outer_left]",
+      "thaumcraft:silverwood_stairs[facing=east,half=top,shape=outer_right]",
+      "thaumcraft:silverwood_stairs[facing=east,half=bottom,shape=straight]",
+      "thaumcraft:silverwood_stairs[facing=east,half=bottom,shape=inner_left]",
+      "thaumcraft:silverwood_stairs[facing=east,half=bottom,shape=inner_right]",
+      "thaumcraft:silverwood_stairs[facing=east,half=bottom,shape=outer_left]",
+      "thaumcraft:silverwood_stairs[facing=east,half=bottom,shape=outer_right]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "slab_wood",
+    "States": [
+      "thaumcraft:slab_wood[half=top,variant=greatwood]",
+      "thaumcraft:slab_wood[half=top,variant=silverwood]",
+      "thaumcraft:slab_wood[half=bottom,variant=greatwood]",
+      "thaumcraft:slab_wood[half=bottom,variant=silverwood]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "slab_wood_double",
+    "States": [
+      "thaumcraft:slab_wood_double[half=top,variant=greatwood]",
+      "thaumcraft:slab_wood_double[half=top,variant=silverwood]",
+      "thaumcraft:slab_wood_double[half=bottom,variant=greatwood]",
+      "thaumcraft:slab_wood_double[half=bottom,variant=silverwood]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "stone",
+    "States": [
+      "thaumcraft:stone[variant=arcane]",
+      "thaumcraft:stone[variant=arcane_brick]",
+      "thaumcraft:stone[variant=ancient]",
+      "thaumcraft:stone[variant=ancient_rock]",
+      "thaumcraft:stone[variant=eldritch]",
+      "thaumcraft:stone[variant=ancient_tile]",
+      "thaumcraft:stone[variant=crust]",
+      "thaumcraft:stone[variant=crust_glow]",
+      "thaumcraft:stone[variant=matrix_speed]",
+      "thaumcraft:stone[variant=matrix_cost]",
+      "thaumcraft:stone[variant=ancient_doorway]",
+      "thaumcraft:stone[variant=glyphed]",
+      "thaumcraft:stone[variant=bedrock]",
+      "thaumcraft:stone[variant=porous]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "arcane_stairs",
+    "States": [
+      "thaumcraft:arcane_stairs[facing=north,half=top,shape=straight]",
+      "thaumcraft:arcane_stairs[facing=north,half=top,shape=inner_left]",
+      "thaumcraft:arcane_stairs[facing=north,half=top,shape=inner_right]",
+      "thaumcraft:arcane_stairs[facing=north,half=top,shape=outer_left]",
+      "thaumcraft:arcane_stairs[facing=north,half=top,shape=outer_right]",
+      "thaumcraft:arcane_stairs[facing=north,half=bottom,shape=straight]",
+      "thaumcraft:arcane_stairs[facing=north,half=bottom,shape=inner_left]",
+      "thaumcraft:arcane_stairs[facing=north,half=bottom,shape=inner_right]",
+      "thaumcraft:arcane_stairs[facing=north,half=bottom,shape=outer_left]",
+      "thaumcraft:arcane_stairs[facing=north,half=bottom,shape=outer_right]",
+      "thaumcraft:arcane_stairs[facing=south,half=top,shape=straight]",
+      "thaumcraft:arcane_stairs[facing=south,half=top,shape=inner_left]",
+      "thaumcraft:arcane_stairs[facing=south,half=top,shape=inner_right]",
+      "thaumcraft:arcane_stairs[facing=south,half=top,shape=outer_left]",
+      "thaumcraft:arcane_stairs[facing=south,half=top,shape=outer_right]",
+      "thaumcraft:arcane_stairs[facing=south,half=bottom,shape=straight]",
+      "thaumcraft:arcane_stairs[facing=south,half=bottom,shape=inner_left]",
+      "thaumcraft:arcane_stairs[facing=south,half=bottom,shape=inner_right]",
+      "thaumcraft:arcane_stairs[facing=south,half=bottom,shape=outer_left]",
+      "thaumcraft:arcane_stairs[facing=south,half=bottom,shape=outer_right]",
+      "thaumcraft:arcane_stairs[facing=west,half=top,shape=straight]",
+      "thaumcraft:arcane_stairs[facing=west,half=top,shape=inner_left]",
+      "thaumcraft:arcane_stairs[facing=west,half=top,shape=inner_right]",
+      "thaumcraft:arcane_stairs[facing=west,half=top,shape=outer_left]",
+      "thaumcraft:arcane_stairs[facing=west,half=top,shape=outer_right]",
+      "thaumcraft:arcane_stairs[facing=west,half=bottom,shape=straight]",
+      "thaumcraft:arcane_stairs[facing=west,half=bottom,shape=inner_left]",
+      "thaumcraft:arcane_stairs[facing=west,half=bottom,shape=inner_right]",
+      "thaumcraft:arcane_stairs[facing=west,half=bottom,shape=outer_left]",
+      "thaumcraft:arcane_stairs[facing=west,half=bottom,shape=outer_right]",
+      "thaumcraft:arcane_stairs[facing=east,half=top,shape=straight]",
+      "thaumcraft:arcane_stairs[facing=east,half=top,shape=inner_left]",
+      "thaumcraft:arcane_stairs[facing=east,half=top,shape=inner_right]",
+      "thaumcraft:arcane_stairs[facing=east,half=top,shape=outer_left]",
+      "thaumcraft:arcane_stairs[facing=east,half=top,shape=outer_right]",
+      "thaumcraft:arcane_stairs[facing=east,half=bottom,shape=straight]",
+      "thaumcraft:arcane_stairs[facing=east,half=bottom,shape=inner_left]",
+      "thaumcraft:arcane_stairs[facing=east,half=bottom,shape=inner_right]",
+      "thaumcraft:arcane_stairs[facing=east,half=bottom,shape=outer_left]",
+      "thaumcraft:arcane_stairs[facing=east,half=bottom,shape=outer_right]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "arcane_brick_stairs",
+    "States": [
+      "thaumcraft:arcane_brick_stairs[facing=north,half=top,shape=straight]",
+      "thaumcraft:arcane_brick_stairs[facing=north,half=top,shape=inner_left]",
+      "thaumcraft:arcane_brick_stairs[facing=north,half=top,shape=inner_right]",
+      "thaumcraft:arcane_brick_stairs[facing=north,half=top,shape=outer_left]",
+      "thaumcraft:arcane_brick_stairs[facing=north,half=top,shape=outer_right]",
+      "thaumcraft:arcane_brick_stairs[facing=north,half=bottom,shape=straight]",
+      "thaumcraft:arcane_brick_stairs[facing=north,half=bottom,shape=inner_left]",
+      "thaumcraft:arcane_brick_stairs[facing=north,half=bottom,shape=inner_right]",
+      "thaumcraft:arcane_brick_stairs[facing=north,half=bottom,shape=outer_left]",
+      "thaumcraft:arcane_brick_stairs[facing=north,half=bottom,shape=outer_right]",
+      "thaumcraft:arcane_brick_stairs[facing=south,half=top,shape=straight]",
+      "thaumcraft:arcane_brick_stairs[facing=south,half=top,shape=inner_left]",
+      "thaumcraft:arcane_brick_stairs[facing=south,half=top,shape=inner_right]",
+      "thaumcraft:arcane_brick_stairs[facing=south,half=top,shape=outer_left]",
+      "thaumcraft:arcane_brick_stairs[facing=south,half=top,shape=outer_right]",
+      "thaumcraft:arcane_brick_stairs[facing=south,half=bottom,shape=straight]",
+      "thaumcraft:arcane_brick_stairs[facing=south,half=bottom,shape=inner_left]",
+      "thaumcraft:arcane_brick_stairs[facing=south,half=bottom,shape=inner_right]",
+      "thaumcraft:arcane_brick_stairs[facing=south,half=bottom,shape=outer_left]",
+      "thaumcraft:arcane_brick_stairs[facing=south,half=bottom,shape=outer_right]",
+      "thaumcraft:arcane_brick_stairs[facing=west,half=top,shape=straight]",
+      "thaumcraft:arcane_brick_stairs[facing=west,half=top,shape=inner_left]",
+      "thaumcraft:arcane_brick_stairs[facing=west,half=top,shape=inner_right]",
+      "thaumcraft:arcane_brick_stairs[facing=west,half=top,shape=outer_left]",
+      "thaumcraft:arcane_brick_stairs[facing=west,half=top,shape=outer_right]",
+      "thaumcraft:arcane_brick_stairs[facing=west,half=bottom,shape=straight]",
+      "thaumcraft:arcane_brick_stairs[facing=west,half=bottom,shape=inner_left]",
+      "thaumcraft:arcane_brick_stairs[facing=west,half=bottom,shape=inner_right]",
+      "thaumcraft:arcane_brick_stairs[facing=west,half=bottom,shape=outer_left]",
+      "thaumcraft:arcane_brick_stairs[facing=west,half=bottom,shape=outer_right]",
+      "thaumcraft:arcane_brick_stairs[facing=east,half=top,shape=straight]",
+      "thaumcraft:arcane_brick_stairs[facing=east,half=top,shape=inner_left]",
+      "thaumcraft:arcane_brick_stairs[facing=east,half=top,shape=inner_right]",
+      "thaumcraft:arcane_brick_stairs[facing=east,half=top,shape=outer_left]",
+      "thaumcraft:arcane_brick_stairs[facing=east,half=top,shape=outer_right]",
+      "thaumcraft:arcane_brick_stairs[facing=east,half=bottom,shape=straight]",
+      "thaumcraft:arcane_brick_stairs[facing=east,half=bottom,shape=inner_left]",
+      "thaumcraft:arcane_brick_stairs[facing=east,half=bottom,shape=inner_right]",
+      "thaumcraft:arcane_brick_stairs[facing=east,half=bottom,shape=outer_left]",
+      "thaumcraft:arcane_brick_stairs[facing=east,half=bottom,shape=outer_right]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "ancient_stairs",
+    "States": [
+      "thaumcraft:ancient_stairs[facing=north,half=top,shape=straight]",
+      "thaumcraft:ancient_stairs[facing=north,half=top,shape=inner_left]",
+      "thaumcraft:ancient_stairs[facing=north,half=top,shape=inner_right]",
+      "thaumcraft:ancient_stairs[facing=north,half=top,shape=outer_left]",
+      "thaumcraft:ancient_stairs[facing=north,half=top,shape=outer_right]",
+      "thaumcraft:ancient_stairs[facing=north,half=bottom,shape=straight]",
+      "thaumcraft:ancient_stairs[facing=north,half=bottom,shape=inner_left]",
+      "thaumcraft:ancient_stairs[facing=north,half=bottom,shape=inner_right]",
+      "thaumcraft:ancient_stairs[facing=north,half=bottom,shape=outer_left]",
+      "thaumcraft:ancient_stairs[facing=north,half=bottom,shape=outer_right]",
+      "thaumcraft:ancient_stairs[facing=south,half=top,shape=straight]",
+      "thaumcraft:ancient_stairs[facing=south,half=top,shape=inner_left]",
+      "thaumcraft:ancient_stairs[facing=south,half=top,shape=inner_right]",
+      "thaumcraft:ancient_stairs[facing=south,half=top,shape=outer_left]",
+      "thaumcraft:ancient_stairs[facing=south,half=top,shape=outer_right]",
+      "thaumcraft:ancient_stairs[facing=south,half=bottom,shape=straight]",
+      "thaumcraft:ancient_stairs[facing=south,half=bottom,shape=inner_left]",
+      "thaumcraft:ancient_stairs[facing=south,half=bottom,shape=inner_right]",
+      "thaumcraft:ancient_stairs[facing=south,half=bottom,shape=outer_left]",
+      "thaumcraft:ancient_stairs[facing=south,half=bottom,shape=outer_right]",
+      "thaumcraft:ancient_stairs[facing=west,half=top,shape=straight]",
+      "thaumcraft:ancient_stairs[facing=west,half=top,shape=inner_left]",
+      "thaumcraft:ancient_stairs[facing=west,half=top,shape=inner_right]",
+      "thaumcraft:ancient_stairs[facing=west,half=top,shape=outer_left]",
+      "thaumcraft:ancient_stairs[facing=west,half=top,shape=outer_right]",
+      "thaumcraft:ancient_stairs[facing=west,half=bottom,shape=straight]",
+      "thaumcraft:ancient_stairs[facing=west,half=bottom,shape=inner_left]",
+      "thaumcraft:ancient_stairs[facing=west,half=bottom,shape=inner_right]",
+      "thaumcraft:ancient_stairs[facing=west,half=bottom,shape=outer_left]",
+      "thaumcraft:ancient_stairs[facing=west,half=bottom,shape=outer_right]",
+      "thaumcraft:ancient_stairs[facing=east,half=top,shape=straight]",
+      "thaumcraft:ancient_stairs[facing=east,half=top,shape=inner_left]",
+      "thaumcraft:ancient_stairs[facing=east,half=top,shape=inner_right]",
+      "thaumcraft:ancient_stairs[facing=east,half=top,shape=outer_left]",
+      "thaumcraft:ancient_stairs[facing=east,half=top,shape=outer_right]",
+      "thaumcraft:ancient_stairs[facing=east,half=bottom,shape=straight]",
+      "thaumcraft:ancient_stairs[facing=east,half=bottom,shape=inner_left]",
+      "thaumcraft:ancient_stairs[facing=east,half=bottom,shape=inner_right]",
+      "thaumcraft:ancient_stairs[facing=east,half=bottom,shape=outer_left]",
+      "thaumcraft:ancient_stairs[facing=east,half=bottom,shape=outer_right]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "slab_stone",
+    "States": [
+      "thaumcraft:slab_stone[half=top,variant=arcane]",
+      "thaumcraft:slab_stone[half=top,variant=arcane_brick]",
+      "thaumcraft:slab_stone[half=top,variant=ancient]",
+      "thaumcraft:slab_stone[half=top,variant=eldritch]",
+      "thaumcraft:slab_stone[half=bottom,variant=arcane]",
+      "thaumcraft:slab_stone[half=bottom,variant=arcane_brick]",
+      "thaumcraft:slab_stone[half=bottom,variant=ancient]",
+      "thaumcraft:slab_stone[half=bottom,variant=eldritch]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "slab_stone_double",
+    "States": [
+      "thaumcraft:slab_stone_double[half=top,variant=arcane]",
+      "thaumcraft:slab_stone_double[half=top,variant=arcane_brick]",
+      "thaumcraft:slab_stone_double[half=top,variant=ancient]",
+      "thaumcraft:slab_stone_double[half=top,variant=eldritch]",
+      "thaumcraft:slab_stone_double[half=bottom,variant=arcane]",
+      "thaumcraft:slab_stone_double[half=bottom,variant=arcane_brick]",
+      "thaumcraft:slab_stone_double[half=bottom,variant=ancient]",
+      "thaumcraft:slab_stone_double[half=bottom,variant=eldritch]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "sapling",
+    "States": [
+      "thaumcraft:sapling[stage=0,type=greatwood]",
+      "thaumcraft:sapling[stage=0,type=silverwood]",
+      "thaumcraft:sapling[stage=1,type=greatwood]",
+      "thaumcraft:sapling[stage=1,type=silverwood]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "shimmerleaf",
+    "States": [
+      "thaumcraft:shimmerleaf"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "cinderpearl",
+    "States": [
+      "thaumcraft:cinderpearl"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "vishroom",
+    "States": [
+      "thaumcraft:vishroom"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "bloom",
+    "States": [
+      "thaumcraft:bloom"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "translucent",
+    "States": [
+      "thaumcraft:translucent[variant=amber_block]",
+      "thaumcraft:translucent[variant=amber_brick]",
+      "thaumcraft:translucent[variant=empty]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "flesh_block",
+    "States": [
+      "thaumcraft:flesh_block"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "loot_crate",
+    "States": [
+      "thaumcraft:loot_crate[type=common]",
+      "thaumcraft:loot_crate[type=uncommon]",
+      "thaumcraft:loot_crate[type=rare]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "loot_urn",
+    "States": [
+      "thaumcraft:loot_urn[type=common]",
+      "thaumcraft:loot_urn[type=uncommon]",
+      "thaumcraft:loot_urn[type=rare]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "taint_fibre",
+    "States": [
+      "thaumcraft:taint_fibre"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "taint",
+    "States": [
+      "thaumcraft:taint[variant=crust]",
+      "thaumcraft:taint[variant=soil]",
+      "thaumcraft:taint[variant=geyser]",
+      "thaumcraft:taint[variant=rock]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "taint_feature",
+    "States": [
+      "thaumcraft:taint_feature[facing=down]",
+      "thaumcraft:taint_feature[facing=up]",
+      "thaumcraft:taint_feature[facing=north]",
+      "thaumcraft:taint_feature[facing=south]",
+      "thaumcraft:taint_feature[facing=west]",
+      "thaumcraft:taint_feature[facing=east]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "taint_log",
+    "States": [
+      "thaumcraft:taint_log[axis=x,variant=taintwood]",
+      "thaumcraft:taint_log[axis=y,variant=taintwood]",
+      "thaumcraft:taint_log[axis=z,variant=taintwood]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "eldritch",
+    "States": [
+      "thaumcraft:eldritch[type=altar]",
+      "thaumcraft:eldritch[type=cap]",
+      "thaumcraft:eldritch[type=obelisk_base]",
+      "thaumcraft:eldritch[type=obelisk_body]",
+      "thaumcraft:eldritch[type=lock]",
+      "thaumcraft:eldritch[type=door]",
+      "thaumcraft:eldritch[type=teleporter]",
+      "thaumcraft:eldritch[type=crabspawner]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "table_wood",
+    "States": [
+      "thaumcraft:table_wood"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "table_stone",
+    "States": [
+      "thaumcraft:table_stone"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "candle",
+    "States": [
+      "thaumcraft:candle[color=white]",
+      "thaumcraft:candle[color=orange]",
+      "thaumcraft:candle[color=magenta]",
+      "thaumcraft:candle[color=light_blue]",
+      "thaumcraft:candle[color=yellow]",
+      "thaumcraft:candle[color=lime]",
+      "thaumcraft:candle[color=pink]",
+      "thaumcraft:candle[color=gray]",
+      "thaumcraft:candle[color=silver]",
+      "thaumcraft:candle[color=cyan]",
+      "thaumcraft:candle[color=purple]",
+      "thaumcraft:candle[color=blue]",
+      "thaumcraft:candle[color=brown]",
+      "thaumcraft:candle[color=green]",
+      "thaumcraft:candle[color=red]",
+      "thaumcraft:candle[color=black]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "nitor",
+    "States": [
+      "thaumcraft:nitor[color=white]",
+      "thaumcraft:nitor[color=orange]",
+      "thaumcraft:nitor[color=magenta]",
+      "thaumcraft:nitor[color=light_blue]",
+      "thaumcraft:nitor[color=yellow]",
+      "thaumcraft:nitor[color=lime]",
+      "thaumcraft:nitor[color=pink]",
+      "thaumcraft:nitor[color=gray]",
+      "thaumcraft:nitor[color=silver]",
+      "thaumcraft:nitor[color=cyan]",
+      "thaumcraft:nitor[color=purple]",
+      "thaumcraft:nitor[color=blue]",
+      "thaumcraft:nitor[color=brown]",
+      "thaumcraft:nitor[color=green]",
+      "thaumcraft:nitor[color=red]",
+      "thaumcraft:nitor[color=black]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "pedestal",
+    "States": [
+      "thaumcraft:pedestal[variant=normal]",
+      "thaumcraft:pedestal[variant=eldritch]",
+      "thaumcraft:pedestal[variant=ancient]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "banner",
+    "States": [
+      "thaumcraft:banner"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "metal",
+    "States": [
+      "thaumcraft:metal[variant=thaumium]",
+      "thaumcraft:metal[variant=void]",
+      "thaumcraft:metal[variant=alchemical]",
+      "thaumcraft:metal[variant=advanced_alchemical]",
+      "thaumcraft:metal[variant=brass]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "paving_stone",
+    "States": [
+      "thaumcraft:paving_stone[variant=barrier]",
+      "thaumcraft:paving_stone[variant=travel]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "barrier",
+    "States": [
+      "thaumcraft:barrier"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "pillar",
+    "States": [
+      "thaumcraft:pillar[facing=north,type=normal]",
+      "thaumcraft:pillar[facing=north,type=ancient]",
+      "thaumcraft:pillar[facing=north,type=eldritch]",
+      "thaumcraft:pillar[facing=south,type=normal]",
+      "thaumcraft:pillar[facing=south,type=ancient]",
+      "thaumcraft:pillar[facing=south,type=eldritch]",
+      "thaumcraft:pillar[facing=west,type=normal]",
+      "thaumcraft:pillar[facing=west,type=ancient]",
+      "thaumcraft:pillar[facing=west,type=eldritch]",
+      "thaumcraft:pillar[facing=east,type=normal]",
+      "thaumcraft:pillar[facing=east,type=ancient]",
+      "thaumcraft:pillar[facing=east,type=eldritch]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "redstone_relay",
+    "States": [
+      "thaumcraft:redstone_relay[enabled=true,facing=north]",
+      "thaumcraft:redstone_relay[enabled=true,facing=south]",
+      "thaumcraft:redstone_relay[enabled=true,facing=west]",
+      "thaumcraft:redstone_relay[enabled=true,facing=east]",
+      "thaumcraft:redstone_relay[enabled=false,facing=north]",
+      "thaumcraft:redstone_relay[enabled=false,facing=south]",
+      "thaumcraft:redstone_relay[enabled=false,facing=west]",
+      "thaumcraft:redstone_relay[enabled=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "research_table",
+    "States": [
+      "thaumcraft:research_table[facing=north]",
+      "thaumcraft:research_table[facing=south]",
+      "thaumcraft:research_table[facing=west]",
+      "thaumcraft:research_table[facing=east]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "arcane_workbench",
+    "States": [
+      "thaumcraft:arcane_workbench"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "arcane_workbench_charger",
+    "States": [
+      "thaumcraft:arcane_workbench_charger"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "crucible",
+    "States": [
+      "thaumcraft:crucible"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "arcane_ear",
+    "States": [
+      "thaumcraft:arcane_ear[enabled=true,facing=down]",
+      "thaumcraft:arcane_ear[enabled=true,facing=up]",
+      "thaumcraft:arcane_ear[enabled=true,facing=north]",
+      "thaumcraft:arcane_ear[enabled=true,facing=south]",
+      "thaumcraft:arcane_ear[enabled=true,facing=west]",
+      "thaumcraft:arcane_ear[enabled=true,facing=east]",
+      "thaumcraft:arcane_ear[enabled=false,facing=down]",
+      "thaumcraft:arcane_ear[enabled=false,facing=up]",
+      "thaumcraft:arcane_ear[enabled=false,facing=north]",
+      "thaumcraft:arcane_ear[enabled=false,facing=south]",
+      "thaumcraft:arcane_ear[enabled=false,facing=west]",
+      "thaumcraft:arcane_ear[enabled=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "lamp_arcane",
+    "States": [
+      "thaumcraft:lamp_arcane[enabled=true,facing=down]",
+      "thaumcraft:lamp_arcane[enabled=true,facing=up]",
+      "thaumcraft:lamp_arcane[enabled=true,facing=north]",
+      "thaumcraft:lamp_arcane[enabled=true,facing=south]",
+      "thaumcraft:lamp_arcane[enabled=true,facing=west]",
+      "thaumcraft:lamp_arcane[enabled=true,facing=east]",
+      "thaumcraft:lamp_arcane[enabled=false,facing=down]",
+      "thaumcraft:lamp_arcane[enabled=false,facing=up]",
+      "thaumcraft:lamp_arcane[enabled=false,facing=north]",
+      "thaumcraft:lamp_arcane[enabled=false,facing=south]",
+      "thaumcraft:lamp_arcane[enabled=false,facing=west]",
+      "thaumcraft:lamp_arcane[enabled=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "lamp_fertility",
+    "States": [
+      "thaumcraft:lamp_fertility[enabled=true,facing=down]",
+      "thaumcraft:lamp_fertility[enabled=true,facing=up]",
+      "thaumcraft:lamp_fertility[enabled=true,facing=north]",
+      "thaumcraft:lamp_fertility[enabled=true,facing=south]",
+      "thaumcraft:lamp_fertility[enabled=true,facing=west]",
+      "thaumcraft:lamp_fertility[enabled=true,facing=east]",
+      "thaumcraft:lamp_fertility[enabled=false,facing=down]",
+      "thaumcraft:lamp_fertility[enabled=false,facing=up]",
+      "thaumcraft:lamp_fertility[enabled=false,facing=north]",
+      "thaumcraft:lamp_fertility[enabled=false,facing=south]",
+      "thaumcraft:lamp_fertility[enabled=false,facing=west]",
+      "thaumcraft:lamp_fertility[enabled=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "lamp_growth",
+    "States": [
+      "thaumcraft:lamp_growth[enabled=true,facing=down]",
+      "thaumcraft:lamp_growth[enabled=true,facing=up]",
+      "thaumcraft:lamp_growth[enabled=true,facing=north]",
+      "thaumcraft:lamp_growth[enabled=true,facing=south]",
+      "thaumcraft:lamp_growth[enabled=true,facing=west]",
+      "thaumcraft:lamp_growth[enabled=true,facing=east]",
+      "thaumcraft:lamp_growth[enabled=false,facing=down]",
+      "thaumcraft:lamp_growth[enabled=false,facing=up]",
+      "thaumcraft:lamp_growth[enabled=false,facing=north]",
+      "thaumcraft:lamp_growth[enabled=false,facing=south]",
+      "thaumcraft:lamp_growth[enabled=false,facing=west]",
+      "thaumcraft:lamp_growth[enabled=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "levitator",
+    "States": [
+      "thaumcraft:levitator[enabled=true,facing=down]",
+      "thaumcraft:levitator[enabled=true,facing=up]",
+      "thaumcraft:levitator[enabled=true,facing=north]",
+      "thaumcraft:levitator[enabled=true,facing=south]",
+      "thaumcraft:levitator[enabled=true,facing=west]",
+      "thaumcraft:levitator[enabled=true,facing=east]",
+      "thaumcraft:levitator[enabled=false,facing=down]",
+      "thaumcraft:levitator[enabled=false,facing=up]",
+      "thaumcraft:levitator[enabled=false,facing=north]",
+      "thaumcraft:levitator[enabled=false,facing=south]",
+      "thaumcraft:levitator[enabled=false,facing=west]",
+      "thaumcraft:levitator[enabled=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "crystallizer",
+    "States": [
+      "thaumcraft:crystallizer[facing=down]",
+      "thaumcraft:crystallizer[facing=up]",
+      "thaumcraft:crystallizer[facing=north]",
+      "thaumcraft:crystallizer[facing=south]",
+      "thaumcraft:crystallizer[facing=west]",
+      "thaumcraft:crystallizer[facing=east]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "centrifuge",
+    "States": [
+      "thaumcraft:centrifuge"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "bellows",
+    "States": [
+      "thaumcraft:bellows[enabled=true,facing=down]",
+      "thaumcraft:bellows[enabled=true,facing=up]",
+      "thaumcraft:bellows[enabled=true,facing=north]",
+      "thaumcraft:bellows[enabled=true,facing=south]",
+      "thaumcraft:bellows[enabled=true,facing=west]",
+      "thaumcraft:bellows[enabled=true,facing=east]",
+      "thaumcraft:bellows[enabled=false,facing=down]",
+      "thaumcraft:bellows[enabled=false,facing=up]",
+      "thaumcraft:bellows[enabled=false,facing=north]",
+      "thaumcraft:bellows[enabled=false,facing=south]",
+      "thaumcraft:bellows[enabled=false,facing=west]",
+      "thaumcraft:bellows[enabled=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "smelter_basic",
+    "States": [
+      "thaumcraft:smelter_basic[enabled=true,facing=north]",
+      "thaumcraft:smelter_basic[enabled=true,facing=south]",
+      "thaumcraft:smelter_basic[enabled=true,facing=west]",
+      "thaumcraft:smelter_basic[enabled=true,facing=east]",
+      "thaumcraft:smelter_basic[enabled=false,facing=north]",
+      "thaumcraft:smelter_basic[enabled=false,facing=south]",
+      "thaumcraft:smelter_basic[enabled=false,facing=west]",
+      "thaumcraft:smelter_basic[enabled=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "smelter_thaumium",
+    "States": [
+      "thaumcraft:smelter_thaumium[enabled=true,facing=north]",
+      "thaumcraft:smelter_thaumium[enabled=true,facing=south]",
+      "thaumcraft:smelter_thaumium[enabled=true,facing=west]",
+      "thaumcraft:smelter_thaumium[enabled=true,facing=east]",
+      "thaumcraft:smelter_thaumium[enabled=false,facing=north]",
+      "thaumcraft:smelter_thaumium[enabled=false,facing=south]",
+      "thaumcraft:smelter_thaumium[enabled=false,facing=west]",
+      "thaumcraft:smelter_thaumium[enabled=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "smelter_void",
+    "States": [
+      "thaumcraft:smelter_void[enabled=true,facing=north]",
+      "thaumcraft:smelter_void[enabled=true,facing=south]",
+      "thaumcraft:smelter_void[enabled=true,facing=west]",
+      "thaumcraft:smelter_void[enabled=true,facing=east]",
+      "thaumcraft:smelter_void[enabled=false,facing=north]",
+      "thaumcraft:smelter_void[enabled=false,facing=south]",
+      "thaumcraft:smelter_void[enabled=false,facing=west]",
+      "thaumcraft:smelter_void[enabled=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "smelter_aux",
+    "States": [
+      "thaumcraft:smelter_aux[facing=north]",
+      "thaumcraft:smelter_aux[facing=south]",
+      "thaumcraft:smelter_aux[facing=west]",
+      "thaumcraft:smelter_aux[facing=east]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "smelter_vent",
+    "States": [
+      "thaumcraft:smelter_vent[facing=north]",
+      "thaumcraft:smelter_vent[facing=south]",
+      "thaumcraft:smelter_vent[facing=west]",
+      "thaumcraft:smelter_vent[facing=east]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "alembic",
+    "States": [
+      "thaumcraft:alembic[type=normal]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "dioptra",
+    "States": [
+      "thaumcraft:dioptra[enabled=true]",
+      "thaumcraft:dioptra[enabled=false]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "recharge_pedestal",
+    "States": [
+      "thaumcraft:recharge_pedestal"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "wand_workbench",
+    "States": [
+      "thaumcraft:wand_workbench"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "hungry_chest",
+    "States": [
+      "thaumcraft:hungry_chest[facing=north]",
+      "thaumcraft:hungry_chest[facing=south]",
+      "thaumcraft:hungry_chest[facing=west]",
+      "thaumcraft:hungry_chest[facing=east]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "tube",
+    "States": [
+      "thaumcraft:tube[type=normal]",
+      "thaumcraft:tube[type=valve]",
+      "thaumcraft:tube[type=restrict]",
+      "thaumcraft:tube[type=oneway]",
+      "thaumcraft:tube[type=filter]",
+      "thaumcraft:tube[type=buffer]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "jar",
+    "States": [
+      "thaumcraft:jar[type=normal]",
+      "thaumcraft:jar[type=void]",
+      "thaumcraft:jar[type=brain]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "infusion_matrix",
+    "States": [
+      "thaumcraft:infusion_matrix"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "infernal_furnace",
+    "States": [
+      "thaumcraft:infernal_furnace[facing=north]",
+      "thaumcraft:infernal_furnace[facing=south]",
+      "thaumcraft:infernal_furnace[facing=west]",
+      "thaumcraft:infernal_furnace[facing=east]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "water_jug",
+    "States": [
+      "thaumcraft:water_jug"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "arcane_bore",
+    "States": [
+      "thaumcraft:arcane_bore[facing=down]",
+      "thaumcraft:arcane_bore[facing=up]",
+      "thaumcraft:arcane_bore[facing=north]",
+      "thaumcraft:arcane_bore[facing=south]",
+      "thaumcraft:arcane_bore[facing=west]",
+      "thaumcraft:arcane_bore[facing=east]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "arcane_bore_base",
+    "States": [
+      "thaumcraft:arcane_bore_base[facing=north]",
+      "thaumcraft:arcane_bore_base[facing=south]",
+      "thaumcraft:arcane_bore_base[facing=west]",
+      "thaumcraft:arcane_bore_base[facing=east]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "thaumatorium",
+    "States": [
+      "thaumcraft:thaumatorium[enabled=true,facing=north]",
+      "thaumcraft:thaumatorium[enabled=true,facing=south]",
+      "thaumcraft:thaumatorium[enabled=true,facing=west]",
+      "thaumcraft:thaumatorium[enabled=true,facing=east]",
+      "thaumcraft:thaumatorium[enabled=false,facing=north]",
+      "thaumcraft:thaumatorium[enabled=false,facing=south]",
+      "thaumcraft:thaumatorium[enabled=false,facing=west]",
+      "thaumcraft:thaumatorium[enabled=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "brain_box",
+    "States": [
+      "thaumcraft:brain_box[facing=down]",
+      "thaumcraft:brain_box[facing=up]",
+      "thaumcraft:brain_box[facing=north]",
+      "thaumcraft:brain_box[facing=south]",
+      "thaumcraft:brain_box[facing=west]",
+      "thaumcraft:brain_box[facing=east]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "aura_totem",
+    "States": [
+      "thaumcraft:aura_totem[type=push]",
+      "thaumcraft:aura_totem[type=pull]",
+      "thaumcraft:aura_totem[type=pole_outer]",
+      "thaumcraft:aura_totem[type=pole_inner]",
+      "thaumcraft:aura_totem[type=pole_pure]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "spa",
+    "States": [
+      "thaumcraft:spa"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "golem_builder",
+    "States": [
+      "thaumcraft:golem_builder[facing=north]",
+      "thaumcraft:golem_builder[facing=south]",
+      "thaumcraft:golem_builder[facing=west]",
+      "thaumcraft:golem_builder[facing=east]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "node_stabilizer",
+    "States": [
+      "thaumcraft:node_stabilizer"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "mirror",
+    "States": [
+      "thaumcraft:mirror[facing=down]",
+      "thaumcraft:mirror[facing=up]",
+      "thaumcraft:mirror[facing=north]",
+      "thaumcraft:mirror[facing=south]",
+      "thaumcraft:mirror[facing=west]",
+      "thaumcraft:mirror[facing=east]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "mirror_essentia",
+    "States": [
+      "thaumcraft:mirror_essentia[facing=down]",
+      "thaumcraft:mirror_essentia[facing=up]",
+      "thaumcraft:mirror_essentia[facing=north]",
+      "thaumcraft:mirror_essentia[facing=south]",
+      "thaumcraft:mirror_essentia[facing=west]",
+      "thaumcraft:mirror_essentia[facing=east]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "essentia_input",
+    "States": [
+      "thaumcraft:essentia_input[facing=down]",
+      "thaumcraft:essentia_input[facing=up]",
+      "thaumcraft:essentia_input[facing=north]",
+      "thaumcraft:essentia_input[facing=south]",
+      "thaumcraft:essentia_input[facing=west]",
+      "thaumcraft:essentia_input[facing=east]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "essentia_output",
+    "States": [
+      "thaumcraft:essentia_output[facing=down]",
+      "thaumcraft:essentia_output[facing=up]",
+      "thaumcraft:essentia_output[facing=north]",
+      "thaumcraft:essentia_output[facing=south]",
+      "thaumcraft:essentia_output[facing=west]",
+      "thaumcraft:essentia_output[facing=east]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "flux_goo",
+    "States": [
+      "thaumcraft:flux_goo[level=0]",
+      "thaumcraft:flux_goo[level=1]",
+      "thaumcraft:flux_goo[level=2]",
+      "thaumcraft:flux_goo[level=3]",
+      "thaumcraft:flux_goo[level=4]",
+      "thaumcraft:flux_goo[level=5]",
+      "thaumcraft:flux_goo[level=6]",
+      "thaumcraft:flux_goo[level=7]",
+      "thaumcraft:flux_goo[level=8]",
+      "thaumcraft:flux_goo[level=9]",
+      "thaumcraft:flux_goo[level=10]",
+      "thaumcraft:flux_goo[level=11]",
+      "thaumcraft:flux_goo[level=12]",
+      "thaumcraft:flux_goo[level=13]",
+      "thaumcraft:flux_goo[level=14]",
+      "thaumcraft:flux_goo[level=15]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "liquid_death",
+    "States": [
+      "thaumcraft:liquid_death[level=0]",
+      "thaumcraft:liquid_death[level=1]",
+      "thaumcraft:liquid_death[level=2]",
+      "thaumcraft:liquid_death[level=3]",
+      "thaumcraft:liquid_death[level=4]",
+      "thaumcraft:liquid_death[level=5]",
+      "thaumcraft:liquid_death[level=6]",
+      "thaumcraft:liquid_death[level=7]",
+      "thaumcraft:liquid_death[level=8]",
+      "thaumcraft:liquid_death[level=9]",
+      "thaumcraft:liquid_death[level=10]",
+      "thaumcraft:liquid_death[level=11]",
+      "thaumcraft:liquid_death[level=12]",
+      "thaumcraft:liquid_death[level=13]",
+      "thaumcraft:liquid_death[level=14]",
+      "thaumcraft:liquid_death[level=15]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "purifying_fluid",
+    "States": [
+      "thaumcraft:purifying_fluid[level=0]",
+      "thaumcraft:purifying_fluid[level=1]",
+      "thaumcraft:purifying_fluid[level=2]",
+      "thaumcraft:purifying_fluid[level=3]",
+      "thaumcraft:purifying_fluid[level=4]",
+      "thaumcraft:purifying_fluid[level=5]",
+      "thaumcraft:purifying_fluid[level=6]",
+      "thaumcraft:purifying_fluid[level=7]",
+      "thaumcraft:purifying_fluid[level=8]",
+      "thaumcraft:purifying_fluid[level=9]",
+      "thaumcraft:purifying_fluid[level=10]",
+      "thaumcraft:purifying_fluid[level=11]",
+      "thaumcraft:purifying_fluid[level=12]",
+      "thaumcraft:purifying_fluid[level=13]",
+      "thaumcraft:purifying_fluid[level=14]",
+      "thaumcraft:purifying_fluid[level=15]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "taint_dust",
+    "States": [
+      "thaumcraft:taint_dust[level=0]",
+      "thaumcraft:taint_dust[level=1]",
+      "thaumcraft:taint_dust[level=2]",
+      "thaumcraft:taint_dust[level=3]",
+      "thaumcraft:taint_dust[level=4]",
+      "thaumcraft:taint_dust[level=5]",
+      "thaumcraft:taint_dust[level=6]",
+      "thaumcraft:taint_dust[level=7]",
+      "thaumcraft:taint_dust[level=8]",
+      "thaumcraft:taint_dust[level=9]",
+      "thaumcraft:taint_dust[level=10]",
+      "thaumcraft:taint_dust[level=11]",
+      "thaumcraft:taint_dust[level=12]",
+      "thaumcraft:taint_dust[level=13]",
+      "thaumcraft:taint_dust[level=14]",
+      "thaumcraft:taint_dust[level=15]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "vacuum",
+    "States": [
+      "thaumcraft:vacuum[spread=0]",
+      "thaumcraft:vacuum[spread=1]",
+      "thaumcraft:vacuum[spread=2]",
+      "thaumcraft:vacuum[spread=3]",
+      "thaumcraft:vacuum[spread=4]",
+      "thaumcraft:vacuum[spread=5]",
+      "thaumcraft:vacuum[spread=6]",
+      "thaumcraft:vacuum[spread=7]",
+      "thaumcraft:vacuum[spread=8]",
+      "thaumcraft:vacuum[spread=9]",
+      "thaumcraft:vacuum[spread=10]",
+      "thaumcraft:vacuum[spread=11]",
+      "thaumcraft:vacuum[spread=12]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "hole",
+    "States": [
+      "thaumcraft:hole"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "effect",
+    "States": [
+      "thaumcraft:effect[variant=shock]",
+      "thaumcraft:effect[variant=sapping]",
+      "thaumcraft:effect[variant=glimmer]"
+    ]
+  },
+  {
+    "Mod": "thaumcraft",
+    "Name": "placeholder",
+    "States": [
+      "thaumcraft:placeholder[type=furnace_brick]",
+      "thaumcraft:placeholder[type=furnace_obsidian]",
+      "thaumcraft:placeholder[type=gb_bars]",
+      "thaumcraft:placeholder[type=gb_anvil]",
+      "thaumcraft:placeholder[type=gb_cauldron]",
+      "thaumcraft:placeholder[type=gb_table]"
+    ]
+  }
+]

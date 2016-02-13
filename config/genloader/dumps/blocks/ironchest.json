@@ -1,0 +1,17 @@
+[
+  {
+    "Mod": "ironchest",
+    "Name": "BlockIronChest",
+    "States": [
+      "ironchest:BlockIronChest[variant=iron]",
+      "ironchest:BlockIronChest[variant=gold]",
+      "ironchest:BlockIronChest[variant=diamond]",
+      "ironchest:BlockIronChest[variant=copper]",
+      "ironchest:BlockIronChest[variant=silver]",
+      "ironchest:BlockIronChest[variant=crystal]",
+      "ironchest:BlockIronChest[variant=obsidian]",
+      "ironchest:BlockIronChest[variant=dirtchest9000]",
+      "ironchest:BlockIronChest[variant=wood]"
+    ]
+  }
+]

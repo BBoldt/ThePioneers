@@ -1,0 +1,74 @@
+[
+  {
+    "Mod": "quantumflux",
+    "Name": "imaginaryTime",
+    "States": [
+      "quantumflux:imaginaryTime"
+    ]
+  },
+  {
+    "Mod": "quantumflux",
+    "Name": "zeroPointExtractor",
+    "States": [
+      "quantumflux:zeroPointExtractor"
+    ]
+  },
+  {
+    "Mod": "quantumflux",
+    "Name": "entropyAccelerator",
+    "States": [
+      "quantumflux:entropyAccelerator[facing=down]",
+      "quantumflux:entropyAccelerator[facing=up]",
+      "quantumflux:entropyAccelerator[facing=north]",
+      "quantumflux:entropyAccelerator[facing=south]",
+      "quantumflux:entropyAccelerator[facing=west]",
+      "quantumflux:entropyAccelerator[facing=east]"
+    ]
+  },
+  {
+    "Mod": "quantumflux",
+    "Name": "quibitCluster",
+    "States": [
+      "quantumflux:quibitCluster[level=creative]",
+      "quantumflux:quibitCluster[level=one]",
+      "quantumflux:quibitCluster[level=two]",
+      "quantumflux:quibitCluster[level=three]",
+      "quantumflux:quibitCluster[level=four]",
+      "quantumflux:quibitCluster[level=five]"
+    ]
+  },
+  {
+    "Mod": "quantumflux",
+    "Name": "darkstone",
+    "States": [
+      "quantumflux:darkstone[type=plain]",
+      "quantumflux:darkstone[type=lamp]",
+      "quantumflux:darkstone[type=ornate]",
+      "quantumflux:darkstone[type=tile]"
+    ]
+  },
+  {
+    "Mod": "quantumflux",
+    "Name": "rfEntangler",
+    "States": [
+      "quantumflux:rfEntangler[facing=down]",
+      "quantumflux:rfEntangler[facing=up]",
+      "quantumflux:rfEntangler[facing=north]",
+      "quantumflux:rfEntangler[facing=south]",
+      "quantumflux:rfEntangler[facing=west]",
+      "quantumflux:rfEntangler[facing=east]"
+    ]
+  },
+  {
+    "Mod": "quantumflux",
+    "Name": "rfExciter",
+    "States": [
+      "quantumflux:rfExciter[facing=down]",
+      "quantumflux:rfExciter[facing=up]",
+      "quantumflux:rfExciter[facing=north]",
+      "quantumflux:rfExciter[facing=south]",
+      "quantumflux:rfExciter[facing=west]",
+      "quantumflux:rfExciter[facing=east]"
+    ]
+  }
+]

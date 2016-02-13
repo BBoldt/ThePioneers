@@ -1,0 +1,12 @@
+[
+  {
+    "Mod": "charsetstorage",
+    "Name": "backpack",
+    "States": [
+      "charsetstorage:backpack[facing=north]",
+      "charsetstorage:backpack[facing=south]",
+      "charsetstorage:backpack[facing=west]",
+      "charsetstorage:backpack[facing=east]"
+    ]
+  }
+]

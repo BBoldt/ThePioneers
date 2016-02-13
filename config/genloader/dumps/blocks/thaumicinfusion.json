@@ -1,0 +1,16 @@
+[
+  {
+    "Mod": "thaumicinfusion",
+    "Name": "fake_air",
+    "States": [
+      "thaumicinfusion:fake_air"
+    ]
+  },
+  {
+    "Mod": "thaumicinfusion",
+    "Name": "fake_air_collision",
+    "States": [
+      "thaumicinfusion:fake_air_collision"
+    ]
+  }
+]

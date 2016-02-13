@@ -1,0 +1,41 @@
+[
+  {
+    "Mod": "psi",
+    "Name": "cadAssembler",
+    "States": [
+      "psi:cadAssembler[facing=north]",
+      "psi:cadAssembler[facing=south]",
+      "psi:cadAssembler[facing=west]",
+      "psi:cadAssembler[facing=east]"
+    ]
+  },
+  {
+    "Mod": "psi",
+    "Name": "programmer",
+    "States": [
+      "psi:programmer[enabled=true,facing=north]",
+      "psi:programmer[enabled=true,facing=south]",
+      "psi:programmer[enabled=true,facing=west]",
+      "psi:programmer[enabled=true,facing=east]",
+      "psi:programmer[enabled=false,facing=north]",
+      "psi:programmer[enabled=false,facing=south]",
+      "psi:programmer[enabled=false,facing=west]",
+      "psi:programmer[enabled=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "psi",
+    "Name": "psiDecorative",
+    "States": [
+      "psi:psiDecorative[variant=psidust_block]",
+      "psi:psiDecorative[variant=psimetal_block]",
+      "psi:psiDecorative[variant=psigem_block]",
+      "psi:psiDecorative[variant=psimetal_plate_black]",
+      "psi:psiDecorative[variant=psimetal_plate_black_light]",
+      "psi:psiDecorative[variant=psimetal_plate_cyan]",
+      "psi:psiDecorative[variant=psimetal_plate_cyan_light]",
+      "psi:psiDecorative[variant=ebony_psimetal_block]",
+      "psi:psiDecorative[variant=ivory_psimetal_block]"
+    ]
+  }
+]

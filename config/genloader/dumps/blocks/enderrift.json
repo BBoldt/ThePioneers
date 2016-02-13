@@ -1,0 +1,114 @@
+[
+  {
+    "Mod": "enderrift",
+    "Name": "blockEnderRift",
+    "States": [
+      "enderrift:blockEnderRift[assembled=true]",
+      "enderrift:blockEnderRift[assembled=false]"
+    ]
+  },
+  {
+    "Mod": "enderrift",
+    "Name": "blockStructure",
+    "States": [
+      "enderrift:blockStructure[base=true,corner=ne,type1=normal,type2=none]",
+      "enderrift:blockStructure[base=true,corner=ne,type1=normal,type2=vertical]",
+      "enderrift:blockStructure[base=true,corner=ne,type1=normal,type2=side_ew]",
+      "enderrift:blockStructure[base=true,corner=ne,type1=normal,type2=side_ns]",
+      "enderrift:blockStructure[base=true,corner=ne,type1=corner,type2=none]",
+      "enderrift:blockStructure[base=true,corner=ne,type1=corner,type2=vertical]",
+      "enderrift:blockStructure[base=true,corner=ne,type1=corner,type2=side_ew]",
+      "enderrift:blockStructure[base=true,corner=ne,type1=corner,type2=side_ns]",
+      "enderrift:blockStructure[base=true,corner=nw,type1=normal,type2=none]",
+      "enderrift:blockStructure[base=true,corner=nw,type1=normal,type2=vertical]",
+      "enderrift:blockStructure[base=true,corner=nw,type1=normal,type2=side_ew]",
+      "enderrift:blockStructure[base=true,corner=nw,type1=normal,type2=side_ns]",
+      "enderrift:blockStructure[base=true,corner=nw,type1=corner,type2=none]",
+      "enderrift:blockStructure[base=true,corner=nw,type1=corner,type2=vertical]",
+      "enderrift:blockStructure[base=true,corner=nw,type1=corner,type2=side_ew]",
+      "enderrift:blockStructure[base=true,corner=nw,type1=corner,type2=side_ns]",
+      "enderrift:blockStructure[base=true,corner=se,type1=normal,type2=none]",
+      "enderrift:blockStructure[base=true,corner=se,type1=normal,type2=vertical]",
+      "enderrift:blockStructure[base=true,corner=se,type1=normal,type2=side_ew]",
+      "enderrift:blockStructure[base=true,corner=se,type1=normal,type2=side_ns]",
+      "enderrift:blockStructure[base=true,corner=se,type1=corner,type2=none]",
+      "enderrift:blockStructure[base=true,corner=se,type1=corner,type2=vertical]",
+      "enderrift:blockStructure[base=true,corner=se,type1=corner,type2=side_ew]",
+      "enderrift:blockStructure[base=true,corner=se,type1=corner,type2=side_ns]",
+      "enderrift:blockStructure[base=true,corner=sw,type1=normal,type2=none]",
+      "enderrift:blockStructure[base=true,corner=sw,type1=normal,type2=vertical]",
+      "enderrift:blockStructure[base=true,corner=sw,type1=normal,type2=side_ew]",
+      "enderrift:blockStructure[base=true,corner=sw,type1=normal,type2=side_ns]",
+      "enderrift:blockStructure[base=true,corner=sw,type1=corner,type2=none]",
+      "enderrift:blockStructure[base=true,corner=sw,type1=corner,type2=vertical]",
+      "enderrift:blockStructure[base=true,corner=sw,type1=corner,type2=side_ew]",
+      "enderrift:blockStructure[base=true,corner=sw,type1=corner,type2=side_ns]",
+      "enderrift:blockStructure[base=false,corner=ne,type1=normal,type2=none]",
+      "enderrift:blockStructure[base=false,corner=ne,type1=normal,type2=vertical]",
+      "enderrift:blockStructure[base=false,corner=ne,type1=normal,type2=side_ew]",
+      "enderrift:blockStructure[base=false,corner=ne,type1=normal,type2=side_ns]",
+      "enderrift:blockStructure[base=false,corner=ne,type1=corner,type2=none]",
+      "enderrift:blockStructure[base=false,corner=ne,type1=corner,type2=vertical]",
+      "enderrift:blockStructure[base=false,corner=ne,type1=corner,type2=side_ew]",
+      "enderrift:blockStructure[base=false,corner=ne,type1=corner,type2=side_ns]",
+      "enderrift:blockStructure[base=false,corner=nw,type1=normal,type2=none]",
+      "enderrift:blockStructure[base=false,corner=nw,type1=normal,type2=vertical]",
+      "enderrift:blockStructure[base=false,corner=nw,type1=normal,type2=side_ew]",
+      "enderrift:blockStructure[base=false,corner=nw,type1=normal,type2=side_ns]",
+      "enderrift:blockStructure[base=false,corner=nw,type1=corner,type2=none]",
+      "enderrift:blockStructure[base=false,corner=nw,type1=corner,type2=vertical]",
+      "enderrift:blockStructure[base=false,corner=nw,type1=corner,type2=side_ew]",
+      "enderrift:blockStructure[base=false,corner=nw,type1=corner,type2=side_ns]",
+      "enderrift:blockStructure[base=false,corner=se,type1=normal,type2=none]",
+      "enderrift:blockStructure[base=false,corner=se,type1=normal,type2=vertical]",
+      "enderrift:blockStructure[base=false,corner=se,type1=normal,type2=side_ew]",
+      "enderrift:blockStructure[base=false,corner=se,type1=normal,type2=side_ns]",
+      "enderrift:blockStructure[base=false,corner=se,type1=corner,type2=none]",
+      "enderrift:blockStructure[base=false,corner=se,type1=corner,type2=vertical]",
+      "enderrift:blockStructure[base=false,corner=se,type1=corner,type2=side_ew]",
+      "enderrift:blockStructure[base=false,corner=se,type1=corner,type2=side_ns]",
+      "enderrift:blockStructure[base=false,corner=sw,type1=normal,type2=none]",
+      "enderrift:blockStructure[base=false,corner=sw,type1=normal,type2=vertical]",
+      "enderrift:blockStructure[base=false,corner=sw,type1=normal,type2=side_ew]",
+      "enderrift:blockStructure[base=false,corner=sw,type1=normal,type2=side_ns]",
+      "enderrift:blockStructure[base=false,corner=sw,type1=corner,type2=none]",
+      "enderrift:blockStructure[base=false,corner=sw,type1=corner,type2=vertical]",
+      "enderrift:blockStructure[base=false,corner=sw,type1=corner,type2=side_ew]",
+      "enderrift:blockStructure[base=false,corner=sw,type1=corner,type2=side_ns]"
+    ]
+  },
+  {
+    "Mod": "enderrift",
+    "Name": "blockInterface",
+    "States": [
+      "enderrift:blockInterface[facing=down]",
+      "enderrift:blockInterface[facing=up]",
+      "enderrift:blockInterface[facing=north]",
+      "enderrift:blockInterface[facing=south]",
+      "enderrift:blockInterface[facing=west]",
+      "enderrift:blockInterface[facing=east]"
+    ]
+  },
+  {
+    "Mod": "enderrift",
+    "Name": "blockBrowser",
+    "States": [
+      "enderrift:blockBrowser[facing=down]",
+      "enderrift:blockBrowser[facing=up]",
+      "enderrift:blockBrowser[facing=north]",
+      "enderrift:blockBrowser[facing=south]",
+      "enderrift:blockBrowser[facing=west]",
+      "enderrift:blockBrowser[facing=east]"
+    ]
+  },
+  {
+    "Mod": "enderrift",
+    "Name": "blockGenerator",
+    "States": [
+      "enderrift:blockGenerator[facing=north]",
+      "enderrift:blockGenerator[facing=south]",
+      "enderrift:blockGenerator[facing=west]",
+      "enderrift:blockGenerator[facing=east]"
+    ]
+  }
+]

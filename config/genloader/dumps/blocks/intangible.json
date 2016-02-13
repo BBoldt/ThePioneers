@@ -1,0 +1,455 @@
+[
+  {
+    "Mod": "intangible",
+    "Name": "soulrelay",
+    "States": [
+      "intangible:soulrelay[powered=true]",
+      "intangible:soulrelay[powered=false]"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "plinth",
+    "States": [
+      "intangible:plinth"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "soulcage",
+    "States": [
+      "intangible:soulcage[variant=noble]",
+      "intangible:soulcage[variant=benign]",
+      "intangible:soulcage[variant=immutable]",
+      "intangible:soulcage[variant=predatory]",
+      "intangible:soulcage[variant=doomed]",
+      "intangible:soulcage[variant=unhinged]",
+      "intangible:soulcage[variant=malleable]",
+      "intangible:soulcage[variant=wise]"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "soulward",
+    "States": [
+      "intangible:soulward[facing=north,part=head,structure=true]",
+      "intangible:soulward[facing=north,part=head,structure=false]",
+      "intangible:soulward[facing=north,part=foot,structure=true]",
+      "intangible:soulward[facing=north,part=foot,structure=false]",
+      "intangible:soulward[facing=south,part=head,structure=true]",
+      "intangible:soulward[facing=south,part=head,structure=false]",
+      "intangible:soulward[facing=south,part=foot,structure=true]",
+      "intangible:soulward[facing=south,part=foot,structure=false]",
+      "intangible:soulward[facing=west,part=head,structure=true]",
+      "intangible:soulward[facing=west,part=head,structure=false]",
+      "intangible:soulward[facing=west,part=foot,structure=true]",
+      "intangible:soulward[facing=west,part=foot,structure=false]",
+      "intangible:soulward[facing=east,part=head,structure=true]",
+      "intangible:soulward[facing=east,part=head,structure=false]",
+      "intangible:soulward[facing=east,part=foot,structure=true]",
+      "intangible:soulward[facing=east,part=foot,structure=false]"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "soulwrench",
+    "States": [
+      "intangible:soulwrench[part=head]",
+      "intangible:soulwrench[part=foot]"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "soulforge",
+    "States": [
+      "intangible:soulforge[part=bottom]",
+      "intangible:soulforge[part=middle]",
+      "intangible:soulforge[part=top]"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "deitybuilder",
+    "States": [
+      "intangible:deitybuilder[core=true]",
+      "intangible:deitybuilder[core=false]"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "wellofsouls",
+    "States": [
+      "intangible:wellofsouls"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "wellofsoulscore",
+    "States": [
+      "intangible:wellofsoulscore"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "infinitesoulwell",
+    "States": [
+      "intangible:infinitesoulwell"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "pantheon",
+    "States": [
+      "intangible:pantheon[powered=true]",
+      "intangible:pantheon[powered=false]"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "offeringplate",
+    "States": [
+      "intangible:offeringplate"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "shrine",
+    "States": [
+      "intangible:shrine[nodrop=true]",
+      "intangible:shrine[nodrop=false]"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "funnel",
+    "States": [
+      "intangible:funnel[powered=true]",
+      "intangible:funnel[powered=false]"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "spiral",
+    "States": [
+      "intangible:spiral[powered=true]",
+      "intangible:spiral[powered=false]"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "decanter",
+    "States": [
+      "intangible:decanter[powered=true]",
+      "intangible:decanter[powered=false]"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "gourd",
+    "States": [
+      "intangible:gourd[powered=true]",
+      "intangible:gourd[powered=false]"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "splitter",
+    "States": [
+      "intangible:splitter[powered=true]",
+      "intangible:splitter[powered=false]"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "bonecage",
+    "States": [
+      "intangible:bonecage[facing=north,part=head]",
+      "intangible:bonecage[facing=north,part=foot]",
+      "intangible:bonecage[facing=south,part=head]",
+      "intangible:bonecage[facing=south,part=foot]",
+      "intangible:bonecage[facing=west,part=head]",
+      "intangible:bonecage[facing=west,part=foot]",
+      "intangible:bonecage[facing=east,part=head]",
+      "intangible:bonecage[facing=east,part=foot]"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "stamper",
+    "States": [
+      "intangible:stamper[facing=north,open=true]",
+      "intangible:stamper[facing=north,open=false]",
+      "intangible:stamper[facing=south,open=true]",
+      "intangible:stamper[facing=south,open=false]",
+      "intangible:stamper[facing=west,open=true]",
+      "intangible:stamper[facing=west,open=false]",
+      "intangible:stamper[facing=east,open=true]",
+      "intangible:stamper[facing=east,open=false]"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "crystal",
+    "States": [
+      "intangible:crystal[facing=north,plane=floor]",
+      "intangible:crystal[facing=north,plane=wall]",
+      "intangible:crystal[facing=north,plane=ceiling]",
+      "intangible:crystal[facing=south,plane=floor]",
+      "intangible:crystal[facing=south,plane=wall]",
+      "intangible:crystal[facing=south,plane=ceiling]",
+      "intangible:crystal[facing=west,plane=floor]",
+      "intangible:crystal[facing=west,plane=wall]",
+      "intangible:crystal[facing=west,plane=ceiling]",
+      "intangible:crystal[facing=east,plane=floor]",
+      "intangible:crystal[facing=east,plane=wall]",
+      "intangible:crystal[facing=east,plane=ceiling]"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "moltencrystalblue",
+    "States": [
+      "intangible:moltencrystalblue[level=0]",
+      "intangible:moltencrystalblue[level=1]",
+      "intangible:moltencrystalblue[level=2]",
+      "intangible:moltencrystalblue[level=3]",
+      "intangible:moltencrystalblue[level=4]",
+      "intangible:moltencrystalblue[level=5]",
+      "intangible:moltencrystalblue[level=6]",
+      "intangible:moltencrystalblue[level=7]",
+      "intangible:moltencrystalblue[level=8]",
+      "intangible:moltencrystalblue[level=9]",
+      "intangible:moltencrystalblue[level=10]",
+      "intangible:moltencrystalblue[level=11]",
+      "intangible:moltencrystalblue[level=12]",
+      "intangible:moltencrystalblue[level=13]",
+      "intangible:moltencrystalblue[level=14]",
+      "intangible:moltencrystalblue[level=15]"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "moltencrystalyellow",
+    "States": [
+      "intangible:moltencrystalyellow[level=0]",
+      "intangible:moltencrystalyellow[level=1]",
+      "intangible:moltencrystalyellow[level=2]",
+      "intangible:moltencrystalyellow[level=3]",
+      "intangible:moltencrystalyellow[level=4]",
+      "intangible:moltencrystalyellow[level=5]",
+      "intangible:moltencrystalyellow[level=6]",
+      "intangible:moltencrystalyellow[level=7]",
+      "intangible:moltencrystalyellow[level=8]",
+      "intangible:moltencrystalyellow[level=9]",
+      "intangible:moltencrystalyellow[level=10]",
+      "intangible:moltencrystalyellow[level=11]",
+      "intangible:moltencrystalyellow[level=12]",
+      "intangible:moltencrystalyellow[level=13]",
+      "intangible:moltencrystalyellow[level=14]",
+      "intangible:moltencrystalyellow[level=15]"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "moltenglass",
+    "States": [
+      "intangible:moltenglass[level=0]",
+      "intangible:moltenglass[level=1]",
+      "intangible:moltenglass[level=2]",
+      "intangible:moltenglass[level=3]",
+      "intangible:moltenglass[level=4]",
+      "intangible:moltenglass[level=5]",
+      "intangible:moltenglass[level=6]",
+      "intangible:moltenglass[level=7]",
+      "intangible:moltenglass[level=8]",
+      "intangible:moltenglass[level=9]",
+      "intangible:moltenglass[level=10]",
+      "intangible:moltenglass[level=11]",
+      "intangible:moltenglass[level=12]",
+      "intangible:moltenglass[level=13]",
+      "intangible:moltenglass[level=14]",
+      "intangible:moltenglass[level=15]"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "blowmold",
+    "States": [
+      "intangible:blowmold"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "bellows",
+    "States": [
+      "intangible:bellows[facing=north]",
+      "intangible:bellows[facing=south]",
+      "intangible:bellows[facing=west]",
+      "intangible:bellows[facing=east]"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "infuser",
+    "States": [
+      "intangible:infuser[nodrop=true,powered=true]",
+      "intangible:infuser[nodrop=true,powered=false]",
+      "intangible:infuser[nodrop=false,powered=true]",
+      "intangible:infuser[nodrop=false,powered=false]"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "shell",
+    "States": [
+      "intangible:shell[facing=north,part=head]",
+      "intangible:shell[facing=north,part=foot]",
+      "intangible:shell[facing=south,part=head]",
+      "intangible:shell[facing=south,part=foot]",
+      "intangible:shell[facing=west,part=head]",
+      "intangible:shell[facing=west,part=foot]",
+      "intangible:shell[facing=east,part=head]",
+      "intangible:shell[facing=east,part=foot]"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "reconstructor",
+    "States": [
+      "intangible:reconstructor"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "golemfactory",
+    "States": [
+      "intangible:golemfactory[facing=north,part=bottom]",
+      "intangible:golemfactory[facing=north,part=middle]",
+      "intangible:golemfactory[facing=north,part=top]",
+      "intangible:golemfactory[facing=south,part=bottom]",
+      "intangible:golemfactory[facing=south,part=middle]",
+      "intangible:golemfactory[facing=south,part=top]",
+      "intangible:golemfactory[facing=west,part=bottom]",
+      "intangible:golemfactory[facing=west,part=middle]",
+      "intangible:golemfactory[facing=west,part=top]",
+      "intangible:golemfactory[facing=east,part=bottom]",
+      "intangible:golemfactory[facing=east,part=middle]",
+      "intangible:golemfactory[facing=east,part=top]"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "syntheticresonator",
+    "States": [
+      "intangible:syntheticresonator"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "largebutton",
+    "States": [
+      "intangible:largebutton[facing=down,powered=true]",
+      "intangible:largebutton[facing=down,powered=false]",
+      "intangible:largebutton[facing=up,powered=true]",
+      "intangible:largebutton[facing=up,powered=false]",
+      "intangible:largebutton[facing=north,powered=true]",
+      "intangible:largebutton[facing=north,powered=false]",
+      "intangible:largebutton[facing=south,powered=true]",
+      "intangible:largebutton[facing=south,powered=false]",
+      "intangible:largebutton[facing=west,powered=true]",
+      "intangible:largebutton[facing=west,powered=false]",
+      "intangible:largebutton[facing=east,powered=true]",
+      "intangible:largebutton[facing=east,powered=false]"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "golempartassembler",
+    "States": [
+      "intangible:golempartassembler"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "deityhammer",
+    "States": [
+      "intangible:deityhammer[part=bottom]",
+      "intangible:deityhammer[part=shaft1]",
+      "intangible:deityhammer[part=shaft2]",
+      "intangible:deityhammer[part=shaft3]"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "trigger",
+    "States": [
+      "intangible:trigger[powered=true]",
+      "intangible:trigger[powered=false]"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "light",
+    "States": [
+      "intangible:light"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "defense",
+    "States": [
+      "intangible:defense[nodrop=true]",
+      "intangible:defense[nodrop=false]"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "slurp",
+    "States": [
+      "intangible:slurp"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "cloud",
+    "States": [
+      "intangible:cloud"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "blue_crystal_block",
+    "States": [
+      "intangible:blue_crystal_block"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "yellow_crystal_block",
+    "States": [
+      "intangible:yellow_crystal_block"
+    ]
+  },
+  {
+    "Mod": "intangible",
+    "Name": "largelever",
+    "States": [
+      "intangible:largelever[facing=down_x,powered=true]",
+      "intangible:largelever[facing=down_x,powered=false]",
+      "intangible:largelever[facing=east,powered=true]",
+      "intangible:largelever[facing=east,powered=false]",
+      "intangible:largelever[facing=west,powered=true]",
+      "intangible:largelever[facing=west,powered=false]",
+      "intangible:largelever[facing=south,powered=true]",
+      "intangible:largelever[facing=south,powered=false]",
+      "intangible:largelever[facing=north,powered=true]",
+      "intangible:largelever[facing=north,powered=false]",
+      "intangible:largelever[facing=up_z,powered=true]",
+      "intangible:largelever[facing=up_z,powered=false]",
+      "intangible:largelever[facing=up_x,powered=true]",
+      "intangible:largelever[facing=up_x,powered=false]",
+      "intangible:largelever[facing=down_z,powered=true]",
+      "intangible:largelever[facing=down_z,powered=false]"
+    ]
+  }
+]

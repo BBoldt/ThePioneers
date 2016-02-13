@@ -1,0 +1,51 @@
+[
+  {
+    "Mod": "storagenetwork",
+    "Name": "master",
+    "States": [
+      "storagenetwork:master"
+    ]
+  },
+  {
+    "Mod": "storagenetwork",
+    "Name": "request",
+    "States": [
+      "storagenetwork:request"
+    ]
+  },
+  {
+    "Mod": "storagenetwork",
+    "Name": "kabel",
+    "States": [
+      "storagenetwork:kabel"
+    ]
+  },
+  {
+    "Mod": "storagenetwork",
+    "Name": "storageKabel",
+    "States": [
+      "storagenetwork:storageKabel"
+    ]
+  },
+  {
+    "Mod": "storagenetwork",
+    "Name": "exKabel",
+    "States": [
+      "storagenetwork:exKabel"
+    ]
+  },
+  {
+    "Mod": "storagenetwork",
+    "Name": "imKabel",
+    "States": [
+      "storagenetwork:imKabel"
+    ]
+  },
+  {
+    "Mod": "storagenetwork",
+    "Name": "vacuumKabel",
+    "States": [
+      "storagenetwork:vacuumKabel"
+    ]
+  }
+]

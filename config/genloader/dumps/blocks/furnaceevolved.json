@@ -1,0 +1,16 @@
+[
+  {
+    "Mod": "furnaceevolved",
+    "Name": "evolvedFurnace",
+    "States": [
+      "furnaceevolved:evolvedFurnace[burning=true,facing=north]",
+      "furnaceevolved:evolvedFurnace[burning=true,facing=south]",
+      "furnaceevolved:evolvedFurnace[burning=true,facing=west]",
+      "furnaceevolved:evolvedFurnace[burning=true,facing=east]",
+      "furnaceevolved:evolvedFurnace[burning=false,facing=north]",
+      "furnaceevolved:evolvedFurnace[burning=false,facing=south]",
+      "furnaceevolved:evolvedFurnace[burning=false,facing=west]",
+      "furnaceevolved:evolvedFurnace[burning=false,facing=east]"
+    ]
+  }
+]

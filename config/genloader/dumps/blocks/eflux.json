@@ -1,0 +1,307 @@
+[
+  {
+    "Mod": "eflux",
+    "Name": "capacitor",
+    "States": [
+      "eflux:capacitor[facing=down]",
+      "eflux:capacitor[facing=up]",
+      "eflux:capacitor[facing=north]",
+      "eflux:capacitor[facing=south]",
+      "eflux:capacitor[facing=west]",
+      "eflux:capacitor[facing=east]"
+    ]
+  },
+  {
+    "Mod": "eflux",
+    "Name": "coal_generator",
+    "States": [
+      "eflux:coal_generator[facing=down]",
+      "eflux:coal_generator[facing=up]",
+      "eflux:coal_generator[facing=north]",
+      "eflux:coal_generator[facing=south]",
+      "eflux:coal_generator[facing=west]",
+      "eflux:coal_generator[facing=east]"
+    ]
+  },
+  {
+    "Mod": "eflux",
+    "Name": "assembly_table",
+    "States": [
+      "eflux:assembly_table[facing=down]",
+      "eflux:assembly_table[facing=up]",
+      "eflux:assembly_table[facing=north]",
+      "eflux:assembly_table[facing=south]",
+      "eflux:assembly_table[facing=west]",
+      "eflux:assembly_table[facing=east]"
+    ]
+  },
+  {
+    "Mod": "eflux",
+    "Name": "growthlamp",
+    "States": [
+      "eflux:growthlamp[facing=down]",
+      "eflux:growthlamp[facing=up]",
+      "eflux:growthlamp[facing=north]",
+      "eflux:growthlamp[facing=south]",
+      "eflux:growthlamp[facing=west]",
+      "eflux:growthlamp[facing=east]"
+    ]
+  },
+  {
+    "Mod": "eflux",
+    "Name": "chunkmain",
+    "States": [
+      "eflux:chunkmain[facing=down]",
+      "eflux:chunkmain[facing=up]",
+      "eflux:chunkmain[facing=north]",
+      "eflux:chunkmain[facing=south]",
+      "eflux:chunkmain[facing=west]",
+      "eflux:chunkmain[facing=east]"
+    ]
+  },
+  {
+    "Mod": "eflux",
+    "Name": "chunksub",
+    "States": [
+      "eflux:chunksub[facing=down]",
+      "eflux:chunksub[facing=up]",
+      "eflux:chunksub[facing=north]",
+      "eflux:chunksub[facing=south]",
+      "eflux:chunksub[facing=west]",
+      "eflux:chunksub[facing=east]"
+    ]
+  },
+  {
+    "Mod": "eflux",
+    "Name": "teslacoil",
+    "States": [
+      "eflux:teslacoil[facing=down]",
+      "eflux:teslacoil[facing=up]",
+      "eflux:teslacoil[facing=north]",
+      "eflux:teslacoil[facing=south]",
+      "eflux:teslacoil[facing=west]",
+      "eflux:teslacoil[facing=east]"
+    ]
+  },
+  {
+    "Mod": "eflux",
+    "Name": "scanner",
+    "States": [
+      "eflux:scanner[facing=down]",
+      "eflux:scanner[facing=up]",
+      "eflux:scanner[facing=north]",
+      "eflux:scanner[facing=south]",
+      "eflux:scanner[facing=west]",
+      "eflux:scanner[facing=east]"
+    ]
+  },
+  {
+    "Mod": "eflux",
+    "Name": "washer",
+    "States": [
+      "eflux:washer[facing=down]",
+      "eflux:washer[facing=up]",
+      "eflux:washer[facing=north]",
+      "eflux:washer[facing=south]",
+      "eflux:washer[facing=west]",
+      "eflux:washer[facing=east]"
+    ]
+  },
+  {
+    "Mod": "eflux",
+    "Name": "rubblesieve",
+    "States": [
+      "eflux:rubblesieve[facing=down]",
+      "eflux:rubblesieve[facing=up]",
+      "eflux:rubblesieve[facing=north]",
+      "eflux:rubblesieve[facing=south]",
+      "eflux:rubblesieve[facing=west]",
+      "eflux:rubblesieve[facing=east]"
+    ]
+  },
+  {
+    "Mod": "eflux",
+    "Name": "lasercore",
+    "States": [
+      "eflux:lasercore[facing=down]",
+      "eflux:lasercore[facing=up]",
+      "eflux:lasercore[facing=north]",
+      "eflux:lasercore[facing=south]",
+      "eflux:lasercore[facing=west]",
+      "eflux:lasercore[facing=east]"
+    ]
+  },
+  {
+    "Mod": "eflux",
+    "Name": "heater",
+    "States": [
+      "eflux:heater[facing=down]",
+      "eflux:heater[facing=up]",
+      "eflux:heater[facing=north]",
+      "eflux:heater[facing=south]",
+      "eflux:heater[facing=west]",
+      "eflux:heater[facing=east]"
+    ]
+  },
+  {
+    "Mod": "eflux",
+    "Name": "duststorage",
+    "States": [
+      "eflux:duststorage[facing=down]",
+      "eflux:duststorage[facing=up]",
+      "eflux:duststorage[facing=north]",
+      "eflux:duststorage[facing=south]",
+      "eflux:duststorage[facing=west]",
+      "eflux:duststorage[facing=east]"
+    ]
+  },
+  {
+    "Mod": "eflux",
+    "Name": "radiator",
+    "States": [
+      "eflux:radiator[facing=down]",
+      "eflux:radiator[facing=up]",
+      "eflux:radiator[facing=north]",
+      "eflux:radiator[facing=south]",
+      "eflux:radiator[facing=west]",
+      "eflux:radiator[facing=east]"
+    ]
+  },
+  {
+    "Mod": "eflux",
+    "Name": "motor",
+    "States": [
+      "eflux:motor[facing=down]",
+      "eflux:motor[facing=up]",
+      "eflux:motor[facing=north]",
+      "eflux:motor[facing=south]",
+      "eflux:motor[facing=west]",
+      "eflux:motor[facing=east]"
+    ]
+  },
+  {
+    "Mod": "eflux",
+    "Name": "precision_motor",
+    "States": [
+      "eflux:precision_motor[facing=down]",
+      "eflux:precision_motor[facing=up]",
+      "eflux:precision_motor[facing=north]",
+      "eflux:precision_motor[facing=south]",
+      "eflux:precision_motor[facing=west]",
+      "eflux:precision_motor[facing=east]"
+    ]
+  },
+  {
+    "Mod": "eflux",
+    "Name": "powerinlet",
+    "States": [
+      "eflux:powerinlet[facing=down]",
+      "eflux:powerinlet[facing=up]",
+      "eflux:powerinlet[facing=north]",
+      "eflux:powerinlet[facing=south]",
+      "eflux:powerinlet[facing=west]",
+      "eflux:powerinlet[facing=east]"
+    ]
+  },
+  {
+    "Mod": "eflux",
+    "Name": "glass",
+    "States": [
+      "eflux:glass[facing=down]",
+      "eflux:glass[facing=up]",
+      "eflux:glass[facing=north]",
+      "eflux:glass[facing=south]",
+      "eflux:glass[facing=west]",
+      "eflux:glass[facing=east]"
+    ]
+  },
+  {
+    "Mod": "eflux",
+    "Name": "laserlens",
+    "States": [
+      "eflux:laserlens[facing=down]",
+      "eflux:laserlens[facing=up]",
+      "eflux:laserlens[facing=north]",
+      "eflux:laserlens[facing=south]",
+      "eflux:laserlens[facing=west]",
+      "eflux:laserlens[facing=east]"
+    ]
+  },
+  {
+    "Mod": "eflux",
+    "Name": "ore",
+    "States": [
+      "eflux:ore[meta=0]",
+      "eflux:ore[meta=1]",
+      "eflux:ore[meta=2]",
+      "eflux:ore[meta=3]",
+      "eflux:ore[meta=4]"
+    ]
+  },
+  {
+    "Mod": "eflux",
+    "Name": "blockFrame",
+    "States": [
+      "eflux:blockFrame[meta=0]",
+      "eflux:blockFrame[meta=1]",
+      "eflux:blockFrame[meta=2]",
+      "eflux:blockFrame[meta=3]"
+    ]
+  },
+  {
+    "Mod": "eflux",
+    "Name": "itemInlet",
+    "States": [
+      "eflux:itemInlet[facing=down]",
+      "eflux:itemInlet[facing=up]",
+      "eflux:itemInlet[facing=north]",
+      "eflux:itemInlet[facing=south]",
+      "eflux:itemInlet[facing=west]",
+      "eflux:itemInlet[facing=east]"
+    ]
+  },
+  {
+    "Mod": "eflux",
+    "Name": "monitor",
+    "States": [
+      "eflux:monitor[facing=down]",
+      "eflux:monitor[facing=up]",
+      "eflux:monitor[facing=north]",
+      "eflux:monitor[facing=south]",
+      "eflux:monitor[facing=west]",
+      "eflux:monitor[facing=east]"
+    ]
+  },
+  {
+    "Mod": "eflux",
+    "Name": "areaMover",
+    "States": [
+      "eflux:areaMover[meta=0]",
+      "eflux:areaMover[meta=1]",
+      "eflux:areaMover[meta=2]",
+      "eflux:areaMover[meta=3]"
+    ]
+  },
+  {
+    "Mod": "eflux",
+    "Name": "efluxCable",
+    "States": [
+      "eflux:efluxCable[meta=0]",
+      "eflux:efluxCable[meta=1]",
+      "eflux:efluxCable[meta=2]",
+      "eflux:efluxCable[meta=3]"
+    ]
+  },
+  {
+    "Mod": "eflux",
+    "Name": "RFConverter",
+    "States": [
+      "eflux:RFConverter[facing=down]",
+      "eflux:RFConverter[facing=up]",
+      "eflux:RFConverter[facing=north]",
+      "eflux:RFConverter[facing=south]",
+      "eflux:RFConverter[facing=west]",
+      "eflux:RFConverter[facing=east]"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "Mod": "craftingcraft",
+    "Name": "stoneCraftingTable",
+    "States": [
+      "craftingcraft:stoneCraftingTable[variant=STONE]",
+      "craftingcraft:stoneCraftingTable[variant=NETHER]"
+    ]
+  },
+  {
+    "Mod": "craftingcraft",
+    "Name": "craftingTableFrame",
+    "States": [
+      "craftingcraft:craftingTableFrame"
+    ]
+  }
+]

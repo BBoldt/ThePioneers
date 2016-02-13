@@ -1,0 +1,58 @@
+[
+  {
+    "Mod": "chiselsandbits",
+    "Name": "chiseled_wood",
+    "States": [
+      "chiselsandbits:chiseled_wood"
+    ]
+  },
+  {
+    "Mod": "chiselsandbits",
+    "Name": "chiseled_rock",
+    "States": [
+      "chiselsandbits:chiseled_rock"
+    ]
+  },
+  {
+    "Mod": "chiselsandbits",
+    "Name": "chiseled_iron",
+    "States": [
+      "chiselsandbits:chiseled_iron"
+    ]
+  },
+  {
+    "Mod": "chiselsandbits",
+    "Name": "chiseled_cloth",
+    "States": [
+      "chiselsandbits:chiseled_cloth"
+    ]
+  },
+  {
+    "Mod": "chiselsandbits",
+    "Name": "chiseled_ice",
+    "States": [
+      "chiselsandbits:chiseled_ice"
+    ]
+  },
+  {
+    "Mod": "chiselsandbits",
+    "Name": "chiseled_packedIce",
+    "States": [
+      "chiselsandbits:chiseled_packedIce"
+    ]
+  },
+  {
+    "Mod": "chiselsandbits",
+    "Name": "chiseled_clay",
+    "States": [
+      "chiselsandbits:chiseled_clay"
+    ]
+  },
+  {
+    "Mod": "chiselsandbits",
+    "Name": "chiseled_glass",
+    "States": [
+      "chiselsandbits:chiseled_glass"
+    ]
+  }
+]

@@ -1,0 +1,427 @@
+[
+  {
+    "Mod": "randomthings",
+    "Name": "fertilizedDirt",
+    "States": [
+      "randomthings:fertilizedDirt"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "fertilizedDirtTilled",
+    "States": [
+      "randomthings:fertilizedDirtTilled"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "playerInterface",
+    "States": [
+      "randomthings:playerInterface"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "creativePlayerInterface",
+    "States": [
+      "randomthings:creativePlayerInterface"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "lapisGlass",
+    "States": [
+      "randomthings:lapisGlass"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "lapisLamp",
+    "States": [
+      "randomthings:lapisLamp"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "dyeingMachine",
+    "States": [
+      "randomthings:dyeingMachine"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "onlineDetector",
+    "States": [
+      "randomthings:onlineDetector[powered=true]",
+      "randomthings:onlineDetector[powered=false]"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "chatDetector",
+    "States": [
+      "randomthings:chatDetector[powered=true]",
+      "randomthings:chatDetector[powered=false]"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "enderBridge",
+    "States": [
+      "randomthings:enderBridge[facing=down]",
+      "randomthings:enderBridge[facing=up]",
+      "randomthings:enderBridge[facing=north]",
+      "randomthings:enderBridge[facing=south]",
+      "randomthings:enderBridge[facing=west]",
+      "randomthings:enderBridge[facing=east]"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "prismarineEnderBridge",
+    "States": [
+      "randomthings:prismarineEnderBridge[facing=down]",
+      "randomthings:prismarineEnderBridge[facing=up]",
+      "randomthings:prismarineEnderBridge[facing=north]",
+      "randomthings:prismarineEnderBridge[facing=south]",
+      "randomthings:prismarineEnderBridge[facing=west]",
+      "randomthings:prismarineEnderBridge[facing=east]"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "enderAnchor",
+    "States": [
+      "randomthings:enderAnchor"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "beanStalk",
+    "States": [
+      "randomthings:beanStalk"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "lesserBeanStalk",
+    "States": [
+      "randomthings:lesserBeanStalk"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "beanPod",
+    "States": [
+      "randomthings:beanPod"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "beanSprout",
+    "States": [
+      "randomthings:beanSprout[age=0]",
+      "randomthings:beanSprout[age=1]",
+      "randomthings:beanSprout[age=2]",
+      "randomthings:beanSprout[age=3]",
+      "randomthings:beanSprout[age=4]",
+      "randomthings:beanSprout[age=5]",
+      "randomthings:beanSprout[age=6]",
+      "randomthings:beanSprout[age=7]"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "lifeAnchor",
+    "States": [
+      "randomthings:lifeAnchor"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "redstoneInterface",
+    "States": [
+      "randomthings:redstoneInterface"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "lightRedirector",
+    "States": [
+      "randomthings:lightRedirector"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "imbuingStation",
+    "States": [
+      "randomthings:imbuingStation"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "spectreBlock",
+    "States": [
+      "randomthings:spectreBlock"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "specialChest",
+    "States": [
+      "randomthings:specialChest[facing=north]",
+      "randomthings:specialChest[facing=south]",
+      "randomthings:specialChest[facing=west]",
+      "randomthings:specialChest[facing=east]"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "analogEmitter",
+    "States": [
+      "randomthings:analogEmitter[facing=down]",
+      "randomthings:analogEmitter[facing=up]",
+      "randomthings:analogEmitter[facing=north]",
+      "randomthings:analogEmitter[facing=south]",
+      "randomthings:analogEmitter[facing=west]",
+      "randomthings:analogEmitter[facing=east]"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "fluidDisplay",
+    "States": [
+      "randomthings:fluidDisplay"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "customWorkbench",
+    "States": [
+      "randomthings:customWorkbench"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "enderMailbox",
+    "States": [
+      "randomthings:enderMailbox[active=true,facing=north]",
+      "randomthings:enderMailbox[active=true,facing=south]",
+      "randomthings:enderMailbox[active=true,facing=west]",
+      "randomthings:enderMailbox[active=true,facing=east]",
+      "randomthings:enderMailbox[active=false,facing=north]",
+      "randomthings:enderMailbox[active=false,facing=south]",
+      "randomthings:enderMailbox[active=false,facing=west]",
+      "randomthings:enderMailbox[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "pitcherPlant",
+    "States": [
+      "randomthings:pitcherPlant"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "platform",
+    "States": [
+      "randomthings:platform[variant=oak]",
+      "randomthings:platform[variant=spruce]",
+      "randomthings:platform[variant=birch]",
+      "randomthings:platform[variant=jungle]",
+      "randomthings:platform[variant=acacia]",
+      "randomthings:platform[variant=darkOak]"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "entityDetector",
+    "States": [
+      "randomthings:entityDetector"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "quartzLamp",
+    "States": [
+      "randomthings:quartzLamp"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "quartzGlass",
+    "States": [
+      "randomthings:quartzGlass"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "potionVaporizer",
+    "States": [
+      "randomthings:potionVaporizer[facing=down]",
+      "randomthings:potionVaporizer[facing=up]",
+      "randomthings:potionVaporizer[facing=north]",
+      "randomthings:potionVaporizer[facing=south]",
+      "randomthings:potionVaporizer[facing=west]",
+      "randomthings:potionVaporizer[facing=east]"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "voxelProjector",
+    "States": [
+      "randomthings:voxelProjector"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "contactButton",
+    "States": [
+      "randomthings:contactButton[facing=down,powered=true]",
+      "randomthings:contactButton[facing=down,powered=false]",
+      "randomthings:contactButton[facing=up,powered=true]",
+      "randomthings:contactButton[facing=up,powered=false]",
+      "randomthings:contactButton[facing=north,powered=true]",
+      "randomthings:contactButton[facing=north,powered=false]",
+      "randomthings:contactButton[facing=south,powered=true]",
+      "randomthings:contactButton[facing=south,powered=false]",
+      "randomthings:contactButton[facing=west,powered=true]",
+      "randomthings:contactButton[facing=west,powered=false]",
+      "randomthings:contactButton[facing=east,powered=true]",
+      "randomthings:contactButton[facing=east,powered=false]"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "contactLever",
+    "States": [
+      "randomthings:contactLever[facing=down,powered=true]",
+      "randomthings:contactLever[facing=down,powered=false]",
+      "randomthings:contactLever[facing=up,powered=true]",
+      "randomthings:contactLever[facing=up,powered=false]",
+      "randomthings:contactLever[facing=north,powered=true]",
+      "randomthings:contactLever[facing=north,powered=false]",
+      "randomthings:contactLever[facing=south,powered=true]",
+      "randomthings:contactLever[facing=south,powered=false]",
+      "randomthings:contactLever[facing=west,powered=true]",
+      "randomthings:contactLever[facing=west,powered=false]",
+      "randomthings:contactLever[facing=east,powered=true]",
+      "randomthings:contactLever[facing=east,powered=false]"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "sakanade",
+    "States": [
+      "randomthings:sakanade"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "itemCollector",
+    "States": [
+      "randomthings:itemCollector[facing=down]",
+      "randomthings:itemCollector[facing=up]",
+      "randomthings:itemCollector[facing=north]",
+      "randomthings:itemCollector[facing=south]",
+      "randomthings:itemCollector[facing=west]",
+      "randomthings:itemCollector[facing=east]"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "advancedItemCollector",
+    "States": [
+      "randomthings:advancedItemCollector[facing=down]",
+      "randomthings:advancedItemCollector[facing=up]",
+      "randomthings:advancedItemCollector[facing=north]",
+      "randomthings:advancedItemCollector[facing=south]",
+      "randomthings:advancedItemCollector[facing=west]",
+      "randomthings:advancedItemCollector[facing=east]"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "natureCore",
+    "States": [
+      "randomthings:natureCore"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "netherCore",
+    "States": [
+      "randomthings:netherCore"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "enderCore",
+    "States": [
+      "randomthings:enderCore"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "biomeStone",
+    "States": [
+      "randomthings:biomeStone[variant=cobble]",
+      "randomthings:biomeStone[variant=smooth]",
+      "randomthings:biomeStone[variant=brick]",
+      "randomthings:biomeStone[variant=cracked]",
+      "randomthings:biomeStone[variant=chiseled]"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "biomeGlass",
+    "States": [
+      "randomthings:biomeGlass"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "stainedBrick",
+    "States": [
+      "randomthings:stainedBrick[color=white]",
+      "randomthings:stainedBrick[color=orange]",
+      "randomthings:stainedBrick[color=magenta]",
+      "randomthings:stainedBrick[color=light_blue]",
+      "randomthings:stainedBrick[color=yellow]",
+      "randomthings:stainedBrick[color=lime]",
+      "randomthings:stainedBrick[color=pink]",
+      "randomthings:stainedBrick[color=gray]",
+      "randomthings:stainedBrick[color=silver]",
+      "randomthings:stainedBrick[color=cyan]",
+      "randomthings:stainedBrick[color=purple]",
+      "randomthings:stainedBrick[color=blue]",
+      "randomthings:stainedBrick[color=brown]",
+      "randomthings:stainedBrick[color=green]",
+      "randomthings:stainedBrick[color=red]",
+      "randomthings:stainedBrick[color=black]"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "coloredGrass",
+    "States": [
+      "randomthings:coloredGrass[color=white]",
+      "randomthings:coloredGrass[color=orange]",
+      "randomthings:coloredGrass[color=magenta]",
+      "randomthings:coloredGrass[color=light_blue]",
+      "randomthings:coloredGrass[color=yellow]",
+      "randomthings:coloredGrass[color=lime]",
+      "randomthings:coloredGrass[color=pink]",
+      "randomthings:coloredGrass[color=gray]",
+      "randomthings:coloredGrass[color=silver]",
+      "randomthings:coloredGrass[color=cyan]",
+      "randomthings:coloredGrass[color=purple]",
+      "randomthings:coloredGrass[color=blue]",
+      "randomthings:coloredGrass[color=brown]",
+      "randomthings:coloredGrass[color=green]",
+      "randomthings:coloredGrass[color=red]",
+      "randomthings:coloredGrass[color=black]"
+    ]
+  }
+]

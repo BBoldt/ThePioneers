@@ -1,0 +1,58 @@
+[
+  {
+    "Mod": "ezstorage",
+    "Name": "storage_core",
+    "States": [
+      "ezstorage:storage_core"
+    ]
+  },
+  {
+    "Mod": "ezstorage",
+    "Name": "storage_box",
+    "States": [
+      "ezstorage:storage_box"
+    ]
+  },
+  {
+    "Mod": "ezstorage",
+    "Name": "condensed_storage_box",
+    "States": [
+      "ezstorage:condensed_storage_box"
+    ]
+  },
+  {
+    "Mod": "ezstorage",
+    "Name": "hyper_storage_box",
+    "States": [
+      "ezstorage:hyper_storage_box"
+    ]
+  },
+  {
+    "Mod": "ezstorage",
+    "Name": "input_port",
+    "States": [
+      "ezstorage:input_port"
+    ]
+  },
+  {
+    "Mod": "ezstorage",
+    "Name": "output_port",
+    "States": [
+      "ezstorage:output_port"
+    ]
+  },
+  {
+    "Mod": "ezstorage",
+    "Name": "crafting_box",
+    "States": [
+      "ezstorage:crafting_box"
+    ]
+  },
+  {
+    "Mod": "ezstorage",
+    "Name": "search_box",
+    "States": [
+      "ezstorage:search_box"
+    ]
+  }
+]

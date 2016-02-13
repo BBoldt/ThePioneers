@@ -1,0 +1,24 @@
+[
+  {
+    "Mod": "resourcefulcrops",
+    "Name": "BlockROre",
+    "States": [
+      "resourcefulcrops:BlockROre[meta=0]",
+      "resourcefulcrops:BlockROre[meta=1]"
+    ]
+  },
+  {
+    "Mod": "resourcefulcrops",
+    "Name": "BlockRCrop",
+    "States": [
+      "resourcefulcrops:BlockRCrop[age=0]",
+      "resourcefulcrops:BlockRCrop[age=1]",
+      "resourcefulcrops:BlockRCrop[age=2]",
+      "resourcefulcrops:BlockRCrop[age=3]",
+      "resourcefulcrops:BlockRCrop[age=4]",
+      "resourcefulcrops:BlockRCrop[age=5]",
+      "resourcefulcrops:BlockRCrop[age=6]",
+      "resourcefulcrops:BlockRCrop[age=7]"
+    ]
+  }
+]

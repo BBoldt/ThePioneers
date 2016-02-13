@@ -1,0 +1,12 @@
+[
+  {
+    "Mod": "buildingbrickscompatvanilla",
+    "Name": "grass_slab",
+    "States": [
+      "buildingbrickscompatvanilla:grass_slab[half=top,snowy=true]",
+      "buildingbrickscompatvanilla:grass_slab[half=top,snowy=false]",
+      "buildingbrickscompatvanilla:grass_slab[half=bottom,snowy=true]",
+      "buildingbrickscompatvanilla:grass_slab[half=bottom,snowy=false]"
+    ]
+  }
+]

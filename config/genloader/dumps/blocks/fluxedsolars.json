@@ -1,0 +1,12 @@
+[
+  {
+    "Mod": "fluxedsolars",
+    "Name": "solarpanel",
+    "States": [
+      "fluxedsolars:solarpanel[tier=redstone]",
+      "fluxedsolars:solarpanel[tier=gold]",
+      "fluxedsolars:solarpanel[tier=blaze]",
+      "fluxedsolars:solarpanel[tier=ender]"
+    ]
+  }
+]

@@ -1,0 +1,1144 @@
+[
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn.thermalGenerator",
+    "States": [
+      "techreborn:techreborn.thermalGenerator[active=true,facing=north]",
+      "techreborn:techreborn.thermalGenerator[active=true,facing=south]",
+      "techreborn:techreborn.thermalGenerator[active=true,facing=west]",
+      "techreborn:techreborn.thermalGenerator[active=true,facing=east]",
+      "techreborn:techreborn.thermalGenerator[active=false,facing=north]",
+      "techreborn:techreborn.thermalGenerator[active=false,facing=south]",
+      "techreborn:techreborn.thermalGenerator[active=false,facing=west]",
+      "techreborn:techreborn.thermalGenerator[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn.quantumTank",
+    "States": [
+      "techreborn:techreborn.quantumTank[active=true,facing=north]",
+      "techreborn:techreborn.quantumTank[active=true,facing=south]",
+      "techreborn:techreborn.quantumTank[active=true,facing=west]",
+      "techreborn:techreborn.quantumTank[active=true,facing=east]",
+      "techreborn:techreborn.quantumTank[active=false,facing=north]",
+      "techreborn:techreborn.quantumTank[active=false,facing=south]",
+      "techreborn:techreborn.quantumTank[active=false,facing=west]",
+      "techreborn:techreborn.quantumTank[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn.quantumChest",
+    "States": [
+      "techreborn:techreborn.quantumChest[active=true,facing=north]",
+      "techreborn:techreborn.quantumChest[active=true,facing=south]",
+      "techreborn:techreborn.quantumChest[active=true,facing=west]",
+      "techreborn:techreborn.quantumChest[active=true,facing=east]",
+      "techreborn:techreborn.quantumChest[active=false,facing=north]",
+      "techreborn:techreborn.quantumChest[active=false,facing=south]",
+      "techreborn:techreborn.quantumChest[active=false,facing=west]",
+      "techreborn:techreborn.quantumChest[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn.digitalChest",
+    "States": [
+      "techreborn:techreborn.digitalChest[active=true,facing=north]",
+      "techreborn:techreborn.digitalChest[active=true,facing=south]",
+      "techreborn:techreborn.digitalChest[active=true,facing=west]",
+      "techreborn:techreborn.digitalChest[active=true,facing=east]",
+      "techreborn:techreborn.digitalChest[active=false,facing=north]",
+      "techreborn:techreborn.digitalChest[active=false,facing=south]",
+      "techreborn:techreborn.digitalChest[active=false,facing=west]",
+      "techreborn:techreborn.digitalChest[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn.centrifuge",
+    "States": [
+      "techreborn:techreborn.centrifuge[active=true,facing=north]",
+      "techreborn:techreborn.centrifuge[active=true,facing=south]",
+      "techreborn:techreborn.centrifuge[active=true,facing=west]",
+      "techreborn:techreborn.centrifuge[active=true,facing=east]",
+      "techreborn:techreborn.centrifuge[active=false,facing=north]",
+      "techreborn:techreborn.centrifuge[active=false,facing=south]",
+      "techreborn:techreborn.centrifuge[active=false,facing=west]",
+      "techreborn:techreborn.centrifuge[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "rollingmachine",
+    "States": [
+      "techreborn:rollingmachine[active=true,facing=north]",
+      "techreborn:rollingmachine[active=true,facing=south]",
+      "techreborn:rollingmachine[active=true,facing=west]",
+      "techreborn:rollingmachine[active=true,facing=east]",
+      "techreborn:rollingmachine[active=false,facing=north]",
+      "techreborn:rollingmachine[active=false,facing=south]",
+      "techreborn:rollingmachine[active=false,facing=west]",
+      "techreborn:rollingmachine[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "blastFurnace",
+    "States": [
+      "techreborn:blastFurnace[active=true,facing=north]",
+      "techreborn:blastFurnace[active=true,facing=south]",
+      "techreborn:blastFurnace[active=true,facing=west]",
+      "techreborn:blastFurnace[active=true,facing=east]",
+      "techreborn:blastFurnace[active=false,facing=north]",
+      "techreborn:blastFurnace[active=false,facing=south]",
+      "techreborn:blastFurnace[active=false,facing=west]",
+      "techreborn:blastFurnace[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "alloySmelter",
+    "States": [
+      "techreborn:alloySmelter[active=true,facing=north]",
+      "techreborn:alloySmelter[active=true,facing=south]",
+      "techreborn:alloySmelter[active=true,facing=west]",
+      "techreborn:alloySmelter[active=true,facing=east]",
+      "techreborn:alloySmelter[active=false,facing=north]",
+      "techreborn:alloySmelter[active=false,facing=south]",
+      "techreborn:alloySmelter[active=false,facing=west]",
+      "techreborn:alloySmelter[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "grinder",
+    "States": [
+      "techreborn:grinder[active=true,facing=north]",
+      "techreborn:grinder[active=true,facing=south]",
+      "techreborn:grinder[active=true,facing=west]",
+      "techreborn:grinder[active=true,facing=east]",
+      "techreborn:grinder[active=false,facing=north]",
+      "techreborn:grinder[active=false,facing=south]",
+      "techreborn:grinder[active=false,facing=west]",
+      "techreborn:grinder[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "implosioncompressor",
+    "States": [
+      "techreborn:implosioncompressor[active=true,facing=north]",
+      "techreborn:implosioncompressor[active=true,facing=south]",
+      "techreborn:implosioncompressor[active=true,facing=west]",
+      "techreborn:implosioncompressor[active=true,facing=east]",
+      "techreborn:implosioncompressor[active=false,facing=north]",
+      "techreborn:implosioncompressor[active=false,facing=south]",
+      "techreborn:implosioncompressor[active=false,facing=west]",
+      "techreborn:implosioncompressor[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "matterfabricator",
+    "States": [
+      "techreborn:matterfabricator[active=true,facing=north]",
+      "techreborn:matterfabricator[active=true,facing=south]",
+      "techreborn:matterfabricator[active=true,facing=west]",
+      "techreborn:matterfabricator[active=true,facing=east]",
+      "techreborn:matterfabricator[active=false,facing=north]",
+      "techreborn:matterfabricator[active=false,facing=south]",
+      "techreborn:matterfabricator[active=false,facing=west]",
+      "techreborn:matterfabricator[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "chunkloader",
+    "States": [
+      "techreborn:chunkloader[active=true,facing=north]",
+      "techreborn:chunkloader[active=true,facing=south]",
+      "techreborn:chunkloader[active=true,facing=west]",
+      "techreborn:chunkloader[active=true,facing=east]",
+      "techreborn:chunkloader[active=false,facing=north]",
+      "techreborn:chunkloader[active=false,facing=south]",
+      "techreborn:chunkloader[active=false,facing=west]",
+      "techreborn:chunkloader[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "chargebench",
+    "States": [
+      "techreborn:chargebench[active=true,facing=north]",
+      "techreborn:chargebench[active=true,facing=south]",
+      "techreborn:chargebench[active=true,facing=west]",
+      "techreborn:chargebench[active=true,facing=east]",
+      "techreborn:chargebench[active=false,facing=north]",
+      "techreborn:chargebench[active=false,facing=south]",
+      "techreborn:chargebench[active=false,facing=west]",
+      "techreborn:chargebench[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "playerDetector",
+    "States": [
+      "techreborn:playerDetector[Type=0]",
+      "techreborn:playerDetector[Type=1]",
+      "techreborn:playerDetector[Type=2]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "machinecasing",
+    "States": [
+      "techreborn:machinecasing[Type=0]",
+      "techreborn:machinecasing[Type=1]",
+      "techreborn:machinecasing[Type=2]",
+      "techreborn:machinecasing[Type=3]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn.ore",
+    "States": [
+      "techreborn:techreborn.ore[Type=0]",
+      "techreborn:techreborn.ore[Type=1]",
+      "techreborn:techreborn.ore[Type=2]",
+      "techreborn:techreborn.ore[Type=3]",
+      "techreborn:techreborn.ore[Type=4]",
+      "techreborn:techreborn.ore[Type=5]",
+      "techreborn:techreborn.ore[Type=6]",
+      "techreborn:techreborn.ore[Type=7]",
+      "techreborn:techreborn.ore[Type=8]",
+      "techreborn:techreborn.ore[Type=9]",
+      "techreborn:techreborn.ore[Type=10]",
+      "techreborn:techreborn.ore[Type=11]",
+      "techreborn:techreborn.ore[Type=12]",
+      "techreborn:techreborn.ore[Type=13]",
+      "techreborn:techreborn.ore[Type=14]",
+      "techreborn:techreborn.ore[Type=15]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn.storage",
+    "States": [
+      "techreborn:techreborn.storage[Type=0]",
+      "techreborn:techreborn.storage[Type=1]",
+      "techreborn:techreborn.storage[Type=2]",
+      "techreborn:techreborn.storage[Type=3]",
+      "techreborn:techreborn.storage[Type=4]",
+      "techreborn:techreborn.storage[Type=5]",
+      "techreborn:techreborn.storage[Type=6]",
+      "techreborn:techreborn.storage[Type=7]",
+      "techreborn:techreborn.storage[Type=8]",
+      "techreborn:techreborn.storage[Type=9]",
+      "techreborn:techreborn.storage[Type=10]",
+      "techreborn:techreborn.storage[Type=11]",
+      "techreborn:techreborn.storage[Type=12]",
+      "techreborn:techreborn.storage[Type=13]",
+      "techreborn:techreborn.storage[Type=14]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn.storage2",
+    "States": [
+      "techreborn:techreborn.storage2[Type=0]",
+      "techreborn:techreborn.storage2[Type=1]",
+      "techreborn:techreborn.storage2[Type=2]",
+      "techreborn:techreborn.storage2[Type=3]",
+      "techreborn:techreborn.storage2[Type=4]",
+      "techreborn:techreborn.storage2[Type=5]",
+      "techreborn:techreborn.storage2[Type=6]",
+      "techreborn:techreborn.storage2[Type=7]",
+      "techreborn:techreborn.storage2[Type=8]",
+      "techreborn:techreborn.storage2[Type=9]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "highlyadvancedmachine",
+    "States": [
+      "techreborn:highlyadvancedmachine[active=true,facing=north]",
+      "techreborn:highlyadvancedmachine[active=true,facing=south]",
+      "techreborn:highlyadvancedmachine[active=true,facing=west]",
+      "techreborn:highlyadvancedmachine[active=true,facing=east]",
+      "techreborn:highlyadvancedmachine[active=false,facing=north]",
+      "techreborn:highlyadvancedmachine[active=false,facing=south]",
+      "techreborn:highlyadvancedmachine[active=false,facing=west]",
+      "techreborn:highlyadvancedmachine[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "dragoneggenergsiphon",
+    "States": [
+      "techreborn:dragoneggenergsiphon[active=true,facing=north]",
+      "techreborn:dragoneggenergsiphon[active=true,facing=south]",
+      "techreborn:dragoneggenergsiphon[active=true,facing=west]",
+      "techreborn:dragoneggenergsiphon[active=true,facing=east]",
+      "techreborn:dragoneggenergsiphon[active=false,facing=north]",
+      "techreborn:dragoneggenergsiphon[active=false,facing=south]",
+      "techreborn:dragoneggenergsiphon[active=false,facing=west]",
+      "techreborn:dragoneggenergsiphon[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "magicenergyconverter",
+    "States": [
+      "techreborn:magicenergyconverter[active=true,facing=north]",
+      "techreborn:magicenergyconverter[active=true,facing=south]",
+      "techreborn:magicenergyconverter[active=true,facing=west]",
+      "techreborn:magicenergyconverter[active=true,facing=east]",
+      "techreborn:magicenergyconverter[active=false,facing=north]",
+      "techreborn:magicenergyconverter[active=false,facing=south]",
+      "techreborn:magicenergyconverter[active=false,facing=west]",
+      "techreborn:magicenergyconverter[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "assemblymachine",
+    "States": [
+      "techreborn:assemblymachine[active=true,facing=north]",
+      "techreborn:assemblymachine[active=true,facing=south]",
+      "techreborn:assemblymachine[active=true,facing=west]",
+      "techreborn:assemblymachine[active=true,facing=east]",
+      "techreborn:assemblymachine[active=false,facing=north]",
+      "techreborn:assemblymachine[active=false,facing=south]",
+      "techreborn:assemblymachine[active=false,facing=west]",
+      "techreborn:assemblymachine[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "dieselgenerator",
+    "States": [
+      "techreborn:dieselgenerator[active=true,facing=north]",
+      "techreborn:dieselgenerator[active=true,facing=south]",
+      "techreborn:dieselgenerator[active=true,facing=west]",
+      "techreborn:dieselgenerator[active=true,facing=east]",
+      "techreborn:dieselgenerator[active=false,facing=north]",
+      "techreborn:dieselgenerator[active=false,facing=south]",
+      "techreborn:dieselgenerator[active=false,facing=west]",
+      "techreborn:dieselgenerator[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "industrialelectrolyzer",
+    "States": [
+      "techreborn:industrialelectrolyzer[active=true,facing=north]",
+      "techreborn:industrialelectrolyzer[active=true,facing=south]",
+      "techreborn:industrialelectrolyzer[active=true,facing=west]",
+      "techreborn:industrialelectrolyzer[active=true,facing=east]",
+      "techreborn:industrialelectrolyzer[active=false,facing=north]",
+      "techreborn:industrialelectrolyzer[active=false,facing=south]",
+      "techreborn:industrialelectrolyzer[active=false,facing=west]",
+      "techreborn:industrialelectrolyzer[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "magicrnergyabsorber",
+    "States": [
+      "techreborn:magicrnergyabsorber[active=true,facing=north]",
+      "techreborn:magicrnergyabsorber[active=true,facing=south]",
+      "techreborn:magicrnergyabsorber[active=true,facing=west]",
+      "techreborn:magicrnergyabsorber[active=true,facing=east]",
+      "techreborn:magicrnergyabsorber[active=false,facing=north]",
+      "techreborn:magicrnergyabsorber[active=false,facing=south]",
+      "techreborn:magicrnergyabsorber[active=false,facing=west]",
+      "techreborn:magicrnergyabsorber[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "semifluidgenerator",
+    "States": [
+      "techreborn:semifluidgenerator[active=true,facing=north]",
+      "techreborn:semifluidgenerator[active=true,facing=south]",
+      "techreborn:semifluidgenerator[active=true,facing=west]",
+      "techreborn:semifluidgenerator[active=true,facing=east]",
+      "techreborn:semifluidgenerator[active=false,facing=north]",
+      "techreborn:semifluidgenerator[active=false,facing=south]",
+      "techreborn:semifluidgenerator[active=false,facing=west]",
+      "techreborn:semifluidgenerator[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "gasturbine",
+    "States": [
+      "techreborn:gasturbine[active=true,facing=north]",
+      "techreborn:gasturbine[active=true,facing=south]",
+      "techreborn:gasturbine[active=true,facing=west]",
+      "techreborn:gasturbine[active=true,facing=east]",
+      "techreborn:gasturbine[active=false,facing=north]",
+      "techreborn:gasturbine[active=false,facing=south]",
+      "techreborn:gasturbine[active=false,facing=west]",
+      "techreborn:gasturbine[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "alloyfurnace",
+    "States": [
+      "techreborn:alloyfurnace[active=true,facing=north]",
+      "techreborn:alloyfurnace[active=true,facing=south]",
+      "techreborn:alloyfurnace[active=true,facing=west]",
+      "techreborn:alloyfurnace[active=true,facing=east]",
+      "techreborn:alloyfurnace[active=false,facing=north]",
+      "techreborn:alloyfurnace[active=false,facing=south]",
+      "techreborn:alloyfurnace[active=false,facing=west]",
+      "techreborn:alloyfurnace[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "chemicalreactor",
+    "States": [
+      "techreborn:chemicalreactor[active=true,facing=north]",
+      "techreborn:chemicalreactor[active=true,facing=south]",
+      "techreborn:chemicalreactor[active=true,facing=west]",
+      "techreborn:chemicalreactor[active=true,facing=east]",
+      "techreborn:chemicalreactor[active=false,facing=north]",
+      "techreborn:chemicalreactor[active=false,facing=south]",
+      "techreborn:chemicalreactor[active=false,facing=west]",
+      "techreborn:chemicalreactor[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "idsu",
+    "States": [
+      "techreborn:idsu[active=true,facing=north]",
+      "techreborn:idsu[active=true,facing=south]",
+      "techreborn:idsu[active=true,facing=west]",
+      "techreborn:idsu[active=true,facing=east]",
+      "techreborn:idsu[active=false,facing=north]",
+      "techreborn:idsu[active=false,facing=south]",
+      "techreborn:idsu[active=false,facing=west]",
+      "techreborn:idsu[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "aesu",
+    "States": [
+      "techreborn:aesu[active=true,facing=north]",
+      "techreborn:aesu[active=true,facing=south]",
+      "techreborn:aesu[active=true,facing=west]",
+      "techreborn:aesu[active=true,facing=east]",
+      "techreborn:aesu[active=false,facing=north]",
+      "techreborn:aesu[active=false,facing=south]",
+      "techreborn:aesu[active=false,facing=west]",
+      "techreborn:aesu[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "lesu",
+    "States": [
+      "techreborn:lesu[active=true,facing=north]",
+      "techreborn:lesu[active=true,facing=south]",
+      "techreborn:lesu[active=true,facing=west]",
+      "techreborn:lesu[active=true,facing=east]",
+      "techreborn:lesu[active=false,facing=north]",
+      "techreborn:lesu[active=false,facing=south]",
+      "techreborn:lesu[active=false,facing=west]",
+      "techreborn:lesu[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "supercondensator",
+    "States": [
+      "techreborn:supercondensator[active=true,facing=north]",
+      "techreborn:supercondensator[active=true,facing=south]",
+      "techreborn:supercondensator[active=true,facing=west]",
+      "techreborn:supercondensator[active=true,facing=east]",
+      "techreborn:supercondensator[active=false,facing=north]",
+      "techreborn:supercondensator[active=false,facing=south]",
+      "techreborn:supercondensator[active=false,facing=west]",
+      "techreborn:supercondensator[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "lesustorage",
+    "States": [
+      "techreborn:lesustorage[active=true,facing=north]",
+      "techreborn:lesustorage[active=true,facing=south]",
+      "techreborn:lesustorage[active=true,facing=west]",
+      "techreborn:lesustorage[active=true,facing=east]",
+      "techreborn:lesustorage[active=false,facing=north]",
+      "techreborn:lesustorage[active=false,facing=south]",
+      "techreborn:lesustorage[active=false,facing=west]",
+      "techreborn:lesustorage[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "distillationtower",
+    "States": [
+      "techreborn:distillationtower[active=true,facing=north]",
+      "techreborn:distillationtower[active=true,facing=south]",
+      "techreborn:distillationtower[active=true,facing=west]",
+      "techreborn:distillationtower[active=true,facing=east]",
+      "techreborn:distillationtower[active=false,facing=north]",
+      "techreborn:distillationtower[active=false,facing=south]",
+      "techreborn:distillationtower[active=false,facing=west]",
+      "techreborn:distillationtower[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "electriccraftingtable",
+    "States": [
+      "techreborn:electriccraftingtable[active=true,facing=north]",
+      "techreborn:electriccraftingtable[active=true,facing=south]",
+      "techreborn:electriccraftingtable[active=true,facing=west]",
+      "techreborn:electriccraftingtable[active=true,facing=east]",
+      "techreborn:electriccraftingtable[active=false,facing=north]",
+      "techreborn:electriccraftingtable[active=false,facing=south]",
+      "techreborn:electriccraftingtable[active=false,facing=west]",
+      "techreborn:electriccraftingtable[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "vacuumfreezer",
+    "States": [
+      "techreborn:vacuumfreezer[active=true,facing=north]",
+      "techreborn:vacuumfreezer[active=true,facing=south]",
+      "techreborn:vacuumfreezer[active=true,facing=west]",
+      "techreborn:vacuumfreezer[active=true,facing=east]",
+      "techreborn:vacuumfreezer[active=false,facing=north]",
+      "techreborn:vacuumfreezer[active=false,facing=south]",
+      "techreborn:vacuumfreezer[active=false,facing=west]",
+      "techreborn:vacuumfreezer[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "plasmagenerator",
+    "States": [
+      "techreborn:plasmagenerator[active=true,facing=north]",
+      "techreborn:plasmagenerator[active=true,facing=south]",
+      "techreborn:plasmagenerator[active=true,facing=west]",
+      "techreborn:plasmagenerator[active=true,facing=east]",
+      "techreborn:plasmagenerator[active=false,facing=north]",
+      "techreborn:plasmagenerator[active=false,facing=south]",
+      "techreborn:plasmagenerator[active=false,facing=west]",
+      "techreborn:plasmagenerator[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "computercube",
+    "States": [
+      "techreborn:computercube[active=true,facing=north]",
+      "techreborn:computercube[active=true,facing=south]",
+      "techreborn:computercube[active=true,facing=west]",
+      "techreborn:computercube[active=true,facing=east]",
+      "techreborn:computercube[active=false,facing=north]",
+      "techreborn:computercube[active=false,facing=south]",
+      "techreborn:computercube[active=false,facing=west]",
+      "techreborn:computercube[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "fusioncontrolcomputer",
+    "States": [
+      "techreborn:fusioncontrolcomputer[active=true,facing=north]",
+      "techreborn:fusioncontrolcomputer[active=true,facing=south]",
+      "techreborn:fusioncontrolcomputer[active=true,facing=west]",
+      "techreborn:fusioncontrolcomputer[active=true,facing=east]",
+      "techreborn:fusioncontrolcomputer[active=false,facing=north]",
+      "techreborn:fusioncontrolcomputer[active=false,facing=south]",
+      "techreborn:fusioncontrolcomputer[active=false,facing=west]",
+      "techreborn:fusioncontrolcomputer[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "fusioncoil",
+    "States": [
+      "techreborn:fusioncoil[active=true,facing=north]",
+      "techreborn:fusioncoil[active=true,facing=south]",
+      "techreborn:fusioncoil[active=true,facing=west]",
+      "techreborn:fusioncoil[active=true,facing=east]",
+      "techreborn:fusioncoil[active=false,facing=north]",
+      "techreborn:fusioncoil[active=false,facing=south]",
+      "techreborn:fusioncoil[active=false,facing=west]",
+      "techreborn:fusioncoil[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "lightningrod",
+    "States": [
+      "techreborn:lightningrod[active=true,facing=north]",
+      "techreborn:lightningrod[active=true,facing=south]",
+      "techreborn:lightningrod[active=true,facing=west]",
+      "techreborn:lightningrod[active=true,facing=east]",
+      "techreborn:lightningrod[active=false,facing=north]",
+      "techreborn:lightningrod[active=false,facing=south]",
+      "techreborn:lightningrod[active=false,facing=west]",
+      "techreborn:lightningrod[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "heatgenerator",
+    "States": [
+      "techreborn:heatgenerator[active=true,facing=north]",
+      "techreborn:heatgenerator[active=true,facing=south]",
+      "techreborn:heatgenerator[active=true,facing=west]",
+      "techreborn:heatgenerator[active=true,facing=east]",
+      "techreborn:heatgenerator[active=false,facing=north]",
+      "techreborn:heatgenerator[active=false,facing=south]",
+      "techreborn:heatgenerator[active=false,facing=west]",
+      "techreborn:heatgenerator[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "industrialSawmill",
+    "States": [
+      "techreborn:industrialSawmill[active=true,facing=north]",
+      "techreborn:industrialSawmill[active=true,facing=south]",
+      "techreborn:industrialSawmill[active=true,facing=west]",
+      "techreborn:industrialSawmill[active=true,facing=east]",
+      "techreborn:industrialSawmill[active=false,facing=north]",
+      "techreborn:industrialSawmill[active=false,facing=south]",
+      "techreborn:industrialSawmill[active=false,facing=west]",
+      "techreborn:industrialSawmill[active=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn.machineFrame",
+    "States": [
+      "techreborn:techreborn.machineFrame[Type=0]",
+      "techreborn:techreborn.machineFrame[Type=1]",
+      "techreborn:techreborn.machineFrame[Type=2]",
+      "techreborn:techreborn.machineFrame[Type=3]",
+      "techreborn:techreborn.machineFrame[Type=4]",
+      "techreborn:techreborn.machineFrame[Type=5]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn_techreborn.berylium",
+    "States": [
+      "techreborn:techreborn_techreborn.berylium[level=0]",
+      "techreborn:techreborn_techreborn.berylium[level=1]",
+      "techreborn:techreborn_techreborn.berylium[level=2]",
+      "techreborn:techreborn_techreborn.berylium[level=3]",
+      "techreborn:techreborn_techreborn.berylium[level=4]",
+      "techreborn:techreborn_techreborn.berylium[level=5]",
+      "techreborn:techreborn_techreborn.berylium[level=6]",
+      "techreborn:techreborn_techreborn.berylium[level=7]",
+      "techreborn:techreborn_techreborn.berylium[level=8]",
+      "techreborn:techreborn_techreborn.berylium[level=9]",
+      "techreborn:techreborn_techreborn.berylium[level=10]",
+      "techreborn:techreborn_techreborn.berylium[level=11]",
+      "techreborn:techreborn_techreborn.berylium[level=12]",
+      "techreborn:techreborn_techreborn.berylium[level=13]",
+      "techreborn:techreborn_techreborn.berylium[level=14]",
+      "techreborn:techreborn_techreborn.berylium[level=15]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn_techreborn.calcium",
+    "States": [
+      "techreborn:techreborn_techreborn.calcium[level=0]",
+      "techreborn:techreborn_techreborn.calcium[level=1]",
+      "techreborn:techreborn_techreborn.calcium[level=2]",
+      "techreborn:techreborn_techreborn.calcium[level=3]",
+      "techreborn:techreborn_techreborn.calcium[level=4]",
+      "techreborn:techreborn_techreborn.calcium[level=5]",
+      "techreborn:techreborn_techreborn.calcium[level=6]",
+      "techreborn:techreborn_techreborn.calcium[level=7]",
+      "techreborn:techreborn_techreborn.calcium[level=8]",
+      "techreborn:techreborn_techreborn.calcium[level=9]",
+      "techreborn:techreborn_techreborn.calcium[level=10]",
+      "techreborn:techreborn_techreborn.calcium[level=11]",
+      "techreborn:techreborn_techreborn.calcium[level=12]",
+      "techreborn:techreborn_techreborn.calcium[level=13]",
+      "techreborn:techreborn_techreborn.calcium[level=14]",
+      "techreborn:techreborn_techreborn.calcium[level=15]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn_techreborn.calciumcarbonate",
+    "States": [
+      "techreborn:techreborn_techreborn.calciumcarbonate[level=0]",
+      "techreborn:techreborn_techreborn.calciumcarbonate[level=1]",
+      "techreborn:techreborn_techreborn.calciumcarbonate[level=2]",
+      "techreborn:techreborn_techreborn.calciumcarbonate[level=3]",
+      "techreborn:techreborn_techreborn.calciumcarbonate[level=4]",
+      "techreborn:techreborn_techreborn.calciumcarbonate[level=5]",
+      "techreborn:techreborn_techreborn.calciumcarbonate[level=6]",
+      "techreborn:techreborn_techreborn.calciumcarbonate[level=7]",
+      "techreborn:techreborn_techreborn.calciumcarbonate[level=8]",
+      "techreborn:techreborn_techreborn.calciumcarbonate[level=9]",
+      "techreborn:techreborn_techreborn.calciumcarbonate[level=10]",
+      "techreborn:techreborn_techreborn.calciumcarbonate[level=11]",
+      "techreborn:techreborn_techreborn.calciumcarbonate[level=12]",
+      "techreborn:techreborn_techreborn.calciumcarbonate[level=13]",
+      "techreborn:techreborn_techreborn.calciumcarbonate[level=14]",
+      "techreborn:techreborn_techreborn.calciumcarbonate[level=15]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn_techreborn.chlorite",
+    "States": [
+      "techreborn:techreborn_techreborn.chlorite[level=0]",
+      "techreborn:techreborn_techreborn.chlorite[level=1]",
+      "techreborn:techreborn_techreborn.chlorite[level=2]",
+      "techreborn:techreborn_techreborn.chlorite[level=3]",
+      "techreborn:techreborn_techreborn.chlorite[level=4]",
+      "techreborn:techreborn_techreborn.chlorite[level=5]",
+      "techreborn:techreborn_techreborn.chlorite[level=6]",
+      "techreborn:techreborn_techreborn.chlorite[level=7]",
+      "techreborn:techreborn_techreborn.chlorite[level=8]",
+      "techreborn:techreborn_techreborn.chlorite[level=9]",
+      "techreborn:techreborn_techreborn.chlorite[level=10]",
+      "techreborn:techreborn_techreborn.chlorite[level=11]",
+      "techreborn:techreborn_techreborn.chlorite[level=12]",
+      "techreborn:techreborn_techreborn.chlorite[level=13]",
+      "techreborn:techreborn_techreborn.chlorite[level=14]",
+      "techreborn:techreborn_techreborn.chlorite[level=15]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn_techreborn.deuterium",
+    "States": [
+      "techreborn:techreborn_techreborn.deuterium[level=0]",
+      "techreborn:techreborn_techreborn.deuterium[level=1]",
+      "techreborn:techreborn_techreborn.deuterium[level=2]",
+      "techreborn:techreborn_techreborn.deuterium[level=3]",
+      "techreborn:techreborn_techreborn.deuterium[level=4]",
+      "techreborn:techreborn_techreborn.deuterium[level=5]",
+      "techreborn:techreborn_techreborn.deuterium[level=6]",
+      "techreborn:techreborn_techreborn.deuterium[level=7]",
+      "techreborn:techreborn_techreborn.deuterium[level=8]",
+      "techreborn:techreborn_techreborn.deuterium[level=9]",
+      "techreborn:techreborn_techreborn.deuterium[level=10]",
+      "techreborn:techreborn_techreborn.deuterium[level=11]",
+      "techreborn:techreborn_techreborn.deuterium[level=12]",
+      "techreborn:techreborn_techreborn.deuterium[level=13]",
+      "techreborn:techreborn_techreborn.deuterium[level=14]",
+      "techreborn:techreborn_techreborn.deuterium[level=15]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn_techreborn.glyceryl",
+    "States": [
+      "techreborn:techreborn_techreborn.glyceryl[level=0]",
+      "techreborn:techreborn_techreborn.glyceryl[level=1]",
+      "techreborn:techreborn_techreborn.glyceryl[level=2]",
+      "techreborn:techreborn_techreborn.glyceryl[level=3]",
+      "techreborn:techreborn_techreborn.glyceryl[level=4]",
+      "techreborn:techreborn_techreborn.glyceryl[level=5]",
+      "techreborn:techreborn_techreborn.glyceryl[level=6]",
+      "techreborn:techreborn_techreborn.glyceryl[level=7]",
+      "techreborn:techreborn_techreborn.glyceryl[level=8]",
+      "techreborn:techreborn_techreborn.glyceryl[level=9]",
+      "techreborn:techreborn_techreborn.glyceryl[level=10]",
+      "techreborn:techreborn_techreborn.glyceryl[level=11]",
+      "techreborn:techreborn_techreborn.glyceryl[level=12]",
+      "techreborn:techreborn_techreborn.glyceryl[level=13]",
+      "techreborn:techreborn_techreborn.glyceryl[level=14]",
+      "techreborn:techreborn_techreborn.glyceryl[level=15]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn_techreborn.helium",
+    "States": [
+      "techreborn:techreborn_techreborn.helium[level=0]",
+      "techreborn:techreborn_techreborn.helium[level=1]",
+      "techreborn:techreborn_techreborn.helium[level=2]",
+      "techreborn:techreborn_techreborn.helium[level=3]",
+      "techreborn:techreborn_techreborn.helium[level=4]",
+      "techreborn:techreborn_techreborn.helium[level=5]",
+      "techreborn:techreborn_techreborn.helium[level=6]",
+      "techreborn:techreborn_techreborn.helium[level=7]",
+      "techreborn:techreborn_techreborn.helium[level=8]",
+      "techreborn:techreborn_techreborn.helium[level=9]",
+      "techreborn:techreborn_techreborn.helium[level=10]",
+      "techreborn:techreborn_techreborn.helium[level=11]",
+      "techreborn:techreborn_techreborn.helium[level=12]",
+      "techreborn:techreborn_techreborn.helium[level=13]",
+      "techreborn:techreborn_techreborn.helium[level=14]",
+      "techreborn:techreborn_techreborn.helium[level=15]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn_techreborn.helium3",
+    "States": [
+      "techreborn:techreborn_techreborn.helium3[level=0]",
+      "techreborn:techreborn_techreborn.helium3[level=1]",
+      "techreborn:techreborn_techreborn.helium3[level=2]",
+      "techreborn:techreborn_techreborn.helium3[level=3]",
+      "techreborn:techreborn_techreborn.helium3[level=4]",
+      "techreborn:techreborn_techreborn.helium3[level=5]",
+      "techreborn:techreborn_techreborn.helium3[level=6]",
+      "techreborn:techreborn_techreborn.helium3[level=7]",
+      "techreborn:techreborn_techreborn.helium3[level=8]",
+      "techreborn:techreborn_techreborn.helium3[level=9]",
+      "techreborn:techreborn_techreborn.helium3[level=10]",
+      "techreborn:techreborn_techreborn.helium3[level=11]",
+      "techreborn:techreborn_techreborn.helium3[level=12]",
+      "techreborn:techreborn_techreborn.helium3[level=13]",
+      "techreborn:techreborn_techreborn.helium3[level=14]",
+      "techreborn:techreborn_techreborn.helium3[level=15]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn_techreborn.heliumplasma",
+    "States": [
+      "techreborn:techreborn_techreborn.heliumplasma[level=0]",
+      "techreborn:techreborn_techreborn.heliumplasma[level=1]",
+      "techreborn:techreborn_techreborn.heliumplasma[level=2]",
+      "techreborn:techreborn_techreborn.heliumplasma[level=3]",
+      "techreborn:techreborn_techreborn.heliumplasma[level=4]",
+      "techreborn:techreborn_techreborn.heliumplasma[level=5]",
+      "techreborn:techreborn_techreborn.heliumplasma[level=6]",
+      "techreborn:techreborn_techreborn.heliumplasma[level=7]",
+      "techreborn:techreborn_techreborn.heliumplasma[level=8]",
+      "techreborn:techreborn_techreborn.heliumplasma[level=9]",
+      "techreborn:techreborn_techreborn.heliumplasma[level=10]",
+      "techreborn:techreborn_techreborn.heliumplasma[level=11]",
+      "techreborn:techreborn_techreborn.heliumplasma[level=12]",
+      "techreborn:techreborn_techreborn.heliumplasma[level=13]",
+      "techreborn:techreborn_techreborn.heliumplasma[level=14]",
+      "techreborn:techreborn_techreborn.heliumplasma[level=15]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn_techreborn.hydrogen",
+    "States": [
+      "techreborn:techreborn_techreborn.hydrogen[level=0]",
+      "techreborn:techreborn_techreborn.hydrogen[level=1]",
+      "techreborn:techreborn_techreborn.hydrogen[level=2]",
+      "techreborn:techreborn_techreborn.hydrogen[level=3]",
+      "techreborn:techreborn_techreborn.hydrogen[level=4]",
+      "techreborn:techreborn_techreborn.hydrogen[level=5]",
+      "techreborn:techreborn_techreborn.hydrogen[level=6]",
+      "techreborn:techreborn_techreborn.hydrogen[level=7]",
+      "techreborn:techreborn_techreborn.hydrogen[level=8]",
+      "techreborn:techreborn_techreborn.hydrogen[level=9]",
+      "techreborn:techreborn_techreborn.hydrogen[level=10]",
+      "techreborn:techreborn_techreborn.hydrogen[level=11]",
+      "techreborn:techreborn_techreborn.hydrogen[level=12]",
+      "techreborn:techreborn_techreborn.hydrogen[level=13]",
+      "techreborn:techreborn_techreborn.hydrogen[level=14]",
+      "techreborn:techreborn_techreborn.hydrogen[level=15]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn_techreborn.lithium",
+    "States": [
+      "techreborn:techreborn_techreborn.lithium[level=0]",
+      "techreborn:techreborn_techreborn.lithium[level=1]",
+      "techreborn:techreborn_techreborn.lithium[level=2]",
+      "techreborn:techreborn_techreborn.lithium[level=3]",
+      "techreborn:techreborn_techreborn.lithium[level=4]",
+      "techreborn:techreborn_techreborn.lithium[level=5]",
+      "techreborn:techreborn_techreborn.lithium[level=6]",
+      "techreborn:techreborn_techreborn.lithium[level=7]",
+      "techreborn:techreborn_techreborn.lithium[level=8]",
+      "techreborn:techreborn_techreborn.lithium[level=9]",
+      "techreborn:techreborn_techreborn.lithium[level=10]",
+      "techreborn:techreborn_techreborn.lithium[level=11]",
+      "techreborn:techreborn_techreborn.lithium[level=12]",
+      "techreborn:techreborn_techreborn.lithium[level=13]",
+      "techreborn:techreborn_techreborn.lithium[level=14]",
+      "techreborn:techreborn_techreborn.lithium[level=15]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn_techreborn.mercury",
+    "States": [
+      "techreborn:techreborn_techreborn.mercury[level=0]",
+      "techreborn:techreborn_techreborn.mercury[level=1]",
+      "techreborn:techreborn_techreborn.mercury[level=2]",
+      "techreborn:techreborn_techreborn.mercury[level=3]",
+      "techreborn:techreborn_techreborn.mercury[level=4]",
+      "techreborn:techreborn_techreborn.mercury[level=5]",
+      "techreborn:techreborn_techreborn.mercury[level=6]",
+      "techreborn:techreborn_techreborn.mercury[level=7]",
+      "techreborn:techreborn_techreborn.mercury[level=8]",
+      "techreborn:techreborn_techreborn.mercury[level=9]",
+      "techreborn:techreborn_techreborn.mercury[level=10]",
+      "techreborn:techreborn_techreborn.mercury[level=11]",
+      "techreborn:techreborn_techreborn.mercury[level=12]",
+      "techreborn:techreborn_techreborn.mercury[level=13]",
+      "techreborn:techreborn_techreborn.mercury[level=14]",
+      "techreborn:techreborn_techreborn.mercury[level=15]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn_techreborn.methane",
+    "States": [
+      "techreborn:techreborn_techreborn.methane[level=0]",
+      "techreborn:techreborn_techreborn.methane[level=1]",
+      "techreborn:techreborn_techreborn.methane[level=2]",
+      "techreborn:techreborn_techreborn.methane[level=3]",
+      "techreborn:techreborn_techreborn.methane[level=4]",
+      "techreborn:techreborn_techreborn.methane[level=5]",
+      "techreborn:techreborn_techreborn.methane[level=6]",
+      "techreborn:techreborn_techreborn.methane[level=7]",
+      "techreborn:techreborn_techreborn.methane[level=8]",
+      "techreborn:techreborn_techreborn.methane[level=9]",
+      "techreborn:techreborn_techreborn.methane[level=10]",
+      "techreborn:techreborn_techreborn.methane[level=11]",
+      "techreborn:techreborn_techreborn.methane[level=12]",
+      "techreborn:techreborn_techreborn.methane[level=13]",
+      "techreborn:techreborn_techreborn.methane[level=14]",
+      "techreborn:techreborn_techreborn.methane[level=15]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn_techreborn.nitrocoalfuel",
+    "States": [
+      "techreborn:techreborn_techreborn.nitrocoalfuel[level=0]",
+      "techreborn:techreborn_techreborn.nitrocoalfuel[level=1]",
+      "techreborn:techreborn_techreborn.nitrocoalfuel[level=2]",
+      "techreborn:techreborn_techreborn.nitrocoalfuel[level=3]",
+      "techreborn:techreborn_techreborn.nitrocoalfuel[level=4]",
+      "techreborn:techreborn_techreborn.nitrocoalfuel[level=5]",
+      "techreborn:techreborn_techreborn.nitrocoalfuel[level=6]",
+      "techreborn:techreborn_techreborn.nitrocoalfuel[level=7]",
+      "techreborn:techreborn_techreborn.nitrocoalfuel[level=8]",
+      "techreborn:techreborn_techreborn.nitrocoalfuel[level=9]",
+      "techreborn:techreborn_techreborn.nitrocoalfuel[level=10]",
+      "techreborn:techreborn_techreborn.nitrocoalfuel[level=11]",
+      "techreborn:techreborn_techreborn.nitrocoalfuel[level=12]",
+      "techreborn:techreborn_techreborn.nitrocoalfuel[level=13]",
+      "techreborn:techreborn_techreborn.nitrocoalfuel[level=14]",
+      "techreborn:techreborn_techreborn.nitrocoalfuel[level=15]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn_techreborn.nitrofuel",
+    "States": [
+      "techreborn:techreborn_techreborn.nitrofuel[level=0]",
+      "techreborn:techreborn_techreborn.nitrofuel[level=1]",
+      "techreborn:techreborn_techreborn.nitrofuel[level=2]",
+      "techreborn:techreborn_techreborn.nitrofuel[level=3]",
+      "techreborn:techreborn_techreborn.nitrofuel[level=4]",
+      "techreborn:techreborn_techreborn.nitrofuel[level=5]",
+      "techreborn:techreborn_techreborn.nitrofuel[level=6]",
+      "techreborn:techreborn_techreborn.nitrofuel[level=7]",
+      "techreborn:techreborn_techreborn.nitrofuel[level=8]",
+      "techreborn:techreborn_techreborn.nitrofuel[level=9]",
+      "techreborn:techreborn_techreborn.nitrofuel[level=10]",
+      "techreborn:techreborn_techreborn.nitrofuel[level=11]",
+      "techreborn:techreborn_techreborn.nitrofuel[level=12]",
+      "techreborn:techreborn_techreborn.nitrofuel[level=13]",
+      "techreborn:techreborn_techreborn.nitrofuel[level=14]",
+      "techreborn:techreborn_techreborn.nitrofuel[level=15]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn_techreborn.nitrogen",
+    "States": [
+      "techreborn:techreborn_techreborn.nitrogen[level=0]",
+      "techreborn:techreborn_techreborn.nitrogen[level=1]",
+      "techreborn:techreborn_techreborn.nitrogen[level=2]",
+      "techreborn:techreborn_techreborn.nitrogen[level=3]",
+      "techreborn:techreborn_techreborn.nitrogen[level=4]",
+      "techreborn:techreborn_techreborn.nitrogen[level=5]",
+      "techreborn:techreborn_techreborn.nitrogen[level=6]",
+      "techreborn:techreborn_techreborn.nitrogen[level=7]",
+      "techreborn:techreborn_techreborn.nitrogen[level=8]",
+      "techreborn:techreborn_techreborn.nitrogen[level=9]",
+      "techreborn:techreborn_techreborn.nitrogen[level=10]",
+      "techreborn:techreborn_techreborn.nitrogen[level=11]",
+      "techreborn:techreborn_techreborn.nitrogen[level=12]",
+      "techreborn:techreborn_techreborn.nitrogen[level=13]",
+      "techreborn:techreborn_techreborn.nitrogen[level=14]",
+      "techreborn:techreborn_techreborn.nitrogen[level=15]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn_techreborn.nitrogendioxide",
+    "States": [
+      "techreborn:techreborn_techreborn.nitrogendioxide[level=0]",
+      "techreborn:techreborn_techreborn.nitrogendioxide[level=1]",
+      "techreborn:techreborn_techreborn.nitrogendioxide[level=2]",
+      "techreborn:techreborn_techreborn.nitrogendioxide[level=3]",
+      "techreborn:techreborn_techreborn.nitrogendioxide[level=4]",
+      "techreborn:techreborn_techreborn.nitrogendioxide[level=5]",
+      "techreborn:techreborn_techreborn.nitrogendioxide[level=6]",
+      "techreborn:techreborn_techreborn.nitrogendioxide[level=7]",
+      "techreborn:techreborn_techreborn.nitrogendioxide[level=8]",
+      "techreborn:techreborn_techreborn.nitrogendioxide[level=9]",
+      "techreborn:techreborn_techreborn.nitrogendioxide[level=10]",
+      "techreborn:techreborn_techreborn.nitrogendioxide[level=11]",
+      "techreborn:techreborn_techreborn.nitrogendioxide[level=12]",
+      "techreborn:techreborn_techreborn.nitrogendioxide[level=13]",
+      "techreborn:techreborn_techreborn.nitrogendioxide[level=14]",
+      "techreborn:techreborn_techreborn.nitrogendioxide[level=15]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn_techreborn.potassium",
+    "States": [
+      "techreborn:techreborn_techreborn.potassium[level=0]",
+      "techreborn:techreborn_techreborn.potassium[level=1]",
+      "techreborn:techreborn_techreborn.potassium[level=2]",
+      "techreborn:techreborn_techreborn.potassium[level=3]",
+      "techreborn:techreborn_techreborn.potassium[level=4]",
+      "techreborn:techreborn_techreborn.potassium[level=5]",
+      "techreborn:techreborn_techreborn.potassium[level=6]",
+      "techreborn:techreborn_techreborn.potassium[level=7]",
+      "techreborn:techreborn_techreborn.potassium[level=8]",
+      "techreborn:techreborn_techreborn.potassium[level=9]",
+      "techreborn:techreborn_techreborn.potassium[level=10]",
+      "techreborn:techreborn_techreborn.potassium[level=11]",
+      "techreborn:techreborn_techreborn.potassium[level=12]",
+      "techreborn:techreborn_techreborn.potassium[level=13]",
+      "techreborn:techreborn_techreborn.potassium[level=14]",
+      "techreborn:techreborn_techreborn.potassium[level=15]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn_techreborn.silicon",
+    "States": [
+      "techreborn:techreborn_techreborn.silicon[level=0]",
+      "techreborn:techreborn_techreborn.silicon[level=1]",
+      "techreborn:techreborn_techreborn.silicon[level=2]",
+      "techreborn:techreborn_techreborn.silicon[level=3]",
+      "techreborn:techreborn_techreborn.silicon[level=4]",
+      "techreborn:techreborn_techreborn.silicon[level=5]",
+      "techreborn:techreborn_techreborn.silicon[level=6]",
+      "techreborn:techreborn_techreborn.silicon[level=7]",
+      "techreborn:techreborn_techreborn.silicon[level=8]",
+      "techreborn:techreborn_techreborn.silicon[level=9]",
+      "techreborn:techreborn_techreborn.silicon[level=10]",
+      "techreborn:techreborn_techreborn.silicon[level=11]",
+      "techreborn:techreborn_techreborn.silicon[level=12]",
+      "techreborn:techreborn_techreborn.silicon[level=13]",
+      "techreborn:techreborn_techreborn.silicon[level=14]",
+      "techreborn:techreborn_techreborn.silicon[level=15]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn_techreborn.sodium",
+    "States": [
+      "techreborn:techreborn_techreborn.sodium[level=0]",
+      "techreborn:techreborn_techreborn.sodium[level=1]",
+      "techreborn:techreborn_techreborn.sodium[level=2]",
+      "techreborn:techreborn_techreborn.sodium[level=3]",
+      "techreborn:techreborn_techreborn.sodium[level=4]",
+      "techreborn:techreborn_techreborn.sodium[level=5]",
+      "techreborn:techreborn_techreborn.sodium[level=6]",
+      "techreborn:techreborn_techreborn.sodium[level=7]",
+      "techreborn:techreborn_techreborn.sodium[level=8]",
+      "techreborn:techreborn_techreborn.sodium[level=9]",
+      "techreborn:techreborn_techreborn.sodium[level=10]",
+      "techreborn:techreborn_techreborn.sodium[level=11]",
+      "techreborn:techreborn_techreborn.sodium[level=12]",
+      "techreborn:techreborn_techreborn.sodium[level=13]",
+      "techreborn:techreborn_techreborn.sodium[level=14]",
+      "techreborn:techreborn_techreborn.sodium[level=15]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn_techreborn.sodiumpersulfate",
+    "States": [
+      "techreborn:techreborn_techreborn.sodiumpersulfate[level=0]",
+      "techreborn:techreborn_techreborn.sodiumpersulfate[level=1]",
+      "techreborn:techreborn_techreborn.sodiumpersulfate[level=2]",
+      "techreborn:techreborn_techreborn.sodiumpersulfate[level=3]",
+      "techreborn:techreborn_techreborn.sodiumpersulfate[level=4]",
+      "techreborn:techreborn_techreborn.sodiumpersulfate[level=5]",
+      "techreborn:techreborn_techreborn.sodiumpersulfate[level=6]",
+      "techreborn:techreborn_techreborn.sodiumpersulfate[level=7]",
+      "techreborn:techreborn_techreborn.sodiumpersulfate[level=8]",
+      "techreborn:techreborn_techreborn.sodiumpersulfate[level=9]",
+      "techreborn:techreborn_techreborn.sodiumpersulfate[level=10]",
+      "techreborn:techreborn_techreborn.sodiumpersulfate[level=11]",
+      "techreborn:techreborn_techreborn.sodiumpersulfate[level=12]",
+      "techreborn:techreborn_techreborn.sodiumpersulfate[level=13]",
+      "techreborn:techreborn_techreborn.sodiumpersulfate[level=14]",
+      "techreborn:techreborn_techreborn.sodiumpersulfate[level=15]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn_techreborn.tritium",
+    "States": [
+      "techreborn:techreborn_techreborn.tritium[level=0]",
+      "techreborn:techreborn_techreborn.tritium[level=1]",
+      "techreborn:techreborn_techreborn.tritium[level=2]",
+      "techreborn:techreborn_techreborn.tritium[level=3]",
+      "techreborn:techreborn_techreborn.tritium[level=4]",
+      "techreborn:techreborn_techreborn.tritium[level=5]",
+      "techreborn:techreborn_techreborn.tritium[level=6]",
+      "techreborn:techreborn_techreborn.tritium[level=7]",
+      "techreborn:techreborn_techreborn.tritium[level=8]",
+      "techreborn:techreborn_techreborn.tritium[level=9]",
+      "techreborn:techreborn_techreborn.tritium[level=10]",
+      "techreborn:techreborn_techreborn.tritium[level=11]",
+      "techreborn:techreborn_techreborn.tritium[level=12]",
+      "techreborn:techreborn_techreborn.tritium[level=13]",
+      "techreborn:techreborn_techreborn.tritium[level=14]",
+      "techreborn:techreborn_techreborn.tritium[level=15]"
+    ]
+  },
+  {
+    "Mod": "techreborn",
+    "Name": "techreborn_techreborn.wolframium",
+    "States": [
+      "techreborn:techreborn_techreborn.wolframium[level=0]",
+      "techreborn:techreborn_techreborn.wolframium[level=1]",
+      "techreborn:techreborn_techreborn.wolframium[level=2]",
+      "techreborn:techreborn_techreborn.wolframium[level=3]",
+      "techreborn:techreborn_techreborn.wolframium[level=4]",
+      "techreborn:techreborn_techreborn.wolframium[level=5]",
+      "techreborn:techreborn_techreborn.wolframium[level=6]",
+      "techreborn:techreborn_techreborn.wolframium[level=7]",
+      "techreborn:techreborn_techreborn.wolframium[level=8]",
+      "techreborn:techreborn_techreborn.wolframium[level=9]",
+      "techreborn:techreborn_techreborn.wolframium[level=10]",
+      "techreborn:techreborn_techreborn.wolframium[level=11]",
+      "techreborn:techreborn_techreborn.wolframium[level=12]",
+      "techreborn:techreborn_techreborn.wolframium[level=13]",
+      "techreborn:techreborn_techreborn.wolframium[level=14]",
+      "techreborn:techreborn_techreborn.wolframium[level=15]"
+    ]
+  }
+]

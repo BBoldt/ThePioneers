@@ -1,0 +1,127 @@
+[
+  {
+    "Mod": "archimedesshipsplus",
+    "Name": "marker",
+    "States": [
+      "archimedesshipsplus:marker[facing=north]",
+      "archimedesshipsplus:marker[facing=south]",
+      "archimedesshipsplus:marker[facing=west]",
+      "archimedesshipsplus:marker[facing=east]"
+    ]
+  },
+  {
+    "Mod": "archimedesshipsplus",
+    "Name": "floater",
+    "States": [
+      "archimedesshipsplus:floater"
+    ]
+  },
+  {
+    "Mod": "archimedesshipsplus",
+    "Name": "balloon",
+    "States": [
+      "archimedesshipsplus:balloon[color=white]",
+      "archimedesshipsplus:balloon[color=orange]",
+      "archimedesshipsplus:balloon[color=magenta]",
+      "archimedesshipsplus:balloon[color=light_blue]",
+      "archimedesshipsplus:balloon[color=yellow]",
+      "archimedesshipsplus:balloon[color=lime]",
+      "archimedesshipsplus:balloon[color=pink]",
+      "archimedesshipsplus:balloon[color=gray]",
+      "archimedesshipsplus:balloon[color=silver]",
+      "archimedesshipsplus:balloon[color=cyan]",
+      "archimedesshipsplus:balloon[color=purple]",
+      "archimedesshipsplus:balloon[color=blue]",
+      "archimedesshipsplus:balloon[color=brown]",
+      "archimedesshipsplus:balloon[color=green]",
+      "archimedesshipsplus:balloon[color=red]",
+      "archimedesshipsplus:balloon[color=black]"
+    ]
+  },
+  {
+    "Mod": "archimedesshipsplus",
+    "Name": "gauge",
+    "States": [
+      "archimedesshipsplus:gauge[extended=true,facing=north]",
+      "archimedesshipsplus:gauge[extended=true,facing=south]",
+      "archimedesshipsplus:gauge[extended=true,facing=west]",
+      "archimedesshipsplus:gauge[extended=true,facing=east]",
+      "archimedesshipsplus:gauge[extended=false,facing=north]",
+      "archimedesshipsplus:gauge[extended=false,facing=south]",
+      "archimedesshipsplus:gauge[extended=false,facing=west]",
+      "archimedesshipsplus:gauge[extended=false,facing=east]"
+    ]
+  },
+  {
+    "Mod": "archimedesshipsplus",
+    "Name": "seat",
+    "States": [
+      "archimedesshipsplus:seat[facing=north]",
+      "archimedesshipsplus:seat[facing=south]",
+      "archimedesshipsplus:seat[facing=west]",
+      "archimedesshipsplus:seat[facing=east]"
+    ]
+  },
+  {
+    "Mod": "archimedesshipsplus",
+    "Name": "buffer",
+    "States": [
+      "archimedesshipsplus:buffer"
+    ]
+  },
+  {
+    "Mod": "archimedesshipsplus",
+    "Name": "stickyBuffer",
+    "States": [
+      "archimedesshipsplus:stickyBuffer"
+    ]
+  },
+  {
+    "Mod": "archimedesshipsplus",
+    "Name": "engine",
+    "States": [
+      "archimedesshipsplus:engine[facing=north]",
+      "archimedesshipsplus:engine[facing=south]",
+      "archimedesshipsplus:engine[facing=west]",
+      "archimedesshipsplus:engine[facing=east]"
+    ]
+  },
+  {
+    "Mod": "archimedesshipsplus",
+    "Name": "crate_wood",
+    "States": [
+      "archimedesshipsplus:crate_wood[axis=x]",
+      "archimedesshipsplus:crate_wood[axis=z]"
+    ]
+  },
+  {
+    "Mod": "archimedesshipsplus",
+    "Name": "anchorPoint",
+    "States": [
+      "archimedesshipsplus:anchorPoint[axis=x]",
+      "archimedesshipsplus:anchorPoint[axis=z]"
+    ]
+  },
+  {
+    "Mod": "archimedesshipsplus",
+    "Name": "securedBed",
+    "States": [
+      "archimedesshipsplus:securedBed[facing=north,occupied=true,part=head]",
+      "archimedesshipsplus:securedBed[facing=north,occupied=true,part=foot]",
+      "archimedesshipsplus:securedBed[facing=north,occupied=false,part=head]",
+      "archimedesshipsplus:securedBed[facing=north,occupied=false,part=foot]",
+      "archimedesshipsplus:securedBed[facing=south,occupied=true,part=head]",
+      "archimedesshipsplus:securedBed[facing=south,occupied=true,part=foot]",
+      "archimedesshipsplus:securedBed[facing=south,occupied=false,part=head]",
+      "archimedesshipsplus:securedBed[facing=south,occupied=false,part=foot]",
+      "archimedesshipsplus:securedBed[facing=west,occupied=true,part=head]",
+      "archimedesshipsplus:securedBed[facing=west,occupied=true,part=foot]",
+      "archimedesshipsplus:securedBed[facing=west,occupied=false,part=head]",
+      "archimedesshipsplus:securedBed[facing=west,occupied=false,part=foot]",
+      "archimedesshipsplus:securedBed[facing=east,occupied=true,part=head]",
+      "archimedesshipsplus:securedBed[facing=east,occupied=true,part=foot]",
+      "archimedesshipsplus:securedBed[facing=east,occupied=false,part=head]",
+      "archimedesshipsplus:securedBed[facing=east,occupied=false,part=foot]"
+    ]
+  }
+]

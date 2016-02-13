@@ -1,0 +1,62 @@
+[
+  {
+    "Mod": "gearswap",
+    "Name": "gearSwapperWood",
+    "States": [
+      "gearswap:gearSwapperWood[facing=down]",
+      "gearswap:gearSwapperWood[facing=up]",
+      "gearswap:gearSwapperWood[facing=north]",
+      "gearswap:gearSwapperWood[facing=south]",
+      "gearswap:gearSwapperWood[facing=west]",
+      "gearswap:gearSwapperWood[facing=east]"
+    ]
+  },
+  {
+    "Mod": "gearswap",
+    "Name": "gearSwapperIron",
+    "States": [
+      "gearswap:gearSwapperIron[facing=down]",
+      "gearswap:gearSwapperIron[facing=up]",
+      "gearswap:gearSwapperIron[facing=north]",
+      "gearswap:gearSwapperIron[facing=south]",
+      "gearswap:gearSwapperIron[facing=west]",
+      "gearswap:gearSwapperIron[facing=east]"
+    ]
+  },
+  {
+    "Mod": "gearswap",
+    "Name": "gearSwapperLapis",
+    "States": [
+      "gearswap:gearSwapperLapis[facing=down]",
+      "gearswap:gearSwapperLapis[facing=up]",
+      "gearswap:gearSwapperLapis[facing=north]",
+      "gearswap:gearSwapperLapis[facing=south]",
+      "gearswap:gearSwapperLapis[facing=west]",
+      "gearswap:gearSwapperLapis[facing=east]"
+    ]
+  },
+  {
+    "Mod": "gearswap",
+    "Name": "gearSwapperStone",
+    "States": [
+      "gearswap:gearSwapperStone[facing=down]",
+      "gearswap:gearSwapperStone[facing=up]",
+      "gearswap:gearSwapperStone[facing=north]",
+      "gearswap:gearSwapperStone[facing=south]",
+      "gearswap:gearSwapperStone[facing=west]",
+      "gearswap:gearSwapperStone[facing=east]"
+    ]
+  },
+  {
+    "Mod": "gearswap",
+    "Name": "gearSwapperGlass",
+    "States": [
+      "gearswap:gearSwapperGlass[facing=down]",
+      "gearswap:gearSwapperGlass[facing=up]",
+      "gearswap:gearSwapperGlass[facing=north]",
+      "gearswap:gearSwapperGlass[facing=south]",
+      "gearswap:gearSwapperGlass[facing=west]",
+      "gearswap:gearSwapperGlass[facing=east]"
+    ]
+  }
+]

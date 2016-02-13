@@ -1,0 +1,235 @@
+[
+  {
+    "category": {
+      "name": "VanillaOres",
+      "defaultEnabled": false
+    },
+    "generatorPriority": "LATER",
+    "generatorType": "STANDARDVARIABLECLUSTER",
+    "chance": 1.0,
+    "frequency": 20,
+    "minY": 0,
+    "maxY": 128,
+    "size": 17,
+    "dimensions": [
+      0
+    ],
+    "weightedBlocks": [
+      {
+        "Weight": 10,
+        "Block": "minecraft:coal_ore",
+        "Properties": {}
+      }
+    ],
+    "blockToReplace": {
+      "Block": "minecraft:stone",
+      "Properties": {
+        "variant": "stone"
+      }
+    }
+  },
+  {
+    "category": {
+      "name": "VanillaOres",
+      "defaultEnabled": false
+    },
+    "generatorPriority": "LATER",
+    "generatorType": "STANDARDVARIABLECLUSTER",
+    "chance": 1.0,
+    "frequency": 20,
+    "minY": 0,
+    "maxY": 64,
+    "size": 9,
+    "dimensions": [
+      0
+    ],
+    "weightedBlocks": [
+      {
+        "Weight": 10,
+        "Block": "minecraft:iron_ore",
+        "Properties": {}
+      }
+    ],
+    "blockToReplace": {
+      "Block": "minecraft:stone",
+      "Properties": {
+        "variant": "stone"
+      }
+    }
+  },
+  {
+    "category": {
+      "name": "VanillaOres",
+      "defaultEnabled": false
+    },
+    "generatorPriority": "LATE",
+    "generatorType": "STANDARDVARIABLECLUSTER",
+    "chance": 1.0,
+    "frequency": 2,
+    "minY": 0,
+    "maxY": 32,
+    "size": 9,
+    "dimensions": [
+      0
+    ],
+    "weightedBlocks": [
+      {
+        "Weight": 10,
+        "Block": "minecraft:gold_ore",
+        "Properties": {}
+      }
+    ],
+    "blockToReplace": {
+      "Block": "minecraft:stone",
+      "Properties": {
+        "variant": "stone"
+      }
+    }
+  },
+  {
+    "category": {
+      "name": "VanillaOres",
+      "defaultEnabled": false
+    },
+    "generatorPriority": "LATER",
+    "generatorType": "STANDARDVARIABLECLUSTER",
+    "chance": 1.0,
+    "frequency": 8,
+    "minY": 0,
+    "maxY": 16,
+    "size": 8,
+    "dimensions": [
+      0
+    ],
+    "weightedBlocks": [
+      {
+        "Weight": 10,
+        "Block": "minecraft:redstone_ore",
+        "Properties": {}
+      }
+    ],
+    "blockToReplace": {
+      "Block": "minecraft:stone",
+      "Properties": {
+        "variant": "stone"
+      }
+    }
+  },
+  {
+    "category": {
+      "name": "VanillaOres",
+      "defaultEnabled": false
+    },
+    "generatorPriority": "LATE",
+    "generatorType": "STANDARDVARIABLECLUSTER",
+    "chance": 1.0,
+    "frequency": 6,
+    "minY": 0,
+    "maxY": 32,
+    "size": 1,
+    "dimensions": [
+      0
+    ],
+    "biomeTypes": [
+      "MOUNTAIN"
+    ],
+    "weightedBlocks": [
+      {
+        "Weight": 10,
+        "Block": "minecraft:emerald_ore",
+        "Properties": {}
+      }
+    ],
+    "blockToReplace": {
+      "Block": "minecraft:stone",
+      "Properties": {
+        "variant": "stone"
+      }
+    }
+  },
+  {
+    "category": {
+      "name": "VanillaOres",
+      "defaultEnabled": false
+    },
+    "generatorPriority": "LATE",
+    "generatorType": "WEIGHTEDVARIABLECLUSTER",
+    "chance": 1.0,
+    "frequency": 1,
+    "minY": 0,
+    "maxY": 32,
+    "size": 7,
+    "dimensions": [
+      0
+    ],
+    "weightedBlocks": [
+      {
+        "Weight": 10,
+        "Block": "minecraft:lapis_ore",
+        "Properties": {}
+      }
+    ],
+    "blockToReplace": {
+      "Block": "minecraft:stone",
+      "Properties": {
+        "variant": "stone"
+      }
+    }
+  },
+  {
+    "category": {
+      "name": "VanillaOres",
+      "defaultEnabled": false
+    },
+    "generatorPriority": "LATE",
+    "generatorType": "STANDARDVARIABLECLUSTER",
+    "chance": 1.0,
+    "frequency": 1,
+    "minY": 0,
+    "maxY": 16,
+    "size": 8,
+    "dimensions": [
+      0
+    ],
+    "weightedBlocks": [
+      {
+        "Weight": 10,
+        "Block": "minecraft:diamond_ore",
+        "Properties": {}
+      }
+    ],
+    "blockToReplace": {
+      "Block": "minecraft:stone",
+      "Properties": {
+        "variant": "stone"
+      }
+    }
+  },
+  {
+    "category": {
+      "name": "VanillaOres",
+      "defaultEnabled": false
+    },
+    "generatorPriority": "LATER",
+    "generatorType": "STANDARDVARIABLECLUSTER",
+    "chance": 1.0,
+    "frequency": 16,
+    "minY": 0,
+    "maxY": 256,
+    "size": 14,
+    "dimensions": [
+      -1
+    ],
+    "weightedBlocks": [
+      {
+        "Weight": 10,
+        "Block": "minecraft:quartz_ore",
+        "Properties": {}
+      }
+    ],
+    "blockToReplace": {
+      "Block": "minecraft:netherrack",
+      "Properties": {}
+    }
+  }
+]

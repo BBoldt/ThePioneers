@@ -1,0 +1,376 @@
+[
+  {
+    "Mod": "adobeblocks",
+    "Name": "adobe_slab",
+    "States": [
+      "adobeblocks:adobe_slab[half=top,variant=true]",
+      "adobeblocks:adobe_slab[half=top,variant=false]",
+      "adobeblocks:adobe_slab[half=bottom,variant=true]",
+      "adobeblocks:adobe_slab[half=bottom,variant=false]"
+    ]
+  },
+  {
+    "Mod": "adobeblocks",
+    "Name": "double_adobe_slab",
+    "States": [
+      "adobeblocks:double_adobe_slab[variant=true]",
+      "adobeblocks:double_adobe_slab[variant=false]"
+    ]
+  },
+  {
+    "Mod": "adobeblocks",
+    "Name": "adobe_mixture_block",
+    "States": [
+      "adobeblocks:adobe_mixture_block"
+    ]
+  },
+  {
+    "Mod": "adobeblocks",
+    "Name": "adobe_tile",
+    "States": [
+      "adobeblocks:adobe_tile"
+    ]
+  },
+  {
+    "Mod": "adobeblocks",
+    "Name": "adobe_bricks",
+    "States": [
+      "adobeblocks:adobe_bricks"
+    ]
+  },
+  {
+    "Mod": "adobeblocks",
+    "Name": "adobe_furnace",
+    "States": [
+      "adobeblocks:adobe_furnace[facing=north]",
+      "adobeblocks:adobe_furnace[facing=south]",
+      "adobeblocks:adobe_furnace[facing=west]",
+      "adobeblocks:adobe_furnace[facing=east]"
+    ]
+  },
+  {
+    "Mod": "adobeblocks",
+    "Name": "lit_adobe_furnace",
+    "States": [
+      "adobeblocks:lit_adobe_furnace[facing=north]",
+      "adobeblocks:lit_adobe_furnace[facing=south]",
+      "adobeblocks:lit_adobe_furnace[facing=west]",
+      "adobeblocks:lit_adobe_furnace[facing=east]"
+    ]
+  },
+  {
+    "Mod": "adobeblocks",
+    "Name": "adobe_wall",
+    "States": [
+      "adobeblocks:adobe_wall[east=true,north=true,south=true,up=true,west=true]",
+      "adobeblocks:adobe_wall[east=true,north=true,south=true,up=true,west=false]",
+      "adobeblocks:adobe_wall[east=true,north=true,south=true,up=false,west=true]",
+      "adobeblocks:adobe_wall[east=true,north=true,south=true,up=false,west=false]",
+      "adobeblocks:adobe_wall[east=true,north=true,south=false,up=true,west=true]",
+      "adobeblocks:adobe_wall[east=true,north=true,south=false,up=true,west=false]",
+      "adobeblocks:adobe_wall[east=true,north=true,south=false,up=false,west=true]",
+      "adobeblocks:adobe_wall[east=true,north=true,south=false,up=false,west=false]",
+      "adobeblocks:adobe_wall[east=true,north=false,south=true,up=true,west=true]",
+      "adobeblocks:adobe_wall[east=true,north=false,south=true,up=true,west=false]",
+      "adobeblocks:adobe_wall[east=true,north=false,south=true,up=false,west=true]",
+      "adobeblocks:adobe_wall[east=true,north=false,south=true,up=false,west=false]",
+      "adobeblocks:adobe_wall[east=true,north=false,south=false,up=true,west=true]",
+      "adobeblocks:adobe_wall[east=true,north=false,south=false,up=true,west=false]",
+      "adobeblocks:adobe_wall[east=true,north=false,south=false,up=false,west=true]",
+      "adobeblocks:adobe_wall[east=true,north=false,south=false,up=false,west=false]",
+      "adobeblocks:adobe_wall[east=false,north=true,south=true,up=true,west=true]",
+      "adobeblocks:adobe_wall[east=false,north=true,south=true,up=true,west=false]",
+      "adobeblocks:adobe_wall[east=false,north=true,south=true,up=false,west=true]",
+      "adobeblocks:adobe_wall[east=false,north=true,south=true,up=false,west=false]",
+      "adobeblocks:adobe_wall[east=false,north=true,south=false,up=true,west=true]",
+      "adobeblocks:adobe_wall[east=false,north=true,south=false,up=true,west=false]",
+      "adobeblocks:adobe_wall[east=false,north=true,south=false,up=false,west=true]",
+      "adobeblocks:adobe_wall[east=false,north=true,south=false,up=false,west=false]",
+      "adobeblocks:adobe_wall[east=false,north=false,south=true,up=true,west=true]",
+      "adobeblocks:adobe_wall[east=false,north=false,south=true,up=true,west=false]",
+      "adobeblocks:adobe_wall[east=false,north=false,south=true,up=false,west=true]",
+      "adobeblocks:adobe_wall[east=false,north=false,south=true,up=false,west=false]",
+      "adobeblocks:adobe_wall[east=false,north=false,south=false,up=true,west=true]",
+      "adobeblocks:adobe_wall[east=false,north=false,south=false,up=true,west=false]",
+      "adobeblocks:adobe_wall[east=false,north=false,south=false,up=false,west=true]",
+      "adobeblocks:adobe_wall[east=false,north=false,south=false,up=false,west=false]"
+    ]
+  },
+  {
+    "Mod": "adobeblocks",
+    "Name": "adobe_stairs",
+    "States": [
+      "adobeblocks:adobe_stairs[facing=north,half=top,shape=straight]",
+      "adobeblocks:adobe_stairs[facing=north,half=top,shape=inner_left]",
+      "adobeblocks:adobe_stairs[facing=north,half=top,shape=inner_right]",
+      "adobeblocks:adobe_stairs[facing=north,half=top,shape=outer_left]",
+      "adobeblocks:adobe_stairs[facing=north,half=top,shape=outer_right]",
+      "adobeblocks:adobe_stairs[facing=north,half=bottom,shape=straight]",
+      "adobeblocks:adobe_stairs[facing=north,half=bottom,shape=inner_left]",
+      "adobeblocks:adobe_stairs[facing=north,half=bottom,shape=inner_right]",
+      "adobeblocks:adobe_stairs[facing=north,half=bottom,shape=outer_left]",
+      "adobeblocks:adobe_stairs[facing=north,half=bottom,shape=outer_right]",
+      "adobeblocks:adobe_stairs[facing=south,half=top,shape=straight]",
+      "adobeblocks:adobe_stairs[facing=south,half=top,shape=inner_left]",
+      "adobeblocks:adobe_stairs[facing=south,half=top,shape=inner_right]",
+      "adobeblocks:adobe_stairs[facing=south,half=top,shape=outer_left]",
+      "adobeblocks:adobe_stairs[facing=south,half=top,shape=outer_right]",
+      "adobeblocks:adobe_stairs[facing=south,half=bottom,shape=straight]",
+      "adobeblocks:adobe_stairs[facing=south,half=bottom,shape=inner_left]",
+      "adobeblocks:adobe_stairs[facing=south,half=bottom,shape=inner_right]",
+      "adobeblocks:adobe_stairs[facing=south,half=bottom,shape=outer_left]",
+      "adobeblocks:adobe_stairs[facing=south,half=bottom,shape=outer_right]",
+      "adobeblocks:adobe_stairs[facing=west,half=top,shape=straight]",
+      "adobeblocks:adobe_stairs[facing=west,half=top,shape=inner_left]",
+      "adobeblocks:adobe_stairs[facing=west,half=top,shape=inner_right]",
+      "adobeblocks:adobe_stairs[facing=west,half=top,shape=outer_left]",
+      "adobeblocks:adobe_stairs[facing=west,half=top,shape=outer_right]",
+      "adobeblocks:adobe_stairs[facing=west,half=bottom,shape=straight]",
+      "adobeblocks:adobe_stairs[facing=west,half=bottom,shape=inner_left]",
+      "adobeblocks:adobe_stairs[facing=west,half=bottom,shape=inner_right]",
+      "adobeblocks:adobe_stairs[facing=west,half=bottom,shape=outer_left]",
+      "adobeblocks:adobe_stairs[facing=west,half=bottom,shape=outer_right]",
+      "adobeblocks:adobe_stairs[facing=east,half=top,shape=straight]",
+      "adobeblocks:adobe_stairs[facing=east,half=top,shape=inner_left]",
+      "adobeblocks:adobe_stairs[facing=east,half=top,shape=inner_right]",
+      "adobeblocks:adobe_stairs[facing=east,half=top,shape=outer_left]",
+      "adobeblocks:adobe_stairs[facing=east,half=top,shape=outer_right]",
+      "adobeblocks:adobe_stairs[facing=east,half=bottom,shape=straight]",
+      "adobeblocks:adobe_stairs[facing=east,half=bottom,shape=inner_left]",
+      "adobeblocks:adobe_stairs[facing=east,half=bottom,shape=inner_right]",
+      "adobeblocks:adobe_stairs[facing=east,half=bottom,shape=outer_left]",
+      "adobeblocks:adobe_stairs[facing=east,half=bottom,shape=outer_right]"
+    ]
+  },
+  {
+    "Mod": "adobeblocks",
+    "Name": "adobe_glass",
+    "States": [
+      "adobeblocks:adobe_glass"
+    ]
+  },
+  {
+    "Mod": "adobeblocks",
+    "Name": "adobe_door",
+    "States": [
+      "adobeblocks:adobe_door[facing=north,half=upper,hinge=left,open=true,powered=true]",
+      "adobeblocks:adobe_door[facing=north,half=upper,hinge=left,open=true,powered=false]",
+      "adobeblocks:adobe_door[facing=north,half=upper,hinge=left,open=false,powered=true]",
+      "adobeblocks:adobe_door[facing=north,half=upper,hinge=left,open=false,powered=false]",
+      "adobeblocks:adobe_door[facing=north,half=upper,hinge=right,open=true,powered=true]",
+      "adobeblocks:adobe_door[facing=north,half=upper,hinge=right,open=true,powered=false]",
+      "adobeblocks:adobe_door[facing=north,half=upper,hinge=right,open=false,powered=true]",
+      "adobeblocks:adobe_door[facing=north,half=upper,hinge=right,open=false,powered=false]",
+      "adobeblocks:adobe_door[facing=north,half=lower,hinge=left,open=true,powered=true]",
+      "adobeblocks:adobe_door[facing=north,half=lower,hinge=left,open=true,powered=false]",
+      "adobeblocks:adobe_door[facing=north,half=lower,hinge=left,open=false,powered=true]",
+      "adobeblocks:adobe_door[facing=north,half=lower,hinge=left,open=false,powered=false]",
+      "adobeblocks:adobe_door[facing=north,half=lower,hinge=right,open=true,powered=true]",
+      "adobeblocks:adobe_door[facing=north,half=lower,hinge=right,open=true,powered=false]",
+      "adobeblocks:adobe_door[facing=north,half=lower,hinge=right,open=false,powered=true]",
+      "adobeblocks:adobe_door[facing=north,half=lower,hinge=right,open=false,powered=false]",
+      "adobeblocks:adobe_door[facing=south,half=upper,hinge=left,open=true,powered=true]",
+      "adobeblocks:adobe_door[facing=south,half=upper,hinge=left,open=true,powered=false]",
+      "adobeblocks:adobe_door[facing=south,half=upper,hinge=left,open=false,powered=true]",
+      "adobeblocks:adobe_door[facing=south,half=upper,hinge=left,open=false,powered=false]",
+      "adobeblocks:adobe_door[facing=south,half=upper,hinge=right,open=true,powered=true]",
+      "adobeblocks:adobe_door[facing=south,half=upper,hinge=right,open=true,powered=false]",
+      "adobeblocks:adobe_door[facing=south,half=upper,hinge=right,open=false,powered=true]",
+      "adobeblocks:adobe_door[facing=south,half=upper,hinge=right,open=false,powered=false]",
+      "adobeblocks:adobe_door[facing=south,half=lower,hinge=left,open=true,powered=true]",
+      "adobeblocks:adobe_door[facing=south,half=lower,hinge=left,open=true,powered=false]",
+      "adobeblocks:adobe_door[facing=south,half=lower,hinge=left,open=false,powered=true]",
+      "adobeblocks:adobe_door[facing=south,half=lower,hinge=left,open=false,powered=false]",
+      "adobeblocks:adobe_door[facing=south,half=lower,hinge=right,open=true,powered=true]",
+      "adobeblocks:adobe_door[facing=south,half=lower,hinge=right,open=true,powered=false]",
+      "adobeblocks:adobe_door[facing=south,half=lower,hinge=right,open=false,powered=true]",
+      "adobeblocks:adobe_door[facing=south,half=lower,hinge=right,open=false,powered=false]",
+      "adobeblocks:adobe_door[facing=west,half=upper,hinge=left,open=true,powered=true]",
+      "adobeblocks:adobe_door[facing=west,half=upper,hinge=left,open=true,powered=false]",
+      "adobeblocks:adobe_door[facing=west,half=upper,hinge=left,open=false,powered=true]",
+      "adobeblocks:adobe_door[facing=west,half=upper,hinge=left,open=false,powered=false]",
+      "adobeblocks:adobe_door[facing=west,half=upper,hinge=right,open=true,powered=true]",
+      "adobeblocks:adobe_door[facing=west,half=upper,hinge=right,open=true,powered=false]",
+      "adobeblocks:adobe_door[facing=west,half=upper,hinge=right,open=false,powered=true]",
+      "adobeblocks:adobe_door[facing=west,half=upper,hinge=right,open=false,powered=false]",
+      "adobeblocks:adobe_door[facing=west,half=lower,hinge=left,open=true,powered=true]",
+      "adobeblocks:adobe_door[facing=west,half=lower,hinge=left,open=true,powered=false]",
+      "adobeblocks:adobe_door[facing=west,half=lower,hinge=left,open=false,powered=true]",
+      "adobeblocks:adobe_door[facing=west,half=lower,hinge=left,open=false,powered=false]",
+      "adobeblocks:adobe_door[facing=west,half=lower,hinge=right,open=true,powered=true]",
+      "adobeblocks:adobe_door[facing=west,half=lower,hinge=right,open=true,powered=false]",
+      "adobeblocks:adobe_door[facing=west,half=lower,hinge=right,open=false,powered=true]",
+      "adobeblocks:adobe_door[facing=west,half=lower,hinge=right,open=false,powered=false]",
+      "adobeblocks:adobe_door[facing=east,half=upper,hinge=left,open=true,powered=true]",
+      "adobeblocks:adobe_door[facing=east,half=upper,hinge=left,open=true,powered=false]",
+      "adobeblocks:adobe_door[facing=east,half=upper,hinge=left,open=false,powered=true]",
+      "adobeblocks:adobe_door[facing=east,half=upper,hinge=left,open=false,powered=false]",
+      "adobeblocks:adobe_door[facing=east,half=upper,hinge=right,open=true,powered=true]",
+      "adobeblocks:adobe_door[facing=east,half=upper,hinge=right,open=true,powered=false]",
+      "adobeblocks:adobe_door[facing=east,half=upper,hinge=right,open=false,powered=true]",
+      "adobeblocks:adobe_door[facing=east,half=upper,hinge=right,open=false,powered=false]",
+      "adobeblocks:adobe_door[facing=east,half=lower,hinge=left,open=true,powered=true]",
+      "adobeblocks:adobe_door[facing=east,half=lower,hinge=left,open=true,powered=false]",
+      "adobeblocks:adobe_door[facing=east,half=lower,hinge=left,open=false,powered=true]",
+      "adobeblocks:adobe_door[facing=east,half=lower,hinge=left,open=false,powered=false]",
+      "adobeblocks:adobe_door[facing=east,half=lower,hinge=right,open=true,powered=true]",
+      "adobeblocks:adobe_door[facing=east,half=lower,hinge=right,open=true,powered=false]",
+      "adobeblocks:adobe_door[facing=east,half=lower,hinge=right,open=false,powered=true]",
+      "adobeblocks:adobe_door[facing=east,half=lower,hinge=right,open=false,powered=false]"
+    ]
+  },
+  {
+    "Mod": "adobeblocks",
+    "Name": "adobe_glass_pane",
+    "States": [
+      "adobeblocks:adobe_glass_pane[east=true,north=true,south=true,west=true]",
+      "adobeblocks:adobe_glass_pane[east=true,north=true,south=true,west=false]",
+      "adobeblocks:adobe_glass_pane[east=true,north=true,south=false,west=true]",
+      "adobeblocks:adobe_glass_pane[east=true,north=true,south=false,west=false]",
+      "adobeblocks:adobe_glass_pane[east=true,north=false,south=true,west=true]",
+      "adobeblocks:adobe_glass_pane[east=true,north=false,south=true,west=false]",
+      "adobeblocks:adobe_glass_pane[east=true,north=false,south=false,west=true]",
+      "adobeblocks:adobe_glass_pane[east=true,north=false,south=false,west=false]",
+      "adobeblocks:adobe_glass_pane[east=false,north=true,south=true,west=true]",
+      "adobeblocks:adobe_glass_pane[east=false,north=true,south=true,west=false]",
+      "adobeblocks:adobe_glass_pane[east=false,north=true,south=false,west=true]",
+      "adobeblocks:adobe_glass_pane[east=false,north=true,south=false,west=false]",
+      "adobeblocks:adobe_glass_pane[east=false,north=false,south=true,west=true]",
+      "adobeblocks:adobe_glass_pane[east=false,north=false,south=true,west=false]",
+      "adobeblocks:adobe_glass_pane[east=false,north=false,south=false,west=true]",
+      "adobeblocks:adobe_glass_pane[east=false,north=false,south=false,west=false]"
+    ]
+  },
+  {
+    "Mod": "adobeblocks",
+    "Name": "oak_beam",
+    "States": [
+      "adobeblocks:oak_beam[east=true,north=true,south=true,west=true]",
+      "adobeblocks:oak_beam[east=true,north=true,south=true,west=false]",
+      "adobeblocks:oak_beam[east=true,north=true,south=false,west=true]",
+      "adobeblocks:oak_beam[east=true,north=true,south=false,west=false]",
+      "adobeblocks:oak_beam[east=true,north=false,south=true,west=true]",
+      "adobeblocks:oak_beam[east=true,north=false,south=true,west=false]",
+      "adobeblocks:oak_beam[east=true,north=false,south=false,west=true]",
+      "adobeblocks:oak_beam[east=true,north=false,south=false,west=false]",
+      "adobeblocks:oak_beam[east=false,north=true,south=true,west=true]",
+      "adobeblocks:oak_beam[east=false,north=true,south=true,west=false]",
+      "adobeblocks:oak_beam[east=false,north=true,south=false,west=true]",
+      "adobeblocks:oak_beam[east=false,north=true,south=false,west=false]",
+      "adobeblocks:oak_beam[east=false,north=false,south=true,west=true]",
+      "adobeblocks:oak_beam[east=false,north=false,south=true,west=false]",
+      "adobeblocks:oak_beam[east=false,north=false,south=false,west=true]",
+      "adobeblocks:oak_beam[east=false,north=false,south=false,west=false]"
+    ]
+  },
+  {
+    "Mod": "adobeblocks",
+    "Name": "birch_beam",
+    "States": [
+      "adobeblocks:birch_beam[east=true,north=true,south=true,west=true]",
+      "adobeblocks:birch_beam[east=true,north=true,south=true,west=false]",
+      "adobeblocks:birch_beam[east=true,north=true,south=false,west=true]",
+      "adobeblocks:birch_beam[east=true,north=true,south=false,west=false]",
+      "adobeblocks:birch_beam[east=true,north=false,south=true,west=true]",
+      "adobeblocks:birch_beam[east=true,north=false,south=true,west=false]",
+      "adobeblocks:birch_beam[east=true,north=false,south=false,west=true]",
+      "adobeblocks:birch_beam[east=true,north=false,south=false,west=false]",
+      "adobeblocks:birch_beam[east=false,north=true,south=true,west=true]",
+      "adobeblocks:birch_beam[east=false,north=true,south=true,west=false]",
+      "adobeblocks:birch_beam[east=false,north=true,south=false,west=true]",
+      "adobeblocks:birch_beam[east=false,north=true,south=false,west=false]",
+      "adobeblocks:birch_beam[east=false,north=false,south=true,west=true]",
+      "adobeblocks:birch_beam[east=false,north=false,south=true,west=false]",
+      "adobeblocks:birch_beam[east=false,north=false,south=false,west=true]",
+      "adobeblocks:birch_beam[east=false,north=false,south=false,west=false]"
+    ]
+  },
+  {
+    "Mod": "adobeblocks",
+    "Name": "spruce_beam",
+    "States": [
+      "adobeblocks:spruce_beam[east=true,north=true,south=true,west=true]",
+      "adobeblocks:spruce_beam[east=true,north=true,south=true,west=false]",
+      "adobeblocks:spruce_beam[east=true,north=true,south=false,west=true]",
+      "adobeblocks:spruce_beam[east=true,north=true,south=false,west=false]",
+      "adobeblocks:spruce_beam[east=true,north=false,south=true,west=true]",
+      "adobeblocks:spruce_beam[east=true,north=false,south=true,west=false]",
+      "adobeblocks:spruce_beam[east=true,north=false,south=false,west=true]",
+      "adobeblocks:spruce_beam[east=true,north=false,south=false,west=false]",
+      "adobeblocks:spruce_beam[east=false,north=true,south=true,west=true]",
+      "adobeblocks:spruce_beam[east=false,north=true,south=true,west=false]",
+      "adobeblocks:spruce_beam[east=false,north=true,south=false,west=true]",
+      "adobeblocks:spruce_beam[east=false,north=true,south=false,west=false]",
+      "adobeblocks:spruce_beam[east=false,north=false,south=true,west=true]",
+      "adobeblocks:spruce_beam[east=false,north=false,south=true,west=false]",
+      "adobeblocks:spruce_beam[east=false,north=false,south=false,west=true]",
+      "adobeblocks:spruce_beam[east=false,north=false,south=false,west=false]"
+    ]
+  },
+  {
+    "Mod": "adobeblocks",
+    "Name": "jungle_beam",
+    "States": [
+      "adobeblocks:jungle_beam[east=true,north=true,south=true,west=true]",
+      "adobeblocks:jungle_beam[east=true,north=true,south=true,west=false]",
+      "adobeblocks:jungle_beam[east=true,north=true,south=false,west=true]",
+      "adobeblocks:jungle_beam[east=true,north=true,south=false,west=false]",
+      "adobeblocks:jungle_beam[east=true,north=false,south=true,west=true]",
+      "adobeblocks:jungle_beam[east=true,north=false,south=true,west=false]",
+      "adobeblocks:jungle_beam[east=true,north=false,south=false,west=true]",
+      "adobeblocks:jungle_beam[east=true,north=false,south=false,west=false]",
+      "adobeblocks:jungle_beam[east=false,north=true,south=true,west=true]",
+      "adobeblocks:jungle_beam[east=false,north=true,south=true,west=false]",
+      "adobeblocks:jungle_beam[east=false,north=true,south=false,west=true]",
+      "adobeblocks:jungle_beam[east=false,north=true,south=false,west=false]",
+      "adobeblocks:jungle_beam[east=false,north=false,south=true,west=true]",
+      "adobeblocks:jungle_beam[east=false,north=false,south=true,west=false]",
+      "adobeblocks:jungle_beam[east=false,north=false,south=false,west=true]",
+      "adobeblocks:jungle_beam[east=false,north=false,south=false,west=false]"
+    ]
+  },
+  {
+    "Mod": "adobeblocks",
+    "Name": "dark_oak_beam",
+    "States": [
+      "adobeblocks:dark_oak_beam[east=true,north=true,south=true,west=true]",
+      "adobeblocks:dark_oak_beam[east=true,north=true,south=true,west=false]",
+      "adobeblocks:dark_oak_beam[east=true,north=true,south=false,west=true]",
+      "adobeblocks:dark_oak_beam[east=true,north=true,south=false,west=false]",
+      "adobeblocks:dark_oak_beam[east=true,north=false,south=true,west=true]",
+      "adobeblocks:dark_oak_beam[east=true,north=false,south=true,west=false]",
+      "adobeblocks:dark_oak_beam[east=true,north=false,south=false,west=true]",
+      "adobeblocks:dark_oak_beam[east=true,north=false,south=false,west=false]",
+      "adobeblocks:dark_oak_beam[east=false,north=true,south=true,west=true]",
+      "adobeblocks:dark_oak_beam[east=false,north=true,south=true,west=false]",
+      "adobeblocks:dark_oak_beam[east=false,north=true,south=false,west=true]",
+      "adobeblocks:dark_oak_beam[east=false,north=true,south=false,west=false]",
+      "adobeblocks:dark_oak_beam[east=false,north=false,south=true,west=true]",
+      "adobeblocks:dark_oak_beam[east=false,north=false,south=true,west=false]",
+      "adobeblocks:dark_oak_beam[east=false,north=false,south=false,west=true]",
+      "adobeblocks:dark_oak_beam[east=false,north=false,south=false,west=false]"
+    ]
+  },
+  {
+    "Mod": "adobeblocks",
+    "Name": "acacia_beam",
+    "States": [
+      "adobeblocks:acacia_beam[east=true,north=true,south=true,west=true]",
+      "adobeblocks:acacia_beam[east=true,north=true,south=true,west=false]",
+      "adobeblocks:acacia_beam[east=true,north=true,south=false,west=true]",
+      "adobeblocks:acacia_beam[east=true,north=true,south=false,west=false]",
+      "adobeblocks:acacia_beam[east=true,north=false,south=true,west=true]",
+      "adobeblocks:acacia_beam[east=true,north=false,south=true,west=false]",
+      "adobeblocks:acacia_beam[east=true,north=false,south=false,west=true]",
+      "adobeblocks:acacia_beam[east=true,north=false,south=false,west=false]",
+      "adobeblocks:acacia_beam[east=false,north=true,south=true,west=true]",
+      "adobeblocks:acacia_beam[east=false,north=true,south=true,west=false]",
+      "adobeblocks:acacia_beam[east=false,north=true,south=false,west=true]",
+      "adobeblocks:acacia_beam[east=false,north=true,south=false,west=false]",
+      "adobeblocks:acacia_beam[east=false,north=false,south=true,west=true]",
+      "adobeblocks:acacia_beam[east=false,north=false,south=true,west=false]",
+      "adobeblocks:acacia_beam[east=false,north=false,south=false,west=true]",
+      "adobeblocks:acacia_beam[east=false,north=false,south=false,west=false]"
+    ]
+  }
+]

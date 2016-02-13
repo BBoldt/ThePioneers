@@ -1,0 +1,19 @@
+[
+  {
+    "Mod": "architecturecraft",
+    "Name": "sawbench",
+    "States": [
+      "architecturecraft:sawbench[facing=north]",
+      "architecturecraft:sawbench[facing=south]",
+      "architecturecraft:sawbench[facing=west]",
+      "architecturecraft:sawbench[facing=east]"
+    ]
+  },
+  {
+    "Mod": "architecturecraft",
+    "Name": "shape",
+    "States": [
+      "architecturecraft:shape"
+    ]
+  }
+]
