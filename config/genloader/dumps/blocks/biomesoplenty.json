@@ -3617,7 +3617,6 @@
       "biomesoplenty:waterlily[variant=medium]",
       "biomesoplenty:waterlily[variant=small]",
       "biomesoplenty:waterlily[variant=tiny]",
-      "biomesoplenty:waterlily[variant=duckweed]",
       "biomesoplenty:waterlily[variant=flower]"
     ]
   },
@@ -3793,13 +3792,11 @@
       "biomesoplenty:plant_1[variant=wildrice]",
       "biomesoplenty:plant_1[variant=cattail]",
       "biomesoplenty:plant_1[variant=rivercane]",
-      "biomesoplenty:plant_1[variant=caveweed]",
       "biomesoplenty:plant_1[variant=tinycactus]",
       "biomesoplenty:plant_1[variant=witherwart]",
       "biomesoplenty:plant_1[variant=reed]",
       "biomesoplenty:plant_1[variant=root]",
-      "biomesoplenty:plant_1[variant=rafflesia]",
-      "biomesoplenty:plant_1[variant=wisteria]"
+      "biomesoplenty:plant_1[variant=rafflesia]"
     ]
   },
   {

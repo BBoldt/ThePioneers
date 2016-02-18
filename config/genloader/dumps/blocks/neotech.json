@@ -86,6 +86,14 @@
   },
   {
     "Mod": "neotech",
+    "Name": "treeFarm",
+    "States": [
+      "neotech:treeFarm[isactive=true]",
+      "neotech:treeFarm[isactive=false]"
+    ]
+  },
+  {
+    "Mod": "neotech",
     "Name": "mechanicalPipe",
     "States": [
       "neotech:mechanicalPipe"
@@ -3629,6 +3637,13 @@
   },
   {
     "Mod": "neotech",
+    "Name": "voidTank",
+    "States": [
+      "neotech:voidTank"
+    ]
+  },
+  {
+    "Mod": "neotech",
     "Name": "solarPanelT1",
     "States": [
       "neotech:solarPanelT1[isactive=true]",
@@ -3834,6 +3849,20 @@
     "States": [
       "neotech:redstoneClock[powered=true]",
       "neotech:redstoneClock[powered=false]"
+    ]
+  },
+  {
+    "Mod": "neotech",
+    "Name": "mobStand",
+    "States": [
+      "neotech:mobStand"
+    ]
+  },
+  {
+    "Mod": "neotech",
+    "Name": "blockAttractor",
+    "States": [
+      "neotech:blockAttractor"
     ]
   }
 ]

@@ -47,5 +47,12 @@
     "States": [
       "storagenetwork:vacuumKabel"
     ]
+  },
+  {
+    "Mod": "storagenetwork",
+    "Name": "cover",
+    "States": [
+      "storagenetwork:cover"
+    ]
   }
 ]

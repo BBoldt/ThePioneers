@@ -15,6 +15,13 @@
   },
   {
     "Mod": "immcraft",
+    "Name": "bundle",
+    "States": [
+      "immcraft:bundle"
+    ]
+  },
+  {
+    "Mod": "immcraft",
     "Name": "workbench",
     "States": [
       "immcraft:workbench[facing=north]",

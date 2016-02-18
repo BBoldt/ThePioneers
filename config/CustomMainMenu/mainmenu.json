@@ -60,7 +60,7 @@
             "action" : 
             {
                 "type" : "openLink",
-				"link" : "https://github.com/BBoldt/ThePioneers/releases/tag/extras"
+				"link" : "http://minecraft.curseforge.com/projects/resourcefulcrops/files/2279214"
             }	
         },			
 
@@ -249,7 +249,7 @@
         
 		"packTxt":
         {
-            "text" : "The Pioneers - Release 2 BETA",
+            "text" : "The Pioneers - Release 3",
             "posX" : 5,
             "posY" : 5,
             "color" : -1,
@@ -267,7 +267,7 @@
         
         "extrasTxt2":
         {
-            "text" : "and install extra mods manually if you haven't!",
+            "text" : "and install Resourceful Crops if you haven't!",
             "posX" : -110,
             "posY" : -50,
             "color" : -1,

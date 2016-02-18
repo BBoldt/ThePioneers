@@ -5,10 +5,6 @@
 ##     <item id registered> - <item damage> ##
 ##     etc...                               ##
 ##############################################
-EFluxScrap
-eflux:GenericItems - 1
-
-
 actAddCrystalRed
 actuallyadditions:itemCrystal - 0
 
@@ -54,6 +50,12 @@ blockAluminium
 
 blockAluminum
 foundry:blockMetal1 - 11
+
+
+blockAluminumBrass
+
+
+blockAlumite
 
 
 blockAmethyst
@@ -134,6 +136,7 @@ blockCobaltite
 blockCopper
 substratum:blockMetal1 - 0
 foundry:blockMetal1 - 0
+hydcraft:blockCopper - 0
 neotech:blockCopper - 0
 
 
@@ -157,6 +160,9 @@ minecraft:diamond_block - 0
 
 blockDirt
 minecraft:dirt - 0
+
+
+blockEkectrum
 
 
 blockElectrum
@@ -185,9 +191,13 @@ blockEndstone
 blockEximite
 
 
+blockFzDarkIron
+
+
 blockGlass
 minecraft:glass - 0
 minecraft:stained_glass - any
+hydcraft:hydraulicPressureGlass - 0
 
 
 blockGlass.BLACK
@@ -382,6 +392,7 @@ minecraft:lapis_block - 0
 blockLead
 substratum:blockMetal1 - 10
 foundry:blockMetal1 - 10
+hydcraft:blockLead - 0
 
 
 blockLemurite
@@ -437,6 +448,9 @@ neotech:blockMiniatureStar - 14
 neotech:blockMiniatureStar - 15
 
 
+blockMithril
+
+
 blockNetherrack
 
 
@@ -490,6 +504,18 @@ minecraft:prismarine - any
 
 
 blockPrometheum
+
+
+blockPsiDust
+psi:psiDecorative - 0
+
+
+blockPsiGem
+psi:psiDecorative - 2
+
+
+blockPsiMetal
+psi:psiDecorative - 1
 
 
 blockQuartz
@@ -741,36 +767,40 @@ chestWood
 minecraft:chest - 0
 
 
-chipsetComp
-buildcraft|silicon:redstoneChipset - 6
+chunkArdite
+hydcraft:chunk - 2
 
 
-chipsetDiamond
-buildcraft|silicon:redstoneChipset - 3
+chunkCobalt
+hydcraft:chunk - 7
 
 
-chipsetEmerald
-buildcraft|silicon:redstoneChipset - 7
+chunkCopper
+hydcraft:chunk - 3
 
 
-chipsetGold
-buildcraft|silicon:redstoneChipset - 2
+chunkGold
+hydcraft:chunk - 0
 
 
-chipsetIron
-buildcraft|silicon:redstoneChipset - 1
+chunkIron
+hydcraft:chunk - 1
 
 
-chipsetPulsating
-buildcraft|silicon:redstoneChipset - 4
+chunkLead
+hydcraft:chunk - 4
 
 
-chipsetQuartz
-buildcraft|silicon:redstoneChipset - 5
+chunkNickel
+hydcraft:chunk - 9
 
 
-chipsetRed
-buildcraft|silicon:redstoneChipset - 0
+chunkSilver
+hydcraft:chunk - 8
+
+
+chunkTin
+hydcraft:chunk - 6
 
 
 clay
@@ -985,9 +1015,6 @@ minecraft:cobblestone - 0
 
 
 compass
-
-
-copper_ingot
 
 
 craftingPiston
@@ -1557,10 +1584,6 @@ crushedWood
 crushedZinc
 
 
-crystalRedstone
-buildcraft|silicon:redstoneCrystal - 0
-
-
 crystalsPrismarine
 minecraft:prismarine_crystals - 0
 
@@ -1569,6 +1592,13 @@ daylightDetector
 
 
 diamond
+
+
+diamondNugget
+
+
+diamondShard
+hydcraft:diamondShard - 0
 
 
 dirt
@@ -1610,6 +1640,12 @@ dustAluminum
 foundry:foundryDust - 11
 
 
+dustAluminumBrass
+
+
+dustAlumite
+
+
 dustAmber
 
 
@@ -1626,12 +1662,16 @@ dustAqua
 
 
 dustArdite
+hydcraft:dust - 2
 
 
 dustAstralSilver
 
 
 dustAtlarus
+
+
+dustBeachium
 
 
 dustBlackSteel
@@ -1681,24 +1721,20 @@ dustCinnabar
 dustCoal
 substratum:dust - 0
 actuallyadditions:itemDust - 6
-eflux:EFluxDust - 5
 
 
 dustCobalt
+hydcraft:dust - 7
 
 
 dustCobaltite
-
-
-dustConductive
-eflux:EFluxDust - 8
 
 
 dustCopper
 substratum:dust - 3
 foundry:foundryDust - 0
 neotech:dustCopper - 0
-eflux:EFluxDust - 2
+hydcraft:dust - 3
 
 
 dustCrystalAir
@@ -1741,6 +1777,10 @@ dustDiamond
 actuallyadditions:itemDust - 2
 
 
+dustDiamondCopper
+hydcraft:dustDiamondCopper - 0
+
+
 dustEbonyPsi
 
 
@@ -1770,13 +1810,19 @@ substratum:dust - 16
 dustEndstone
 
 
+dustEnrichedCopper
+
+
 dustEssence
 
 
 dustEximite
 
 
-dustGaianite
+dustFoxium
+
+
+dustFzDarkIron
 
 
 dustGlass
@@ -1856,8 +1902,8 @@ substratum:dust - 2
 foundry:foundryDust - 18
 neotech:dustGold - 0
 actuallyadditions:itemDust - 1
-eflux:EFluxDust - 1
 crisscross:dust - 1
+hydcraft:dust - 0
 
 
 dustGreenSapphire
@@ -1894,8 +1940,8 @@ substratum:dust - 1
 foundry:foundryDust - 17
 neotech:dustIron - 0
 actuallyadditions:itemDust - 0
-eflux:EFluxDust - 0
 crisscross:dust - 0
+hydcraft:dust - 1
 
 
 dustIronCompressed
@@ -1926,9 +1972,13 @@ actuallyadditions:itemDust - 4
 dustLead
 substratum:dust - 13
 foundry:foundryDust - 10
+hydcraft:dust - 4
 
 
 dustLemurite
+
+
+dustLonezium
 
 
 dustLumium
@@ -1954,6 +2004,12 @@ dustMeutoite
 dustMidasium
 
 
+dustMithril
+
+
+dustNadsiumBicarbinate
+
+
 dustNaquadah
 
 
@@ -1969,6 +2025,7 @@ dustNichrome
 dustNickel
 substratum:dust - 8
 foundry:foundryDust - 5
+hydcraft:dust - 9
 
 
 dustNiter
@@ -2070,7 +2127,7 @@ substratum:dust - 17
 dustSilver
 substratum:dust - 11
 foundry:foundryDust - 8
-eflux:EFluxDust - 4
+hydcraft:dust - 8
 
 
 dustSmallAdamantine
@@ -2393,7 +2450,6 @@ dustSteeleaf
 
 
 dustStone
-eflux:EFluxDust - 6
 
 
 dustSulfur
@@ -2419,7 +2475,7 @@ dustTin
 substratum:dust - 4
 foundry:foundryDust - 1
 neotech:dustTin - 0
-eflux:EFluxDust - 7
+hydcraft:dust - 6
 
 
 dustTinyAdamantine
@@ -2715,14 +2771,10 @@ dustZinc
 substratum:dust - 9
 foundry:foundryDust - 6
 foundry:foundryComponent - 18
-eflux:EFluxDust - 3
 
 
 dye
 minecraft:dye - any
-
-
-dye Black
 
 
 dyeBlack
@@ -2969,6 +3021,10 @@ foodAmbrosia
 biomesoplenty:ambrosia - 0
 
 
+foodBacon
+hydcraft:bacon - 0
+
+
 foodBowlofrice
 biomesoplenty:ricebowl - 0
 
@@ -3078,7 +3134,6 @@ gearDesichalkos
 
 
 gearDiamond
-buildcraft|core:diamondGearItem - 0
 
 
 gearElectrum
@@ -3105,7 +3160,6 @@ gearGlowstone
 
 
 gearGold
-buildcraft|core:goldGearItem - 0
 substratum:gear - 2
 
 
@@ -3138,7 +3192,6 @@ substratum:gear - 7
 
 
 gearIron
-buildcraft|core:ironGearItem - 0
 substratum:gear - 1
 
 
@@ -3270,7 +3323,6 @@ gearSteeleaf
 
 
 gearStone
-buildcraft|core:stoneGearItem - 0
 substratum:gear - 0
 
 
@@ -3323,7 +3375,6 @@ gearVyroxeres
 
 
 gearWood
-buildcraft|core:woodenGearItem - 0
 
 
 gearZinc
@@ -3672,6 +3723,9 @@ foundry:foundryIngot - 11
 ingotAluminumBrass
 
 
+ingotAlumite
+
+
 ingotAmethyst
 
 
@@ -3679,9 +3733,6 @@ ingotAmordrine
 
 
 ingotAngmallen
-
-
-ingotAntimony
 
 
 ingotAqua
@@ -3724,9 +3775,6 @@ foundry:foundryIngot - 2
 neotech:ingotBronze - 0
 
 
-ingotCadmium
-
-
 ingotCarbon
 
 
@@ -3739,20 +3787,11 @@ ingotCelenegil
 ingotCeruclase
 
 
-ingotCharcoal
-
-
 ingotChrome
 
 
 ingotChromium
 foundry:foundryIngot - 12
-
-
-ingotCinnabar
-
-
-ingotCoal
 
 
 ingotCobalt
@@ -3762,15 +3801,10 @@ tconstruct:ingots - 0
 ingotCobaltite
 
 
-ingotConductive
-eflux:EFluxIngot - 5
-
-
 ingotCopper
 substratum:ingot - 0
 foundry:foundryIngot - 0
 neotech:ingotCopper - 0
-eflux:EFluxIngot - 0
 
 
 ingotCupronickel
@@ -3816,16 +3850,17 @@ ingotEnderium
 substratum:ingot - 15
 
 
-ingotEnderpearl
-
-
 ingotEndstone
+
+
+ingotEnrichedCopper
+hydcraft:ingotEnrichedCopper - 0
 
 
 ingotEximite
 
 
-ingotGlass
+ingotFzDarkIron
 
 
 ingotGlowstone
@@ -3853,9 +3888,6 @@ ingotIgnatius
 ingotIgnis
 
 
-ingotIndium
-
-
 ingotInfuscolium
 
 
@@ -3865,9 +3897,6 @@ ingotInolashite
 ingotInvar
 substratum:ingot - 4
 foundry:foundryIngot - 4
-
-
-ingotIridium
 
 
 ingotIron
@@ -3898,18 +3927,12 @@ ingotKnightslime
 tconstruct:ingots - 3
 
 
-ingotLapis
-
-
 ingotLead
 substratum:ingot - 10
 foundry:foundryIngot - 10
 
 
 ingotLemurite
-
-
-ingotLodestone
 
 
 ingotLumium
@@ -3934,6 +3957,9 @@ ingotMeutoite
 ingotMidasium
 
 
+ingotMithril
+
+
 ingotNaquadahAlloy
 sgcraft:naquadahIngot - 0
 
@@ -3947,9 +3973,6 @@ ingotNichrome
 ingotNickel
 substratum:ingot - 5
 foundry:foundryIngot - 5
-
-
-ingotNiter
 
 
 ingotObsidian
@@ -3971,9 +3994,6 @@ ingotOureclase
 
 
 ingotPerditio
-
-
-ingotPeridot
 
 
 ingotPigiron
@@ -3998,16 +4018,10 @@ ingotPsi
 psi:material - 1
 
 
-ingotQuartz
-
-
 ingotQuicksilver
 
 
 ingotRedAlloy
-
-
-ingotRedGarnet
 
 
 ingotRedstone
@@ -4044,7 +4058,6 @@ substratum:ingot - 13
 ingotSilver
 substratum:ingot - 8
 foundry:foundryIngot - 8
-eflux:EFluxIngot - 3
 
 
 ingotStainlessSteel
@@ -4061,13 +4074,7 @@ ingotSteeleaf
 ingotStone
 
 
-ingotSulfur
-
-
 ingotTartarite
-
-
-ingotTellurium
 
 
 ingotTerra
@@ -4085,7 +4092,6 @@ ingotTin
 substratum:ingot - 1
 foundry:foundryIngot - 1
 neotech:ingotTin - 0
-eflux:EFluxIngot - 1
 
 
 ingotTitanium
@@ -4123,13 +4129,9 @@ ingotVyroxeres
 ingotWood
 
 
-ingotYellowGarnet
-
-
 ingotZinc
 substratum:ingot - 6
 foundry:foundryIngot - 6
-eflux:EFluxIngot - 2
 
 
 itemRubber
@@ -4472,6 +4474,7 @@ nuggetDesichalkos
 
 nuggetDiamond
 extrabitmanipulation:DiamondNugget - 0
+moarsigns:nugget - 0
 
 
 nuggetElectrum
@@ -4487,6 +4490,7 @@ botania:manaResource - 19
 
 
 nuggetEmerald
+moarsigns:nugget - 2
 
 
 nuggetEnderium
@@ -4538,6 +4542,7 @@ thaumcraft:nugget - 0
 substratum:nugget - 0
 foundry:foundryNugget - 17
 totemic:subItems - 0
+moarsigns:nugget - 1
 
 
 nuggetIronwood
@@ -5281,7 +5286,8 @@ oreAstralSilver
 oreAtlarus
 
 
-oreBauxite
+oreBeachium
+hydcraft:oreBeachium - 0
 
 
 oreBlackSteel
@@ -5329,6 +5335,7 @@ oreCobaltite
 oreCopper
 substratum:ore - 0
 foundry:ore - 0
+hydcraft:oreCopper - 0
 neotech:oreCopper - 0
 
 
@@ -5398,12 +5405,11 @@ oreEssence
 oreEximite
 
 
-oreGaianite
-resourcefulcrops:BlockROre - 0
-resourcefulcrops:BlockROre - 1
+oreFoxium
+hydcraft:oreFoxium - 0
 
 
-oreGalena
+oreFzDarkIron
 
 
 oreGlowstone
@@ -5437,9 +5443,6 @@ oreInolashite
 oreInvar
 
 
-oreIridium
-
-
 oreIron
 minecraft:iron_ore - 0
 
@@ -5466,9 +5469,14 @@ minecraft:lapis_ore - 0
 oreLead
 substratum:ore - 5
 foundry:ore - 5
+hydcraft:oreLead - 0
 
 
 oreLemurite
+
+
+oreLonezium
+hydcraft:oreLonezium - 0
 
 
 oreLumium
@@ -5493,8 +5501,16 @@ oreMeutoite
 oreMidasium
 
 
+oreNadsiumBicarbinate
+hydcraft:oreNadsiumBicarbinate - 0
+
+
 oreNaquadah
 sgcraft:naquadahOre - 0
+
+
+oreNetherQuartz
+minecraft:quartz_ore - 0
 
 
 oreNetherrack
@@ -5796,9 +5812,6 @@ orePoorZinc
 orePrometheum
 
 
-orePyrite
-
-
 oreQuartz
 minecraft:quartz_ore - 0
 
@@ -5848,12 +5861,6 @@ substratum:ore - 4
 foundry:ore - 4
 
 
-oreSodalite
-
-
-oreSphalerite
-
-
 oreStainlessSteel
 
 
@@ -5878,9 +5885,6 @@ oreTartarite
 
 
 oreTerrasteel
-
-
-oreTetrahedrite
 
 
 oreThaumium
@@ -6402,10 +6406,6 @@ biomesoplenty:plant_1 - 4
 biomesoplenty:double_plant - 1
 
 
-plantCaveweed
-biomesoplenty:plant_1 - 6
-
-
 plantCloverpatch
 biomesoplenty:plant_0 - 10
 
@@ -6455,11 +6455,11 @@ biomesoplenty:plant_0 - 4
 
 
 plantRafflesia
-biomesoplenty:plant_1 - 11
+biomesoplenty:plant_1 - 10
 
 
 plantReed
-biomesoplenty:plant_1 - 9
+biomesoplenty:plant_1 - 8
 
 
 plantRivercane
@@ -6467,7 +6467,7 @@ biomesoplenty:plant_1 - 5
 
 
 plantRoot
-biomesoplenty:plant_1 - 10
+biomesoplenty:plant_1 - 9
 
 
 plantShortgrass
@@ -6491,7 +6491,7 @@ biomesoplenty:plant_1 - 2
 
 
 plantTinycactus
-biomesoplenty:plant_1 - 7
+biomesoplenty:plant_1 - 6
 
 
 plantWheatgrass
@@ -6502,12 +6502,8 @@ plantWildrice
 biomesoplenty:plant_1 - 3
 
 
-plantWisteria
-biomesoplenty:plant_1 - 12
-
-
 plantWitherwart
-biomesoplenty:plant_1 - 8
+biomesoplenty:plant_1 - 7
 
 
 plateAdamantine
@@ -7116,342 +7112,6 @@ quicksilver
 thaumcraft:quicksilver - 0
 
 
-rcropPouchBlaze
-resourcefulcrops:ItemPouch - 9
-
-
-rcropPouchBoney
-resourcefulcrops:ItemPouch - 7
-
-
-rcropPouchBrainy
-resourcefulcrops:ItemPouch - 16
-
-
-rcropPouchCharcoal
-resourcefulcrops:ItemPouch - 4
-
-
-rcropPouchCoal
-resourcefulcrops:ItemPouch - 3
-
-
-rcropPouchCreepots
-resourcefulcrops:ItemPouch - 18
-
-
-rcropPouchCreepy
-resourcefulcrops:ItemPouch - 14
-
-
-rcropPouchDiamond
-resourcefulcrops:ItemPouch - 24
-
-
-rcropPouchEmerald
-resourcefulcrops:ItemPouch - 25
-
-
-rcropPouchEnder
-resourcefulcrops:ItemPouch - 12
-
-
-rcropPouchFeathery
-resourcefulcrops:ItemPouch - 2
-
-
-rcropPouchFlamingolia
-resourcefulcrops:ItemPouch - 26
-
-
-rcropPouchFleshy
-resourcefulcrops:ItemPouch - 1
-
-
-rcropPouchGlowstone
-resourcefulcrops:ItemPouch - 19
-
-
-rcropPouchGold
-resourcefulcrops:ItemPouch - 11
-
-
-rcropPouchInky
-resourcefulcrops:ItemPouch - 0
-
-
-rcropPouchIron
-resourcefulcrops:ItemPouch - 10
-
-
-rcropPouchLapis
-resourcefulcrops:ItemPouch - 21
-
-
-rcropPouchLeathery
-resourcefulcrops:ItemPouch - 5
-
-
-rcropPouchMindful
-resourcefulcrops:ItemPouch - 17
-
-
-rcropPouchQuartz
-resourcefulcrops:ItemPouch - 22
-
-
-rcropPouchRedstone
-resourcefulcrops:ItemPouch - 20
-
-
-rcropPouchSkelesprout
-resourcefulcrops:ItemPouch - 15
-
-
-rcropPouchSlimey
-resourcefulcrops:ItemPouch - 8
-
-
-rcropPouchStringy
-resourcefulcrops:ItemPouch - 6
-
-
-rcropPouchTeary
-resourcefulcrops:ItemPouch - 13
-
-
-rcropPouchWaffle
-resourcefulcrops:ItemPouch - 27
-
-
-rcropPouchWitherwheat
-resourcefulcrops:ItemPouch - 23
-
-
-rcropSeedBlaze
-resourcefulcrops:ItemSeed - 9
-
-
-rcropSeedBoney
-resourcefulcrops:ItemSeed - 7
-
-
-rcropSeedBrainy
-resourcefulcrops:ItemSeed - 16
-
-
-rcropSeedCharcoal
-resourcefulcrops:ItemSeed - 4
-
-
-rcropSeedCoal
-resourcefulcrops:ItemSeed - 3
-
-
-rcropSeedCreepots
-resourcefulcrops:ItemSeed - 18
-
-
-rcropSeedCreepy
-resourcefulcrops:ItemSeed - 14
-
-
-rcropSeedDiamond
-resourcefulcrops:ItemSeed - 24
-
-
-rcropSeedEmerald
-resourcefulcrops:ItemSeed - 25
-
-
-rcropSeedEnder
-resourcefulcrops:ItemSeed - 12
-
-
-rcropSeedFeathery
-resourcefulcrops:ItemSeed - 2
-
-
-rcropSeedFlamingolia
-resourcefulcrops:ItemSeed - 26
-
-
-rcropSeedFleshy
-resourcefulcrops:ItemSeed - 1
-
-
-rcropSeedGlowstone
-resourcefulcrops:ItemSeed - 19
-
-
-rcropSeedGold
-resourcefulcrops:ItemSeed - 11
-
-
-rcropSeedInky
-resourcefulcrops:ItemSeed - 0
-
-
-rcropSeedIron
-resourcefulcrops:ItemSeed - 10
-
-
-rcropSeedLapis
-resourcefulcrops:ItemSeed - 21
-
-
-rcropSeedLeathery
-resourcefulcrops:ItemSeed - 5
-
-
-rcropSeedMindful
-resourcefulcrops:ItemSeed - 17
-
-
-rcropSeedQuartz
-resourcefulcrops:ItemSeed - 22
-
-
-rcropSeedRedstone
-resourcefulcrops:ItemSeed - 20
-
-
-rcropSeedSkelesprout
-resourcefulcrops:ItemSeed - 15
-
-
-rcropSeedSlimey
-resourcefulcrops:ItemSeed - 8
-
-
-rcropSeedStringy
-resourcefulcrops:ItemSeed - 6
-
-
-rcropSeedTeary
-resourcefulcrops:ItemSeed - 13
-
-
-rcropSeedWaffle
-resourcefulcrops:ItemSeed - 27
-
-
-rcropSeedWitherwheat
-resourcefulcrops:ItemSeed - 23
-
-
-rcropShardBlaze
-resourcefulcrops:ItemShard - 9
-
-
-rcropShardBoney
-resourcefulcrops:ItemShard - 7
-
-
-rcropShardBrainy
-resourcefulcrops:ItemShard - 16
-
-
-rcropShardCharcoal
-resourcefulcrops:ItemShard - 4
-
-
-rcropShardCoal
-resourcefulcrops:ItemShard - 3
-
-
-rcropShardCreepots
-resourcefulcrops:ItemShard - 18
-
-
-rcropShardCreepy
-resourcefulcrops:ItemShard - 14
-
-
-rcropShardDiamond
-resourcefulcrops:ItemShard - 24
-
-
-rcropShardEmerald
-resourcefulcrops:ItemShard - 25
-
-
-rcropShardEnder
-resourcefulcrops:ItemShard - 12
-
-
-rcropShardFeathery
-resourcefulcrops:ItemShard - 2
-
-
-rcropShardFlamingolia
-resourcefulcrops:ItemShard - 26
-
-
-rcropShardFleshy
-resourcefulcrops:ItemShard - 1
-
-
-rcropShardGlowstone
-resourcefulcrops:ItemShard - 19
-
-
-rcropShardGold
-resourcefulcrops:ItemShard - 11
-
-
-rcropShardInky
-resourcefulcrops:ItemShard - 0
-
-
-rcropShardIron
-resourcefulcrops:ItemShard - 10
-
-
-rcropShardLapis
-resourcefulcrops:ItemShard - 21
-
-
-rcropShardLeathery
-resourcefulcrops:ItemShard - 5
-
-
-rcropShardMindful
-resourcefulcrops:ItemShard - 17
-
-
-rcropShardQuartz
-resourcefulcrops:ItemShard - 22
-
-
-rcropShardRedstone
-resourcefulcrops:ItemShard - 20
-
-
-rcropShardSkelesprout
-resourcefulcrops:ItemShard - 15
-
-
-rcropShardSlimey
-resourcefulcrops:ItemShard - 8
-
-
-rcropShardStringy
-resourcefulcrops:ItemShard - 6
-
-
-rcropShardTeary
-resourcefulcrops:ItemShard - 13
-
-
-rcropShardWaffle
-resourcefulcrops:ItemShard - 27
-
-
-rcropShardWitherwheat
-resourcefulcrops:ItemShard - 23
-
-
 record
 minecraft:record_13 - 0
 minecraft:record_cat - 0
@@ -7470,10 +7130,6 @@ biomesoplenty:record_wanderer - 0
 
 
 redstone
-
-
-redstoneCrystal
-buildcraft|silicon:redstoneCrystal - 0
 
 
 redstoneRoot
@@ -7825,9 +7481,6 @@ glass_shards:glass_shards - 4
 
 shardsIce
 ice_shards:ice_shards - 0
-
-
-silver_ingot
 
 
 slabAer
@@ -8227,9 +7880,6 @@ stairsZinc
 substratum:stairsZinc - 0
 
 
-steel_ingot
-
-
 stickWood
 minecraft:stick - 0
 biomesoplenty:bamboo - 0
@@ -8328,9 +7978,6 @@ teethBuffalo
 totemic:buffaloItems - 1
 
 
-tin_ingot
-
-
 tis3d:module
 tis3d:moduleAudio - 0
 tis3d:moduleBundledRedstone - 0
@@ -8411,10 +8058,6 @@ biomesoplenty:sapling_2 - 7
 thaumcraft:sapling - 0
 thaumcraft:sapling - 1
 tconstruct:slime_sapling - any
-
-
-vanillaCoal
-minecraft:coal - 0
 
 
 vine

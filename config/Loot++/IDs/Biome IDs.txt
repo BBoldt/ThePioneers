@@ -193,10 +193,6 @@
 	- Name: Brushland
 	- Forge Biome Types: HOT SPARSE DRY SAVANNA 
 
-47
-	- Name: Canyon
-	- Forge Biome Types: HOT SPARSE DRY MOUNTAIN HILLS 
-
 48
 	- Name: Chaparral
 	- Forge Biome Types: DRY PLAINS 
@@ -245,18 +241,6 @@
 	- Name: Flower Field
 	- Forge Biome Types: LUSH PLAINS 
 
-61
-	- Name: Frozen Desert
-	- Forge Biome Types: COLD DRY SNOWY 
-
-62
-	- Name: Fungi Forest
-	- Forge Biome Types: DENSE WET JUNGLE LUSH MUSHROOM MAGICAL FOREST 
-
-63
-	- Name: Garden
-	- Forge Biome Types: DENSE LUSH PLAINS 
-
 64
 	- Name: Grassland
 	- Forge Biome Types: WET PLAINS HILLS 
@@ -296,10 +280,6 @@
 73
 	- Name: Mountain
 	- Forge Biome Types: SPARSE DRY FOREST MOUNTAIN 
-
-74
-	- Name: Origin Valley
-	- Forge Biome Types: PLAINS 
 
 75
 	- Name: Outback
@@ -356,10 +336,6 @@
 88
 	- Name: Mountain Foothills
 	- Forge Biome Types: SPARSE DRY FOREST MOUNTAIN HILLS 
-
-89
-	- Name: Canyon Ravine
-	- Forge Biome Types: HOT SPARSE DRY MOUNTAIN HILLS 
 
 90
 	- Name: Volcanic Island
@@ -429,13 +405,13 @@
 	- Name: Oasis
 	- Forge Biome Types: HOT SPARSE WET JUNGLE LUSH SANDY 
 
-126
-	- Name: Ocean Oil Field
-	- Forge Biome Types: OCEAN RIVER 
+107
+	- Name: Origin Island
+	- Forge Biome Types: PLAINS 
 
-127
-	- Name: Desert Oil Field
-	- Forge Biome Types: SANDY 
+108
+	- Name: Flower Island
+	- Forge Biome Types: DENSE LUSH MAGICAL OCEAN RIVER PLAINS 
 
 129
 	- Name: Sunflower Plains

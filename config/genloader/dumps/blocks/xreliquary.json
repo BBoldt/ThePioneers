@@ -1,6 +1,16 @@
 [
   {
     "Mod": "xreliquary",
+    "Name": "apothecary_cauldron",
+    "States": [
+      "xreliquary:apothecary_cauldron[level=0]",
+      "xreliquary:apothecary_cauldron[level=1]",
+      "xreliquary:apothecary_cauldron[level=2]",
+      "xreliquary:apothecary_cauldron[level=3]"
+    ]
+  },
+  {
+    "Mod": "xreliquary",
     "Name": "altar_idle",
     "States": [
       "xreliquary:altar_idle"
@@ -11,6 +21,13 @@
     "Name": "altar",
     "States": [
       "xreliquary:altar"
+    ]
+  },
+  {
+    "Mod": "xreliquary",
+    "Name": "apothecary_mortar",
+    "States": [
+      "xreliquary:apothecary_mortar"
     ]
   },
   {

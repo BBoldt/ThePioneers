@@ -4,6 +4,10 @@ recipes.addShaped(<actuallyadditions:itemChestToCrateUpgrade>, [[<ironchest:Bloc
 recipes.remove(<actuallyadditions:blockGiantChest>);
 recipes.addShaped(<actuallyadditions:blockGiantChest>, [[<ironchest:BlockIronChest>, <ore:plankWood>, <ironchest:BlockIronChest>], [<ore:plankWood>, <actuallyadditions:blockMisc:4>, <ore:plankWood>], [<ironchest:BlockIronChest>, <ore:plankWood>, <ironchest:BlockIronChest>]]);
 
+// # ARCHITECTURECRAFT #
+recipes.remove(<architecturecraft:chisel>);
+recipes.addShaped(<architecturecraft:chisel>, [[<ore:ingotIron>], [null, <ore:ingotIron>], [null, null, <ore:stickWood>]]);
+
 // # FLUXED SOLARS #
 recipes.remove(<fluxedsolars:solarpanel:1>);
 recipes.remove(<fluxedsolars:solarpanel:2>);

@@ -35,8 +35,6 @@ Botania.botania:spark
 Botania.botania:thornChakram
 Botania.botania:thrownItem
 Botania.botania:vineBall
-BuildCraft|Robotics.bcRobot
-BuildCraft|Silicon.bcPackageThrowable
 CaveSpider
 Chicken
 Cow
@@ -179,6 +177,7 @@ intangible.knowledgegem
 intangible.pigvillager
 intangible.raisingblock
 intangible.reaper
+intangible.seat
 intangible.seeker
 intangible.skybeam
 intangible.soul
@@ -193,6 +192,7 @@ lootplusplus.ThrownItem
 miab.BillCipher
 miab.JohnCena
 miab.memeSplash
+neotech.mobNet
 tconstruct.Indestructible Item
 tconstruct.blueslime
 testdummy.Dummy
@@ -217,7 +217,7 @@ xreliquary.entitySpecialSnowball
 xreliquary.entitySplashAphrodite
 xreliquary.entitySplashFertility
 xreliquary.entityStormShot
-xreliquary.entityThrownPotion
+xreliquary.entityThrownXRPotion
 ## Spawn Egg IDs: in the form <number id> - <entity string id (which it spawns)> ##
 50 - Creeper
 51 - Skeleton

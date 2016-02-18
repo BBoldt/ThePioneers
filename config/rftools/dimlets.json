@@ -57,6 +57,21 @@
   },
   {
     "filter": {
+      "mod": "minecraft",
+      "name": "stone",
+      "type": "material"
+    },
+    "settings": {
+      "rarity": 0,
+      "create": 5,
+      "maintain": 1,
+      "ticks": 1,
+      "worldgen": true,
+      "dimlet": true
+    }
+  },
+  {
+    "filter": {
       "mod": "tconstruct",
       "name": "metal",
       "type": "material",

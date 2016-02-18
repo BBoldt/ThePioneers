@@ -1008,5 +1008,27 @@
       "actuallyadditions:blockCanolaOil[level=14]",
       "actuallyadditions:blockCanolaOil[level=15]"
     ]
+  },
+  {
+    "Mod": "actuallyadditions",
+    "Name": "blockOil",
+    "States": [
+      "actuallyadditions:blockOil[level=0]",
+      "actuallyadditions:blockOil[level=1]",
+      "actuallyadditions:blockOil[level=2]",
+      "actuallyadditions:blockOil[level=3]",
+      "actuallyadditions:blockOil[level=4]",
+      "actuallyadditions:blockOil[level=5]",
+      "actuallyadditions:blockOil[level=6]",
+      "actuallyadditions:blockOil[level=7]",
+      "actuallyadditions:blockOil[level=8]",
+      "actuallyadditions:blockOil[level=9]",
+      "actuallyadditions:blockOil[level=10]",
+      "actuallyadditions:blockOil[level=11]",
+      "actuallyadditions:blockOil[level=12]",
+      "actuallyadditions:blockOil[level=13]",
+      "actuallyadditions:blockOil[level=14]",
+      "actuallyadditions:blockOil[level=15]"
+    ]
   }
 ]

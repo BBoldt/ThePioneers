@@ -1,16 +1,136 @@
 [
   {
     "Mod": "aura",
-    "Name": "storageBookshelf",
+    "Name": "auraNode",
     "States": [
-      "aura:storageBookshelf"
+      "aura:auraNode"
     ]
   },
   {
     "Mod": "aura",
-    "Name": "monitor",
+    "Name": "auraNodepump",
     "States": [
-      "aura:monitor"
+      "aura:auraNodepump"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodeblack",
+    "States": [
+      "aura:auraNodeblack"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodeconserve",
+    "States": [
+      "aura:auraNodeconserve"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodecraftingCenter",
+    "States": [
+      "aura:auraNodecraftingCenter"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodecraftingPedestal",
+    "States": [
+      "aura:auraNodecraftingPedestal"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodeorange",
+    "States": [
+      "aura:auraNodeorange"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodepumpAlt",
+    "States": [
+      "aura:auraNodepumpAlt"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodepumpProjectile",
+    "States": [
+      "aura:auraNodepumpProjectile"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodepumpFall",
+    "States": [
+      "aura:auraNodepumpFall"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodepumpLight",
+    "States": [
+      "aura:auraNodepumpLight"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodepumpRedstone",
+    "States": [
+      "aura:auraNodepumpRedstone"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodepumpProjectileAlt",
+    "States": [
+      "aura:auraNodepumpProjectileAlt"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodepumpFallAlt",
+    "States": [
+      "aura:auraNodepumpFallAlt"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodepumpCreative",
+    "States": [
+      "aura:auraNodepumpCreative"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodepumpLightAlt",
+    "States": [
+      "aura:auraNodepumpLightAlt"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodepumpRedstoneAlt",
+    "States": [
+      "aura:auraNodepumpRedstoneAlt"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodeflux",
+    "States": [
+      "aura:auraNodeflux"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodecapacitor",
+    "States": [
+      "aura:auraNodecapacitor[bursting=true]",
+      "aura:auraNodecapacitor[bursting=false]"
     ]
   },
   {
@@ -169,154 +289,6 @@
   },
   {
     "Mod": "aura",
-    "Name": "magicRoad",
-    "States": [
-      "aura:magicRoad"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodecapacitor",
-    "States": [
-      "aura:auraNodecapacitor[bursting=true]",
-      "aura:auraNodecapacitor[bursting=false]"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNode",
-    "States": [
-      "aura:auraNode"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodepump",
-    "States": [
-      "aura:auraNodepump"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodeblack",
-    "States": [
-      "aura:auraNodeblack"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodeconserve",
-    "States": [
-      "aura:auraNodeconserve"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodecraftingCenter",
-    "States": [
-      "aura:auraNodecraftingCenter"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodecraftingPedestal",
-    "States": [
-      "aura:auraNodecraftingPedestal"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodeorange",
-    "States": [
-      "aura:auraNodeorange"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodepumpAlt",
-    "States": [
-      "aura:auraNodepumpAlt"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodepumpProjectile",
-    "States": [
-      "aura:auraNodepumpProjectile"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodepumpFall",
-    "States": [
-      "aura:auraNodepumpFall"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodepumpLight",
-    "States": [
-      "aura:auraNodepumpLight"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodepumpRedstone",
-    "States": [
-      "aura:auraNodepumpRedstone"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodepumpProjectileAlt",
-    "States": [
-      "aura:auraNodepumpProjectileAlt"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodepumpFallAlt",
-    "States": [
-      "aura:auraNodepumpFallAlt"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodepumpCreative",
-    "States": [
-      "aura:auraNodepumpCreative"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodepumpLightAlt",
-    "States": [
-      "aura:auraNodepumpLightAlt"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodepumpRedstoneAlt",
-    "States": [
-      "aura:auraNodepumpRedstoneAlt"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodeflux",
-    "States": [
-      "aura:auraNodeflux"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "fairyTorch",
-    "States": [
-      "aura:fairyTorch"
-    ]
-  },
-  {
-    "Mod": "aura",
     "Name": "fortifiedDirt",
     "States": [
       "aura:fortifiedDirt[damage=0]",
@@ -445,6 +417,34 @@
       "aura:fortifiedObsidian[damage=13]",
       "aura:fortifiedObsidian[damage=14]",
       "aura:fortifiedObsidian[damage=15]"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "monitor",
+    "States": [
+      "aura:monitor"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "storageBookshelf",
+    "States": [
+      "aura:storageBookshelf"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "fairyTorch",
+    "States": [
+      "aura:fairyTorch"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "magicRoad",
+    "States": [
+      "aura:magicRoad"
     ]
   }
 ]

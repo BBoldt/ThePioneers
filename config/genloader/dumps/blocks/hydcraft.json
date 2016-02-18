@@ -1,0 +1,508 @@
+[
+  {
+    "Mod": "hydcraft",
+    "Name": "hydraulicFrictionIncinerator",
+    "States": [
+      "hydcraft:hydraulicFrictionIncinerator[rotation=north]",
+      "hydcraft:hydraulicFrictionIncinerator[rotation=south]",
+      "hydcraft:hydraulicFrictionIncinerator[rotation=west]",
+      "hydcraft:hydraulicFrictionIncinerator[rotation=east]"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "hydraulicCrusher",
+    "States": [
+      "hydcraft:hydraulicCrusher[rotation=north]",
+      "hydcraft:hydraulicCrusher[rotation=south]",
+      "hydcraft:hydraulicCrusher[rotation=west]",
+      "hydcraft:hydraulicCrusher[rotation=east]"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "hydraulicWasher",
+    "States": [
+      "hydcraft:hydraulicWasher[rotation=north]",
+      "hydcraft:hydraulicWasher[rotation=south]",
+      "hydcraft:hydraulicWasher[rotation=west]",
+      "hydcraft:hydraulicWasher[rotation=east]"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "hydraulicPressureWall",
+    "States": [
+      "hydcraft:hydraulicPressureWall"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "hydraulicPressureGlass",
+    "States": [
+      "hydcraft:hydraulicPressureGlass"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "hydraulicFilter",
+    "States": [
+      "hydcraft:hydraulicFilter[rotation=north]",
+      "hydcraft:hydraulicFilter[rotation=south]",
+      "hydcraft:hydraulicFilter[rotation=west]",
+      "hydcraft:hydraulicFilter[rotation=east]"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "hydraulicFiller",
+    "States": [
+      "hydcraft:hydraulicFiller[rotation=north]",
+      "hydcraft:hydraulicFiller[rotation=south]",
+      "hydcraft:hydraulicFiller[rotation=west]",
+      "hydcraft:hydraulicFiller[rotation=east]"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "valve",
+    "States": [
+      "hydcraft:valve"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "interfaceValve",
+    "States": [
+      "hydcraft:interfaceValve"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "movingPane",
+    "States": [
+      "hydcraft:movingPane[child=true]",
+      "hydcraft:movingPane[child=false]"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "LPHydraulicPressureReservoir",
+    "States": [
+      "hydcraft:LPHydraulicPressureReservoir[tier=TIER-0]",
+      "hydcraft:LPHydraulicPressureReservoir[tier=TIER-1]",
+      "hydcraft:LPHydraulicPressureReservoir[tier=TIER-2]",
+      "hydcraft:LPHydraulicPressureReservoir[tier=TIER-3]"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "LPHydraulicPump",
+    "States": [
+      "hydcraft:LPHydraulicPump[rotation=north,tier=TIER-0]",
+      "hydcraft:LPHydraulicPump[rotation=north,tier=TIER-1]",
+      "hydcraft:LPHydraulicPump[rotation=north,tier=TIER-2]",
+      "hydcraft:LPHydraulicPump[rotation=north,tier=TIER-3]",
+      "hydcraft:LPHydraulicPump[rotation=south,tier=TIER-0]",
+      "hydcraft:LPHydraulicPump[rotation=south,tier=TIER-1]",
+      "hydcraft:LPHydraulicPump[rotation=south,tier=TIER-2]",
+      "hydcraft:LPHydraulicPump[rotation=south,tier=TIER-3]",
+      "hydcraft:LPHydraulicPump[rotation=west,tier=TIER-0]",
+      "hydcraft:LPHydraulicPump[rotation=west,tier=TIER-1]",
+      "hydcraft:LPHydraulicPump[rotation=west,tier=TIER-2]",
+      "hydcraft:LPHydraulicPump[rotation=west,tier=TIER-3]",
+      "hydcraft:LPHydraulicPump[rotation=east,tier=TIER-0]",
+      "hydcraft:LPHydraulicPump[rotation=east,tier=TIER-1]",
+      "hydcraft:LPHydraulicPump[rotation=east,tier=TIER-2]",
+      "hydcraft:LPHydraulicPump[rotation=east,tier=TIER-3]"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "LPHydraulicLavaPump",
+    "States": [
+      "hydcraft:LPHydraulicLavaPump[rotation=north,tier=TIER-0]",
+      "hydcraft:LPHydraulicLavaPump[rotation=north,tier=TIER-1]",
+      "hydcraft:LPHydraulicLavaPump[rotation=north,tier=TIER-2]",
+      "hydcraft:LPHydraulicLavaPump[rotation=north,tier=TIER-3]",
+      "hydcraft:LPHydraulicLavaPump[rotation=south,tier=TIER-0]",
+      "hydcraft:LPHydraulicLavaPump[rotation=south,tier=TIER-1]",
+      "hydcraft:LPHydraulicLavaPump[rotation=south,tier=TIER-2]",
+      "hydcraft:LPHydraulicLavaPump[rotation=south,tier=TIER-3]",
+      "hydcraft:LPHydraulicLavaPump[rotation=west,tier=TIER-0]",
+      "hydcraft:LPHydraulicLavaPump[rotation=west,tier=TIER-1]",
+      "hydcraft:LPHydraulicLavaPump[rotation=west,tier=TIER-2]",
+      "hydcraft:LPHydraulicLavaPump[rotation=west,tier=TIER-3]",
+      "hydcraft:LPHydraulicLavaPump[rotation=east,tier=TIER-0]",
+      "hydcraft:LPHydraulicLavaPump[rotation=east,tier=TIER-1]",
+      "hydcraft:LPHydraulicLavaPump[rotation=east,tier=TIER-2]",
+      "hydcraft:LPHydraulicLavaPump[rotation=east,tier=TIER-3]"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "hydraulicHarvesterSource",
+    "States": [
+      "hydcraft:hydraulicHarvesterSource[rotation=north]",
+      "hydcraft:hydraulicHarvesterSource[rotation=south]",
+      "hydcraft:hydraulicHarvesterSource[rotation=west]",
+      "hydcraft:hydraulicHarvesterSource[rotation=east]"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "hydraulicHarvesterFrame",
+    "States": [
+      "hydcraft:hydraulicHarvesterFrame[rotated=true]",
+      "hydcraft:hydraulicHarvesterFrame[rotated=false]"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "harvesterTrolley",
+    "States": [
+      "hydcraft:harvesterTrolley"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "hydraulicPiston",
+    "States": [
+      "hydcraft:hydraulicPiston[rotation=north]",
+      "hydcraft:hydraulicPiston[rotation=south]",
+      "hydcraft:hydraulicPiston[rotation=west]",
+      "hydcraft:hydraulicPiston[rotation=east]"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "LPBlockCore",
+    "States": [
+      "hydcraft:LPBlockCore[tier=TIER-0]",
+      "hydcraft:LPBlockCore[tier=TIER-1]",
+      "hydcraft:LPBlockCore[tier=TIER-2]",
+      "hydcraft:LPBlockCore[tier=TIER-3]"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "hydraulicFluidPump",
+    "States": [
+      "hydcraft:hydraulicFluidPump"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "portalBase",
+    "States": [
+      "hydcraft:portalBase[active=true]",
+      "hydcraft:portalBase[active=false]"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "blockJarDirt",
+    "States": [
+      "hydcraft:blockJarDirt"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "hydraulicCharger",
+    "States": [
+      "hydcraft:hydraulicCharger[rotation=north]",
+      "hydcraft:hydraulicCharger[rotation=south]",
+      "hydcraft:hydraulicCharger[rotation=west]",
+      "hydcraft:hydraulicCharger[rotation=east]"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "hydraulicAssembler",
+    "States": [
+      "hydcraft:hydraulicAssembler[rotation=north]",
+      "hydcraft:hydraulicAssembler[rotation=south]",
+      "hydcraft:hydraulicAssembler[rotation=west]",
+      "hydcraft:hydraulicAssembler[rotation=east]"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "blockCopper",
+    "States": [
+      "hydcraft:blockCopper"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "blockLead",
+    "States": [
+      "hydcraft:blockLead"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "blockTransparentLight",
+    "States": [
+      "hydcraft:blockTransparentLight[lightValue=0]",
+      "hydcraft:blockTransparentLight[lightValue=1]",
+      "hydcraft:blockTransparentLight[lightValue=2]",
+      "hydcraft:blockTransparentLight[lightValue=3]",
+      "hydcraft:blockTransparentLight[lightValue=4]",
+      "hydcraft:blockTransparentLight[lightValue=5]",
+      "hydcraft:blockTransparentLight[lightValue=6]",
+      "hydcraft:blockTransparentLight[lightValue=7]",
+      "hydcraft:blockTransparentLight[lightValue=8]",
+      "hydcraft:blockTransparentLight[lightValue=9]",
+      "hydcraft:blockTransparentLight[lightValue=10]",
+      "hydcraft:blockTransparentLight[lightValue=11]",
+      "hydcraft:blockTransparentLight[lightValue=12]",
+      "hydcraft:blockTransparentLight[lightValue=13]",
+      "hydcraft:blockTransparentLight[lightValue=14]",
+      "hydcraft:blockTransparentLight[lightValue=15]"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "pressureDisposal",
+    "States": [
+      "hydcraft:pressureDisposal"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "blockInfiniteSource",
+    "States": [
+      "hydcraft:blockInfiniteSource"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "chunkLoader",
+    "States": [
+      "hydcraft:chunkLoader"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "portalTeleporter",
+    "States": [
+      "hydcraft:portalTeleporter[active=true]",
+      "hydcraft:portalTeleporter[active=false]"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "refinedLonezium",
+    "States": [
+      "hydcraft:refinedLonezium"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "refinedNadsiumBicarbinate",
+    "States": [
+      "hydcraft:refinedNadsiumBicarbinate"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "blockDirtyMineral",
+    "States": [
+      "hydcraft:blockDirtyMineral"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "rubberWood",
+    "States": [
+      "hydcraft:rubberWood[axis=x,hasRubberSpot=true]",
+      "hydcraft:rubberWood[axis=x,hasRubberSpot=false]",
+      "hydcraft:rubberWood[axis=y,hasRubberSpot=true]",
+      "hydcraft:rubberWood[axis=y,hasRubberSpot=false]",
+      "hydcraft:rubberWood[axis=z,hasRubberSpot=true]",
+      "hydcraft:rubberWood[axis=z,hasRubberSpot=false]",
+      "hydcraft:rubberWood[axis=none,hasRubberSpot=true]",
+      "hydcraft:rubberWood[axis=none,hasRubberSpot=false]"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "rubberLeaves",
+    "States": [
+      "hydcraft:rubberLeaves[check_decay=true,decayable=true]",
+      "hydcraft:rubberLeaves[check_decay=true,decayable=false]",
+      "hydcraft:rubberLeaves[check_decay=false,decayable=true]",
+      "hydcraft:rubberLeaves[check_decay=false,decayable=false]"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "saplingRubber",
+    "States": [
+      "hydcraft:saplingRubber[stage=0]",
+      "hydcraft:saplingRubber[stage=1]"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "blockFluidTank",
+    "States": [
+      "hydcraft:blockFluidTank"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "oreCopper",
+    "States": [
+      "hydcraft:oreCopper"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "oreLead",
+    "States": [
+      "hydcraft:oreLead"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "oreLonezium",
+    "States": [
+      "hydcraft:oreLonezium"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "oreNadsiumBicarbinate",
+    "States": [
+      "hydcraft:oreNadsiumBicarbinate"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "oreBeachium",
+    "States": [
+      "hydcraft:oreBeachium"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "oreFoxium",
+    "States": [
+      "hydcraft:oreFoxium"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "hydraulicOil",
+    "States": [
+      "hydcraft:hydraulicOil[level=0]",
+      "hydcraft:hydraulicOil[level=1]",
+      "hydcraft:hydraulicOil[level=2]",
+      "hydcraft:hydraulicOil[level=3]",
+      "hydcraft:hydraulicOil[level=4]",
+      "hydcraft:hydraulicOil[level=5]",
+      "hydcraft:hydraulicOil[level=6]",
+      "hydcraft:hydraulicOil[level=7]",
+      "hydcraft:hydraulicOil[level=8]",
+      "hydcraft:hydraulicOil[level=9]",
+      "hydcraft:hydraulicOil[level=10]",
+      "hydcraft:hydraulicOil[level=11]",
+      "hydcraft:hydraulicOil[level=12]",
+      "hydcraft:hydraulicOil[level=13]",
+      "hydcraft:hydraulicOil[level=14]",
+      "hydcraft:hydraulicOil[level=15]"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "oil",
+    "States": [
+      "hydcraft:oil[level=0]",
+      "hydcraft:oil[level=1]",
+      "hydcraft:oil[level=2]",
+      "hydcraft:oil[level=3]",
+      "hydcraft:oil[level=4]",
+      "hydcraft:oil[level=5]",
+      "hydcraft:oil[level=6]",
+      "hydcraft:oil[level=7]",
+      "hydcraft:oil[level=8]",
+      "hydcraft:oil[level=9]",
+      "hydcraft:oil[level=10]",
+      "hydcraft:oil[level=11]",
+      "hydcraft:oil[level=12]",
+      "hydcraft:oil[level=13]",
+      "hydcraft:oil[level=14]",
+      "hydcraft:oil[level=15]"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "lubricant",
+    "States": [
+      "hydcraft:lubricant[level=0]",
+      "hydcraft:lubricant[level=1]",
+      "hydcraft:lubricant[level=2]",
+      "hydcraft:lubricant[level=3]",
+      "hydcraft:lubricant[level=4]",
+      "hydcraft:lubricant[level=5]",
+      "hydcraft:lubricant[level=6]",
+      "hydcraft:lubricant[level=7]",
+      "hydcraft:lubricant[level=8]",
+      "hydcraft:lubricant[level=9]",
+      "hydcraft:lubricant[level=10]",
+      "hydcraft:lubricant[level=11]",
+      "hydcraft:lubricant[level=12]",
+      "hydcraft:lubricant[level=13]",
+      "hydcraft:lubricant[level=14]",
+      "hydcraft:lubricant[level=15]"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "fluoroCarbonFluid",
+    "States": [
+      "hydcraft:fluoroCarbonFluid[level=0]",
+      "hydcraft:fluoroCarbonFluid[level=1]",
+      "hydcraft:fluoroCarbonFluid[level=2]",
+      "hydcraft:fluoroCarbonFluid[level=3]",
+      "hydcraft:fluoroCarbonFluid[level=4]",
+      "hydcraft:fluoroCarbonFluid[level=5]",
+      "hydcraft:fluoroCarbonFluid[level=6]",
+      "hydcraft:fluoroCarbonFluid[level=7]",
+      "hydcraft:fluoroCarbonFluid[level=8]",
+      "hydcraft:fluoroCarbonFluid[level=9]",
+      "hydcraft:fluoroCarbonFluid[level=10]",
+      "hydcraft:fluoroCarbonFluid[level=11]",
+      "hydcraft:fluoroCarbonFluid[level=12]",
+      "hydcraft:fluoroCarbonFluid[level=13]",
+      "hydcraft:fluoroCarbonFluid[level=14]",
+      "hydcraft:fluoroCarbonFluid[level=15]"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "hydraulicDynamo",
+    "States": [
+      "hydcraft:hydraulicDynamo"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "LPRFPump",
+    "States": [
+      "hydcraft:LPRFPump[tier=TIER-0]",
+      "hydcraft:LPRFPump[tier=TIER-1]",
+      "hydcraft:LPRFPump[tier=TIER-2]",
+      "hydcraft:LPRFPump[tier=TIER-3]"
+    ]
+  },
+  {
+    "Mod": "hydcraft",
+    "Name": "hydraulicPneumaticCompressor",
+    "States": [
+      "hydcraft:hydraulicPneumaticCompressor"
+    ]
+  }
+]
