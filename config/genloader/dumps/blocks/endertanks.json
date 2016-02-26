@@ -1,0 +1,32 @@
+[
+  {
+    "Mod": "endertanks",
+    "Name": "blockEnderTank",
+    "States": [
+      "endertanks:blockEnderTank[facing=down,personal=true,powered=true]",
+      "endertanks:blockEnderTank[facing=down,personal=true,powered=false]",
+      "endertanks:blockEnderTank[facing=down,personal=false,powered=true]",
+      "endertanks:blockEnderTank[facing=down,personal=false,powered=false]",
+      "endertanks:blockEnderTank[facing=up,personal=true,powered=true]",
+      "endertanks:blockEnderTank[facing=up,personal=true,powered=false]",
+      "endertanks:blockEnderTank[facing=up,personal=false,powered=true]",
+      "endertanks:blockEnderTank[facing=up,personal=false,powered=false]",
+      "endertanks:blockEnderTank[facing=north,personal=true,powered=true]",
+      "endertanks:blockEnderTank[facing=north,personal=true,powered=false]",
+      "endertanks:blockEnderTank[facing=north,personal=false,powered=true]",
+      "endertanks:blockEnderTank[facing=north,personal=false,powered=false]",
+      "endertanks:blockEnderTank[facing=south,personal=true,powered=true]",
+      "endertanks:blockEnderTank[facing=south,personal=true,powered=false]",
+      "endertanks:blockEnderTank[facing=south,personal=false,powered=true]",
+      "endertanks:blockEnderTank[facing=south,personal=false,powered=false]",
+      "endertanks:blockEnderTank[facing=west,personal=true,powered=true]",
+      "endertanks:blockEnderTank[facing=west,personal=true,powered=false]",
+      "endertanks:blockEnderTank[facing=west,personal=false,powered=true]",
+      "endertanks:blockEnderTank[facing=west,personal=false,powered=false]",
+      "endertanks:blockEnderTank[facing=east,personal=true,powered=true]",
+      "endertanks:blockEnderTank[facing=east,personal=true,powered=false]",
+      "endertanks:blockEnderTank[facing=east,personal=false,powered=true]",
+      "endertanks:blockEnderTank[facing=east,personal=false,powered=false]"
+    ]
+  }
+]

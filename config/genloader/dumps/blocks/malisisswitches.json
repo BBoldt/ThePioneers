@@ -1,0 +1,20 @@
+[
+  {
+    "Mod": "malisisswitches",
+    "Name": "basicSwitch1",
+    "States": [
+      "malisisswitches:basicSwitch1[direction=down,power=true]",
+      "malisisswitches:basicSwitch1[direction=down,power=false]",
+      "malisisswitches:basicSwitch1[direction=up,power=true]",
+      "malisisswitches:basicSwitch1[direction=up,power=false]",
+      "malisisswitches:basicSwitch1[direction=north,power=true]",
+      "malisisswitches:basicSwitch1[direction=north,power=false]",
+      "malisisswitches:basicSwitch1[direction=south,power=true]",
+      "malisisswitches:basicSwitch1[direction=south,power=false]",
+      "malisisswitches:basicSwitch1[direction=west,power=true]",
+      "malisisswitches:basicSwitch1[direction=west,power=false]",
+      "malisisswitches:basicSwitch1[direction=east,power=true]",
+      "malisisswitches:basicSwitch1[direction=east,power=false]"
+    ]
+  }
+]

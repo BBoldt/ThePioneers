@@ -1,0 +1,104 @@
+[
+  {
+    "Mod": "malisisblocks",
+    "Name": "vanishing_block",
+    "States": [
+      "malisisblocks:vanishing_block[powered=true,transition=true,type=WOOD]",
+      "malisisblocks:vanishing_block[powered=true,transition=true,type=IRON]",
+      "malisisblocks:vanishing_block[powered=true,transition=true,type=GOLD]",
+      "malisisblocks:vanishing_block[powered=true,transition=true,type=DIAMOND]",
+      "malisisblocks:vanishing_block[powered=true,transition=false,type=WOOD]",
+      "malisisblocks:vanishing_block[powered=true,transition=false,type=IRON]",
+      "malisisblocks:vanishing_block[powered=true,transition=false,type=GOLD]",
+      "malisisblocks:vanishing_block[powered=true,transition=false,type=DIAMOND]",
+      "malisisblocks:vanishing_block[powered=false,transition=true,type=WOOD]",
+      "malisisblocks:vanishing_block[powered=false,transition=true,type=IRON]",
+      "malisisblocks:vanishing_block[powered=false,transition=true,type=GOLD]",
+      "malisisblocks:vanishing_block[powered=false,transition=true,type=DIAMOND]",
+      "malisisblocks:vanishing_block[powered=false,transition=false,type=WOOD]",
+      "malisisblocks:vanishing_block[powered=false,transition=false,type=IRON]",
+      "malisisblocks:vanishing_block[powered=false,transition=false,type=GOLD]",
+      "malisisblocks:vanishing_block[powered=false,transition=false,type=DIAMOND]"
+    ]
+  },
+  {
+    "Mod": "malisisblocks",
+    "Name": "vanishing_block_diamond",
+    "States": [
+      "malisisblocks:vanishing_block_diamond[powered=true,transition=true,type=WOOD]",
+      "malisisblocks:vanishing_block_diamond[powered=true,transition=true,type=IRON]",
+      "malisisblocks:vanishing_block_diamond[powered=true,transition=true,type=GOLD]",
+      "malisisblocks:vanishing_block_diamond[powered=true,transition=true,type=DIAMOND]",
+      "malisisblocks:vanishing_block_diamond[powered=true,transition=false,type=WOOD]",
+      "malisisblocks:vanishing_block_diamond[powered=true,transition=false,type=IRON]",
+      "malisisblocks:vanishing_block_diamond[powered=true,transition=false,type=GOLD]",
+      "malisisblocks:vanishing_block_diamond[powered=true,transition=false,type=DIAMOND]",
+      "malisisblocks:vanishing_block_diamond[powered=false,transition=true,type=WOOD]",
+      "malisisblocks:vanishing_block_diamond[powered=false,transition=true,type=IRON]",
+      "malisisblocks:vanishing_block_diamond[powered=false,transition=true,type=GOLD]",
+      "malisisblocks:vanishing_block_diamond[powered=false,transition=true,type=DIAMOND]",
+      "malisisblocks:vanishing_block_diamond[powered=false,transition=false,type=WOOD]",
+      "malisisblocks:vanishing_block_diamond[powered=false,transition=false,type=IRON]",
+      "malisisblocks:vanishing_block_diamond[powered=false,transition=false,type=GOLD]",
+      "malisisblocks:vanishing_block_diamond[powered=false,transition=false,type=DIAMOND]"
+    ]
+  },
+  {
+    "Mod": "malisisblocks",
+    "Name": "block_mixer",
+    "States": [
+      "malisisblocks:block_mixer[direction=north]",
+      "malisisblocks:block_mixer[direction=south]",
+      "malisisblocks:block_mixer[direction=west]",
+      "malisisblocks:block_mixer[direction=east]"
+    ]
+  },
+  {
+    "Mod": "malisisblocks",
+    "Name": "mixed_block",
+    "States": [
+      "malisisblocks:mixed_block[direction=down]",
+      "malisisblocks:mixed_block[direction=up]",
+      "malisisblocks:mixed_block[direction=north]",
+      "malisisblocks:mixed_block[direction=south]",
+      "malisisblocks:mixed_block[direction=west]",
+      "malisisblocks:mixed_block[direction=east]"
+    ]
+  },
+  {
+    "Mod": "malisisblocks",
+    "Name": "player_sensor",
+    "States": [
+      "malisisblocks:player_sensor[direction=down,powered=true]",
+      "malisisblocks:player_sensor[direction=down,powered=false]",
+      "malisisblocks:player_sensor[direction=up,powered=true]",
+      "malisisblocks:player_sensor[direction=up,powered=false]",
+      "malisisblocks:player_sensor[direction=north,powered=true]",
+      "malisisblocks:player_sensor[direction=north,powered=false]",
+      "malisisblocks:player_sensor[direction=south,powered=true]",
+      "malisisblocks:player_sensor[direction=south,powered=false]",
+      "malisisblocks:player_sensor[direction=west,powered=true]",
+      "malisisblocks:player_sensor[direction=west,powered=false]",
+      "malisisblocks:player_sensor[direction=east,powered=true]",
+      "malisisblocks:player_sensor[direction=east,powered=false]"
+    ]
+  },
+  {
+    "Mod": "malisisblocks",
+    "Name": "swapper",
+    "States": [
+      "malisisblocks:swapper[direction=down,power=true]",
+      "malisisblocks:swapper[direction=down,power=false]",
+      "malisisblocks:swapper[direction=up,power=true]",
+      "malisisblocks:swapper[direction=up,power=false]",
+      "malisisblocks:swapper[direction=north,power=true]",
+      "malisisblocks:swapper[direction=north,power=false]",
+      "malisisblocks:swapper[direction=south,power=true]",
+      "malisisblocks:swapper[direction=south,power=false]",
+      "malisisblocks:swapper[direction=west,power=true]",
+      "malisisblocks:swapper[direction=west,power=false]",
+      "malisisblocks:swapper[direction=east,power=true]",
+      "malisisblocks:swapper[direction=east,power=false]"
+    ]
+  }
+]

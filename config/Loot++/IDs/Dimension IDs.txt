@@ -45,3 +45,12 @@
 	- Terrain Scale: 1.0
 
 
+-343800852
+	- Name: SpectreDimension
+	- Height: 128
+	- Has Sky? false
+	- Cloud Height: -5.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+

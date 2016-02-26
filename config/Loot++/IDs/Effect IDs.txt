@@ -8,10 +8,10 @@
 ##    - Is Bad? <true if considered a 'bad' effect (only on client)> ##
 #######################################################################
 0
-	- Name: potion.slimebounce
-	- Color: 16777215
+	- Name: potion.enderference
+	- Color: 2201695
 	- Is Instant? false
-	- Is Bad? false
+	- Is Bad? true
 
 
 1
@@ -197,307 +197,314 @@
 
 
 27
-	- Name: potion.splinter
+	- Name: potion.dot
 	- Color: 16777215
 	- Is Instant? false
 	- Is Bad? true
 
 
 28
+	- Name: potion.splinter
+	- Color: 16777215
+	- Is Instant? false
+	- Is Bad? true
+
+
+29
 	- Name: potion.paralysis
 	- Color: 16767262
 	- Is Instant? false
 	- Is Bad? true
 
 
-29
+30
 	- Name: potion.possession
 	- Color: 1280
 	- Is Instant? false
 	- Is Bad? true
 
 
-30
+31
 	- Name: potion.intangible:bloodlust
 	- Color: 3342336
 	- Is Instant? false
 	- Is Bad? false
 
 
-31
+32
 	- Name: potion.intangible:cowardly
 	- Color: 16766976
 	- Is Instant? false
 	- Is Bad? false
 
 
-32
+33
 	- Name: potion.intangible:tank
 	- Color: 3397632
 	- Is Instant? false
 	- Is Bad? false
 
 
-33
+34
 	- Name: potion.intangible:pickpocket
 	- Color: 10040132
 	- Is Instant? false
 	- Is Bad? false
 
 
-34
+35
 	- Name: Boost
 	- Color: 0
 	- Is Instant? false
 	- Is Bad? false
 
 
-35
+36
 	- Name: Whirlwind
 	- Color: 0
 	- Is Instant? false
 	- Is Bad? false
 
 
-36
+37
 	- Name: Planar Binding
 	- Color: 0
 	- Is Instant? false
 	- Is Bad? false
 
 
-37
+38
 	- Name: Soul Snare
 	- Color: 16777215
 	- Is Instant? false
 	- Is Bad? false
 
 
-38
+39
 	- Name: Soul Fray
 	- Color: 16777215
 	- Is Instant? false
 	- Is Bad? true
 
 
-39
+40
 	- Name: botania.potion.soulCross
 	- Color: 4670781
 	- Is Instant? false
 	- Is Bad? false
 
 
-40
+41
 	- Name: botania.potion.featherFeet
 	- Color: 2534911
 	- Is Instant? false
 	- Is Bad? false
 
 
-41
+42
 	- Name: botania.potion.emptiness
 	- Color: 16437247
 	- Is Instant? false
 	- Is Bad? false
 
 
-42
+43
 	- Name: botania.potion.bloodthirst
 	- Color: 12779520
 	- Is Instant? false
 	- Is Bad? false
 
 
-43
+44
 	- Name: botania.potion.allure
 	- Color: 13540
 	- Is Instant? false
 	- Is Bad? false
 
 
-44
+45
 	- Name: botania.potion.clear
 	- Color: 16777215
 	- Is Instant? true
 	- Is Bad? false
 
 
-45
+46
 	- Name: 
 	- Color: 0
 	- Is Instant? false
 	- Is Bad? false
 
 
-46
+47
 	- Name: Fire Imbue
 	- Color: -14336
 	- Is Instant? false
 	- Is Bad? false
 
 
-47
+48
 	- Name: Poison Imbue
 	- Color: -16731648
 	- Is Instant? false
 	- Is Bad? false
 
 
-48
+49
 	- Name: Experience Imbue
 	- Color: -256
 	- Is Instant? false
 	- Is Bad? false
 
 
-49
+50
 	- Name: Wither Imbue
 	- Color: -16579837
 	- Is Instant? false
 	- Is Bad? false
 
 
-50
+51
 	- Name: Collapse Imbue
 	- Color: -20561
 	- Is Instant? false
 	- Is Bad? false
 
 
-51
+52
 	- Name: Collapse
 	- Color: -20561
 	- Is Instant? false
 	- Is Bad? false
 
 
-52
+53
 	- Name: Boss
 	- Color: -16777216
 	- Is Instant? false
 	- Is Bad? false
 
 
-53
+54
 	- Name: totemic.potion.bat
 	- Color: 15921904
 	- Is Instant? false
 	- Is Bad? false
 
 
-54
+55
 	- Name: totemic.potion.horse
 	- Color: 6376455
 	- Is Instant? false
 	- Is Bad? false
 
 
-55
+56
 	- Name: totemic.potion.spider
 	- Color: 5391188
 	- Is Instant? false
 	- Is Bad? false
 
 
-56
+57
 	- Name: Red Curse
 	- Color: 16711680
 	- Is Instant? false
 	- Is Bad? true
 
 
-57
+58
 	- Name: Orange Curse
 	- Color: 16755200
 	- Is Instant? false
 	- Is Bad? true
 
 
-58
+59
 	- Name: Yellow Curse
 	- Color: 16777045
 	- Is Instant? false
 	- Is Bad? true
 
 
-59
+60
 	- Name: Green Curse
 	- Color: 43520
 	- Is Instant? false
 	- Is Bad? true
 
 
-60
+61
 	- Name: Blue Curse
 	- Color: 170
 	- Is Instant? false
 	- Is Bad? true
 
 
-61
+62
 	- Name: Violet Curse
 	- Color: 11141290
 	- Is Instant? false
 	- Is Bad? true
 
 
-62
+63
 	- Name: potion.fluxtaint
 	- Color: 6697847
 	- Is Instant? false
 	- Is Bad? true
 
 
-63
+64
 	- Name: potion.visexhaust
 	- Color: 6702199
 	- Is Instant? false
 	- Is Bad? true
 
 
-64
+65
 	- Name: potion.infvisexhaust
 	- Color: 6706551
 	- Is Instant? false
 	- Is Bad? true
 
 
-65
+66
 	- Name: potion.unhunger
 	- Color: 4482611
 	- Is Instant? false
 	- Is Bad? true
 
 
-66
+67
 	- Name: potion.warpward
 	- Color: 14742263
 	- Is Instant? false
 	- Is Bad? false
 
 
-67
+68
 	- Name: potion.deathgaze
 	- Color: 6702131
 	- Is Instant? false
 	- Is Bad? true
 
 
-68
+69
 	- Name: potion.blurred
 	- Color: 8421504
 	- Is Instant? false
 	- Is Bad? true
 
 
-69
+70
 	- Name: potion.sunscorned
 	- Color: 16308330
 	- Is Instant? false
 	- Is Bad? true
 
 
-70
+71
 	- Name: potion.thaumarhia
 	- Color: 6702199
 	- Is Instant? false

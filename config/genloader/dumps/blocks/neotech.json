@@ -78,6 +78,34 @@
   },
   {
     "Mod": "neotech",
+    "Name": "electricCrucible",
+    "States": [
+      "neotech:electricCrucible[facing=north,isactive=true]",
+      "neotech:electricCrucible[facing=north,isactive=false]",
+      "neotech:electricCrucible[facing=east,isactive=true]",
+      "neotech:electricCrucible[facing=east,isactive=false]",
+      "neotech:electricCrucible[facing=south,isactive=true]",
+      "neotech:electricCrucible[facing=south,isactive=false]",
+      "neotech:electricCrucible[facing=west,isactive=true]",
+      "neotech:electricCrucible[facing=west,isactive=false]"
+    ]
+  },
+  {
+    "Mod": "neotech",
+    "Name": "electricSolidifier",
+    "States": [
+      "neotech:electricSolidifier[facing=north,isactive=true]",
+      "neotech:electricSolidifier[facing=north,isactive=false]",
+      "neotech:electricSolidifier[facing=east,isactive=true]",
+      "neotech:electricSolidifier[facing=east,isactive=false]",
+      "neotech:electricSolidifier[facing=south,isactive=true]",
+      "neotech:electricSolidifier[facing=south,isactive=false]",
+      "neotech:electricSolidifier[facing=west,isactive=true]",
+      "neotech:electricSolidifier[facing=west,isactive=false]"
+    ]
+  },
+  {
+    "Mod": "neotech",
     "Name": "pump",
     "States": [
       "neotech:pump[isactive=true]",
@@ -97,41 +125,6 @@
     "Name": "mechanicalPipe",
     "States": [
       "neotech:mechanicalPipe"
-    ]
-  },
-  {
-    "Mod": "neotech",
-    "Name": "oreCopper",
-    "States": [
-      "neotech:oreCopper"
-    ]
-  },
-  {
-    "Mod": "neotech",
-    "Name": "oreTin",
-    "States": [
-      "neotech:oreTin"
-    ]
-  },
-  {
-    "Mod": "neotech",
-    "Name": "blockCopper",
-    "States": [
-      "neotech:blockCopper"
-    ]
-  },
-  {
-    "Mod": "neotech",
-    "Name": "blockTin",
-    "States": [
-      "neotech:blockTin"
-    ]
-  },
-  {
-    "Mod": "neotech",
-    "Name": "blockBronze",
-    "States": [
-      "neotech:blockBronze"
     ]
   },
   {
@@ -3862,7 +3855,258 @@
     "Mod": "neotech",
     "Name": "blockAttractor",
     "States": [
-      "neotech:blockAttractor"
+      "neotech:blockAttractor[attached_side=down]",
+      "neotech:blockAttractor[attached_side=up]",
+      "neotech:blockAttractor[attached_side=north]",
+      "neotech:blockAttractor[attached_side=south]",
+      "neotech:blockAttractor[attached_side=west]",
+      "neotech:blockAttractor[attached_side=east]"
+    ]
+  },
+  {
+    "Mod": "neotech",
+    "Name": "fluid.copper",
+    "States": [
+      "neotech:fluid.copper[level=0]",
+      "neotech:fluid.copper[level=1]",
+      "neotech:fluid.copper[level=2]",
+      "neotech:fluid.copper[level=3]",
+      "neotech:fluid.copper[level=4]",
+      "neotech:fluid.copper[level=5]",
+      "neotech:fluid.copper[level=6]",
+      "neotech:fluid.copper[level=7]",
+      "neotech:fluid.copper[level=8]",
+      "neotech:fluid.copper[level=9]",
+      "neotech:fluid.copper[level=10]",
+      "neotech:fluid.copper[level=11]",
+      "neotech:fluid.copper[level=12]",
+      "neotech:fluid.copper[level=13]",
+      "neotech:fluid.copper[level=14]",
+      "neotech:fluid.copper[level=15]"
+    ]
+  },
+  {
+    "Mod": "neotech",
+    "Name": "oreCopper",
+    "States": [
+      "neotech:oreCopper"
+    ]
+  },
+  {
+    "Mod": "neotech",
+    "Name": "blockCopper",
+    "States": [
+      "neotech:blockCopper"
+    ]
+  },
+  {
+    "Mod": "neotech",
+    "Name": "fluid.tin",
+    "States": [
+      "neotech:fluid.tin[level=0]",
+      "neotech:fluid.tin[level=1]",
+      "neotech:fluid.tin[level=2]",
+      "neotech:fluid.tin[level=3]",
+      "neotech:fluid.tin[level=4]",
+      "neotech:fluid.tin[level=5]",
+      "neotech:fluid.tin[level=6]",
+      "neotech:fluid.tin[level=7]",
+      "neotech:fluid.tin[level=8]",
+      "neotech:fluid.tin[level=9]",
+      "neotech:fluid.tin[level=10]",
+      "neotech:fluid.tin[level=11]",
+      "neotech:fluid.tin[level=12]",
+      "neotech:fluid.tin[level=13]",
+      "neotech:fluid.tin[level=14]",
+      "neotech:fluid.tin[level=15]"
+    ]
+  },
+  {
+    "Mod": "neotech",
+    "Name": "oreTin",
+    "States": [
+      "neotech:oreTin"
+    ]
+  },
+  {
+    "Mod": "neotech",
+    "Name": "blockTin",
+    "States": [
+      "neotech:blockTin"
+    ]
+  },
+  {
+    "Mod": "neotech",
+    "Name": "fluid.lead",
+    "States": [
+      "neotech:fluid.lead[level=0]",
+      "neotech:fluid.lead[level=1]",
+      "neotech:fluid.lead[level=2]",
+      "neotech:fluid.lead[level=3]",
+      "neotech:fluid.lead[level=4]",
+      "neotech:fluid.lead[level=5]",
+      "neotech:fluid.lead[level=6]",
+      "neotech:fluid.lead[level=7]",
+      "neotech:fluid.lead[level=8]",
+      "neotech:fluid.lead[level=9]",
+      "neotech:fluid.lead[level=10]",
+      "neotech:fluid.lead[level=11]",
+      "neotech:fluid.lead[level=12]",
+      "neotech:fluid.lead[level=13]",
+      "neotech:fluid.lead[level=14]",
+      "neotech:fluid.lead[level=15]"
+    ]
+  },
+  {
+    "Mod": "neotech",
+    "Name": "oreLead",
+    "States": [
+      "neotech:oreLead"
+    ]
+  },
+  {
+    "Mod": "neotech",
+    "Name": "blockLead",
+    "States": [
+      "neotech:blockLead"
+    ]
+  },
+  {
+    "Mod": "neotech",
+    "Name": "fluid.silver",
+    "States": [
+      "neotech:fluid.silver[level=0]",
+      "neotech:fluid.silver[level=1]",
+      "neotech:fluid.silver[level=2]",
+      "neotech:fluid.silver[level=3]",
+      "neotech:fluid.silver[level=4]",
+      "neotech:fluid.silver[level=5]",
+      "neotech:fluid.silver[level=6]",
+      "neotech:fluid.silver[level=7]",
+      "neotech:fluid.silver[level=8]",
+      "neotech:fluid.silver[level=9]",
+      "neotech:fluid.silver[level=10]",
+      "neotech:fluid.silver[level=11]",
+      "neotech:fluid.silver[level=12]",
+      "neotech:fluid.silver[level=13]",
+      "neotech:fluid.silver[level=14]",
+      "neotech:fluid.silver[level=15]"
+    ]
+  },
+  {
+    "Mod": "neotech",
+    "Name": "oreSilver",
+    "States": [
+      "neotech:oreSilver"
+    ]
+  },
+  {
+    "Mod": "neotech",
+    "Name": "blockSilver",
+    "States": [
+      "neotech:blockSilver"
+    ]
+  },
+  {
+    "Mod": "neotech",
+    "Name": "fluid.bronze",
+    "States": [
+      "neotech:fluid.bronze[level=0]",
+      "neotech:fluid.bronze[level=1]",
+      "neotech:fluid.bronze[level=2]",
+      "neotech:fluid.bronze[level=3]",
+      "neotech:fluid.bronze[level=4]",
+      "neotech:fluid.bronze[level=5]",
+      "neotech:fluid.bronze[level=6]",
+      "neotech:fluid.bronze[level=7]",
+      "neotech:fluid.bronze[level=8]",
+      "neotech:fluid.bronze[level=9]",
+      "neotech:fluid.bronze[level=10]",
+      "neotech:fluid.bronze[level=11]",
+      "neotech:fluid.bronze[level=12]",
+      "neotech:fluid.bronze[level=13]",
+      "neotech:fluid.bronze[level=14]",
+      "neotech:fluid.bronze[level=15]"
+    ]
+  },
+  {
+    "Mod": "neotech",
+    "Name": "blockBronze",
+    "States": [
+      "neotech:blockBronze"
+    ]
+  },
+  {
+    "Mod": "neotech",
+    "Name": "fluid.steel",
+    "States": [
+      "neotech:fluid.steel[level=0]",
+      "neotech:fluid.steel[level=1]",
+      "neotech:fluid.steel[level=2]",
+      "neotech:fluid.steel[level=3]",
+      "neotech:fluid.steel[level=4]",
+      "neotech:fluid.steel[level=5]",
+      "neotech:fluid.steel[level=6]",
+      "neotech:fluid.steel[level=7]",
+      "neotech:fluid.steel[level=8]",
+      "neotech:fluid.steel[level=9]",
+      "neotech:fluid.steel[level=10]",
+      "neotech:fluid.steel[level=11]",
+      "neotech:fluid.steel[level=12]",
+      "neotech:fluid.steel[level=13]",
+      "neotech:fluid.steel[level=14]",
+      "neotech:fluid.steel[level=15]"
+    ]
+  },
+  {
+    "Mod": "neotech",
+    "Name": "blockSteel",
+    "States": [
+      "neotech:blockSteel"
+    ]
+  },
+  {
+    "Mod": "neotech",
+    "Name": "fluid.gold",
+    "States": [
+      "neotech:fluid.gold[level=0]",
+      "neotech:fluid.gold[level=1]",
+      "neotech:fluid.gold[level=2]",
+      "neotech:fluid.gold[level=3]",
+      "neotech:fluid.gold[level=4]",
+      "neotech:fluid.gold[level=5]",
+      "neotech:fluid.gold[level=6]",
+      "neotech:fluid.gold[level=7]",
+      "neotech:fluid.gold[level=8]",
+      "neotech:fluid.gold[level=9]",
+      "neotech:fluid.gold[level=10]",
+      "neotech:fluid.gold[level=11]",
+      "neotech:fluid.gold[level=12]",
+      "neotech:fluid.gold[level=13]",
+      "neotech:fluid.gold[level=14]",
+      "neotech:fluid.gold[level=15]"
+    ]
+  },
+  {
+    "Mod": "neotech",
+    "Name": "fluid.iron",
+    "States": [
+      "neotech:fluid.iron[level=0]",
+      "neotech:fluid.iron[level=1]",
+      "neotech:fluid.iron[level=2]",
+      "neotech:fluid.iron[level=3]",
+      "neotech:fluid.iron[level=4]",
+      "neotech:fluid.iron[level=5]",
+      "neotech:fluid.iron[level=6]",
+      "neotech:fluid.iron[level=7]",
+      "neotech:fluid.iron[level=8]",
+      "neotech:fluid.iron[level=9]",
+      "neotech:fluid.iron[level=10]",
+      "neotech:fluid.iron[level=11]",
+      "neotech:fluid.iron[level=12]",
+      "neotech:fluid.iron[level=13]",
+      "neotech:fluid.iron[level=14]",
+      "neotech:fluid.iron[level=15]"
     ]
   }
 ]

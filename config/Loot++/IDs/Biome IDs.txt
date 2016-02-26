@@ -413,6 +413,14 @@
 	- Name: Flower Island
 	- Forge Biome Types: DENSE LUSH MAGICAL OCEAN RIVER PLAINS 
 
+126
+	- Name: Ocean Oil Field
+	- Forge Biome Types: OCEAN RIVER 
+
+127
+	- Name: Desert Oil Field
+	- Forge Biome Types: SANDY 
+
 129
 	- Name: Sunflower Plains
 	- Forge Biome Types: PLAINS 

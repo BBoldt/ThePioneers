@@ -20,6 +20,14 @@
   },
   {
     "Mod": "tconstruct",
+    "Name": "firewood",
+    "States": [
+      "tconstruct:firewood[type=LAVAWOOD]",
+      "tconstruct:firewood[type=FIREWOOD]"
+    ]
+  },
+  {
+    "Mod": "tconstruct",
     "Name": "metal",
     "States": [
       "tconstruct:metal[type=COBALT]",
@@ -620,6 +628,160 @@
   },
   {
     "Mod": "tconstruct",
+    "Name": "molten_copper",
+    "States": [
+      "tconstruct:molten_copper[level=0]",
+      "tconstruct:molten_copper[level=1]",
+      "tconstruct:molten_copper[level=2]",
+      "tconstruct:molten_copper[level=3]",
+      "tconstruct:molten_copper[level=4]",
+      "tconstruct:molten_copper[level=5]",
+      "tconstruct:molten_copper[level=6]",
+      "tconstruct:molten_copper[level=7]",
+      "tconstruct:molten_copper[level=8]",
+      "tconstruct:molten_copper[level=9]",
+      "tconstruct:molten_copper[level=10]",
+      "tconstruct:molten_copper[level=11]",
+      "tconstruct:molten_copper[level=12]",
+      "tconstruct:molten_copper[level=13]",
+      "tconstruct:molten_copper[level=14]",
+      "tconstruct:molten_copper[level=15]"
+    ]
+  },
+  {
+    "Mod": "tconstruct",
+    "Name": "molten_bronze",
+    "States": [
+      "tconstruct:molten_bronze[level=0]",
+      "tconstruct:molten_bronze[level=1]",
+      "tconstruct:molten_bronze[level=2]",
+      "tconstruct:molten_bronze[level=3]",
+      "tconstruct:molten_bronze[level=4]",
+      "tconstruct:molten_bronze[level=5]",
+      "tconstruct:molten_bronze[level=6]",
+      "tconstruct:molten_bronze[level=7]",
+      "tconstruct:molten_bronze[level=8]",
+      "tconstruct:molten_bronze[level=9]",
+      "tconstruct:molten_bronze[level=10]",
+      "tconstruct:molten_bronze[level=11]",
+      "tconstruct:molten_bronze[level=12]",
+      "tconstruct:molten_bronze[level=13]",
+      "tconstruct:molten_bronze[level=14]",
+      "tconstruct:molten_bronze[level=15]"
+    ]
+  },
+  {
+    "Mod": "tconstruct",
+    "Name": "molten_lead",
+    "States": [
+      "tconstruct:molten_lead[level=0]",
+      "tconstruct:molten_lead[level=1]",
+      "tconstruct:molten_lead[level=2]",
+      "tconstruct:molten_lead[level=3]",
+      "tconstruct:molten_lead[level=4]",
+      "tconstruct:molten_lead[level=5]",
+      "tconstruct:molten_lead[level=6]",
+      "tconstruct:molten_lead[level=7]",
+      "tconstruct:molten_lead[level=8]",
+      "tconstruct:molten_lead[level=9]",
+      "tconstruct:molten_lead[level=10]",
+      "tconstruct:molten_lead[level=11]",
+      "tconstruct:molten_lead[level=12]",
+      "tconstruct:molten_lead[level=13]",
+      "tconstruct:molten_lead[level=14]",
+      "tconstruct:molten_lead[level=15]"
+    ]
+  },
+  {
+    "Mod": "tconstruct",
+    "Name": "molten_silver",
+    "States": [
+      "tconstruct:molten_silver[level=0]",
+      "tconstruct:molten_silver[level=1]",
+      "tconstruct:molten_silver[level=2]",
+      "tconstruct:molten_silver[level=3]",
+      "tconstruct:molten_silver[level=4]",
+      "tconstruct:molten_silver[level=5]",
+      "tconstruct:molten_silver[level=6]",
+      "tconstruct:molten_silver[level=7]",
+      "tconstruct:molten_silver[level=8]",
+      "tconstruct:molten_silver[level=9]",
+      "tconstruct:molten_silver[level=10]",
+      "tconstruct:molten_silver[level=11]",
+      "tconstruct:molten_silver[level=12]",
+      "tconstruct:molten_silver[level=13]",
+      "tconstruct:molten_silver[level=14]",
+      "tconstruct:molten_silver[level=15]"
+    ]
+  },
+  {
+    "Mod": "tconstruct",
+    "Name": "molten_electrum",
+    "States": [
+      "tconstruct:molten_electrum[level=0]",
+      "tconstruct:molten_electrum[level=1]",
+      "tconstruct:molten_electrum[level=2]",
+      "tconstruct:molten_electrum[level=3]",
+      "tconstruct:molten_electrum[level=4]",
+      "tconstruct:molten_electrum[level=5]",
+      "tconstruct:molten_electrum[level=6]",
+      "tconstruct:molten_electrum[level=7]",
+      "tconstruct:molten_electrum[level=8]",
+      "tconstruct:molten_electrum[level=9]",
+      "tconstruct:molten_electrum[level=10]",
+      "tconstruct:molten_electrum[level=11]",
+      "tconstruct:molten_electrum[level=12]",
+      "tconstruct:molten_electrum[level=13]",
+      "tconstruct:molten_electrum[level=14]",
+      "tconstruct:molten_electrum[level=15]"
+    ]
+  },
+  {
+    "Mod": "tconstruct",
+    "Name": "molten_steel",
+    "States": [
+      "tconstruct:molten_steel[level=0]",
+      "tconstruct:molten_steel[level=1]",
+      "tconstruct:molten_steel[level=2]",
+      "tconstruct:molten_steel[level=3]",
+      "tconstruct:molten_steel[level=4]",
+      "tconstruct:molten_steel[level=5]",
+      "tconstruct:molten_steel[level=6]",
+      "tconstruct:molten_steel[level=7]",
+      "tconstruct:molten_steel[level=8]",
+      "tconstruct:molten_steel[level=9]",
+      "tconstruct:molten_steel[level=10]",
+      "tconstruct:molten_steel[level=11]",
+      "tconstruct:molten_steel[level=12]",
+      "tconstruct:molten_steel[level=13]",
+      "tconstruct:molten_steel[level=14]",
+      "tconstruct:molten_steel[level=15]"
+    ]
+  },
+  {
+    "Mod": "tconstruct",
+    "Name": "molten_gold",
+    "States": [
+      "tconstruct:molten_gold[level=0]",
+      "tconstruct:molten_gold[level=1]",
+      "tconstruct:molten_gold[level=2]",
+      "tconstruct:molten_gold[level=3]",
+      "tconstruct:molten_gold[level=4]",
+      "tconstruct:molten_gold[level=5]",
+      "tconstruct:molten_gold[level=6]",
+      "tconstruct:molten_gold[level=7]",
+      "tconstruct:molten_gold[level=8]",
+      "tconstruct:molten_gold[level=9]",
+      "tconstruct:molten_gold[level=10]",
+      "tconstruct:molten_gold[level=11]",
+      "tconstruct:molten_gold[level=12]",
+      "tconstruct:molten_gold[level=13]",
+      "tconstruct:molten_gold[level=14]",
+      "tconstruct:molten_gold[level=15]"
+    ]
+  },
+  {
+    "Mod": "tconstruct",
     "Name": "molten_brass",
     "States": [
       "tconstruct:molten_brass[level=0]",
@@ -638,6 +800,72 @@
       "tconstruct:molten_brass[level=13]",
       "tconstruct:molten_brass[level=14]",
       "tconstruct:molten_brass[level=15]"
+    ]
+  },
+  {
+    "Mod": "tconstruct",
+    "Name": "molten_tin",
+    "States": [
+      "tconstruct:molten_tin[level=0]",
+      "tconstruct:molten_tin[level=1]",
+      "tconstruct:molten_tin[level=2]",
+      "tconstruct:molten_tin[level=3]",
+      "tconstruct:molten_tin[level=4]",
+      "tconstruct:molten_tin[level=5]",
+      "tconstruct:molten_tin[level=6]",
+      "tconstruct:molten_tin[level=7]",
+      "tconstruct:molten_tin[level=8]",
+      "tconstruct:molten_tin[level=9]",
+      "tconstruct:molten_tin[level=10]",
+      "tconstruct:molten_tin[level=11]",
+      "tconstruct:molten_tin[level=12]",
+      "tconstruct:molten_tin[level=13]",
+      "tconstruct:molten_tin[level=14]",
+      "tconstruct:molten_tin[level=15]"
+    ]
+  },
+  {
+    "Mod": "tconstruct",
+    "Name": "molten_nickel",
+    "States": [
+      "tconstruct:molten_nickel[level=0]",
+      "tconstruct:molten_nickel[level=1]",
+      "tconstruct:molten_nickel[level=2]",
+      "tconstruct:molten_nickel[level=3]",
+      "tconstruct:molten_nickel[level=4]",
+      "tconstruct:molten_nickel[level=5]",
+      "tconstruct:molten_nickel[level=6]",
+      "tconstruct:molten_nickel[level=7]",
+      "tconstruct:molten_nickel[level=8]",
+      "tconstruct:molten_nickel[level=9]",
+      "tconstruct:molten_nickel[level=10]",
+      "tconstruct:molten_nickel[level=11]",
+      "tconstruct:molten_nickel[level=12]",
+      "tconstruct:molten_nickel[level=13]",
+      "tconstruct:molten_nickel[level=14]",
+      "tconstruct:molten_nickel[level=15]"
+    ]
+  },
+  {
+    "Mod": "tconstruct",
+    "Name": "molten_zinc",
+    "States": [
+      "tconstruct:molten_zinc[level=0]",
+      "tconstruct:molten_zinc[level=1]",
+      "tconstruct:molten_zinc[level=2]",
+      "tconstruct:molten_zinc[level=3]",
+      "tconstruct:molten_zinc[level=4]",
+      "tconstruct:molten_zinc[level=5]",
+      "tconstruct:molten_zinc[level=6]",
+      "tconstruct:molten_zinc[level=7]",
+      "tconstruct:molten_zinc[level=8]",
+      "tconstruct:molten_zinc[level=9]",
+      "tconstruct:molten_zinc[level=10]",
+      "tconstruct:molten_zinc[level=11]",
+      "tconstruct:molten_zinc[level=12]",
+      "tconstruct:molten_zinc[level=13]",
+      "tconstruct:molten_zinc[level=14]",
+      "tconstruct:molten_zinc[level=15]"
     ]
   },
   {
@@ -682,28 +910,6 @@
       "tconstruct:molten_obsidian[level=13]",
       "tconstruct:molten_obsidian[level=14]",
       "tconstruct:molten_obsidian[level=15]"
-    ]
-  },
-  {
-    "Mod": "tconstruct",
-    "Name": "molten_gold",
-    "States": [
-      "tconstruct:molten_gold[level=0]",
-      "tconstruct:molten_gold[level=1]",
-      "tconstruct:molten_gold[level=2]",
-      "tconstruct:molten_gold[level=3]",
-      "tconstruct:molten_gold[level=4]",
-      "tconstruct:molten_gold[level=5]",
-      "tconstruct:molten_gold[level=6]",
-      "tconstruct:molten_gold[level=7]",
-      "tconstruct:molten_gold[level=8]",
-      "tconstruct:molten_gold[level=9]",
-      "tconstruct:molten_gold[level=10]",
-      "tconstruct:molten_gold[level=11]",
-      "tconstruct:molten_gold[level=12]",
-      "tconstruct:molten_gold[level=13]",
-      "tconstruct:molten_gold[level=14]",
-      "tconstruct:molten_gold[level=15]"
     ]
   },
   {

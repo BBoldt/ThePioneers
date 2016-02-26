@@ -35,6 +35,8 @@ Botania.botania:spark
 Botania.botania:thornChakram
 Botania.botania:thrownItem
 Botania.botania:vineBall
+BuildCraft|Robotics.bcRobot
+BuildCraft|Silicon.bcPackageThrowable
 CaveSpider
 Chicken
 Cow
@@ -75,8 +77,10 @@ PneumaticCraft.Ring
 PneumaticCraft.Vortex
 PneumaticCraft.logisticDrone
 PrimedTnt
+Psi.psi:spellCharge
 Psi.psi:spellCircle
 Psi.psi:spellGrenade
+Psi.psi:spellMine
 Psi.psi:spellProjectile
 Rabbit
 RandomThings.playerSoul

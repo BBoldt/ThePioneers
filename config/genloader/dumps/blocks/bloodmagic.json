@@ -432,5 +432,28 @@
       "bloodmagic:BlockPath[type=obsidianTile]",
       "bloodmagic:BlockPath[type=stone]"
     ]
+  },
+  {
+    "Mod": "bloodmagic",
+    "Name": "BlockDemonCrucible",
+    "States": [
+      "bloodmagic:BlockDemonCrucible"
+    ]
+  },
+  {
+    "Mod": "bloodmagic",
+    "Name": "BlockDimensionalPortal",
+    "States": [
+      "bloodmagic:BlockDimensionalPortal[meta=0]",
+      "bloodmagic:BlockDimensionalPortal[meta=1]",
+      "bloodmagic:BlockDimensionalPortal[meta=2]"
+    ]
+  },
+  {
+    "Mod": "bloodmagic",
+    "Name": "BlockBloodTank",
+    "States": [
+      "bloodmagic:BlockBloodTank"
+    ]
   }
 ]

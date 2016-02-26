@@ -1,128 +1,134 @@
 [
   {
     "Mod": "aura",
-    "Name": "auraNode",
+    "Name": "fortifiedDirt",
     "States": [
-      "aura:auraNode"
+      "aura:fortifiedDirt[damage=0]",
+      "aura:fortifiedDirt[damage=1]",
+      "aura:fortifiedDirt[damage=2]",
+      "aura:fortifiedDirt[damage=3]",
+      "aura:fortifiedDirt[damage=4]",
+      "aura:fortifiedDirt[damage=5]",
+      "aura:fortifiedDirt[damage=6]",
+      "aura:fortifiedDirt[damage=7]",
+      "aura:fortifiedDirt[damage=8]",
+      "aura:fortifiedDirt[damage=9]",
+      "aura:fortifiedDirt[damage=10]",
+      "aura:fortifiedDirt[damage=11]",
+      "aura:fortifiedDirt[damage=12]",
+      "aura:fortifiedDirt[damage=13]",
+      "aura:fortifiedDirt[damage=14]",
+      "aura:fortifiedDirt[damage=15]"
     ]
   },
   {
     "Mod": "aura",
-    "Name": "auraNodepump",
+    "Name": "fortifiedWood",
     "States": [
-      "aura:auraNodepump"
+      "aura:fortifiedWood[damage=0]",
+      "aura:fortifiedWood[damage=1]",
+      "aura:fortifiedWood[damage=2]",
+      "aura:fortifiedWood[damage=3]",
+      "aura:fortifiedWood[damage=4]",
+      "aura:fortifiedWood[damage=5]",
+      "aura:fortifiedWood[damage=6]",
+      "aura:fortifiedWood[damage=7]",
+      "aura:fortifiedWood[damage=8]",
+      "aura:fortifiedWood[damage=9]",
+      "aura:fortifiedWood[damage=10]",
+      "aura:fortifiedWood[damage=11]",
+      "aura:fortifiedWood[damage=12]",
+      "aura:fortifiedWood[damage=13]",
+      "aura:fortifiedWood[damage=14]",
+      "aura:fortifiedWood[damage=15]"
     ]
   },
   {
     "Mod": "aura",
-    "Name": "auraNodeblack",
+    "Name": "fortifiedGlass",
     "States": [
-      "aura:auraNodeblack"
+      "aura:fortifiedGlass[damage=0]",
+      "aura:fortifiedGlass[damage=1]",
+      "aura:fortifiedGlass[damage=2]",
+      "aura:fortifiedGlass[damage=3]",
+      "aura:fortifiedGlass[damage=4]",
+      "aura:fortifiedGlass[damage=5]",
+      "aura:fortifiedGlass[damage=6]",
+      "aura:fortifiedGlass[damage=7]",
+      "aura:fortifiedGlass[damage=8]",
+      "aura:fortifiedGlass[damage=9]",
+      "aura:fortifiedGlass[damage=10]",
+      "aura:fortifiedGlass[damage=11]",
+      "aura:fortifiedGlass[damage=12]",
+      "aura:fortifiedGlass[damage=13]",
+      "aura:fortifiedGlass[damage=14]",
+      "aura:fortifiedGlass[damage=15]"
     ]
   },
   {
     "Mod": "aura",
-    "Name": "auraNodeconserve",
+    "Name": "fortifiedCobblestone",
     "States": [
-      "aura:auraNodeconserve"
+      "aura:fortifiedCobblestone[damage=0]",
+      "aura:fortifiedCobblestone[damage=1]",
+      "aura:fortifiedCobblestone[damage=2]",
+      "aura:fortifiedCobblestone[damage=3]",
+      "aura:fortifiedCobblestone[damage=4]",
+      "aura:fortifiedCobblestone[damage=5]",
+      "aura:fortifiedCobblestone[damage=6]",
+      "aura:fortifiedCobblestone[damage=7]",
+      "aura:fortifiedCobblestone[damage=8]",
+      "aura:fortifiedCobblestone[damage=9]",
+      "aura:fortifiedCobblestone[damage=10]",
+      "aura:fortifiedCobblestone[damage=11]",
+      "aura:fortifiedCobblestone[damage=12]",
+      "aura:fortifiedCobblestone[damage=13]",
+      "aura:fortifiedCobblestone[damage=14]",
+      "aura:fortifiedCobblestone[damage=15]"
     ]
   },
   {
     "Mod": "aura",
-    "Name": "auraNodecraftingCenter",
+    "Name": "fortifiedStone",
     "States": [
-      "aura:auraNodecraftingCenter"
+      "aura:fortifiedStone[damage=0]",
+      "aura:fortifiedStone[damage=1]",
+      "aura:fortifiedStone[damage=2]",
+      "aura:fortifiedStone[damage=3]",
+      "aura:fortifiedStone[damage=4]",
+      "aura:fortifiedStone[damage=5]",
+      "aura:fortifiedStone[damage=6]",
+      "aura:fortifiedStone[damage=7]",
+      "aura:fortifiedStone[damage=8]",
+      "aura:fortifiedStone[damage=9]",
+      "aura:fortifiedStone[damage=10]",
+      "aura:fortifiedStone[damage=11]",
+      "aura:fortifiedStone[damage=12]",
+      "aura:fortifiedStone[damage=13]",
+      "aura:fortifiedStone[damage=14]",
+      "aura:fortifiedStone[damage=15]"
     ]
   },
   {
     "Mod": "aura",
-    "Name": "auraNodecraftingPedestal",
+    "Name": "fortifiedObsidian",
     "States": [
-      "aura:auraNodecraftingPedestal"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodeorange",
-    "States": [
-      "aura:auraNodeorange"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodepumpAlt",
-    "States": [
-      "aura:auraNodepumpAlt"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodepumpProjectile",
-    "States": [
-      "aura:auraNodepumpProjectile"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodepumpFall",
-    "States": [
-      "aura:auraNodepumpFall"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodepumpLight",
-    "States": [
-      "aura:auraNodepumpLight"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodepumpRedstone",
-    "States": [
-      "aura:auraNodepumpRedstone"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodepumpProjectileAlt",
-    "States": [
-      "aura:auraNodepumpProjectileAlt"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodepumpFallAlt",
-    "States": [
-      "aura:auraNodepumpFallAlt"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodepumpCreative",
-    "States": [
-      "aura:auraNodepumpCreative"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodepumpLightAlt",
-    "States": [
-      "aura:auraNodepumpLightAlt"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodepumpRedstoneAlt",
-    "States": [
-      "aura:auraNodepumpRedstoneAlt"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "auraNodeflux",
-    "States": [
-      "aura:auraNodeflux"
+      "aura:fortifiedObsidian[damage=0]",
+      "aura:fortifiedObsidian[damage=1]",
+      "aura:fortifiedObsidian[damage=2]",
+      "aura:fortifiedObsidian[damage=3]",
+      "aura:fortifiedObsidian[damage=4]",
+      "aura:fortifiedObsidian[damage=5]",
+      "aura:fortifiedObsidian[damage=6]",
+      "aura:fortifiedObsidian[damage=7]",
+      "aura:fortifiedObsidian[damage=8]",
+      "aura:fortifiedObsidian[damage=9]",
+      "aura:fortifiedObsidian[damage=10]",
+      "aura:fortifiedObsidian[damage=11]",
+      "aura:fortifiedObsidian[damage=12]",
+      "aura:fortifiedObsidian[damage=13]",
+      "aura:fortifiedObsidian[damage=14]",
+      "aura:fortifiedObsidian[damage=15]"
     ]
   },
   {
@@ -131,13 +137,6 @@
     "States": [
       "aura:auraNodecapacitor[bursting=true]",
       "aura:auraNodecapacitor[bursting=false]"
-    ]
-  },
-  {
-    "Mod": "aura",
-    "Name": "trampoline",
-    "States": [
-      "aura:trampoline"
     ]
   },
   {
@@ -289,141 +288,142 @@
   },
   {
     "Mod": "aura",
-    "Name": "fortifiedDirt",
+    "Name": "magicRoad",
     "States": [
-      "aura:fortifiedDirt[damage=0]",
-      "aura:fortifiedDirt[damage=1]",
-      "aura:fortifiedDirt[damage=2]",
-      "aura:fortifiedDirt[damage=3]",
-      "aura:fortifiedDirt[damage=4]",
-      "aura:fortifiedDirt[damage=5]",
-      "aura:fortifiedDirt[damage=6]",
-      "aura:fortifiedDirt[damage=7]",
-      "aura:fortifiedDirt[damage=8]",
-      "aura:fortifiedDirt[damage=9]",
-      "aura:fortifiedDirt[damage=10]",
-      "aura:fortifiedDirt[damage=11]",
-      "aura:fortifiedDirt[damage=12]",
-      "aura:fortifiedDirt[damage=13]",
-      "aura:fortifiedDirt[damage=14]",
-      "aura:fortifiedDirt[damage=15]"
+      "aura:magicRoad"
     ]
   },
   {
     "Mod": "aura",
-    "Name": "fortifiedWood",
+    "Name": "trampoline",
     "States": [
-      "aura:fortifiedWood[damage=0]",
-      "aura:fortifiedWood[damage=1]",
-      "aura:fortifiedWood[damage=2]",
-      "aura:fortifiedWood[damage=3]",
-      "aura:fortifiedWood[damage=4]",
-      "aura:fortifiedWood[damage=5]",
-      "aura:fortifiedWood[damage=6]",
-      "aura:fortifiedWood[damage=7]",
-      "aura:fortifiedWood[damage=8]",
-      "aura:fortifiedWood[damage=9]",
-      "aura:fortifiedWood[damage=10]",
-      "aura:fortifiedWood[damage=11]",
-      "aura:fortifiedWood[damage=12]",
-      "aura:fortifiedWood[damage=13]",
-      "aura:fortifiedWood[damage=14]",
-      "aura:fortifiedWood[damage=15]"
+      "aura:trampoline"
     ]
   },
   {
     "Mod": "aura",
-    "Name": "fortifiedGlass",
+    "Name": "auraNode",
     "States": [
-      "aura:fortifiedGlass[damage=0]",
-      "aura:fortifiedGlass[damage=1]",
-      "aura:fortifiedGlass[damage=2]",
-      "aura:fortifiedGlass[damage=3]",
-      "aura:fortifiedGlass[damage=4]",
-      "aura:fortifiedGlass[damage=5]",
-      "aura:fortifiedGlass[damage=6]",
-      "aura:fortifiedGlass[damage=7]",
-      "aura:fortifiedGlass[damage=8]",
-      "aura:fortifiedGlass[damage=9]",
-      "aura:fortifiedGlass[damage=10]",
-      "aura:fortifiedGlass[damage=11]",
-      "aura:fortifiedGlass[damage=12]",
-      "aura:fortifiedGlass[damage=13]",
-      "aura:fortifiedGlass[damage=14]",
-      "aura:fortifiedGlass[damage=15]"
+      "aura:auraNode"
     ]
   },
   {
     "Mod": "aura",
-    "Name": "fortifiedCobblestone",
+    "Name": "auraNodepump",
     "States": [
-      "aura:fortifiedCobblestone[damage=0]",
-      "aura:fortifiedCobblestone[damage=1]",
-      "aura:fortifiedCobblestone[damage=2]",
-      "aura:fortifiedCobblestone[damage=3]",
-      "aura:fortifiedCobblestone[damage=4]",
-      "aura:fortifiedCobblestone[damage=5]",
-      "aura:fortifiedCobblestone[damage=6]",
-      "aura:fortifiedCobblestone[damage=7]",
-      "aura:fortifiedCobblestone[damage=8]",
-      "aura:fortifiedCobblestone[damage=9]",
-      "aura:fortifiedCobblestone[damage=10]",
-      "aura:fortifiedCobblestone[damage=11]",
-      "aura:fortifiedCobblestone[damage=12]",
-      "aura:fortifiedCobblestone[damage=13]",
-      "aura:fortifiedCobblestone[damage=14]",
-      "aura:fortifiedCobblestone[damage=15]"
+      "aura:auraNodepump"
     ]
   },
   {
     "Mod": "aura",
-    "Name": "fortifiedStone",
+    "Name": "auraNodeblack",
     "States": [
-      "aura:fortifiedStone[damage=0]",
-      "aura:fortifiedStone[damage=1]",
-      "aura:fortifiedStone[damage=2]",
-      "aura:fortifiedStone[damage=3]",
-      "aura:fortifiedStone[damage=4]",
-      "aura:fortifiedStone[damage=5]",
-      "aura:fortifiedStone[damage=6]",
-      "aura:fortifiedStone[damage=7]",
-      "aura:fortifiedStone[damage=8]",
-      "aura:fortifiedStone[damage=9]",
-      "aura:fortifiedStone[damage=10]",
-      "aura:fortifiedStone[damage=11]",
-      "aura:fortifiedStone[damage=12]",
-      "aura:fortifiedStone[damage=13]",
-      "aura:fortifiedStone[damage=14]",
-      "aura:fortifiedStone[damage=15]"
+      "aura:auraNodeblack"
     ]
   },
   {
     "Mod": "aura",
-    "Name": "fortifiedObsidian",
+    "Name": "auraNodeconserve",
     "States": [
-      "aura:fortifiedObsidian[damage=0]",
-      "aura:fortifiedObsidian[damage=1]",
-      "aura:fortifiedObsidian[damage=2]",
-      "aura:fortifiedObsidian[damage=3]",
-      "aura:fortifiedObsidian[damage=4]",
-      "aura:fortifiedObsidian[damage=5]",
-      "aura:fortifiedObsidian[damage=6]",
-      "aura:fortifiedObsidian[damage=7]",
-      "aura:fortifiedObsidian[damage=8]",
-      "aura:fortifiedObsidian[damage=9]",
-      "aura:fortifiedObsidian[damage=10]",
-      "aura:fortifiedObsidian[damage=11]",
-      "aura:fortifiedObsidian[damage=12]",
-      "aura:fortifiedObsidian[damage=13]",
-      "aura:fortifiedObsidian[damage=14]",
-      "aura:fortifiedObsidian[damage=15]"
+      "aura:auraNodeconserve"
     ]
   },
   {
     "Mod": "aura",
-    "Name": "monitor",
+    "Name": "auraNodecraftingCenter",
     "States": [
-      "aura:monitor"
+      "aura:auraNodecraftingCenter"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodecraftingPedestal",
+    "States": [
+      "aura:auraNodecraftingPedestal"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodeorange",
+    "States": [
+      "aura:auraNodeorange"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodepumpAlt",
+    "States": [
+      "aura:auraNodepumpAlt"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodepumpProjectile",
+    "States": [
+      "aura:auraNodepumpProjectile"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodepumpFall",
+    "States": [
+      "aura:auraNodepumpFall"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodepumpLight",
+    "States": [
+      "aura:auraNodepumpLight"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodepumpRedstone",
+    "States": [
+      "aura:auraNodepumpRedstone"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodepumpProjectileAlt",
+    "States": [
+      "aura:auraNodepumpProjectileAlt"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodepumpFallAlt",
+    "States": [
+      "aura:auraNodepumpFallAlt"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodepumpCreative",
+    "States": [
+      "aura:auraNodepumpCreative"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodepumpLightAlt",
+    "States": [
+      "aura:auraNodepumpLightAlt"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodepumpRedstoneAlt",
+    "States": [
+      "aura:auraNodepumpRedstoneAlt"
+    ]
+  },
+  {
+    "Mod": "aura",
+    "Name": "auraNodeflux",
+    "States": [
+      "aura:auraNodeflux"
     ]
   },
   {
@@ -435,16 +435,16 @@
   },
   {
     "Mod": "aura",
-    "Name": "fairyTorch",
+    "Name": "monitor",
     "States": [
-      "aura:fairyTorch"
+      "aura:monitor"
     ]
   },
   {
     "Mod": "aura",
-    "Name": "magicRoad",
+    "Name": "fairyTorch",
     "States": [
-      "aura:magicRoad"
+      "aura:fairyTorch"
     ]
   }
 ]

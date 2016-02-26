@@ -319,6 +319,25 @@
   },
   {
     "Mod": "randomthings",
+    "Name": "rainShield",
+    "States": [
+      "randomthings:rainShield"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "blockBreaker",
+    "States": [
+      "randomthings:blockBreaker[facing=down]",
+      "randomthings:blockBreaker[facing=up]",
+      "randomthings:blockBreaker[facing=north]",
+      "randomthings:blockBreaker[facing=south]",
+      "randomthings:blockBreaker[facing=west]",
+      "randomthings:blockBreaker[facing=east]"
+    ]
+  },
+  {
+    "Mod": "randomthings",
     "Name": "itemCollector",
     "States": [
       "randomthings:itemCollector[facing=down]",
@@ -422,6 +441,16 @@
       "randomthings:coloredGrass[color=green]",
       "randomthings:coloredGrass[color=red]",
       "randomthings:coloredGrass[color=black]"
+    ]
+  },
+  {
+    "Mod": "randomthings",
+    "Name": "spectreCore",
+    "States": [
+      "randomthings:spectreCore[orientation=nw]",
+      "randomthings:spectreCore[orientation=ne]",
+      "randomthings:spectreCore[orientation=es]",
+      "randomthings:spectreCore[orientation=sw]"
     ]
   }
 ]

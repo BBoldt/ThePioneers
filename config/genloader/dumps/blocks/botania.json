@@ -2064,7 +2064,8 @@
     "Mod": "botania",
     "Name": "corporeaCrystalCube",
     "States": [
-      "botania:corporeaCrystalCube"
+      "botania:corporeaCrystalCube[static=true]",
+      "botania:corporeaCrystalCube[static=false]"
     ]
   },
   {
