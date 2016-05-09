@@ -8,17 +8,17 @@
 					"walls" : {
                         "type" : "WEIGHTED", 
                         "data" : [
-                            {"type" : "METABLOCK", "data" : {"name" : "chisel:arcane", "meta" : 4}, "weight" : 80},
+                            {"type" : "METABLOCK", "data" : {"name" : "thaumcraft:stone", "meta" : 0}, "weight" : 80},
                             {"type" : "METABLOCK", "data" : {"name" : "thaumcraft:stone", "meta" : 1}, "weight" : 15},
-                            {"type" : "METABLOCK", "data" : {"name" : "chisel:arcane", "meta" : 1}, "weight" : 1},
-                            {"type" : "METABLOCK", "data" : {"name" : "chisel:arcane", "meta" : 10}, "weight" : 4}
+                            {"type" : "METABLOCK", "data" : {"name" : "biomesoplenty:stone", "meta" : 10}, "weight" : 1},
+                            {"type" : "METABLOCK", "data" : {"name" : "biomesoplenty:stone", "meta" : 2}, "weight" : 4}
                         ]
                     },
 					"pillar" : {
 						"type" : "METABLOCK",
 						"data" : {
-							"name" : "chisel:obsidian",
-							"meta" : 14
+							"name" : "botania:quartzTypeDark",
+							"meta" : 2
 						}
 					},
 					"stair" : {
@@ -39,8 +39,8 @@
 					"pillar" : {
 						"type" : "METABLOCK",
 						"data" : {
-							"name" : "chisel:obsidian",
-							"meta" : 14
+							"name" : "botania:quartzTypeDark",
+							"meta" : 2
 						}
 					},
 					"stair" : {

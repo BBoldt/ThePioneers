@@ -1,9 +1,0 @@
-[
-  {
-    "Mod": "simplegraves",
-    "Name": "BlockGrave",
-    "States": [
-      "simplegraves:BlockGrave[type=FLAT]"
-    ]
-  }
-]

@@ -15,6 +15,36 @@
     "output": "substratum:nugget:10"
   },
   {
+    "input": "lead:1296",
+    "ore": "blockLead",
+    "output": "substratum:blockMetal1:10"
+  },
+  {
+    "input": "lead:144",
+    "ore": "ingotLead",
+    "output": "substratum:ingot:10"
+  },
+  {
+    "input": "lead:16",
+    "ore": "nuggetLead",
+    "output": "thaumcraft:nugget:4"
+  },
+  {
+    "input": "bronze:1296",
+    "ore": "blockBronze",
+    "output": "substratum:blockMetal1:2"
+  },
+  {
+    "input": "bronze:144",
+    "ore": "ingotBronze",
+    "output": "substratum:ingot:2"
+  },
+  {
+    "input": "bronze:16",
+    "ore": "nuggetBronze",
+    "output": "substratum:nugget:3"
+  },
+  {
     "input": "tin:1296",
     "ore": "blockTin",
     "output": "substratum:blockMetal1:1"
@@ -65,36 +95,6 @@
     "output": "thaumcraft:nugget:3"
   },
   {
-    "input": "lead:1296",
-    "ore": "blockLead",
-    "output": "substratum:blockMetal1:10"
-  },
-  {
-    "input": "lead:144",
-    "ore": "ingotLead",
-    "output": "substratum:ingot:10"
-  },
-  {
-    "input": "lead:16",
-    "ore": "nuggetLead",
-    "output": "thaumcraft:nugget:4"
-  },
-  {
-    "input": "bronze:1296",
-    "ore": "blockBronze",
-    "output": "substratum:blockMetal1:2"
-  },
-  {
-    "input": "bronze:144",
-    "ore": "ingotBronze",
-    "output": "substratum:ingot:2"
-  },
-  {
-    "input": "bronze:16",
-    "ore": "nuggetBronze",
-    "output": "substratum:nugget:3"
-  },
-  {
     "input": "iron:1296",
     "ore": "blockIron",
     "output": "minecraft:iron_block:0"
@@ -118,5 +118,20 @@
     "input": "gold:16",
     "ore": "nuggetGold",
     "output": "minecraft:gold_nugget:0"
+  },
+  {
+    "input": "carbon:144",
+    "ore": "",
+    "output": "minecraft:coal:0"
+  },
+  {
+    "input": "carbon:1296",
+    "ore": "",
+    "output": "minecraft:coal_block:0"
+  },
+  {
+    "input": "obsidian:36",
+    "ore": "",
+    "output": "minecraft:obsidian:0"
   }
 ]
