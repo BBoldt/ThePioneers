@@ -1,14 +1,15 @@
-#### Issue Description:
+<!---
+Hello! First of all thank you for playing the pack, hope you are enjoying it! Sorry you're experiencing an issue. Follow the instructions here and I'll do my best to help. Note I am not some sort of wizard and there may be issues which I will be unable to solve from time to time.
 
-#### What happens:
+Before you write anything:
+* Check to see if your issue has been posted before.
+* Make sure you're on the latest version of the modpack.
 
-#### What should be happening:
+Thanks again for taking the time to submit a bug report!
+-->
 
-#### How to reproduce:
+**Issue Description:**
 
-#### Crash report(s) and or log(s) (uploaded to pastebin.com or gist.github.com): 
+**Steps to Reproduce:**
 
-#### Questions:
-- Are you on the latest version of the modpack?:
-- Have you added any additional mods, and if so, have you tried reproducing the issue without them?:
-- Server or client issue?:
+**Crash report or log (uploaded to gist.github.com or pastebin.com):**
