@@ -1,0 +1,25 @@
+{
+  "name": "malachite",
+  "tier": 2,
+  "craftAmount": 4,
+  "color": "#3BFFE2",
+  "inputOre": "gemMalachite",
+  "outputs": [
+    {
+      "item": {
+        "id": {
+          "domain": "biomesoplenty",
+          "path": "gem"
+        },
+        "amount": 8,
+        "meta": 5
+      },
+      "shape": "DEFAULT"
+    }
+  ],
+  "growthRequirement": {
+    "minLight": 7,
+    "maxLight": 15,
+    "requiredState": null
+  }
+}

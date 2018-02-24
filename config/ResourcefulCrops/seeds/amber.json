@@ -1,0 +1,25 @@
+{
+  "name": "amber",
+  "tier": 2,
+  "craftAmount": 4,
+  "color": "#D4793C",
+  "inputOre": "gemAmber",
+  "outputs": [
+    {
+      "item": {
+        "id": {
+          "domain": "biomesoplenty",
+          "path": "gem"
+        },
+        "amount": 8,
+        "meta": 7
+      },
+      "shape": "DEFAULT"
+    }
+  ],
+  "growthRequirement": {
+    "minLight": 7,
+    "maxLight": 15,
+    "requiredState": null
+  }
+}

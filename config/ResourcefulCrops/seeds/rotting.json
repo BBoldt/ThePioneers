@@ -1,0 +1,32 @@
+{
+  "name": "rotting",
+  "tier": 0,
+  "craftAmount": 4,
+  "color": "#FFA088",
+  "inputItem": {
+    "id": {
+      "domain": "minecraft",
+      "path": "rotten_flesh"
+    },
+    "amount": 1,
+    "meta": 0
+  },
+  "outputs": [
+    {
+      "item": {
+        "id": {
+          "domain": "minecraft",
+          "path": "rotten_flesh"
+        },
+        "amount": 8,
+        "meta": 0
+      },
+      "shape": "DEFAULT"
+    }
+  ],
+  "growthRequirement": {
+    "minLight": 7,
+    "maxLight": 15,
+    "requiredState": null
+  }
+}

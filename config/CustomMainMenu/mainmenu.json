@@ -186,8 +186,8 @@
             "text" : "",
 			"texture" : "custommainmenu:textures/icons/reddit.png",
 			"hoverText" : "Reddit",
-			"alignment" : "bottom_right",
-            "posX" : -60,
+			"alignment" : "bottom_left",
+            "posX" : 42,
             "posY" : -25,
             "width" : 20,
             "height" : 20,
@@ -204,7 +204,7 @@
 			"texture" : "custommainmenu:textures/icons/twitter.png",
 			"hoverText" : "Twitter",
 			"alignment" : "bottom_right",
-            "posX" : -30,
+            "posX" : -60,
             "posY" : -25,
             "width" : 20,
             "height" : 20,
@@ -212,6 +212,23 @@
 			{
                 "type" : "openLink",
 				"link" : "http://www.twitter.com/BBoldt92"
+            }	
+        },
+		
+		"Patreon":
+        {
+            "text" : "",
+			"texture" : "custommainmenu:textures/icons/patreon.png",
+			"hoverText" : "Patreon",
+			"alignment" : "bottom_right",
+            "posX" : -30,
+            "posY" : -25,
+            "width" : 20,
+            "height" : 20,
+			"action" :
+			{
+                "type" : "openLink",
+				"link" : "https://www.patreon.com/BBoldt_"
             }	
         }
 	},
@@ -229,7 +246,7 @@
         
 		"packTxt":
         {
-            "text" : "The Pioneers - Release 9",
+            "text" : "The Pioneers - Release 11",
             "posX" : 5,
             "posY" : 5,
             "color" : -1,

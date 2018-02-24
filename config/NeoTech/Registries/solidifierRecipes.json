@@ -1,137 +1,197 @@
 [
   {
-    "input": "steel:1296",
-    "ore": "blockSteel",
-    "output": "substratum:blockMetal1:9"
+    "inputFluidStack": "bronze:1296",
+    "outputItemStack": "blockBronze:1",
+    "requiredMode": "BLOCK_MODE"
   },
   {
-    "input": "steel:144",
-    "ore": "ingotSteel",
-    "output": "substratum:ingot:9"
+    "inputFluidStack": "bronze:144",
+    "outputItemStack": "ingotBronze:1",
+    "requiredMode": "INGOT_MODE"
   },
   {
-    "input": "steel:16",
-    "ore": "nuggetSteel",
-    "output": "substratum:nugget:10"
+    "inputFluidStack": "bronze:16",
+    "outputItemStack": "nuggetBronze:1",
+    "requiredMode": "NUGGET_MODE"
   },
   {
-    "input": "lead:1296",
-    "ore": "blockLead",
-    "output": "substratum:blockMetal1:10"
+    "inputFluidStack": "iron:16",
+    "outputItemStack": "nuggetIron:1",
+    "requiredMode": "NUGGET_MODE"
   },
   {
-    "input": "lead:144",
-    "ore": "ingotLead",
-    "output": "substratum:ingot:10"
+    "inputFluidStack": "copper:1296",
+    "outputItemStack": "blockCopper:1",
+    "requiredMode": "BLOCK_MODE"
   },
   {
-    "input": "lead:16",
-    "ore": "nuggetLead",
-    "output": "thaumcraft:nugget:4"
+    "inputFluidStack": "copper:144",
+    "outputItemStack": "ingotCopper:1",
+    "requiredMode": "INGOT_MODE"
   },
   {
-    "input": "bronze:1296",
-    "ore": "blockBronze",
-    "output": "substratum:blockMetal1:2"
+    "inputFluidStack": "copper:16",
+    "outputItemStack": "nuggetCopper:1",
+    "requiredMode": "NUGGET_MODE"
   },
   {
-    "input": "bronze:144",
-    "ore": "ingotBronze",
-    "output": "substratum:ingot:2"
+    "inputFluidStack": "steel:1296",
+    "outputItemStack": "blockSteel:1",
+    "requiredMode": "BLOCK_MODE"
   },
   {
-    "input": "bronze:16",
-    "ore": "nuggetBronze",
-    "output": "substratum:nugget:3"
+    "inputFluidStack": "steel:144",
+    "outputItemStack": "ingotSteel:1",
+    "requiredMode": "INGOT_MODE"
   },
   {
-    "input": "tin:1296",
-    "ore": "blockTin",
-    "output": "substratum:blockMetal1:1"
+    "inputFluidStack": "steel:16",
+    "outputItemStack": "nuggetSteel:1",
+    "requiredMode": "NUGGET_MODE"
   },
   {
-    "input": "tin:144",
-    "ore": "ingotTin",
-    "output": "substratum:ingot:1"
+    "inputFluidStack": "silver:1296",
+    "outputItemStack": "blockSilver:1",
+    "requiredMode": "BLOCK_MODE"
   },
   {
-    "input": "tin:16",
-    "ore": "nuggetTin",
-    "output": "thaumcraft:nugget:2"
+    "inputFluidStack": "silver:144",
+    "outputItemStack": "ingotSilver:1",
+    "requiredMode": "INGOT_MODE"
   },
   {
-    "input": "copper:1296",
-    "ore": "blockCopper",
-    "output": "substratum:blockMetal1:0"
+    "inputFluidStack": "silver:16",
+    "outputItemStack": "nuggetSilver:1",
+    "requiredMode": "NUGGET_MODE"
   },
   {
-    "input": "copper:144",
-    "ore": "ingotCopper",
-    "output": "substratum:ingot:0"
+    "inputFluidStack": "tin:1296",
+    "outputItemStack": "blockTin:1",
+    "requiredMode": "BLOCK_MODE"
   },
   {
-    "input": "copper:16",
-    "ore": "nuggetCopper",
-    "output": "thaumcraft:nugget:1"
+    "inputFluidStack": "tin:144",
+    "outputItemStack": "ingotTin:1",
+    "requiredMode": "INGOT_MODE"
   },
   {
-    "input": "iron:16",
-    "ore": "nuggetIron",
-    "output": "thaumcraft:nugget:0"
+    "inputFluidStack": "tin:16",
+    "outputItemStack": "nuggetTin:1",
+    "requiredMode": "NUGGET_MODE"
   },
   {
-    "input": "silver:1296",
-    "ore": "blockSilver",
-    "output": "substratum:blockMetal1:8"
+    "inputFluidStack": "outlandish:1296",
+    "outputItemStack": "blockOutlandish:1",
+    "requiredMode": "BLOCK_MODE"
   },
   {
-    "input": "silver:144",
-    "ore": "ingotSilver",
-    "output": "substratum:ingot:8"
+    "inputFluidStack": "outlandish:144",
+    "outputItemStack": "ingotOutlandish:1",
+    "requiredMode": "INGOT_MODE"
   },
   {
-    "input": "silver:16",
-    "ore": "nuggetSilver",
-    "output": "thaumcraft:nugget:3"
+    "inputFluidStack": "outlandish:16",
+    "outputItemStack": "nuggetOutlandish:1",
+    "requiredMode": "NUGGET_MODE"
   },
   {
-    "input": "iron:1296",
-    "ore": "blockIron",
-    "output": "minecraft:iron_block:0"
+    "inputFluidStack": "tormented:1296",
+    "outputItemStack": "blockTormented:1",
+    "requiredMode": "BLOCK_MODE"
   },
   {
-    "input": "iron:144",
-    "ore": "ingotIron",
-    "output": "minecraft:iron_ingot:0"
+    "inputFluidStack": "tormented:144",
+    "outputItemStack": "ingotTormented:1",
+    "requiredMode": "INGOT_MODE"
   },
   {
-    "input": "gold:1296",
-    "ore": "blockGold",
-    "output": "minecraft:gold_block:0"
+    "inputFluidStack": "tormented:16",
+    "outputItemStack": "nuggetTormented:1",
+    "requiredMode": "NUGGET_MODE"
   },
   {
-    "input": "gold:144",
-    "ore": "ingotGold",
-    "output": "minecraft:gold_ingot:0"
+    "inputFluidStack": "lead:1296",
+    "outputItemStack": "blockLead:1",
+    "requiredMode": "BLOCK_MODE"
   },
   {
-    "input": "gold:16",
-    "ore": "nuggetGold",
-    "output": "minecraft:gold_nugget:0"
+    "inputFluidStack": "lead:144",
+    "outputItemStack": "ingotLead:1",
+    "requiredMode": "INGOT_MODE"
   },
   {
-    "input": "carbon:144",
-    "ore": "",
-    "output": "minecraft:coal:0"
+    "inputFluidStack": "lead:16",
+    "outputItemStack": "nuggetLead:1",
+    "requiredMode": "NUGGET_MODE"
   },
   {
-    "input": "carbon:1296",
-    "ore": "",
-    "output": "minecraft:coal_block:0"
+    "inputFluidStack": "neodymium:1296",
+    "outputItemStack": "blockNeodymium:1",
+    "requiredMode": "BLOCK_MODE"
   },
   {
-    "input": "obsidian:36",
-    "ore": "",
-    "output": "minecraft:obsidian:0"
+    "inputFluidStack": "neodymium:144",
+    "outputItemStack": "ingotNeodymium:1",
+    "requiredMode": "INGOT_MODE"
+  },
+  {
+    "inputFluidStack": "neodymium:16",
+    "outputItemStack": "nuggetNeodymium:1",
+    "requiredMode": "NUGGET_MODE"
+  },
+  {
+    "inputFluidStack": "iron:1296",
+    "outputItemStack": "blockIron",
+    "requiredMode": "BLOCK_MODE"
+  },
+  {
+    "inputFluidStack": "iron:144",
+    "outputItemStack": "ingotIron",
+    "requiredMode": "INGOT_MODE"
+  },
+  {
+    "inputFluidStack": "gold:1296",
+    "outputItemStack": "blockGold",
+    "requiredMode": "BLOCK_MODE"
+  },
+  {
+    "inputFluidStack": "gold:144",
+    "outputItemStack": "ingotGold",
+    "requiredMode": "INGOT_MODE"
+  },
+  {
+    "inputFluidStack": "gold:16",
+    "outputItemStack": "nuggetGold",
+    "requiredMode": "NUGGET_MODE"
+  },
+  {
+    "inputFluidStack": "carbon:1296",
+    "outputItemStack": "blockCoal:1",
+    "requiredMode": "BLOCK_MODE"
+  },
+  {
+    "inputFluidStack": "carbon:144",
+    "outputItemStack": "itemCoal:1",
+    "requiredMode": "INGOT_MODE"
+  },
+  {
+    "inputFluidStack": "obsidian:288",
+    "outputItemStack": "obsidian:1",
+    "requiredMode": "BLOCK_MODE"
+  },
+  {
+    "inputFluidStack": "blaze:144",
+    "outputItemStack": "rodBlaze:1",
+    "requiredMode": "INGOT_MODE"
+  },
+  {
+    "inputFluidStack": "chorus:144",
+    "outputItemStack": "minecraft:chorus_fruit_popped:0:1",
+    "requiredMode": "INGOT_MODE"
+  },
+  {
+    "inputFluidStack": "wither:144",
+    "outputItemStack": "netherStar:1",
+    "requiredMode": "INGOT_MODE"
   }
 ]

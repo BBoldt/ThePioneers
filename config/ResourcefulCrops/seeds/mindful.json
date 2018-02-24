@@ -1,0 +1,32 @@
+{
+  "name": "mindful",
+  "tier": 2,
+  "craftAmount": 2,
+  "color": "#E8BA83",
+  "inputItem": {
+    "id": {
+      "domain": "minecraft",
+      "path": "skull"
+    },
+    "amount": 1,
+    "meta": 3
+  },
+  "outputs": [
+    {
+      "item": {
+        "id": {
+          "domain": "minecraft",
+          "path": "skull"
+        },
+        "amount": 1,
+        "meta": 3
+      },
+      "shape": "DEFAULT"
+    }
+  ],
+  "growthRequirement": {
+    "minLight": 7,
+    "maxLight": 15,
+    "requiredState": null
+  }
+}

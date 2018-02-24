@@ -1,0 +1,32 @@
+{
+  "name": "brainy",
+  "tier": 2,
+  "craftAmount": 2,
+  "color": "#316932",
+  "inputItem": {
+    "id": {
+      "domain": "minecraft",
+      "path": "skull"
+    },
+    "amount": 1,
+    "meta": 2
+  },
+  "outputs": [
+    {
+      "item": {
+        "id": {
+          "domain": "minecraft",
+          "path": "skull"
+        },
+        "amount": 1,
+        "meta": 2
+      },
+      "shape": "DEFAULT"
+    }
+  ],
+  "growthRequirement": {
+    "minLight": 7,
+    "maxLight": 15,
+    "requiredState": null
+  }
+}

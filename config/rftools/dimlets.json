@@ -2,6 +2,132 @@
   "Everything below this line will be regenerated from defaults every time. Remove this line if you do not want that",
   {
     "filter": {
+      "name": "owner",
+      "type": "special"
+    },
+    "settings": {
+      "rarity": 0,
+      "create": 0,
+      "maintain": 0,
+      "ticks": 0,
+      "worldgen": false,
+      "dimlet": true
+    }
+  },
+  {
+    "filter": {
+      "name": "cheater",
+      "type": "special"
+    },
+    "settings": {
+      "rarity": 0,
+      "create": 0,
+      "maintain": 0,
+      "ticks": 0,
+      "worldgen": false,
+      "dimlet": true
+    }
+  },
+  {
+    "filter": {
+      "name": "noanimals",
+      "type": "special"
+    },
+    "settings": {
+      "rarity": 2,
+      "create": 5000,
+      "maintain": 40,
+      "ticks": 10,
+      "worldgen": false,
+      "dimlet": true
+    }
+  },
+  {
+    "filter": {
+      "name": "spawn",
+      "type": "special"
+    },
+    "settings": {
+      "rarity": 2,
+      "create": 10000,
+      "maintain": 300,
+      "ticks": 100,
+      "worldgen": false,
+      "dimlet": true
+    }
+  },
+  {
+    "filter": {
+      "name": "seed",
+      "type": "special"
+    },
+    "settings": {
+      "rarity": 2,
+      "create": 1000,
+      "maintain": 0,
+      "ticks": 100,
+      "worldgen": false,
+      "dimlet": true
+    }
+  },
+  {
+    "filter": {
+      "name": "seed",
+      "type": "special"
+    },
+    "settings": {
+      "rarity": 2,
+      "create": 1000,
+      "maintain": 0,
+      "ticks": 100,
+      "worldgen": false,
+      "dimlet": true
+    }
+  },
+  {
+    "filter": {
+      "name": "peaceful",
+      "type": "special"
+    },
+    "settings": {
+      "rarity": 5,
+      "create": 50000,
+      "maintain": 30000,
+      "ticks": 900,
+      "worldgen": false,
+      "dimlet": true
+    }
+  },
+  {
+    "filter": {
+      "name": "efficiency",
+      "type": "special"
+    },
+    "settings": {
+      "rarity": 5,
+      "create": 100000,
+      "maintain": -20,
+      "ticks": 900,
+      "worldgen": false,
+      "dimlet": true
+    }
+  },
+  {
+    "filter": {
+      "name": "mediocreefficiency",
+      "type": "special"
+    },
+    "settings": {
+      "rarity": 4,
+      "create": 100000,
+      "maintain": -5,
+      "ticks": 400,
+      "worldgen": false,
+      "dimlet": true
+    }
+  },
+  {
+    "filter": {
       "type": "digit"
     },
     "settings": {
@@ -132,7 +258,6 @@
         "planks_0",
         "stone",
         "log_0",
-        "sand",
         "log_2",
         "log_1",
         "ash_block",
@@ -154,6 +279,21 @@
   },
   {
     "filter": {
+      "mod": "biomesoplenty",
+      "name": "sand",
+      "type": "material"
+    },
+    "settings": {
+      "rarity": 2,
+      "create": 100,
+      "maintain": 30,
+      "ticks": 10,
+      "worldgen": false,
+      "dimlet": false
+    }
+  },
+  {
+    "filter": {
       "mod": "flatcoloredblocks",
       "name": "flatcoloredblock_glowing.*",
       "type": "material"
@@ -163,7 +303,7 @@
       "create": 500,
       "maintain": 500,
       "ticks": 100,
-      "worldgen": true,
+      "worldgen": false,
       "dimlet": true
     }
   },
@@ -178,7 +318,7 @@
       "create": 100,
       "maintain": 50,
       "ticks": 10,
-      "worldgen": true,
+      "worldgen": false,
       "dimlet": true
     }
   },
@@ -240,11 +380,13 @@
   {
     "filter": {
       "name": [
+        "red_sandstone",
         "cobblestone",
         "dirt",
         "netherrack",
         "sandstone",
-        "nether_brick"
+        "nether_brick",
+        "stonebrick"
       ],
       "type": "material"
     },
@@ -321,7 +463,8 @@
     "filter": {
       "name": [
         "stained_hardened_clay",
-        "hardened_clay"
+        "hardened_clay",
+        "clay"
       ],
       "type": "material"
     },
@@ -351,9 +494,12 @@
   {
     "filter": {
       "name": [
+        "prismarine",
         "log",
+        "purpur_block",
         "log2",
-        "planks"
+        "planks",
+        "end_bricks"
       ],
       "type": "material"
     },
@@ -386,7 +532,8 @@
       "name": [
         "dimensional_shard_ore",
         "emerald_ore",
-        "diamond_ore"
+        "diamond_ore",
+        "glowstone"
       ],
       "type": "material"
     },
@@ -488,7 +635,6 @@
   {
     "filter": {
       "name": [
-        "prismarine",
         "redstone_block",
         "iron_block",
         "coal_block"
@@ -640,6 +786,20 @@
       "maintain": 10000,
       "ticks": 1000,
       "worldgen": false,
+      "dimlet": true
+    }
+  },
+  {
+    "filter": {
+      "name": "default",
+      "type": "mob"
+    },
+    "settings": {
+      "rarity": 0,
+      "create": 100,
+      "maintain": 1,
+      "ticks": 100,
+      "worldgen": true,
       "dimlet": true
     }
   },
@@ -950,6 +1110,20 @@
   },
   {
     "filter": {
+      "name": "oresaplenty",
+      "type": "feature"
+    },
+    "settings": {
+      "rarity": 5,
+      "create": 10000,
+      "maintain": 20000,
+      "ticks": 1000,
+      "worldgen": true,
+      "dimlet": true
+    }
+  },
+  {
+    "filter": {
       "type": "feature"
     },
     "settings": {
@@ -976,7 +1150,7 @@
   },
   {
     "filter": {
-      "name": "the end",
+      "name": "minecraft:sky",
       "type": "biome"
     },
     "settings": {

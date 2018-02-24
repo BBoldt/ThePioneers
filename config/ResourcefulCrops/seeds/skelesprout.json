@@ -1,0 +1,32 @@
+{
+  "name": "skelesprout",
+  "tier": 2,
+  "craftAmount": 2,
+  "color": "#9FA49B",
+  "inputItem": {
+    "id": {
+      "domain": "minecraft",
+      "path": "skull"
+    },
+    "amount": 1,
+    "meta": 0
+  },
+  "outputs": [
+    {
+      "item": {
+        "id": {
+          "domain": "minecraft",
+          "path": "skull"
+        },
+        "amount": 1,
+        "meta": 0
+      },
+      "shape": "DEFAULT"
+    }
+  ],
+  "growthRequirement": {
+    "minLight": 7,
+    "maxLight": 15,
+    "requiredState": null
+  }
+}

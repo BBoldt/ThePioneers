@@ -1,0 +1,25 @@
+{
+  "name": "copper",
+  "tier": 1,
+  "craftAmount": 4,
+  "color": "#CC6633",
+  "inputOre": "ingotCopper",
+  "outputs": [
+    {
+      "item": {
+        "id": {
+          "domain": "ic2",
+          "path": "ingot"
+        },
+        "amount": 4,
+        "meta": 2
+      },
+      "shape": "DEFAULT"
+    }
+  ],
+  "growthRequirement": {
+    "minLight": 7,
+    "maxLight": 15,
+    "requiredState": null
+  }
+}

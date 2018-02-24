@@ -1,0 +1,25 @@
+{
+  "name": "golden",
+  "tier": 2,
+  "craftAmount": 4,
+  "color": "#FFFF00",
+  "inputOre": "ingotGold",
+  "outputs": [
+    {
+      "item": {
+        "id": {
+          "domain": "minecraft",
+          "path": "gold_ingot"
+        },
+        "amount": 4,
+        "meta": 0
+      },
+      "shape": "DEFAULT"
+    }
+  ],
+  "growthRequirement": {
+    "minLight": 7,
+    "maxLight": 15,
+    "requiredState": null
+  }
+}

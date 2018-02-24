@@ -1,0 +1,52 @@
+[
+  {
+    "fluidIn": "obsidian:36",
+    "fluidOne": "water:125",
+    "fluidTwo": "lava:125"
+  },
+  {
+    "fluidIn": "steel:144",
+    "fluidOne": "iron:144",
+    "fluidTwo": "carbon:144"
+  },
+  {
+    "fluidIn": "bronze:576",
+    "fluidOne": "copper:432",
+    "fluidTwo": "tin:144"
+  },
+  {
+    "fluidIn": "water:750",
+    "fluidOne": "hydrogen:500",
+    "fluidTwo": "oxygen:250"
+  },
+  {
+    "fluidIn": "dirtylead:144",
+    "fluidOne": "lead:144",
+    "fluidTwo": "lava:16"
+  },
+  {
+    "fluidIn": "dirtygold:144",
+    "fluidOne": "gold:144",
+    "fluidTwo": "lava:16"
+  },
+  {
+    "fluidIn": "dirtytin:144",
+    "fluidOne": "tin:144",
+    "fluidTwo": "lava:16"
+  },
+  {
+    "fluidIn": "dirtycopper:144",
+    "fluidOne": "copper:144",
+    "fluidTwo": "lava:16"
+  },
+  {
+    "fluidIn": "dirtyiron:144",
+    "fluidOne": "iron:144",
+    "fluidTwo": "lava:16"
+  },
+  {
+    "fluidIn": "dirtysilver:144",
+    "fluidOne": "silver:144",
+    "fluidTwo": "lava:16"
+  }
+]

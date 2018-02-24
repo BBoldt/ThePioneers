@@ -1,0 +1,25 @@
+{
+  "name": "glowing",
+  "tier": 2,
+  "craftAmount": 4,
+  "color": "#E9FF54",
+  "inputOre": "dustGlowstone",
+  "outputs": [
+    {
+      "item": {
+        "id": {
+          "domain": "minecraft",
+          "path": "glowstone_dust"
+        },
+        "amount": 8,
+        "meta": 0
+      },
+      "shape": "DEFAULT"
+    }
+  ],
+  "growthRequirement": {
+    "minLight": 7,
+    "maxLight": 15,
+    "requiredState": null
+  }
+}

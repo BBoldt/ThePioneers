@@ -1,0 +1,17 @@
+[
+  {
+    "fluidOne": "water:125",
+    "fluidTwo": "lava:125",
+    "fluidOut": "obsidian:36"
+  },
+  {
+    "fluidOne": "iron:144",
+    "fluidTwo": "carbon:144",
+    "fluidOut": "steel:144"
+  },
+  {
+    "fluidOne": "copper:432",
+    "fluidTwo": "tin:144",
+    "fluidOut": "bronze:576"
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "name": "witherwheat",
+  "tier": 3,
+  "craftAmount": 2,
+  "color": "#343433",
+  "inputItem": {
+    "id": {
+      "domain": "minecraft",
+      "path": "skull"
+    },
+    "amount": 1,
+    "meta": 1
+  },
+  "outputs": [
+    {
+      "item": {
+        "id": {
+          "domain": "minecraft",
+          "path": "skull"
+        },
+        "amount": 1,
+        "meta": 1
+      },
+      "shape": "DEFAULT"
+    }
+  ],
+  "growthRequirement": {
+    "minLight": 7,
+    "maxLight": 15,
+    "requiredState": null
+  }
+}

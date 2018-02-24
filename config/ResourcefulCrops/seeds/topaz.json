@@ -1,0 +1,25 @@
+{
+  "name": "topaz",
+  "tier": 2,
+  "craftAmount": 4,
+  "color": "#D48F65",
+  "inputOre": "gemTopaz",
+  "outputs": [
+    {
+      "item": {
+        "id": {
+          "domain": "biomesoplenty",
+          "path": "gem"
+        },
+        "amount": 8,
+        "meta": 3
+      },
+      "shape": "DEFAULT"
+    }
+  ],
+  "growthRequirement": {
+    "minLight": 7,
+    "maxLight": 15,
+    "requiredState": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "silver",
+  "tier": 2,
+  "craftAmount": 4,
+  "color": "#BBBDB8",
+  "inputOre": "ingotSilver",
+  "outputs": [
+    {
+      "item": {
+        "id": {
+          "domain": "ic2",
+          "path": "ingot"
+        },
+        "amount": 4,
+        "meta": 4
+      },
+      "shape": "DEFAULT"
+    }
+  ],
+  "growthRequirement": {
+    "minLight": 7,
+    "maxLight": 15,
+    "requiredState": null
+  }
+}

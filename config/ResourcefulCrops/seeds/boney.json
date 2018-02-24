@@ -1,0 +1,32 @@
+{
+  "name": "boney",
+  "tier": 1,
+  "craftAmount": 4,
+  "color": "#FFF0CD",
+  "inputItem": {
+    "id": {
+      "domain": "minecraft",
+      "path": "bone"
+    },
+    "amount": 1,
+    "meta": 0
+  },
+  "outputs": [
+    {
+      "item": {
+        "id": {
+          "domain": "minecraft",
+          "path": "bone"
+        },
+        "amount": 4,
+        "meta": 0
+      },
+      "shape": "DEFAULT"
+    }
+  ],
+  "growthRequirement": {
+    "minLight": 7,
+    "maxLight": 15,
+    "requiredState": null
+  }
+}

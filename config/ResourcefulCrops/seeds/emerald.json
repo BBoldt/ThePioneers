@@ -1,0 +1,25 @@
+{
+  "name": "emerald",
+  "tier": 3,
+  "craftAmount": 4,
+  "color": "#57F26F",
+  "inputOre": "gemEmerald",
+  "outputs": [
+    {
+      "item": {
+        "id": {
+          "domain": "minecraft",
+          "path": "emerald"
+        },
+        "amount": 1,
+        "meta": 0
+      },
+      "shape": "DEFAULT"
+    }
+  ],
+  "growthRequirement": {
+    "minLight": 7,
+    "maxLight": 15,
+    "requiredState": null
+  }
+}

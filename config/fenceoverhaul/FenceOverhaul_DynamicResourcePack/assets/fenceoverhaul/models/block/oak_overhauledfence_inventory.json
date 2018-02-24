@@ -1,0 +1,6 @@
+{
+    "parent": "fenceoverhaul:block/fence_inventory",
+    "textures": {
+        "texture": "blocks/planks_oak"
+    }
+}

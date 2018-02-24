@@ -1,0 +1,32 @@
+{
+  "name": "feathery",
+  "tier": 0,
+  "craftAmount": 4,
+  "color": "#D0CBC7",
+  "inputItem": {
+    "id": {
+      "domain": "minecraft",
+      "path": "feather"
+    },
+    "amount": 1,
+    "meta": 0
+  },
+  "outputs": [
+    {
+      "item": {
+        "id": {
+          "domain": "minecraft",
+          "path": "feather"
+        },
+        "amount": 8,
+        "meta": 0
+      },
+      "shape": "DEFAULT"
+    }
+  ],
+  "growthRequirement": {
+    "minLight": 7,
+    "maxLight": 15,
+    "requiredState": null
+  }
+}

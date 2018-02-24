@@ -1,0 +1,32 @@
+{
+  "name": "teary",
+  "tier": 2,
+  "craftAmount": 4,
+  "color": "#D4FFF1",
+  "inputItem": {
+    "id": {
+      "domain": "minecraft",
+      "path": "ghast_tear"
+    },
+    "amount": 1,
+    "meta": 0
+  },
+  "outputs": [
+    {
+      "item": {
+        "id": {
+          "domain": "minecraft",
+          "path": "ghast_tear"
+        },
+        "amount": 4,
+        "meta": 0
+      },
+      "shape": "DEFAULT"
+    }
+  ],
+  "growthRequirement": {
+    "minLight": 7,
+    "maxLight": 15,
+    "requiredState": null
+  }
+}

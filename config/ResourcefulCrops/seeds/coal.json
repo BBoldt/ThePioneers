@@ -1,0 +1,32 @@
+{
+  "name": "coal",
+  "tier": 1,
+  "craftAmount": 4,
+  "color": "#2D2C2F",
+  "inputItem": {
+    "id": {
+      "domain": "minecraft",
+      "path": "coal"
+    },
+    "amount": 1,
+    "meta": 0
+  },
+  "outputs": [
+    {
+      "item": {
+        "id": {
+          "domain": "minecraft",
+          "path": "coal"
+        },
+        "amount": 4,
+        "meta": 0
+      },
+      "shape": "DEFAULT"
+    }
+  ],
+  "growthRequirement": {
+    "minLight": 7,
+    "maxLight": 15,
+    "requiredState": null
+  }
+}

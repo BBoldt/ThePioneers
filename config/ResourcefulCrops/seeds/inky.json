@@ -1,0 +1,25 @@
+{
+  "name": "inky",
+  "tier": 0,
+  "craftAmount": 4,
+  "color": "#161616",
+  "inputOre": "dyeBlack",
+  "outputs": [
+    {
+      "item": {
+        "id": {
+          "domain": "minecraft",
+          "path": "dye"
+        },
+        "amount": 8,
+        "meta": 0
+      },
+      "shape": "DEFAULT"
+    }
+  ],
+  "growthRequirement": {
+    "minLight": 7,
+    "maxLight": 15,
+    "requiredState": null
+  }
+}

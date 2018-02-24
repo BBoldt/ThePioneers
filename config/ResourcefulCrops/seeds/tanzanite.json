@@ -1,0 +1,25 @@
+{
+  "name": "tanzanite",
+  "tier": 2,
+  "craftAmount": 4,
+  "color": "#2A0760",
+  "inputOre": "gemTanzanite",
+  "outputs": [
+    {
+      "item": {
+        "id": {
+          "domain": "biomesoplenty",
+          "path": "gem"
+        },
+        "amount": 8,
+        "meta": 4
+      },
+      "shape": "DEFAULT"
+    }
+  ],
+  "growthRequirement": {
+    "minLight": 7,
+    "maxLight": 15,
+    "requiredState": null
+  }
+}

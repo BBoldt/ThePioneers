@@ -1,0 +1,25 @@
+{
+  "name": "zinc",
+  "tier": 1,
+  "craftAmount": 4,
+  "color": "#C0B0B6",
+  "inputOre": "ingotZinc",
+  "outputs": [
+    {
+      "item": {
+        "id": {
+          "domain": "substratum",
+          "path": "ingot"
+        },
+        "amount": 4,
+        "meta": 6
+      },
+      "shape": "DEFAULT"
+    }
+  ],
+  "growthRequirement": {
+    "minLight": 7,
+    "maxLight": 15,
+    "requiredState": null
+  }
+}

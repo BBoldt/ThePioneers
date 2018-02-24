@@ -1,0 +1,25 @@
+{
+  "name": "tin",
+  "tier": 1,
+  "craftAmount": 4,
+  "color": "#879AA8",
+  "inputOre": "ingotTin",
+  "outputs": [
+    {
+      "item": {
+        "id": {
+          "domain": "ic2",
+          "path": "ingot"
+        },
+        "amount": 4,
+        "meta": 6
+      },
+      "shape": "DEFAULT"
+    }
+  ],
+  "growthRequirement": {
+    "minLight": 7,
+    "maxLight": 15,
+    "requiredState": null
+  }
+}

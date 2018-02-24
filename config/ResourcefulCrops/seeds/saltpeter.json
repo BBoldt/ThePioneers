@@ -1,0 +1,25 @@
+{
+  "name": "saltpeter",
+  "tier": 1,
+  "craftAmount": 4,
+  "color": "#B6C5D4",
+  "inputOre": "dustSaltpeter",
+  "outputs": [
+    {
+      "item": {
+        "id": {
+          "domain": "railcraft",
+          "path": "dust"
+        },
+        "amount": 8,
+        "meta": 2
+      },
+      "shape": "DEFAULT"
+    }
+  ],
+  "growthRequirement": {
+    "minLight": 7,
+    "maxLight": 15,
+    "requiredState": null
+  }
+}

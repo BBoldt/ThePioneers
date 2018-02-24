@@ -1,0 +1,6 @@
+{
+    "parent": "fenceoverhaul:block/fence_core",
+    "textures": {
+        "texture": "blocks/planks_spruce"
+    }
+}

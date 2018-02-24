@@ -1,0 +1,25 @@
+{
+  "name": "peridot",
+  "tier": 2,
+  "craftAmount": 4,
+  "color": "#82D46C",
+  "inputOre": "gemPeridot",
+  "outputs": [
+    {
+      "item": {
+        "id": {
+          "domain": "biomesoplenty",
+          "path": "gem"
+        },
+        "amount": 8,
+        "meta": 2
+      },
+      "shape": "DEFAULT"
+    }
+  ],
+  "growthRequirement": {
+    "minLight": 7,
+    "maxLight": 15,
+    "requiredState": null
+  }
+}
