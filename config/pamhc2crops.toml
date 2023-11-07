@@ -1,0 +1,9 @@
+
+["Miscellaneous Features"]
+	#Disable/enable grass blocks dropping seeds.
+	"Enable grass blocks dropping seeds" = false
+	#Disable/enable tall grass blocks dropping seeds.
+	"Enable tall grass blocks dropping seeds" = false
+	#Disable/enable fern blocks dropping seeds.
+	"Enable fern blocks dropping seeds" = false
+

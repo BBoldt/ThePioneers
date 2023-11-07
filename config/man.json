@@ -1,0 +1,9 @@
+{
+  "spawn_rate": "normal",
+  "jumpscare": true,
+  "max_chase_duration": 1000,
+  "min_chase_duration": 400,
+  "anti_pillar_mechanic": true,
+  "one_punch": true,
+  "vanish_distance": 30
+}

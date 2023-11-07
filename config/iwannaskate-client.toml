@@ -1,0 +1,29 @@
+
+[display]
+	#when enabled, shows a skateboard icon on the user HUD that indicates their current inertia.
+	show_inertia_indicator = true
+	#when enabled, hides the experience bar when on a skateboard, so that it will not clutter the UI.
+	hide_experience_bar = true
+	#determines how far to the left the inertia indicator renders on the screen. Negative numbers will render it on the right. 
+	#Range: -12000 ~ 12000
+	inertia_indicator_x = 123
+	#determines how far from bottom the inertia indicator renders on the screen.
+	#Range: -12000 ~ 12000
+	inertia_indicator_y = 12
+	#when enabled, a skateboard with a banner pattern will flip over when the mouse is over it in the inventory.
+	flip_board_items = true
+	#when enabled, a green overlay and zoom effect is applied when the overcaffeniated effect is active.
+	overcaffeniated_overlay = true
+
+[animation]
+	#when enabled, flips the foot used to pedal to the other side, which is also inverted by default if the player's skin is left handed.
+	invert_side = false
+	#when enabled, dynamically identifies the parts of each entity model to animate when skating. Mappings of entities are read from the skate_model_mappings folder in the resource pack. If disabled, only humanoid entities will have animations while skating.
+	animate_all_entity_models = true
+	#when enabled, the camera will twist and turn when on a board to follow its motion.
+	rotate_camera_on_board = true
+
+[sound]
+	#when enabled, skateboards will play a looping sound whilst moving.
+	skateboard_loop_sounds = true
+

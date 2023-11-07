@@ -1,0 +1,19 @@
+
+[warpwing-item]
+	#Time in ticks it takes to charge up the wing before using it
+	#Range: > 1
+	useDuration = 40
+	#Durability of the warp wing item
+	#Range: > 1
+	durability = 16
+	#Minimum distance of random teleport
+	#Range: > 0
+	randomTPMinDistance = 32
+	#Maximum distance of random teleport
+	#Range: > 0
+	randomTPMaxDistance = 128
+	#Dimensions in which the wing will burn
+	hotDimensions = ["minecraft:the_nether"]
+	#Dimensions in which the wing will teleport to a random place
+	enderDimensions = ["minecraft:the_end"]
+

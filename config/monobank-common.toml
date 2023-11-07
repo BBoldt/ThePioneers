@@ -1,0 +1,49 @@
+
+[Monobank]
+	#Maximum amount of items that can be stored in Monobank.
+	#Range: > 1
+	Capacity = 8192
+
+[Ownership]
+	#Owners can unlock their Monobank without combination.
+	OwnerCanUnlockWithoutCombination = true
+	#If enabled - players will be able to break other player's banks.
+	#If disabled - monobank will be indestructible if other player owns it.
+	CanRelocateOtherPlayersBanks = false
+	#If enabled - players will be able to change locks in other player's banks.
+	CanReplaceOtherPlayersLocks = false
+
+[Thief]
+	#Player will be marked as Thief if it was seen stealing from a village.
+	#Entities with tag 'monobank:theft_haters' should be a witness of a theft to mark a player as Thief.
+	ThiefEnabled = true
+	#Base duration (in seconds) of a 'Thief' debuff.
+	#Range: > 1
+	ThiefDurationSeconds = 360
+	#Opening, unlocking or breaking player-owned Monobank is considered a crime (same as the npc-owned ones).
+	OpeningPlayerOwnedBankCountsAsTheft = false
+	#Opening or breaking containers (chests, barrels, etc..) is also counts as a crime.
+	#Player is marked as Thief only when container has a LootTable and has not been opened before. (Only on first open)
+	StealingFromContainersIsACrime = true
+	#Player is marked as Thief only near 'protected' structures. Defined in a 'monobank:theft_protected' structure tag.
+	#If disabled - you will be marked as a Thief anywhere in the world, as long as there's a witness of your crime.
+	ThiefOnlyNearProtectedStructures = true
+	#Distance to nearest protected structure in blocks that defines 'being near a protected structure'.
+	#Distance is measured same as in /locate command. Not to the border of a village, but to the center.
+	#Same as with /locate command structure coordinates will only have x and z values. Y value will be the highest surface point.
+	#This is fine for villages (they spawn on a surface) but can have an effect if the structure is deep underground.
+	#Range: > 1
+	ProtectedStructureRange = 128
+	#Villagers will refuse to trade with a player marked as Thief.
+	VillagersHateThieves = true
+	#Villagers will check if they are near a protected structure before refusing to trade with a player marked as Thief.
+	#This setting will have no effect if 'ThiefOnlyNearProtectedStructures' is disabled.
+	VillagersCheckRangeBeforeHatingThieves = false
+
+[StructureGeneration]
+	#Vault buildings will generate in villages.
+	GenerateVaults = true
+	#Vault building generation weight. Larger number = more chances to generate.
+	#Range: > 1
+	VaultWeight = 15
+

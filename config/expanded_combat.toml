@@ -1,0 +1,857 @@
+quiverHudAnchor = "LEFT_OF_HOTBAR"
+quiverHudXAdjustment = -40
+quiverHudYAdjustment = -20
+enableArrows = true
+enableBows = true
+enableHalfBows = true
+enableCrossbows = true
+enableGauntlets = true
+enableQuivers = true
+enableShields = true
+enableWeapons = true
+crossbowVelocityBonus = 0.5
+bowRecipeType = "SMITHING_ONLY"
+enableFletchingTable = true
+
+[shieldProtectionConfig]
+EnableVanillaStyleShieldProtection = false
+EnableShieldBaseProtection = true
+shieldBaseProtectionType = "DURABILITY_PERCENTAGE"
+EnableShieldProtectionPercentage = true
+
+[enchantmentLevels]
+maxKnockbackResistanceLevel = 5
+maxGroundSlamLevel = 6
+baseHammerSlamLevel = 2
+maxBlockingLevel = 5
+baseKatanaArrowBlocks = 2
+maxAgilityLevel = 2
+
+[battlestaff]
+durabilityMultiplier = 0.9
+baseAttackDamage = -2
+attackSpeed = -1.4
+mendingBonus = 0.1
+knockback = 1.0
+attackRange = 1.5
+wieldType = "TWOHANDED"
+
+[broadsword]
+durabilityMultiplier = 1.1
+baseAttackDamage = 3
+attackSpeed = -3.0
+mendingBonus = 0.0
+knockback = 0.0
+attackRange = 0.5
+wieldType = "ONEHANDED"
+
+[claymore]
+durabilityMultiplier = 1.1
+baseAttackDamage = 2
+attackSpeed = -3.0
+mendingBonus = 0.0
+knockback = 0.0
+attackRange = 1.0
+wieldType = "TWOHANDED"
+
+[cutlass]
+durabilityMultiplier = 1.0
+baseAttackDamage = 0
+attackSpeed = -2.2
+mendingBonus = 0.2
+knockback = 0.0
+attackRange = 0.0
+wieldType = "ONEHANDED"
+
+[dagger]
+durabilityMultiplier = 0.75
+baseAttackDamage = -1
+attackSpeed = -1.2
+mendingBonus = 0.1
+knockback = 0.0
+attackRange = 0.0
+wieldType = "DUALWIELD"
+
+[dancers_sword]
+durabilityMultiplier = 1.3
+baseAttackDamage = 2
+attackSpeed = -1.8
+mendingBonus = 0.2
+knockback = 0.0
+attackRange = 0.0
+wieldType = "ONEHANDED"
+
+[flail]
+durabilityMultiplier = 1.1
+baseAttackDamage = 4
+attackSpeed = -3.4
+mendingBonus = 0.0
+knockback = 0.5
+attackRange = 1.0
+wieldType = "ONEHANDED"
+
+[glaive]
+durabilityMultiplier = 1.0
+baseAttackDamage = 3
+attackSpeed = -3.2
+mendingBonus = 0.1
+knockback = 0.5
+attackRange = 2.0
+wieldType = "TWOHANDED"
+
+[great_hammer]
+durabilityMultiplier = 1.5
+baseAttackDamage = 5
+attackSpeed = -3.3
+mendingBonus = 0.0
+knockback = 1.0
+attackRange = 0.0
+wieldType = "ONEHANDED"
+
+[katana]
+durabilityMultiplier = 1.0
+baseAttackDamage = 2
+attackSpeed = -2.4
+mendingBonus = 0.0
+knockback = 0.0
+attackRange = 0.5
+wieldType = "ONEHANDED"
+
+[mace]
+durabilityMultiplier = 1.1
+baseAttackDamage = 4
+attackSpeed = -3.2
+mendingBonus = 0.0
+knockback = 0.5
+attackRange = 0.0
+wieldType = "ONEHANDED"
+
+[scythe]
+durabilityMultiplier = 1.2
+baseAttackDamage = 4
+attackSpeed = -3.4
+mendingBonus = 0.1
+knockback = 1.0
+attackRange = 2.0
+wieldType = "TWOHANDED"
+
+[sickle]
+durabilityMultiplier = 0.8
+baseAttackDamage = 0
+attackSpeed = -1.8
+mendingBonus = 0.2
+knockback = 0.0
+attackRange = 0.0
+wieldType = "DUALWIELD"
+
+[spear]
+durabilityMultiplier = 1.0
+baseAttackDamage = 3
+attackSpeed = -3.4
+mendingBonus = 0.1
+knockback = 0.5
+attackRange = 2.0
+wieldType = "TWOHANDED"
+
+[vanilla]
+equipSound = "minecraft:item.armor.equip_leather"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[vanilla.durability]
+toolDurability = 59
+bowDurability = 0
+addedShieldDurability = 0
+
+[vanilla.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 15
+
+[vanilla.offense]
+addedAttackDamage = 0.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[vanilla.defense]
+gauntletArmorAmount = 1
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 2.5
+afterBasePercentReduction = 0.3
+
+[vanilla.crafting]
+repairItem = ["minecraft:barrier"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+
+[leather]
+equipSound = "minecraft:item.armor.equip_leather"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 2
+
+[leather.durability]
+toolDurability = 131
+bowDurability = 0
+addedShieldDurability = 80
+
+[leather.enchanting]
+offenseEnchantability = 5
+defenseEnchantability = 15
+
+[leather.offense]
+addedAttackDamage = 1.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[leather.defense]
+gauntletArmorAmount = 1
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 2.75
+afterBasePercentReduction = 0.45
+
+[leather.crafting]
+repairItem = ["minecraft:leather"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+
+[rebbitLeather]
+equipSound = "minecraft:item.armor.equip_leather"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 3
+
+[rebbitLeather.durability]
+toolDurability = 131
+bowDurability = 0
+addedShieldDurability = 75
+
+[rebbitLeather.enchanting]
+offenseEnchantability = 5
+defenseEnchantability = 15
+
+[rebbitLeather.offense]
+addedAttackDamage = 1.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[rebbitLeather.defense]
+gauntletArmorAmount = 1
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 2.65
+afterBasePercentReduction = 0.5
+
+[rebbitLeather.crafting]
+repairItem = ["minecraft:rabbit_hide"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+
+[oakPlank]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[oakPlank.durability]
+toolDurability = 59
+bowDurability = 0
+addedShieldDurability = 40
+
+[oakPlank.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 0
+
+[oakPlank.offense]
+addedAttackDamage = 0.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[oakPlank.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 2.5
+afterBasePercentReduction = 0.3
+
+[oakPlank.crafting]
+repairItem = ["minecraft:oak_planks"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+
+[acaciaPlank]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[acaciaPlank.durability]
+toolDurability = 59
+bowDurability = 0
+addedShieldDurability = 40
+
+[acaciaPlank.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 0
+
+[acaciaPlank.offense]
+addedAttackDamage = 0.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[acaciaPlank.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 2.5
+afterBasePercentReduction = 0.3
+
+[acaciaPlank.crafting]
+repairItem = ["minecraft:acacia_planks"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+
+[birchPlank]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[birchPlank.durability]
+toolDurability = 59
+bowDurability = 0
+addedShieldDurability = 40
+
+[birchPlank.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 0
+
+[birchPlank.offense]
+addedAttackDamage = 0.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[birchPlank.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 2.5
+afterBasePercentReduction = 0.3
+
+[birchPlank.crafting]
+repairItem = ["minecraft:birch_planks"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+
+[darkOakPlank]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[darkOakPlank.durability]
+toolDurability = 59
+bowDurability = 0
+addedShieldDurability = 40
+
+[darkOakPlank.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 0
+
+[darkOakPlank.offense]
+addedAttackDamage = 0.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[darkOakPlank.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 2.5
+afterBasePercentReduction = 0.3
+
+[darkOakPlank.crafting]
+repairItem = ["minecraft:dark_oak_planks"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+
+[sprucePlank]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[sprucePlank.durability]
+toolDurability = 59
+bowDurability = 0
+addedShieldDurability = 40
+
+[sprucePlank.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 0
+
+[sprucePlank.offense]
+addedAttackDamage = 0.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[sprucePlank.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 2.5
+afterBasePercentReduction = 0.3
+
+[sprucePlank.crafting]
+repairItem = ["minecraft:spruce_planks"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+
+[junglePlank]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[junglePlank.durability]
+toolDurability = 59
+bowDurability = 0
+addedShieldDurability = 40
+
+[junglePlank.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 0
+
+[junglePlank.offense]
+addedAttackDamage = 0.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[junglePlank.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 2.5
+afterBasePercentReduction = 0.3
+
+[junglePlank.crafting]
+repairItem = ["minecraft:jungle_planks"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+
+[warpedPlank]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[warpedPlank.durability]
+toolDurability = 59
+bowDurability = 0
+addedShieldDurability = 40
+
+[warpedPlank.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 0
+
+[warpedPlank.offense]
+addedAttackDamage = 0.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[warpedPlank.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 2.5
+afterBasePercentReduction = 0.3
+
+[warpedPlank.crafting]
+repairItem = ["minecraft:warped_planks"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+
+[crimsonPlank]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[crimsonPlank.durability]
+toolDurability = 59
+bowDurability = 0
+addedShieldDurability = 40
+
+[crimsonPlank.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 0
+
+[crimsonPlank.offense]
+addedAttackDamage = 0.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[crimsonPlank.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 2.5
+afterBasePercentReduction = 0.3
+
+[crimsonPlank.crafting]
+repairItem = ["minecraft:crimson_planks"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+
+[mangrovePlank]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[mangrovePlank.durability]
+toolDurability = 59
+bowDurability = 0
+addedShieldDurability = 40
+
+[mangrovePlank.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 0
+
+[mangrovePlank.offense]
+addedAttackDamage = 0.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[mangrovePlank.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 2.5
+afterBasePercentReduction = 0.3
+
+[mangrovePlank.crafting]
+repairItem = ["minecraft:mangrove_planks"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+
+[bambooPlank]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[bambooPlank.durability]
+toolDurability = 59
+bowDurability = 0
+addedShieldDurability = 40
+
+[bambooPlank.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 0
+
+[bambooPlank.offense]
+addedAttackDamage = 0.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[bambooPlank.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 2.5
+afterBasePercentReduction = 0.3
+
+[bambooPlank.crafting]
+repairItem = ["minecraft:bamboo_planks"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+
+[cherryPlank]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[cherryPlank.durability]
+toolDurability = 59
+bowDurability = 0
+addedShieldDurability = 40
+
+[cherryPlank.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 0
+
+[cherryPlank.offense]
+addedAttackDamage = 0.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[cherryPlank.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 2.5
+afterBasePercentReduction = 0.3
+
+[cherryPlank.crafting]
+repairItem = ["minecraft:cherry_planks"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+
+[stone]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[stone.durability]
+toolDurability = 131
+bowDurability = 0
+addedShieldDurability = 0
+
+[stone.enchanting]
+offenseEnchantability = 5
+defenseEnchantability = 0
+
+[stone.offense]
+addedAttackDamage = 1.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[stone.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 0.0
+afterBasePercentReduction = 0.0
+
+[stone.crafting]
+repairItem = ["minecraft:cobblestone", "minecraft:blackstone", "minecraft:cobbled_deepslate"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+
+[iron]
+equipSound = "minecraft:item.armor.equip_iron"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 4
+
+[iron.durability]
+toolDurability = 250
+bowDurability = 480
+addedShieldDurability = 150
+
+[iron.enchanting]
+offenseEnchantability = 14
+defenseEnchantability = 9
+
+[iron.offense]
+addedAttackDamage = 2.0
+arrowDamage = 3.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 3.0
+
+[iron.defense]
+gauntletArmorAmount = 2
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 3.0
+afterBasePercentReduction = 0.6
+
+[iron.crafting]
+repairItem = ["minecraft:iron_ingot"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+
+[gold]
+equipSound = "minecraft:item.armor.equip_gold"
+mendingBonus = 2.0
+fireResistant = false
+quiverSlots = 6
+
+[gold.durability]
+toolDurability = 32
+bowDurability = 395
+addedShieldDurability = 40
+
+[gold.enchanting]
+offenseEnchantability = 22
+defenseEnchantability = 25
+
+[gold.offense]
+addedAttackDamage = 0.0
+arrowDamage = 2.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 2.5
+
+[gold.defense]
+gauntletArmorAmount = 1
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 3.0
+afterBasePercentReduction = 0.4
+
+[gold.crafting]
+repairItem = ["minecraft:gold_ingot"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+
+[diamond]
+equipSound = "minecraft:item.armor.equip_diamond"
+mendingBonus = -0.1
+fireResistant = false
+quiverSlots = 8
+
+[diamond.durability]
+toolDurability = 1561
+bowDurability = 672
+addedShieldDurability = 300
+
+[diamond.enchanting]
+offenseEnchantability = 10
+defenseEnchantability = 10
+
+[diamond.offense]
+addedAttackDamage = 3.0
+arrowDamage = 3.75
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 1
+velocityMultiplier = 3.5
+
+[diamond.defense]
+gauntletArmorAmount = 3
+armorToughness = 2.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 5.0
+afterBasePercentReduction = 0.75
+
+[diamond.crafting]
+repairItem = ["minecraft:diamond"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+
+[netherite]
+equipSound = "minecraft:item.armor.equip_netherite"
+mendingBonus = 0.2
+fireResistant = true
+quiverSlots = 10
+
+[netherite.durability]
+toolDurability = 2031
+bowDurability = 768
+addedShieldDurability = 375
+
+[netherite.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 15
+
+[netherite.offense]
+addedAttackDamage = 4.0
+arrowDamage = 4.5
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 1
+velocityMultiplier = 4.0
+
+[netherite.defense]
+gauntletArmorAmount = 3
+armorToughness = 3.0
+knockbackResistance = 0.10000000149011612
+baseProtectionAmmount = 6.0
+afterBasePercentReduction = 0.85
+
+[netherite.crafting]
+repairItem = ["minecraft:netherite_ingot"]
+isSingleAddition = true
+onlyReplaceResource = ["Diamond"]
+smithingTemplate = "minecraft:netherite_upgrade_smithing_template"

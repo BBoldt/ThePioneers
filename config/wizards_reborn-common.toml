@@ -1,0 +1,15 @@
+
+#World generation settings
+[world]
+	#Whether arcanum ore is enabled. Set to false to disable spawning.
+	arcanumEnabled = true
+	#Maximum Y value for arcanum ore veins
+	#Range: 1 ~ 255
+	arcanumOreMaxY = 51
+	#Maximum number of blocks per arcanum ore vein
+	#Range: 1 ~ 255
+	arcanumOreVeinSize = 8
+	#Number of arcanum ore veins per chunk
+	#Range: 0 ~ 255
+	arcanumOreVeinCount = 8
+

@@ -1,0 +1,36 @@
+
+[mobs]
+	#when enabled, skater skeletons will spawn where applicable.
+	spawn_skater_skeletons = true
+	#when enabled, skater skeletons will skate using the skateboards they spawn with or any they pick up.
+	skater_skeletons_use_skateboards = true
+	#the chance that a skater skeleton will drop a spooky or snowy wheel when in the month of its respective holiday. 1.0 = 100% chance, 0.0 = disabled.
+	#Range: 0.0 ~ 1.0
+	skater_skeleton_holiday_wheel_drop_chance = 0.25
+	#when enabled, wandering skaters will spawn where applicable.
+	spawn_wandering_skaters = true
+	#the time in game ticks between each attempt to spawn a wandering skater.
+	#Range: > 1200
+	wandering_skater_spawn_delay = 24000
+	#the chance that each time the spawn delay passes, a wandering skater will spawn. If it does not, the next time the chance is increased by this number again.
+	#Range: 0.0 ~ 1.0
+	wandering_skater_spawn_chance = 0.05
+	#whether players can give baby villagers energy drinks to turn them into nitwit villagers.
+	convert_villagers_to_nitwits = true
+	#whether players can give nitwit villagers a skateboard to turn them into wandering skaters.
+	convert_nitwits_to_skaters = true
+
+[slow-motion]
+	#when enabled, certain skateboards can cause a slow-motion effect to the entities around them.
+	slow_motion = true
+	#when enabled, nearby player entities can be slowed down if someone else is using the slow motion feature.
+	players_slow_motion = true
+	#determines how far in blocks entities are effected by slow motion.
+	#Range: 1 ~ 2000
+	slow_motion_distance = 30
+
+[board-customization]
+	#Adding enchantments to the skateboard via the anvil is made cheaper by multiplying the total amount of exp cost by this number. 1.0 = disabled, 100% usual exp, 0.0 = 1 exp
+	#Range: 0.0 ~ 1.0
+	skateboard_exp_anvil_rate_modifier = 0.75
+

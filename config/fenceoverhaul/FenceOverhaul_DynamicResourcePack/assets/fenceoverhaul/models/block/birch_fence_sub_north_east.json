@@ -1,6 +1,0 @@
-{
-    "parent": "fenceoverhaul:block/fence_sub_north_east",
-    "textures": {
-        "texture": "blocks/planks_birch"
-    }
-}

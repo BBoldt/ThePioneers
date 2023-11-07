@@ -1,0 +1,897 @@
+# === Energized Power Common Config (IMPORTANT: Not all values are synced from the server to the client.) ===
+
+# The energy capacity of the Battery (Tier I) in FE
+# [Default value]: 256
+# [Validation]: Value >= 1
+item.battery_1.capacity = 256
+
+# The energy transfer rate of the Battery (Tier I) in FE per tick
+# [Default value]: 2
+# [Validation]: Value >= 1
+item.battery_1.transfer_rate = 2
+
+# The energy capacity of the Battery (Tier II) in FE
+# [Default value]: 1024
+# [Validation]: Value >= 1
+item.battery_2.capacity = 1024
+
+# The energy transfer rate of the Battery (Tier II) in FE per tick
+# [Default value]: 8
+# [Validation]: Value >= 1
+item.battery_2.transfer_rate = 8
+
+# The energy capacity of the Battery (Tier III) in FE
+# [Default value]: 2048
+# [Validation]: Value >= 1
+item.battery_3.capacity = 2048
+
+# The energy transfer rate of the Battery (Tier III) in FE per tick
+# [Default value]: 32
+# [Validation]: Value >= 1
+item.battery_3.transfer_rate = 32
+
+# The energy capacity of the Battery (Tier IV) in FE
+# [Default value]: 8192
+# [Validation]: Value >= 1
+item.battery_4.capacity = 8192
+
+# The energy transfer rate of the Battery (Tier IV) in FE per tick
+# [Default value]: 128
+# [Validation]: Value >= 1
+item.battery_4.transfer_rate = 128
+
+# The energy capacity of the Battery (Tier V) in FE
+# [Default value]: 16384
+# [Validation]: Value >= 1
+item.battery_5.capacity = 16384
+
+# The energy transfer rate of the Battery (Tier V) in FE per tick
+# [Default value]: 512
+# [Validation]: Value >= 1
+item.battery_5.transfer_rate = 512
+
+# The energy capacity of the Battery (Tier VI) in FE
+# [Default value]: 65536
+# [Validation]: Value >= 1
+item.battery_6.capacity = 65536
+
+# The energy transfer rate of the Battery (Tier VI) in FE per tick
+# [Default value]: 2048
+# [Validation]: Value >= 1
+item.battery_6.transfer_rate = 2048
+
+# The energy capacity of the Battery (Tier VII) in FE
+# [Default value]: 262144
+# [Validation]: Value >= 1
+item.battery_7.capacity = 262144
+
+# The energy transfer rate of the Battery (Tier VII) in FE per tick
+# [Default value]: 8192
+# [Validation]: Value >= 1
+item.battery_7.transfer_rate = 8192
+
+# The energy capacity of the Battery (Tier VIII) in FE
+# [Default value]: 1048576
+# [Validation]: Value >= 1
+item.battery_8.capacity = 1048576
+
+# The energy transfer rate of the Battery (Tier VIII) in FE per tick
+# [Default value]: 32768
+# [Validation]: Value >= 1
+item.battery_8.transfer_rate = 32768
+
+# The energy capacity of the Energy Analyzer in FE
+# [Default value]: 2048
+# [Validation]: Value >= 1
+item.energy_analyzer.capacity = 2048
+
+# The energy transfer rate of the Energy Analyzer in FE per tick
+# [Default value]: 32
+# [Validation]: Value >= 1
+item.energy_analyzer.transfer_rate = 32
+
+# The energy consumption of the Energy Analyzer in FE per use
+# [Default value]: 8
+# [Validation]: Value >= 1
+item.energy_analyzer.energy_consumption_per_use = 8
+
+# The energy capacity of the Fluid Analyzer in FE
+# [Default value]: 2048
+# [Validation]: Value >= 1
+item.fluid_analyzer.capacity = 2048
+
+# The energy transfer rate of the Fluid Analyzer in FE per tick
+# [Default value]: 32
+# [Validation]: Value >= 1
+item.fluid_analyzer.transfer_rate = 32
+
+# The energy consumption of the Fluid Analyzer in FE per use
+# [Default value]: 8
+# [Validation]: Value >= 1
+item.fluid_analyzer.energy_consumption_per_use = 8
+
+# The energy capacity of the Inventory Coal Engine in FE
+# [Default value]: 2048
+# [Validation]: Value >= 1
+item.inventory_coal_engine.capacity = 2048
+
+# The energy transfer rate of the Inventory Coal Engine in FE per tick
+# [Default value]: 256
+# [Validation]: Value >= 1
+item.inventory_coal_engine.transfer_rate = 256
+
+# The multiplier by which the energy production of the Inventory Coal Engine is multiplied by
+# [Default value]: 1.000000
+# [Validation]: Value > 0.0
+item.inventory_coal_engine.energy_production_multiplier = 1.000000
+
+# The slot count of the Inventory Charger.
+# WARNING: If set to a lower value than previously, items which are stored in an Inventory Charger could vanish!
+#
+# [Default value]: 3
+# [Validation]: Value must be one of [1, 3, 5]
+item.inventory_charger.slot_count = 3
+
+# If set to true the transfer rate limit of the Inventory Charger will be enabled
+# [Default value]: false
+item.inventory_charger.transfer_rate_limit_enabled = false
+
+# The maximal transfer rate of the Inventory Charger in FE per tick if the transfer rate limit is enabled
+# [Default value]: 16384
+# [Validation]: Value >= 1
+item.inventory_charger.transfer_rate_limit = 16384
+
+# The energy capacity of the Battery Box in FE
+# [Default value]: 65536
+# [Validation]: Value >= 1
+block.battery_box.capacity = 65536
+
+# The energy transfer rate of the Battery Box in FE per tick
+# [Default value]: 2048
+# [Validation]: Value >= 1
+block.battery_box.transfer_rate = 2048
+
+# The energy capacity of the Advanced Battery Box in FE
+# [Default value]: 8388608
+# [Validation]: Value >= 1
+block.advanced_battery_box.capacity = 8388608
+
+# The energy transfer rate of the Advanced Battery Box in FE per tick
+# [Default value]: 262144
+# [Validation]: Value >= 1
+block.advanced_battery_box.transfer_rate = 262144
+
+# The energy transfer rate of the LV Transformers in FE per tick
+# [Default value]: 8192
+# [Validation]: Value >= 1
+block.lv_transformers.transfer_rate = 8192
+
+# The energy transfer rate of the MV Transformers in FE per tick
+# [Default value]: 65536
+# [Validation]: Value >= 1
+block.mv_transformers.transfer_rate = 65536
+
+# The energy transfer rate of the HV Transformers in FE per tick
+# [Default value]: 524288
+# [Validation]: Value >= 1
+block.hv_transformers.transfer_rate = 524288
+
+# The energy transfer rate of the EHV Transformers in FE per tick
+# [Default value]: 2097152
+# [Validation]: Value >= 1
+block.ehv_transformers.transfer_rate = 2097152
+
+# The energy extraction mode defines how cables extract energy.
+# - PUSH: Producers must push energy into cables.
+# - PULL: Cables pull energy from producers.
+# - BOTH: Both systems are used.
+# => Set to PULL for the behavior of cables before version 2.1.1.
+# => Set to BOTH for compatibility with any FE energy producers.
+#
+# [Default value]: BOTH
+# [Validation]: Value must be one of [PUSH, PULL, BOTH]
+block.cables.energy_extraction_mode = BOTH
+
+# The energy transfer rate of the Copper Cable in FE per tick
+# [Default value]: 1024
+# [Validation]: Value >= 1
+block.copper_cable.transfer_rate = 1024
+
+# The energy transfer rate of the Gold Cable in FE per tick
+# [Default value]: 16384
+# [Validation]: Value >= 1
+block.gold_cable.transfer_rate = 16384
+
+# The energy transfer rate of the Energized Copper Cable in FE per tick
+# [Default value]: 131072
+# [Validation]: Value >= 1
+block.energized_copper_cable.transfer_rate = 131072
+
+# The energy transfer rate of the Energized Gold Cable in FE per tick
+# [Default value]: 524288
+# [Validation]: Value >= 1
+block.energized_gold_cable.transfer_rate = 524288
+
+# The energy transfer rate of the Energized Crystal Matrix Cable in FE per tick
+# [Default value]: 2097152
+# [Validation]: Value >= 1
+block.energized_crystal_matrix_cable.transfer_rate = 2097152
+
+# The energy capacity of the Weather Controller in FE
+# [Default value]: 8388608
+# [Validation]: Value >= 1
+block.weather_controller.capacity = 8388608
+
+# The energy transfer rate of the Weather Controller in FE per tick
+# [Default value]: 32768
+# [Validation]: Value >= 1
+block.weather_controller.transfer_rate = 32768
+
+# The amount of time in ticks the Weather Controller can maintain the desired weather state
+# [Default value]: 19200
+# [Validation]: Value >= 100
+block.weather_controller.control_duration = 19200
+
+# The energy capacity of the Lightning Generator in FE
+# [Default value]: 1000000
+# [Validation]: Value >= 1
+block.lightning_generator.capacity = 1000000
+
+# The energy transfer rate of the Lightning Generator in FE per tick
+# [Default value]: 65536
+# [Validation]: Value >= 1
+block.lightning_generator.transfer_rate = 65536
+
+# The energy capacity of the Charging Station in FE
+# [Default value]: 262144
+# [Validation]: Value >= 1
+block.charging_station.capacity = 262144
+
+# The energy transfer rate of the Charging Station in FE per tick
+# [Default value]: 16384
+# [Validation]: Value >= 1
+block.charging_station.transfer_rate = 16384
+
+# The maximal distance the Charging Station can operate within
+# [Default value]: 7
+# [Validation]: Value >= 1
+# [Validation]: Value <= 25
+block.charging_station.max_charging_distance = 7
+
+# The energy capacity of the Time Controller in FE
+# [Default value]: 8388608
+# [Validation]: Value >= 1
+block.time_controller.capacity = 8388608
+
+# The energy transfer rate of the Time Controller in FE per tick
+# [Default value]: 32768
+# [Validation]: Value >= 1
+block.time_controller.transfer_rate = 32768
+
+# The energy capacity of the Coal Engine in FE
+# [Default value]: 2048
+# [Validation]: Value >= 1
+block.coal_engine.capacity = 2048
+
+# The energy transfer rate of the Coal Engine in FE per tick
+# [Default value]: 256
+# [Validation]: Value >= 1
+block.coal_engine.transfer_rate = 256
+
+# The multiplier by which the energy production of the Coal Engine is multiplied by
+# [Default value]: 1.000000
+# [Validation]: Value > 0.0
+block.coal_engine.energy_production_multiplier = 1.000000
+
+# The energy capacity of the Solar Panel (Tier I) in FE
+# [Default value]: 80
+# [Validation]: Value >= 1
+block.solar_panel_1.capacity = 640
+
+# The energy transfer rate of the Solar Panel (Tier I) in FE per tick
+# [Default value]: 8
+# [Validation]: Value >= 1
+block.solar_panel_1.transfer_rate = 64
+
+# The peak energy production of the Solar Panel (Tier I) for ideal conditions (e.g. at noon with clear sky for solar panels) in FE per tick
+# [Default value]: 2
+# [Validation]: Value >= 1
+block.solar_panel_1.energy_peak_production = 16
+
+# The energy capacity of the Solar Panel (Tier II) in FE
+# [Default value]: 640
+# [Validation]: Value >= 1
+block.solar_panel_2.capacity = 5120
+
+# The energy transfer rate of the Solar Panel (Tier II) in FE per tick
+# [Default value]: 64
+# [Validation]: Value >= 1
+block.solar_panel_2.transfer_rate = 512
+
+# The peak energy production of the Solar Panel (Tier II) for ideal conditions (e.g. at noon with clear sky for solar panels) in FE per tick
+# [Default value]: 16
+# [Validation]: Value >= 1
+block.solar_panel_2.energy_peak_production = 128
+
+# The energy capacity of the Solar Panel (Tier III) in FE
+# [Default value]: 5120
+# [Validation]: Value >= 1
+block.solar_panel_3.capacity = 40960
+
+# The energy transfer rate of the Solar Panel (Tier III) in FE per tick
+# [Default value]: 512
+# [Validation]: Value >= 1
+block.solar_panel_3.transfer_rate = 4096
+
+# The peak energy production of the Solar Panel (Tier III) for ideal conditions (e.g. at noon with clear sky for solar panels) in FE per tick
+# [Default value]: 128
+# [Validation]: Value >= 1
+block.solar_panel_3.energy_peak_production = 1024
+
+# The energy capacity of the Solar Panel (Tier IV) in FE
+# [Default value]: 81920
+# [Validation]: Value >= 1
+block.solar_panel_4.capacity = 327680
+
+# The energy transfer rate of the Solar Panel (Tier IV) in FE per tick
+# [Default value]: 8192
+# [Validation]: Value >= 1
+block.solar_panel_4.transfer_rate = 32768
+
+# The peak energy production of the Solar Panel (Tier IV) for ideal conditions (e.g. at noon with clear sky for solar panels) in FE per tick
+# [Default value]: 2048
+# [Validation]: Value >= 1
+block.solar_panel_4.energy_peak_production = 8192
+
+# The energy capacity of the Solar Panel (Tier V) in FE
+# [Default value]: 327680
+# [Validation]: Value >= 1
+block.solar_panel_5.capacity = 1310720
+
+# The energy transfer rate of the Solar Panel (Tier V) in FE per tick
+# [Default value]: 131072
+# [Validation]: Value >= 1
+block.solar_panel_5.transfer_rate = 524288
+
+# The peak energy production of the Solar Panel (Tier V) for ideal conditions (e.g. at noon with clear sky for solar panels) in FE per tick
+# [Default value]: 16384
+# [Validation]: Value >= 1
+block.solar_panel_5.energy_peak_production = 65536
+
+# The energy capacity of the Solar Panel (Tier VI) in FE
+# [Default value]: 1048576
+# [Validation]: Value >= 1
+block.solar_panel_6.capacity = 2097152
+
+# The energy transfer rate of the Solar Panel (Tier VI) in FE per tick
+# [Default value]: 524288
+# [Validation]: Value >= 1
+block.solar_panel_6.transfer_rate = 1048576
+
+# The peak energy production of the Solar Panel (Tier VI) for ideal conditions (e.g. at noon with clear sky for solar panels) in FE per tick
+# [Default value]: 131072
+# [Validation]: Value >= 1
+block.solar_panel_6.energy_peak_production = 262144
+
+# The energy capacity of the Minecart Charger in FE
+# [Default value]: 16384
+# [Validation]: Value >= 1
+block.minecart_charger.capacity = 16384
+
+# The energy transfer rate of the Minecart Charger in FE per tick
+# [Default value]: 512
+# [Validation]: Value >= 1
+block.minecart_charger.transfer_rate = 512
+
+# The energy capacity of the Minecart Uncharger in FE
+# [Default value]: 16384
+# [Validation]: Value >= 1
+block.minecart_uncharger.capacity = 16384
+
+# The energy transfer rate of the Minecart Uncharger in FE per tick
+# [Default value]: 512
+# [Validation]: Value >= 1
+block.minecart_uncharger.transfer_rate = 512
+
+# The energy capacity of the Advanced Minecart Charger in FE
+# [Default value]: 524288
+# [Validation]: Value >= 1
+block.advanced_minecart_charger.capacity = 524288
+
+# The energy transfer rate of the Advanced Minecart Charger in FE per tick
+# [Default value]: 65536
+# [Validation]: Value >= 1
+block.advanced_minecart_charger.transfer_rate = 65536
+
+# The energy capacity of the Advanced Minecart Uncharger in FE
+# [Default value]: 524288
+# [Validation]: Value >= 1
+block.advanced_minecart_uncharger.capacity = 524288
+
+# The energy transfer rate of the Advanced Minecart Uncharger in FE per tick
+# [Default value]: 65536
+# [Validation]: Value >= 1
+block.advanced_minecart_uncharger.transfer_rate = 65536
+
+# The energy capacity of the Crusher in FE
+# [Default value]: 2048
+# [Validation]: Value >= 1
+block.crusher.capacity = 2048
+
+# The energy transfer rate of the Crusher in FE per tick
+# [Default value]: 128
+# [Validation]: Value >= 1
+block.crusher.transfer_rate = 128
+
+# The energy consumption of the Crusher if active in FE per tick
+# [Default value]: 8
+# [Validation]: Value >= 1
+block.crusher.energy_consumption_per_tick = 8
+
+# The time a recipe of the Crusher requires in ticks
+# [Default value]: 100
+# [Validation]: Value >= 1
+block.crusher.recipe_duration = 100
+
+# The energy capacity of the Pulverizer in FE
+# [Default value]: 2048
+# [Validation]: Value >= 1
+block.pulverizer.capacity = 2048
+
+# The energy transfer rate of the Pulverizer in FE per tick
+# [Default value]: 128
+# [Validation]: Value >= 1
+block.pulverizer.transfer_rate = 128
+
+# The energy consumption of the Pulverizer if active in FE per tick
+# [Default value]: 8
+# [Validation]: Value >= 1
+block.pulverizer.energy_consumption_per_tick = 8
+
+# The time a recipe of the Pulverizer requires in ticks
+# [Default value]: 100
+# [Validation]: Value >= 1
+block.pulverizer.recipe_duration = 100
+
+# The energy capacity of the Sawmill in FE
+# [Default value]: 2048
+# [Validation]: Value >= 1
+block.sawmill.capacity = 2048
+
+# The energy transfer rate of the Sawmill in FE per tick
+# [Default value]: 128
+# [Validation]: Value >= 1
+block.sawmill.transfer_rate = 128
+
+# The energy consumption of the Sawmill if active in FE per tick
+# [Default value]: 8
+# [Validation]: Value >= 1
+block.sawmill.energy_consumption_per_tick = 8
+
+# The time a recipe of the Sawmill requires in ticks
+# [Default value]: 100
+# [Validation]: Value >= 1
+block.sawmill.recipe_duration = 100
+
+# The energy capacity of the Compressor in FE
+# [Default value]: 2048
+# [Validation]: Value >= 1
+block.compressor.capacity = 2048
+
+# The energy transfer rate of the Compressor in FE per tick
+# [Default value]: 256
+# [Validation]: Value >= 1
+block.compressor.transfer_rate = 256
+
+# The energy consumption of the Compressor if active in FE per tick
+# [Default value]: 16
+# [Validation]: Value >= 1
+block.compressor.energy_consumption_per_tick = 16
+
+# The time a recipe of the Compressor requires in ticks
+# [Default value]: 100
+# [Validation]: Value >= 1
+block.compressor.recipe_duration = 100
+
+# The energy capacity of the Metal Press in FE
+# [Default value]: 2048
+# [Validation]: Value >= 1
+block.metal_press.capacity = 2048
+
+# The energy transfer rate of the Metal Press in FE per tick
+# [Default value]: 256
+# [Validation]: Value >= 1
+block.metal_press.transfer_rate = 256
+
+# The energy consumption of the Metal Press if active in FE per tick
+# [Default value]: 16
+# [Validation]: Value >= 1
+block.metal_press.energy_consumption_per_tick = 16
+
+# The time a recipe of the Metal Press requires in ticks
+# [Default value]: 250
+# [Validation]: Value >= 1
+block.metal_press.recipe_duration = 250
+
+# The energy capacity of the Energizer in FE
+# [Default value]: 65536
+# [Validation]: Value >= 1
+block.energizer.capacity = 65536
+
+# The energy transfer rate of the Energizer in FE per tick
+# [Default value]: 16384
+# [Validation]: Value >= 1
+block.energizer.transfer_rate = 16384
+
+# The multiplier by which the energy consumption of the Energizer is multiplied by
+# [Default value]: 1.000000
+# [Validation]: Value > 0.0
+block.energizer.energy_consumption_multiplier = 1.000000
+
+# The time a recipe of the Energizer requires in ticks
+# [Default value]: 100
+# [Validation]: Value >= 1
+block.energizer.recipe_duration = 100
+
+# The energy capacity of the Auto Crafter in FE
+# [Default value]: 2048
+# [Validation]: Value >= 1
+block.auto_crafter.capacity = 2048
+
+# The energy transfer rate of the Auto Crafter in FE per tick
+# [Default value]: 256
+# [Validation]: Value >= 1
+block.auto_crafter.transfer_rate = 256
+
+# The energy consumption of the Auto Crafter if active in FE per tick per ingredient
+# [Default value]: 2
+# [Validation]: Value >= 1
+block.auto_crafter.energy_consumption_per_tick_per_ingredient = 2
+
+# The time a recipe of the Auto Crafter requires in ticks
+# [Default value]: 100
+# [Validation]: Value >= 1
+block.auto_crafter.recipe_duration = 100
+
+# The recipe blacklist for the Auto Crafter.
+# The blacklist is a list of recipe ids which can not be crafted in the Auto Crafter
+#
+# [Default value]: []
+# [Validation]: Syntax (whitespaces are ignored): [namespace1:path1, namespace2:path2, ...]
+block.auto_crafter.recipe_blacklist = []
+
+# The energy capacity of the Advanced Auto Crafter in FE
+# [Default value]: 16384
+# [Validation]: Value >= 1
+block.advanced_auto_crafter.capacity = 16384
+
+# The energy transfer rate of the Advanced Auto Crafter in FE per tick
+# [Default value]: 1024
+# [Validation]: Value >= 1
+block.advanced_auto_crafter.transfer_rate = 1024
+
+# The energy consumption of the Advanced Auto Crafter if active in FE per tick per ingredient
+# [Default value]: 16
+# [Validation]: Value >= 1
+block.advanced_auto_crafter.energy_consumption_per_tick_per_ingredient = 16
+
+# The time a recipe of the Advanced Auto Crafter requires in ticks
+# [Default value]: 50
+# [Validation]: Value >= 1
+block.advanced_auto_crafter.recipe_duration = 50
+
+# The recipe blacklist for the Advanced Auto Crafter.
+# The blacklist is a list of recipe ids which can not be crafted in the Advanced Auto Crafter
+#
+# [Default value]: []
+# [Validation]: Syntax (whitespaces are ignored): [namespace1:path1, namespace2:path2, ...]
+block.advanced_auto_crafter.recipe_blacklist = []
+
+# The energy capacity of the Heat Generator in FE
+# [Default value]: 10000
+# [Validation]: Value >= 1
+block.heat_generator.capacity = 10000
+
+# The energy transfer rate of the Heat Generator in FE per tick
+# [Default value]: 500
+# [Validation]: Value >= 1
+block.heat_generator.transfer_rate = 500
+
+# The multiplier by which the energy production of the Heat Generator is multiplied by
+# [Default value]: 1.000000
+# [Validation]: Value > 0.0
+block.heat_generator.energy_production_multiplier = 1.000000
+
+# The energy capacity of the Thermal Generator in FE
+# [Default value]: 40960
+# [Validation]: Value >= 1
+block.thermal_generator.capacity = 40960
+
+# The energy transfer rate of the Thermal Generator in FE per tick
+# [Default value]: 2048
+# [Validation]: Value >= 1
+block.thermal_generator.transfer_rate = 2048
+
+# The multiplier by which the energy production of the Thermal Generator is multiplied by
+# [Default value]: 1.000000
+# [Validation]: Value > 0.0
+block.thermal_generator.energy_production_multiplier = 1.000000
+
+# The fluid tank capacity of the Thermal Generator in buckets (= 1000 mB)
+# [Default value]: 8
+# [Validation]: Value >= 1
+block.thermal_generator.fluid_tank_capacity = 8
+
+# The energy capacity of the Block Placer in FE
+# [Default value]: 2048
+# [Validation]: Value >= 1
+block.block_placer.capacity = 2048
+
+# The energy transfer rate of the Block Placer in FE per tick
+# [Default value]: 128
+# [Validation]: Value >= 1
+block.block_placer.transfer_rate = 128
+
+# The energy consumption of the Block Placer if active in FE per tick
+# [Default value]: 32
+# [Validation]: Value >= 1
+block.block_placer.energy_consumption_per_tick = 32
+
+# The time the Block Placer requires to place a block in ticks
+# [Default value]: 20
+# [Validation]: Value >= 1
+block.block_placer.placement_duration = 20
+
+# The energy transfer rate of the Powered Lamp in FE per tick
+# [Default value]: 16
+# [Validation]: Value >= 1
+block.powered_lamp.transfer_rate = 16
+
+# The energy capacity of the Powered Furnace in FE
+# [Default value]: 4096
+# [Validation]: Value >= 1
+block.powered_furnace.capacity = 4096
+
+# The energy transfer rate of the Powered Furnace in FE per tick
+# [Default value]: 256
+# [Validation]: Value >= 1
+block.powered_furnace.transfer_rate = 256
+
+# The energy consumption of the Powered Furnace if active in FE per tick
+# [Default value]: 128
+# [Validation]: Value >= 1
+block.powered_furnace.energy_consumption_per_tick = 128
+
+# The multiplier by which the time a recipe of the Powered Furnace requires is multiplied by.
+# => If set to 6 the Powered Furnace will be as fast as the normal Furnace.
+#
+# [Default value]: 1.000000
+# [Validation]: Value > 0.0
+block.powered_furnace.recipe_duration_multiplier = 1.000000
+
+# The recipe blacklist for the Powered Furnace.
+# The blacklist is a list of recipe ids which can not be crafted in the Powered Furnace
+#
+# [Default value]: []
+# [Validation]: Syntax (whitespaces are ignored): [namespace1:path1, namespace2:path2, ...]
+block.powered_furnace.recipe_blacklist = []
+
+# The energy capacity of the Advanced Powered Furnace in FE
+# [Default value]: 32768
+# [Validation]: Value >= 1
+block.advanced_powered_furnace.capacity = 32768
+
+# The energy transfer rate of the Advanced Powered Furnace in FE per tick
+# [Default value]: 4096
+# [Validation]: Value >= 1
+block.advanced_powered_furnace.transfer_rate = 4096
+
+# The energy consumption per input of the Advanced Powered Furnace in FE per tick.
+# [Default value]: 1024
+# [Validation]: Value >= 1
+block.advanced_powered_furnace.energy_consumption_per_input_per_tick = 1024
+
+# The multiplier by which the time a recipe of the Advanced Powered Furnace requires is multiplied by.
+# => If set to 12 the Advanced Powered Furnace will be as fast as the normal Furnace.
+#
+# [Default value]: 1.000000
+# [Validation]: Value > 0.0
+block.advanced_powered_furnace.recipe_duration_multiplier = 1.000000
+
+# The recipe blacklist for the Advanced Powered Furnace.
+# The blacklist is a list of recipe ids which can not be crafted in the Advanced Powered Furnace
+#
+# [Default value]: []
+# [Validation]: Syntax (whitespaces are ignored): [namespace1:path1, namespace2:path2, ...]
+block.advanced_powered_furnace.recipe_blacklist = []
+
+# The energy capacity of the Plant Growth Chamber in FE
+# [Default value]: 4096
+# [Validation]: Value >= 1
+block.plant_growth_chamber.capacity = 4096
+
+# The energy transfer rate of the Plant Growth Chamber in FE per tick
+# [Default value]: 256
+# [Validation]: Value >= 1
+block.plant_growth_chamber.transfer_rate = 256
+
+# The energy consumption of the Plant Growth Chamber if active in FE per tick
+# [Default value]: 32
+# [Validation]: Value >= 1
+block.plant_growth_chamber.energy_consumption_per_tick = 32
+
+# The multiplier by which the time a recipe of the Plant Growth Chamber requires is multiplied by
+# [Default value]: 1.000000
+# [Validation]: Value > 0.0
+block.plant_growth_chamber.recipe_duration_multiplier = 1.000000
+
+# The energy capacity of the Fluid Filler in FE
+# [Default value]: 2048
+# [Validation]: Value >= 1
+block.fluid_filler.capacity = 2048
+
+# The energy transfer rate of the Fluid Filler in FE per tick
+# [Default value]: 128
+# [Validation]: Value >= 1
+block.fluid_filler.transfer_rate = 128
+
+# The energy consumption of the Fluid Filler if active in FE per tick
+# [Default value]: 64
+# [Validation]: Value >= 1
+block.fluid_filler.energy_consumption_per_tick = 64
+
+# The fluid tank capacity of the Fluid Filler in buckets (= 1000 mB)
+# [Default value]: 8
+# [Validation]: Value >= 1
+block.fluid_filler.fluid_tank_capacity = 8
+
+# The transfer rate an item can be filled up at by the Fluid Filler in mB (milli Buckets)
+# [Default value]: 100
+# [Validation]: Value >= 1
+block.fluid_filler.fluid_item_transfer_rate = 100
+
+# The energy capacity of the Fluid Drainer in FE
+# [Default value]: 2048
+# [Validation]: Value >= 1
+block.fluid_drainer.capacity = 2048
+
+# The energy transfer rate of the Fluid Drainer in FE per tick
+# [Default value]: 128
+# [Validation]: Value >= 1
+block.fluid_drainer.transfer_rate = 128
+
+# The energy consumption of the Fluid Drainer if active in FE per tick
+# [Default value]: 64
+# [Validation]: Value >= 1
+block.fluid_drainer.energy_consumption_per_tick = 64
+
+# The fluid tank capacity of the Fluid Drainer in buckets (= 1000 mB)
+# [Default value]: 8
+# [Validation]: Value >= 1
+block.fluid_drainer.fluid_tank_capacity = 8
+
+# The transfer rate an item can be drained at by the Fluid Drainer in mB (milli Buckets)
+# [Default value]: 100
+# [Validation]: Value >= 1
+block.fluid_drainer.fluid_item_transfer_rate = 100
+
+# The transfer rate per tank and face of a Fluid Pipe face in the extraction state in mB (milli Buckets)
+# [Default value]: 100
+# [Validation]: Value >= 1
+block.fluid_pipe.fluid_transfer_rate = 100
+
+# The energy capacity of the Charger in FE
+# [Default value]: 8192
+# [Validation]: Value >= 1
+block.charger.capacity = 8192
+
+# The energy transfer rate of the Charger in FE per tick
+# [Default value]: 512
+# [Validation]: Value >= 1
+block.charger.transfer_rate = 512
+
+# The multiplier by which the energy consumption of charger recipes in the Charger is multiplied by.
+# [Default value]: 1.000000
+# [Validation]: Value > 0.0
+block.charger.charger_recipe_energy_consumption_multiplier = 1.000000
+
+# The energy capacity per slot of the Advanced Charger in FE.
+# => The energy capacity of the block is three times this value.
+#
+# [Default value]: 65536
+# [Validation]: Value >= 1
+block.advanced_charger.capacity_per_slot = 65536
+
+# The energy transfer rate per slot of the Advanced Charger in FE per tick.
+# => The energy transfer rate of the block is three times this value.
+#
+# [Default value]: 8192
+# [Validation]: Value >= 1
+block.advanced_charger.transfer_rate_per_slot = 8192
+
+# The multiplier by which the energy consumption of charger recipes in the Charger is multiplied by.
+# [Default value]: 1.000000
+# [Validation]: Value > 0.0
+block.advanced_charger.charger_recipe_energy_consumption_multiplier = 1.000000
+
+# The energy capacity of the Uncharger in FE
+# [Default value]: 8192
+# [Validation]: Value >= 1
+block.uncharger.capacity = 8192
+
+# The energy transfer rate of the Uncharger in FE per tick
+# [Default value]: 512
+# [Validation]: Value >= 1
+block.uncharger.transfer_rate = 512
+
+# The energy capacity per slot of the Advanced Uncharger in FE.
+# => The energy capacity of the block is three times this value.
+#
+# [Default value]: 65536
+# [Validation]: Value >= 1
+block.advanced_uncharger.capacity_per_slot = 65536
+
+# The energy transfer rate per slot of the Advanced Uncharger in FE per tick.
+# => The energy transfer rate of the block is three times this value.
+#
+# [Default value]: 8192
+# [Validation]: Value >= 1
+block.advanced_uncharger.transfer_rate_per_slot = 8192
+
+# The time required for the Item Conveyor Belt to transport an item one step in ticks per step
+# [Default value]: 10
+# [Validation]: Value >= 1
+block.item_conveyor_belt.ticks_per_step = 10
+
+# The time required for the Item Conveyor Belt Loader to extract a single item in ticks
+# [Default value]: 10
+# [Validation]: Value >= 1
+block.item_conveyor_belt_loader.ticks_per_item = 10
+
+# The time required for the Item Conveyor Belt Sorter to process a single item in ticks
+# [Default value]: 10
+# [Validation]: Value >= 1
+block.item_conveyor_belt_sorter.ticks_per_item = 10
+
+# The time required for the Item Conveyor Belt Switch to process a single item in ticks
+# [Default value]: 10
+# [Validation]: Value >= 1
+block.item_conveyor_belt_switch.ticks_per_item = 10
+
+# The time required for the Item Conveyor Belt Splitter to process a single item in ticks
+# [Default value]: 10
+# [Validation]: Value >= 1
+block.item_conveyor_belt_splitter.ticks_per_item = 10
+
+# The time required for the Item Conveyor Belt Merger to process a single item in ticks
+# [Default value]: 10
+# [Validation]: Value >= 1
+block.item_conveyor_belt_merger.ticks_per_item = 10
+
+# The energy capacity of the Battery Box Minecart in FE
+# [Default value]: 65536
+# [Validation]: Value >= 1
+entity.battery_box_minecart.capacity = 65536
+
+# The energy transfer rate of the Battery Box Minecart in FE per tick
+# [Default value]: 512
+# [Validation]: Value >= 1
+entity.battery_box_minecart.transfer_rate = 512
+
+# The energy capacity of the Advanced Battery Box Minecart in FE
+# [Default value]: 8388608
+# [Validation]: Value >= 1
+entity.advanced_battery_box_minecart.capacity = 8388608
+
+# The energy transfer rate of the Advanced Battery Box Minecart in FE per tick
+# [Default value]: 65536
+# [Validation]: Value >= 1
+entity.advanced_battery_box_minecart.transfer_rate = 65536
+
+# Determines how frequent the Electrician Building 1 will be placed in villages.
+# => If set to 0 the Electrician Building 1 will never be placed.
+#
+# [Default value]: 5
+# [Validation]: Value >= 0
+# [Validation]: Value <= 100
+world.village.electrician_building_1.placement_weight = 5

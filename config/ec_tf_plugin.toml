@@ -1,0 +1,252 @@
+[nagaScale]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.1
+fireResistant = false
+quiverSlots = 0
+
+[nagaScale.durability]
+toolDurability = 537
+bowDurability = 0
+addedShieldDurability = 260
+
+[nagaScale.enchanting]
+offenseEnchantability = 0
+defenseEnchantability = 15
+
+[nagaScale.offense]
+addedAttackDamage = 2.0999999046325684
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[nagaScale.defense]
+gauntletArmorAmount = 3
+armorToughness = 0.5
+knockbackResistance = 0.0
+baseProtectionAmmount = 4.0
+afterBasePercentReduction = 0.65
+
+[nagaScale.crafting]
+repairItem = ["twilightforest:naga_scale"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[arctic]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[arctic.durability]
+toolDurability = 131
+bowDurability = 0
+addedShieldDurability = 130
+
+[arctic.enchanting]
+offenseEnchantability = 0
+defenseEnchantability = 8
+
+[arctic.offense]
+addedAttackDamage = 2.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[arctic.defense]
+gauntletArmorAmount = 2
+armorToughness = 2.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 3.0
+afterBasePercentReduction = 0.55
+
+[arctic.crafting]
+repairItem = ["twilightforest:arctic_fur"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[yeti]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[yeti.durability]
+toolDurability = 512
+bowDurability = 0
+addedShieldDurability = 250
+
+[yeti.enchanting]
+offenseEnchantability = 0
+defenseEnchantability = 15
+
+[yeti.offense]
+addedAttackDamage = 2.5
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[yeti.defense]
+gauntletArmorAmount = 3
+armorToughness = 3.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 3.5
+afterBasePercentReduction = 0.65
+
+[yeti.crafting]
+repairItem = ["twilightforest:alpha_yeti_fur"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[ironwood]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 1.5
+fireResistant = false
+quiverSlots = 0
+
+[ironwood.durability]
+toolDurability = 512
+bowDurability = 0
+addedShieldDurability = 250
+
+[ironwood.enchanting]
+offenseEnchantability = 25
+defenseEnchantability = 15
+
+[ironwood.offense]
+addedAttackDamage = 2.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[ironwood.defense]
+gauntletArmorAmount = 2
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 3.5
+afterBasePercentReduction = 0.6
+
+[ironwood.crafting]
+repairItem = ["twilightforest:ironwood_ingot"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[fiery]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[fiery.durability]
+toolDurability = 1024
+bowDurability = 0
+addedShieldDurability = 275
+
+[fiery.enchanting]
+offenseEnchantability = 10
+defenseEnchantability = 10
+
+[fiery.offense]
+addedAttackDamage = 4.0
+arrowDamage = 0.0
+flaming = true
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[fiery.defense]
+gauntletArmorAmount = 4
+armorToughness = 1.5
+knockbackResistance = 0.0
+baseProtectionAmmount = 4.5
+afterBasePercentReduction = 0.7
+
+[fiery.crafting]
+repairItem = ["twilightforest:fiery_ingot"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[steeleaf]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[steeleaf.durability]
+toolDurability = 131
+bowDurability = 0
+addedShieldDurability = 180
+
+[steeleaf.enchanting]
+offenseEnchantability = 9
+defenseEnchantability = 9
+
+[steeleaf.offense]
+addedAttackDamage = 3.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[steeleaf.defense]
+gauntletArmorAmount = 3
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 3.5
+afterBasePercentReduction = 0.6
+
+[steeleaf.crafting]
+repairItem = ["twilightforest:steeleaf_ingot"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[knightmetal]
+equipSound = "twilightforest:item.twilightforest.armor.equip_knightmetal"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[knightmetal.durability]
+toolDurability = 512
+bowDurability = 0
+addedShieldDurability = 250
+
+[knightmetal.enchanting]
+offenseEnchantability = 8
+defenseEnchantability = 8
+
+[knightmetal.offense]
+addedAttackDamage = 3.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[knightmetal.defense]
+gauntletArmorAmount = 3
+armorToughness = 1.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 4.0
+afterBasePercentReduction = 0.6
+
+[knightmetal.crafting]
+repairItem = ["twilightforest:knightmetal_ingot"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"

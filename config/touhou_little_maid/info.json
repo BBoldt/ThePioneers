@@ -1,0 +1,2472 @@
+[
+  {
+    "checksum": 2814419065,
+    "version": "1.0.0",
+    "upload_time": 1699374112658,
+    "name": "tlm.usa_sound.name",
+    "author": [
+      "EA"
+    ],
+    "desc": "tlm.usa_sound.desc",
+    "file_name": "usa_sound-1.0.0.zip",
+    "file_size": 640308,
+    "url": "/file/usa_sound-1.0.0.zip",
+    "type": [
+      "sound"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.usa_sound.name": "USA Maid Sound Pack",
+        "tlm.usa_sound.desc": "Maid sound pack made by Electronic Arts(Maybe?)"
+      },
+      "zh_cn": {
+        "tlm.usa_sound.name": "美利坚女仆声音包",
+        "tlm.usa_sound.desc": "由EA（确信）制作的女仆声音包"
+      }
+    }
+  },
+  {
+    "checksum": 1518325837,
+    "version": "1.0.0",
+    "upload_time": 1699374088717,
+    "name": "tlm.italian_sound.name",
+    "author": [
+      "EA"
+    ],
+    "desc": "tlm.italian_sound.desc",
+    "file_name": "italian_sound-1.0.0.zip",
+    "file_size": 541076,
+    "url": "/file/italian_sound-1.0.0.zip",
+    "type": [
+      "sound"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.italian_sound.name": "Italian Maid Sound Pack",
+        "tlm.italian_sound.desc": "Maid sound pack made by Electronic Arts(Maybe?)"
+      },
+      "zh_cn": {
+        "tlm.italian_sound.name": "意大利女仆声音包",
+        "tlm.italian_sound.desc": "由EA（确信）制作的女仆声音包"
+      }
+    }
+  },
+  {
+    "checksum": 3285194575,
+    "version": "1.0.0",
+    "upload_time": 1699374061537,
+    "name": "tlm.Illya_sounds.name",
+    "author": [
+      "酮戊二酸"
+    ],
+    "desc": "tlm.Illya_sounds.desc",
+    "file_name": "Illya_sounds-1.0.0.zip",
+    "file_size": 1063099,
+    "url": "/file/Illya_sounds-1.0.0.zip",
+    "type": [
+      "sound"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.Illya_sounds.name": "Illya Sound Pack",
+        "tlm.Illya_sounds.desc": "Cute Illya"
+      },
+      "zh_cn": {
+        "tlm.Illya_sounds.name": "伊莉雅语音包",
+        "tlm.Illya_sounds.desc": "可爱的伊莉雅"
+      }
+    }
+  },
+  {
+    "checksum": 3610791812,
+    "version": "1.0.0",
+    "upload_time": 1699253391787,
+    "name": "tlm.unfinished_dream_of_all_living_ghost.name",
+    "author": [
+      "gyhgyj88"
+    ],
+    "desc": "tlm.unfinished_dream_of_all_living_ghost.desc",
+    "file_name": "unfinished_dream_of_all_living_ghost-1.0.0.zip",
+    "file_size": 23270,
+    "url": "/file/unfinished_dream_of_all_living_ghost-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.unfinished_dream_of_all_living_ghost.name": "Unfinished Dream of All Living Ghost",
+        "tlm.unfinished_dream_of_all_living_ghost.desc": "TH19 Unfinished Dream of All Living Ghost"
+      },
+      "zh_cn": {
+        "tlm.unfinished_dream_of_all_living_ghost.name": "东方兽王园模型包",
+        "tlm.unfinished_dream_of_all_living_ghost.desc": "TH19 下一个幻想再见"
+      }
+    }
+  },
+  {
+    "checksum": 2945507534,
+    "version": "1.0.0",
+    "upload_time": 1699253361378,
+    "name": "tlm.touhou_lostword_model_pack.name",
+    "author": [
+      "gyhgyj88"
+    ],
+    "desc": "tlm.touhou_lostword_model_pack.desc",
+    "file_name": "touhou_lostword_model_pack-1.0.0.zip",
+    "file_size": 19000,
+    "url": "/file/touhou_lostword_model_pack-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.touhou_lostword_model_pack.name": "Touhou Lost Word Model",
+        "tlm.touhou_lostword_model_pack.desc": "Touhou Lost Word Model"
+      },
+      "zh_cn": {
+        "tlm.touhou_lostword_model_pack.name": "东方归言录模型包",
+        "tlm.touhou_lostword_model_pack.desc": "东方归言录模型包"
+      }
+    }
+  },
+  {
+    "checksum": 1289022692,
+    "version": "1.1.0",
+    "upload_time": 1699248956804,
+    "name": "tlm.yezi_sound.name",
+    "author": [
+      "Yezi"
+    ],
+    "desc": "tlm.yezi_sound.desc",
+    "file_name": "yezi_sound-1.1.0.zip",
+    "file_size": 3755469,
+    "url": "/file/yezi_sound-1.1.0.zip",
+    "type": [
+      "sound"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.yezi_sound.name": "Yezi Sound Pack",
+        "tlm.yezi_sound.desc": "Maid sound pack made by bilibili up yezi"
+      },
+      "zh_cn": {
+        "tlm.yezi_sound.name": "叶子女仆声音包",
+        "tlm.yezi_sound.desc": "由哔哩哔哩 up 叶子解说世界制作的女仆声音包"
+      }
+    }
+  },
+  {
+    "checksum": 1092353357,
+    "version": "1.1.0",
+    "upload_time": 1699248956801,
+    "name": "tlm.tangyuan_sound.name",
+    "author": [
+      "Tangyuan"
+    ],
+    "desc": "tlm.tangyuan_sound.desc",
+    "file_name": "tangyuan_sound-1.1.0.zip",
+    "file_size": 3854977,
+    "url": "/file/tangyuan_sound-1.1.0.zip",
+    "type": [
+      "sound"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.tangyuan_sound.name": "Tangyuan Sound Pack",
+        "tlm.tangyuan_sound.desc": "Maid sound pack made by bilibili up tangyuan"
+      },
+      "zh_cn": {
+        "tlm.tangyuan_sound.name": "汤圆女仆声音包",
+        "tlm.tangyuan_sound.desc": "由哔哩哔哩 up 汤圆解说世界制作的女仆声音包"
+      }
+    }
+  },
+  {
+    "checksum": 363229844,
+    "version": "1.0.0",
+    "upload_time": 1699248914260,
+    "name": "tlm.god_eagle_brother.name",
+    "author": [
+      "老杰克qvq"
+    ],
+    "desc": "tlm.god_eagle_brother.desc",
+    "file_name": "god_eagle_brother-1.0.0.zip",
+    "file_size": 1431011,
+    "url": "/file/god_eagle_brother-1.0.0.zip",
+    "type": [
+      "maid",
+      "sound"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.god_eagle_brother.name": "God Eagle Brother Pack",
+        "tlm.god_eagle_brother.desc": "LOL"
+      },
+      "zh_cn": {
+        "tlm.god_eagle_brother.name": "神鹰哥模型声音包",
+        "tlm.god_eagle_brother.desc": "带你飞"
+      }
+    }
+  },
+  {
+    "checksum": 3646264244,
+    "version": "1.0.0",
+    "upload_time": 1699248879081,
+    "name": "tlm.german_sound.name",
+    "author": [
+      "EA"
+    ],
+    "desc": "tlm.german_sound.desc",
+    "file_name": "german_sound-1.0.0.zip",
+    "file_size": 511277,
+    "url": "/file/german_sound-1.0.0.zip",
+    "type": [
+      "sound"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.german_sound.name": "German Sound Pack",
+        "tlm.german_sound.desc": "Sound from game"
+      },
+      "zh_cn": {
+        "tlm.german_sound.name": "德意志女仆声音包",
+        "tlm.german_sound.desc": "来自于游戏的声音"
+      }
+    }
+  },
+  {
+    "checksum": 1291970367,
+    "version": "1.0.0",
+    "upload_time": 1696428247563,
+    "name": "tlm.xuyeshe_model_pack.name",
+    "author": [
+      "gyhgyj88"
+    ],
+    "desc": "tlm.xuyeshe_model_pack.desc",
+    "file_name": "xuyeshe_model_pack-1.0.0.zip",
+    "file_size": 65365,
+    "url": "/file/xuyeshe_model_pack-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.xuyeshe_model_pack.name": "XYproduction Model Pack",
+        "tlm.xuyeshe_model_pack.desc": "Some model from XYproduction"
+      },
+      "zh_cn": {
+        "tlm.xuyeshe_model_pack.name": "虚研社模型包",
+        "tlm.xuyeshe_model_pack.desc": "一些来着虚研社的虚拟主播"
+      }
+    }
+  },
+  {
+    "checksum": 2964653797,
+    "version": "2.7.0",
+    "upload_time": 1696428247563,
+    "name": "tlm.virtual_real_new.name",
+    "author": [
+      "gyhgyj88"
+    ],
+    "desc": "tlm.virtual_real_new.desc",
+    "file_name": "virtual_real_new-2.7.0.zip",
+    "file_size": 2192250,
+    "url": "/file/virtual_real_new-2.7.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.virtual_real_new.name": "New VirtuaReal Models",
+        "tlm.virtual_real_new.desc": "Some character from VirtuaReal!"
+      },
+      "zh_cn": {
+        "tlm.virtual_real_new.name": "新 VirtuaReal 模型包",
+        "tlm.virtual_real_new.desc": "一些 VirtuaReal 的角色！"
+      }
+    }
+  },
+  {
+    "checksum": 2038506305,
+    "version": "1.0.0",
+    "upload_time": 1696428202213,
+    "name": "tlm.touhou_kurumi.name",
+    "author": [
+      "不愧是蕾米莉亚桑！"
+    ],
+    "desc": "tlm.touhou_kurumi.desc",
+    "file_name": "touhou_kurumi-1.0.0.zip",
+    "file_size": 369163,
+    "url": "/file/touhou_kurumi-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.touhou_kurumi.name": "Touhou Kurumi Model",
+        "tlm.touhou_kurumi.desc": "Touhou Kurumi Model..."
+      },
+      "zh_cn": {
+        "tlm.touhou_kurumi.name": "东方胡桃模型包",
+        "tlm.touhou_kurumi.desc": "希望能加到东方旧作的目录里面"
+      }
+    }
+  },
+  {
+    "checksum": 950288364,
+    "version": "1.4.1",
+    "upload_time": 1696428202212,
+    "name": "tlm.mimikko.name",
+    "author": [
+      "bxyhyxh"
+    ],
+    "desc": "tlm.mimikko.desc",
+    "file_name": "mimikko-1.4.1.zip",
+    "file_size": 118174,
+    "url": "/file/mimikko-1.4.1.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.mimikko.name": "Mimikko Model Pack",
+        "tlm.mimikko.desc": "Fan works of mimikkoui"
+      },
+      "zh_cn": {
+        "tlm.mimikko.name": "兽耳科技模型包",
+        "tlm.mimikko.desc": "兽耳科技的同人向作品"
+      }
+    }
+  },
+  {
+    "checksum": 2887781654,
+    "version": "1.2.0",
+    "upload_time": 1696428202212,
+    "name": "tlm.gyhgyj.name",
+    "author": [
+      "gyhgyj88"
+    ],
+    "desc": "tlm.gyhgyj.desc",
+    "file_name": "gyhgyj-1.2.0.zip",
+    "file_size": 1419285,
+    "url": "/file/gyhgyj-1.2.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.gyhgyj.name": "gyhgyj88's Random Things",
+        "tlm.gyhgyj.desc": "Just Random Things"
+      },
+      "zh_cn": {
+        "tlm.gyhgyj.name": "gyhgyj88的随意模型",
+        "tlm.gyhgyj.desc": "只是一些随意作品"
+      }
+    }
+  },
+  {
+    "checksum": 2764077336,
+    "version": "1.0.0",
+    "upload_time": 1696428151347,
+    "name": "tlm.deltarune_little_maid.name",
+    "author": [
+      "暮光简简"
+    ],
+    "desc": "tlm.deltarune_little_maid.desc",
+    "file_name": "deltarune_little_maid-1.0.0.zip",
+    "file_size": 2667618,
+    "url": "/file/deltarune_little_maid-1.0.0.zip",
+    "type": [
+      "chair",
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.deltarune_little_maid.name": "Deltarune Model Pack",
+        "tlm.deltarune_little_maid.desc": "▲Some models from Deltarune ;）"
+      },
+      "zh_cn": {
+        "tlm.deltarune_little_maid.name": "三角符文模型包",
+        "tlm.deltarune_little_maid.desc": "▲来自游戏deltarune（三角符文）系列的一些模型喔 ;）"
+      }
+    }
+  },
+  {
+    "checksum": 3817649879,
+    "version": "1.1.2",
+    "upload_time": 1696428151344,
+    "name": "tlm.7_years_later_caricature.name",
+    "author": [
+      "AoiAihana (Vanli233)"
+    ],
+    "desc": "tlm.7_years_later_caricature.desc",
+    "file_name": "7_years_later_caricature-1.1.2.zip",
+    "file_size": 143481,
+    "url": "/file/7_years_later_caricature-1.1.2.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.7_years_later_caricature.name": "Aoi's Notebook Model",
+        "tlm.7_years_later_caricature.desc": "A pack for \"7 Years From Now\" caricature version"
+      },
+      "zh_cn": {
+        "tlm.7_years_later_caricature.name": "葵的笔记模型包",
+        "tlm.7_years_later_caricature.desc": "“我在7年后等着你”漫画版"
+      }
+    }
+  },
+  {
+    "checksum": 2702460295,
+    "version": "1.2.0",
+    "upload_time": 1662124364639,
+    "name": "tlm.lilies_model_pack.name",
+    "author": [
+      "GoldYgg"
+    ],
+    "desc": "tlm.lilies_model_pack.desc",
+    "file_name": "lilies_model_pack-1.2.0.zip",
+    "file_size": 200288,
+    "url": "/file/lilies_model_pack-1.2.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.lilies_model_pack.name": "Lilies Model Pack",
+        "tlm.lilies_model_pack.desc": "Some random model made by GoldYgg"
+      },
+      "zh_cn": {
+        "tlm.lilies_model_pack.name": "萝莉控模型包",
+        "tlm.lilies_model_pack.desc": "由玩家金币制作的女仆模型包"
+      }
+    }
+  },
+  {
+    "checksum": 2650895301,
+    "version": "1.0.0",
+    "upload_time": 1661776325420,
+    "name": "tlm.bilanhangxian.name",
+    "author": [
+      "tartaric_acid"
+    ],
+    "desc": "tlm.bilanhangxian.desc",
+    "file_name": "bilanhangxian-1.0.0.zip",
+    "file_size": 152922,
+    "url": "/file/bilanhangxian-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.bilanhangxian.name": "Azur Lane Model Pack",
+        "tlm.bilanhangxian.desc": "Some character from game \"Azur Lane\", made by tartaric_acid"
+      },
+      "zh_cn": {
+        "tlm.bilanhangxian.name": "碧蓝航线模型包",
+        "tlm.bilanhangxian.desc": "来自于游戏“碧蓝航线”的角色模型，酒石酸菌制作"
+      }
+    }
+  },
+  {
+    "checksum": 1144131125,
+    "version": "1.2.0",
+    "upload_time": 1661249831432,
+    "name": "tlm.azuru_line.name",
+    "author": [
+      "玄月桑（B站id嚼铝赤城桑）"
+    ],
+    "desc": "tlm.azuru_line.desc",
+    "file_name": "azuru_line-1.2.0.zip",
+    "file_size": 219475,
+    "url": "/file/azuru_line-1.2.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.azuru_line.name": "Azur Lane Model Pack",
+        "tlm.azuru_line.desc": "Azur Lane is a mobile game developed by Manjuu and Yongshi, published by bilibili for both iOS and Android."
+      },
+      "zh_cn": {
+        "tlm.azuru_line.name": "碧蓝航线模型包",
+        "tlm.azuru_line.desc": "来自于游戏”碧蓝航线“的角色模型包"
+      }
+    }
+  },
+  {
+    "checksum": 1460583862,
+    "version": "1.0.1",
+    "upload_time": 1660752749618,
+    "name": "tlm.ppshfemaline.name",
+    "author": [
+      "雾雨波波沙"
+    ],
+    "desc": "tlm.ppshfemaline.desc",
+    "file_name": "ppshfemaline-1.0.1.zip",
+    "file_size": 1045113,
+    "url": "/file/ppshfemaline-1.0.1.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.ppshfemaline.name": "PPSH Female Line Model",
+        "tlm.ppshfemaline.desc": "Some random model made by PPSH"
+      },
+      "zh_cn": {
+        "tlm.ppshfemaline.name": "波波沙娘化系列包",
+        "tlm.ppshfemaline.desc": "包含各种娘化物与少量原创娘化"
+      }
+    }
+  },
+  {
+    "checksum": 452062787,
+    "version": "1.0.1",
+    "upload_time": 1659881034923,
+    "name": "tlm.mdv_vup.name",
+    "author": [
+      "gyhgyj88"
+    ],
+    "desc": "tlm.mdv_vup.desc",
+    "file_name": "mdv_vup-1.0.1.zip",
+    "file_size": 20493,
+    "url": "/file/mdv_vup-1.0.1.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.mdv_vup.name": "Multi-D Variation Vup",
+        "tlm.mdv_vup.desc": "M.D.V"
+      },
+      "zh_cn": {
+        "tlm.mdv_vup.name": "多维变奏 M.D.V 模型包",
+        "tlm.mdv_vup.desc": "多维变奏 Multi-D Variation Vup 企划"
+      }
+    }
+  },
+  {
+    "checksum": 4095462907,
+    "version": "1.0.4",
+    "upload_time": 1659881034923,
+    "name": "tlm.make_sd_workwork.name",
+    "author": [
+      "Normal_sd"
+    ],
+    "desc": "tlm.make_sd_workwork.desc",
+    "file_name": "make_sd_workwork-1.0.4.zip",
+    "file_size": 1058822,
+    "url": "/file/make_sd_workwork-1.0.4.zip",
+    "type": [
+      "chair",
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.make_sd_workwork.name": "Mr. SD's Friends",
+        "tlm.make_sd_workwork.desc": "Not just friends"
+      },
+      "zh_cn": {
+        "tlm.make_sd_workwork.name": "艾斯帝先生的小伙伴们",
+        "tlm.make_sd_workwork.desc": "不仅仅是小伙伴"
+      }
+    }
+  },
+  {
+    "checksum": 829950654,
+    "version": "1.0.1",
+    "upload_time": 1659364202626,
+    "name": "tlm.azurlane_asashio_family.name",
+    "author": [
+      "Roadrunner_71"
+    ],
+    "desc": "tlm.azurlane_asashio_family.desc",
+    "file_name": "azurlane_asashio_family-1.0.1.zip",
+    "file_size": 56338,
+    "url": "/file/azurlane_asashio_family-1.0.1.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.azurlane_asashio_family.name": "Azur Lane Asashio Pack",
+        "tlm.azurlane_asashio_family.desc": "IJN Asashio-class Destroyer"
+      },
+      "zh_cn": {
+        "tlm.azurlane_asashio_family.name": "碧蓝航线-朝潮一家",
+        "tlm.azurlane_asashio_family.desc": "重樱的朝潮一家"
+      }
+    }
+  },
+  {
+    "checksum": 1524869335,
+    "version": "1.0.0",
+    "upload_time": 1657794888287,
+    "name": "tlm.toufamahetadeluer.name",
+    "author": [
+      "gyhgyj88"
+    ],
+    "desc": "tlm.toufamahetadeluer.desc",
+    "file_name": "toufamahetadeluer-1.0.0.zip",
+    "file_size": 42471,
+    "url": "/file/toufamahetadeluer-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.toufamahetadeluer.name": "Toufa's Characters Model Pack",
+        "tlm.toufamahetadeluer.desc": "Some characters of Bilibili's artist Toufa"
+      },
+      "zh_cn": {
+        "tlm.toufamahetadeluer.name": "头发妈的女儿们",
+        "tlm.toufamahetadeluer.desc": "B站画师——咦我的头发呢的一些作品"
+      }
+    }
+  },
+  {
+    "checksum": 2355875865,
+    "version": "1.0.2",
+    "upload_time": 1657794851748,
+    "name": "tlm.arcaea_maid_pack.name",
+    "author": [
+      "MI_Smart"
+    ],
+    "desc": "tlm.arcaea_maid_pack.desc",
+    "file_name": "arcaea_maid_pack-1.0.2.zip",
+    "file_size": 92475,
+    "url": "/file/arcaea_maid_pack-1.0.2.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.arcaea_maid_pack.name": "Arcaea Maid Pack",
+        "tlm.arcaea_maid_pack.desc": "Arcaea is a new dimension rhythm game developed by lowiro."
+      },
+      "zh_cn": {
+        "tlm.arcaea_maid_pack.name": "Arcaea（韵律源点）模型包",
+        "tlm.arcaea_maid_pack.desc": "Arcaea是lowiro开发的一款三维立体音乐游戏。"
+      }
+    }
+  },
+  {
+    "checksum": 1959790272,
+    "version": "1.0.0",
+    "upload_time": 1654943181296,
+    "name": "tlm.chronoir.name",
+    "author": [
+      "Si_type"
+    ],
+    "desc": "tlm.chronoir.desc",
+    "file_name": "chronoir-1.0.0.zip",
+    "file_size": 27795,
+    "url": "/file/chronoir-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.chronoir.name": "ChroNoiR Model Pack",
+        "tlm.chronoir.desc": "Characters from Vtuber group ChroNoiR."
+      },
+      "zh_cn": {
+        "tlm.chronoir.name": "ChroNoiR 模型包",
+        "tlm.chronoir.desc": "来自虚拟 Vtuber 组合 ChroNoiR 的角色"
+      }
+    }
+  },
+  {
+    "checksum": 3948614420,
+    "version": "1.1.5",
+    "upload_time": 1654343535695,
+    "name": "tlm.genshin_impact.name",
+    "author": [
+      "tartaric_acid",
+      "Hu Kakao"
+    ],
+    "desc": "tlm.genshin_impact.desc",
+    "file_name": "genshin_impact-1.1.5.zip",
+    "file_size": 233549,
+    "url": "/file/genshin_impact-1.1.5.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.genshin_impact.name": "Genshin Impact Pack",
+        "tlm.genshin_impact.desc": "Some character from the genshin impact, produced by TartaricAcid and Hu Kakao.\nHu Kakao's Twitter: @HuTaoFullSimp"
+      },
+      "zh_cn": {
+        "tlm.genshin_impact.name": "原神模型包",
+        "tlm.genshin_impact.desc": "一些来自于游戏原神的模型，由酒石酸菌和 Hu Kakao 协作完成。\nHu Kakao 的 Twitter: @HuTaoFullSimp"
+      }
+    }
+  },
+  {
+    "checksum": 3057049766,
+    "version": "1.1.0",
+    "upload_time": 1649654420809,
+    "name": "tlm.elma.name",
+    "author": [
+      "lingkongxiaohuan"
+    ],
+    "desc": "tlm.elma.desc",
+    "file_name": "elma-1.1.0.zip",
+    "file_size": 25841,
+    "url": "/file/elma-1.1.0.zip",
+    "type": [
+      "chair",
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.elma.name": "Yorushika Elma Model Pack",
+        "tlm.elma.desc": "Characters from the album of the band group Yorushika"
+      },
+      "zh_cn": {
+        "tlm.elma.name": "Yorushika Elma 模型包",
+        "tlm.elma.desc": "来自乐队组合 Yorushika 专辑中的角色"
+      }
+    }
+  },
+  {
+    "checksum": 338746355,
+    "version": "1.1.0",
+    "upload_time": 1646735267566,
+    "name": "tlm.pingxing_random_thing.name",
+    "author": [
+      "ping_xing"
+    ],
+    "desc": "tlm.pingxing_random_thing.desc",
+    "file_name": "pingxing_random_thing-1.1.0.zip",
+    "file_size": 31361,
+    "url": "/file/pingxing_random_thing-1.1.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.pingxing_random_thing.name": "Ping Xing Random Thing",
+        "tlm.pingxing_random_thing.desc": "Random maid model made by ping_xing"
+      },
+      "zh_cn": {
+        "tlm.pingxing_random_thing.name": "Ping Xing 的随意作品",
+        "tlm.pingxing_random_thing.desc": "由玩家 Ping Xing 制作的模型"
+      }
+    }
+  },
+  {
+    "checksum": 1929999478,
+    "version": "1.0.0",
+    "upload_time": 1646581450948,
+    "name": "tlm.kill_la_kill.name",
+    "author": [
+      "Boko_Chocobot"
+    ],
+    "desc": "tlm.kill_la_kill.desc",
+    "file_name": "kill_la_kill-1.0.0.zip",
+    "file_size": 49200,
+    "url": "/file/kill_la_kill-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.kill_la_kill.name": "Kill La Kill Model Pack",
+        "tlm.kill_la_kill.desc": "Character from Kill la Kill"
+      },
+      "zh_cn": {
+        "tlm.kill_la_kill.name": "斩服少女模型包",
+        "tlm.kill_la_kill.desc": "来着动画斩服少女的模型角色"
+      }
+    }
+  },
+  {
+    "checksum": 476534832,
+    "version": "1.0.0",
+    "upload_time": 1645771943767,
+    "name": "tlm.needy_girl_overdose.name",
+    "author": [
+      "Gloridifice"
+    ],
+    "desc": "tlm.needy_girl_overdose.desc",
+    "file_name": "needy_girl_overdose-1.0.0.zip",
+    "file_size": 75561,
+    "url": "/file/needy_girl_overdose-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.needy_girl_overdose.name": "Needy Streamer Overload Pack",
+        "tlm.needy_girl_overdose.desc": "From game: Needy Streamer Overload"
+      },
+      "zh_cn": {
+        "tlm.needy_girl_overdose.name": "主播女孩重度依赖模型包",
+        "tlm.needy_girl_overdose.desc": "来自于游戏：主播女孩重度依赖"
+      }
+    }
+  },
+  {
+    "checksum": 2086666699,
+    "version": "3.0.0",
+    "upload_time": 1645610755655,
+    "name": "tlm.nier_automata3.name",
+    "author": [
+      "Boko_Chocobot"
+    ],
+    "desc": "tlm.nier_automata3.desc",
+    "file_name": "nier_automata3-3.0.0.zip",
+    "file_size": 56579,
+    "url": "/file/nier_automata3-3.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.nier_automata3.name": "Nier Automata Model Pack",
+        "tlm.nier_automata3.desc": "From game: Nier Automata"
+      },
+      "zh_cn": {
+        "tlm.nier_automata3.name": "尼尔机械纪元模型包",
+        "tlm.nier_automata3.desc": "来着游戏：尼尔：：机械纪元"
+      }
+    }
+  },
+  {
+    "checksum": 2977539125,
+    "version": "1.0.0",
+    "upload_time": 1645610722075,
+    "name": "tlm.inuyasha.name",
+    "author": [
+      "Boko_Chocobot"
+    ],
+    "desc": "tlm.inuyasha.desc",
+    "file_name": "inuyasha-1.0.0.zip",
+    "file_size": 28638,
+    "url": "/file/inuyasha-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.inuyasha.name": "InuYasha Model Pack",
+        "tlm.inuyasha.desc": "From InuYasha anime series :3"
+      },
+      "zh_cn": {
+        "tlm.inuyasha.name": "犬夜叉模型包",
+        "tlm.inuyasha.desc": "来自《犬夜叉》系列动画"
+      }
+    }
+  },
+  {
+    "checksum": 478855358,
+    "version": "1.0.0",
+    "upload_time": 1644809305559,
+    "name": "tlm.tlmpack_salmagundi.name",
+    "author": [
+      "lianyebing"
+    ],
+    "desc": "tlm.tlmpack_salmagundi.desc",
+    "file_name": "tlmpack_salmagundi-1.0.0.zip",
+    "file_size": 144795,
+    "url": "/file/tlmpack_salmagundi-1.0.0.zip",
+    "type": [
+      "chair",
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.tlmpack_salmagundi.name": "Salmagundi Model Pack",
+        "tlm.tlmpack_salmagundi.desc": "Some random model made by lianyebing"
+      },
+      "zh_cn": {
+        "tlm.tlmpack_salmagundi.name": "大杂烩模型包",
+        "tlm.tlmpack_salmagundi.desc": "一些由连叶冰制作的随意模型"
+      }
+    }
+  },
+  {
+    "checksum": 578539833,
+    "version": "1.0.6",
+    "upload_time": 1643620610269,
+    "name": "tlm.national_sachet.name",
+    "author": [
+      "雾雨波波沙"
+    ],
+    "desc": "tlm.national_sachet.desc",
+    "file_name": "national_sachet-1.0.6.zip",
+    "file_size": 840709,
+    "url": "/file/national_sachet-1.0.6.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.national_sachet.name": "Bobosha's Random Model",
+        "tlm.national_sachet.desc": "Some random model made by Bobosha"
+      },
+      "zh_cn": {
+        "tlm.national_sachet.name": "雾雨波波沙的随意模型",
+        "tlm.national_sachet.desc": "由雾雨波波沙做的随意模型"
+      }
+    }
+  },
+  {
+    "checksum": 3009129523,
+    "version": "1.0.0",
+    "upload_time": 1642226812202,
+    "name": "tlm.tall_maid.name",
+    "author": [
+      "JojoLuwinski"
+    ],
+    "desc": "tlm.tall_maid.desc",
+    "file_name": "tall_maid-1.0.0.zip",
+    "file_size": 16690,
+    "url": "/file/tall_maid-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.tall_maid.name": "Tall Maid Model Pack",
+        "tlm.tall_maid.desc": "Tall maid model inspired by LMM Beverly"
+      },
+      "zh_cn": {
+        "tlm.tall_maid.name": "高个女仆模型包",
+        "tlm.tall_maid.desc": "从 LMM Beverly 中启发而制作的高个女仆"
+      }
+    }
+  },
+  {
+    "checksum": 719910050,
+    "version": "1.0.1",
+    "upload_time": 1642226711806,
+    "name": "tlm.ddlc_neko_maids.name",
+    "author": [
+      "Barracuda_1966",
+      "Fubukaze"
+    ],
+    "desc": "tlm.ddlc_neko_maids.desc",
+    "file_name": "ddlc_neko_maids-1.0.1.zip",
+    "file_size": 28875,
+    "url": "/file/ddlc_neko_maids-1.0.1.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.ddlc_neko_maids.name": "DDLC Neko Maids Pack",
+        "tlm.ddlc_neko_maids.desc": "Neko maid character from Doki Doki Literature Club!"
+      },
+      "zh_cn": {
+        "tlm.ddlc_neko_maids.name": "心跳文学部（猫娘女仆）包",
+        "tlm.ddlc_neko_maids.desc": "一些猫娘女仆，，来自心跳文学部"
+      }
+    }
+  },
+  {
+    "checksum": 3742047196,
+    "version": "1.0.0",
+    "upload_time": 1639923020513,
+    "name": "tlm.ascmtp.name",
+    "author": [
+      "goumo_g"
+    ],
+    "desc": "tlm.ascmtp.desc",
+    "file_name": "ascmtp-1.0.0.zip",
+    "file_size": 6722,
+    "url": "/file/ascmtp-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.ascmtp.name": "Aperture Science Companion Maid",
+        "tlm.ascmtp.desc": "From Portal by Valve"
+      },
+      "zh_cn": {
+        "tlm.ascmtp.name": "光圈科技同伴女仆",
+        "tlm.ascmtp.desc": "来自 Valve 的游戏系列《传送门》"
+      }
+    }
+  },
+  {
+    "checksum": 3524541718,
+    "version": "1.0.2",
+    "upload_time": 1639906618183,
+    "name": "tlm.virtual_real.name",
+    "author": [
+      "gyhgyj88"
+    ],
+    "desc": "tlm.virtual_real.desc",
+    "file_name": "virtual_real-1.0.2.zip",
+    "file_size": 87705,
+    "url": "/file/virtual_real-1.0.2.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.virtual_real.name": "VirtuaReal Models",
+        "tlm.virtual_real.desc": "Some character from VirtuaReal!"
+      },
+      "zh_cn": {
+        "tlm.virtual_real.name": "VirtuaReal 模型包",
+        "tlm.virtual_real.desc": "一些 VirtuaReal 的角色！"
+      }
+    }
+  },
+  {
+    "checksum": 4177905806,
+    "version": "1.0.1",
+    "upload_time": 1639906618183,
+    "name": "tlm.godzilla_random_thing.name",
+    "author": [
+      "godzilla"
+    ],
+    "desc": "tlm.godzilla_random_thing.desc",
+    "file_name": "godzilla_random_thing-1.0.1.zip",
+    "file_size": 66860,
+    "url": "/file/godzilla_random_thing-1.0.1.zip",
+    "type": [
+      "maid",
+      "chair"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.godzilla_random_thing.name": "Godzilla Pack",
+        "tlm.godzilla_random_thing.desc": "Random maid model made by godzilla"
+      },
+      "zh_cn": {
+        "tlm.godzilla_random_thing.name": "哥斯拉的模型包",
+        "tlm.godzilla_random_thing.desc": "由玩家哥斯拉（godzilla）制作的模型"
+      }
+    }
+  },
+  {
+    "checksum": 3425721764,
+    "version": "2.2.0",
+    "upload_time": 1639125640241,
+    "name": "tlm.himehina.name",
+    "author": [
+      "光影",
+      "黄金哥布林"
+    ],
+    "desc": "tlm.himehina.desc",
+    "file_name": "himehina-2.2.0.zip",
+    "file_size": 566383,
+    "url": "/file/himehina-2.2.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.himehina.name": "Himehina Model Pack",
+        "tlm.himehina.desc": "Model from the himehina"
+      },
+      "zh_cn": {
+        "tlm.himehina.name": "Himehina 模型",
+        "tlm.himehina.desc": "来自于 Himehina 的模型"
+      }
+    }
+  },
+  {
+    "checksum": 540059817,
+    "version": "1.0.0",
+    "upload_time": 1638892408947,
+    "name": "tlm.shinkaiseikan.name",
+    "author": [
+      "Ge_SiLa"
+    ],
+    "desc": "tlm.shinkaiseikan.desc",
+    "file_name": "shinkaiseikan-1.0.0.zip",
+    "file_size": 139438,
+    "url": "/file/shinkaiseikan-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.shinkaiseikan.name": "Shinkaiseikan Model",
+        "tlm.shinkaiseikan.desc": "Just some shinkaiseikan Model"
+      },
+      "zh_cn": {
+        "tlm.shinkaiseikan.name": "深海栖姬模型包",
+        "tlm.shinkaiseikan.desc": "就是一些深海栖姬模型"
+      }
+    }
+  },
+  {
+    "checksum": 2693527120,
+    "version": "1.0.1",
+    "upload_time": 1637310070559,
+    "name": "tlm.virtuareal_mari.name",
+    "author": [
+      "AHelium"
+    ],
+    "desc": "tlm.virtuareal_mari.desc",
+    "file_name": "virtuareal_mari-1.0.1.zip",
+    "file_size": 57976,
+    "url": "/file/virtuareal_mari-1.0.1.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.virtuareal_mari.name": "VirtuaReal Mari Model Pack",
+        "tlm.virtuareal_mari.desc": "Add character Mari from VirtuaReal"
+      },
+      "zh_cn": {
+        "tlm.virtuareal_mari.name": "茉里模型包",
+        "tlm.virtuareal_mari.desc": "添加了来自 VirtuaReal 的茉里的模型"
+      }
+    }
+  },
+  {
+    "checksum": 452041833,
+    "version": "1.0.6",
+    "upload_time": 1635776065030,
+    "name": "tlm.plants_vs_zombies.name",
+    "author": [
+      "goumo_g"
+    ],
+    "desc": "tlm.plants_vs_zombies.desc",
+    "file_name": "plants_vs_zombies-1.0.6.zip",
+    "file_size": 137574,
+    "url": "/file/plants_vs_zombies-1.0.6.zip",
+    "type": [
+      "maid",
+      "chair"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.plants_vs_zombies.name": "Plant vs Zombies Model Pack",
+        "tlm.plants_vs_zombies.desc": "Model from plant vs zombies game"
+      },
+      "zh_cn": {
+        "tlm.plants_vs_zombies.name": "植物大战僵尸模型",
+        "tlm.plants_vs_zombies.desc": "来自于植物大战僵尸游戏的模型"
+      }
+    }
+  },
+  {
+    "checksum": 422831470,
+    "version": "1.0.0",
+    "upload_time": 1634725329030,
+    "name": "tlm.shiratsuyu_class.name",
+    "author": [
+      "Tenshi Akuma"
+    ],
+    "desc": "tlm.shiratsuyu_class.desc",
+    "file_name": "shiratsuyu_class-1.0.0.zip",
+    "file_size": 36070,
+    "url": "/file/shiratsuyu_class-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.shiratsuyu_class.name": "Shiratsuyu Class Model",
+        "tlm.shiratsuyu_class.desc": "Shiratsuyu class model made by @Tenshi_Akuma"
+      },
+      "zh_cn": {
+        "tlm.shiratsuyu_class.name": "白露型舰娘模型",
+        "tlm.shiratsuyu_class.desc": "白露型舰娘模型，由 @Tenshi_Akuma 制作"
+      }
+    }
+  },
+  {
+    "checksum": 2088055068,
+    "version": "1.2.0",
+    "upload_time": 1630683152735,
+    "name": "tlm.sakura_maid.name",
+    "author": [
+      "Xuanyue Sann"
+    ],
+    "desc": "tlm.sakura_maid.desc",
+    "file_name": "sakura_maid-1.2.0.zip",
+    "file_size": 384204,
+    "url": "/file/sakura_maid-1.2.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.sakura_maid.name": "Sakura Maid Pack",
+        "tlm.sakura_maid.desc": "Xuanyue sann's collection of model exercises"
+      },
+      "zh_cn": {
+        "tlm.sakura_maid.name": "Sakura Maid 模型包",
+        "tlm.sakura_maid.desc": "玄月桑的模型练习集"
+      }
+    }
+  },
+  {
+    "checksum": 2372320568,
+    "version": "1.0.0",
+    "upload_time": 1630156493255,
+    "name": "tlm.little_maid_mob.name",
+    "author": [
+      "MMM"
+    ],
+    "desc": "tlm.little_maid_mob.desc",
+    "file_name": "little_maid_mob-1.0.0.zip",
+    "file_size": 47133,
+    "url": "/file/little_maid_mob-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.little_maid_mob.name": "Little Maid Mob Model",
+        "tlm.little_maid_mob.desc": "Model form little maid mob mod, made by MMM"
+      },
+      "zh_cn": {
+        "tlm.little_maid_mob.name": "Little Maid Mob 女仆模型包",
+        "tlm.little_maid_mob.desc": "来自于日站 Little Maid Mob 模组的女仆模型，由 MMM 制作"
+      }
+    }
+  },
+  {
+    "checksum": 3460526996,
+    "version": "1.1.1",
+    "upload_time": 1628072613581,
+    "name": "tlm.tartaric_acid_things.name",
+    "author": [
+      "tartaric_acid",
+      "pajinyi"
+    ],
+    "desc": "tlm.tartaric_acid_things.desc",
+    "file_name": "tartaric_acid_things-1.1.1.zip",
+    "file_size": 127583,
+    "url": "/file/tartaric_acid_things-1.1.1.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.tartaric_acid_things.name": "Tartaric Acid Things",
+        "tlm.tartaric_acid_things.desc": "Some random model from tartaric acid"
+      },
+      "zh_cn": {
+        "tlm.tartaric_acid_things.name": "酒石酸的随意模型",
+        "tlm.tartaric_acid_things.desc": "一些酒石酸菌制作的随意模型"
+      }
+    }
+  },
+  {
+    "checksum": 1272505254,
+    "version": "1.0.2",
+    "upload_time": 1628072613581,
+    "name": "tlm.droneeee.name",
+    "author": [
+      "goumo_g"
+    ],
+    "desc": "tlm.droneeee.desc",
+    "file_name": "droneeee-1.0.2.zip",
+    "file_size": 34630,
+    "url": "/file/droneeee-1.0.2.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.droneeee.name": "Droneeee Model Pack",
+        "tlm.droneeee.desc": "Just droneeee"
+      },
+      "zh_cn": {
+        "tlm.droneeee.name": "无人机模型",
+        "tlm.droneeee.desc": "就是无人机啦"
+      }
+    }
+  },
+  {
+    "checksum": 4058124461,
+    "version": "1.2.3",
+    "upload_time": 1625038434167,
+    "name": "tlm.hayaterz.name",
+    "author": [
+      "hayaterz"
+    ],
+    "desc": "tlm.hayaterz.desc",
+    "file_name": "hayaterz-1.2.3.zip",
+    "file_size": 109859,
+    "url": "/file/hayaterz-1.2.3.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.hayaterz.name": "Hayaterz Pack",
+        "tlm.hayaterz.desc": "Random maid model made by hayaterz"
+      },
+      "zh_cn": {
+        "tlm.hayaterz.name": "Hayaterz 的模型包",
+        "tlm.hayaterz.desc": "由玩家Re绘ろ本（hayaterz）制作的模型"
+      }
+    }
+  },
+  {
+    "checksum": 2063813324,
+    "version": "1.3.1",
+    "upload_time": 1624112356569,
+    "name": "tlm.the_journey_of_elaina.name",
+    "author": [
+      "Prasyb"
+    ],
+    "desc": "tlm.the_journey_of_elaina.desc",
+    "file_name": "the_journey_of_elaina-1.3.1.zip",
+    "file_size": 143673,
+    "url": "/file/the_journey_of_elaina-1.3.1.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.the_journey_of_elaina.name": "The Journey of Elaina",
+        "tlm.the_journey_of_elaina.desc": "Wandering Witch: The Journey of Elaina (魔女の旅々, Majo no Tabitabi) is a Japanese light novel series, written by Jougi Shiraishi and illustrated by Azure, the series will premiere in October 2020."
+      },
+      "zh_cn": {
+        "tlm.the_journey_of_elaina.name": "魔女之旅模型包",
+        "tlm.the_journey_of_elaina.desc": "《魔女之旅》（日语：魔女の旅々）是一部由白石定规创作的小说，插画由あずーる负责，预计今年十月即将动画化。"
+      }
+    }
+  },
+  {
+    "checksum": 1632038512,
+    "version": "1.0.0",
+    "upload_time": 1621154739852,
+    "name": "tlm.tmsop.name",
+    "author": [
+      "Tian_mi"
+    ],
+    "desc": "tlm.tmsop.desc",
+    "file_name": "tmsop-1.0.0.zip",
+    "file_size": 187489,
+    "url": "/file/tmsop-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.tmsop.name": "TMSOP Model",
+        "tlm.tmsop.desc": "Some anthropomorphic models"
+      },
+      "zh_cn": {
+        "tlm.tmsop.name": "TMSOP 模型包",
+        "tlm.tmsop.desc": "一些拟人模型"
+      }
+    }
+  },
+  {
+    "checksum": 1832748495,
+    "version": "1.0.5",
+    "upload_time": 1621154595399,
+    "name": "tlm.lanternrite_festival.name",
+    "author": [],
+    "desc": "tlm.lanternrite_festival.desc",
+    "file_name": "lanternrite_festival-1.0.5.zip",
+    "file_size": 99397,
+    "url": "/file/lanternrite_festival-1.0.5.zip",
+    "type": [
+      "chair"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.lanternrite_festival.name": "Lanternrite Festival Model",
+        "tlm.lanternrite_festival.desc": "From the game: Genshin Impact"
+      },
+      "zh_cn": {
+        "tlm.lanternrite_festival.name": "海灯节模型",
+        "tlm.lanternrite_festival.desc": "来自游戏原神的模型"
+      }
+    }
+  },
+  {
+    "checksum": 1950044315,
+    "version": "2.0.0",
+    "upload_time": 1621154501826,
+    "name": "tlm.jojijoji.name",
+    "author": [
+      "光影",
+      "黄金哥布林"
+    ],
+    "desc": "tlm.jojijoji.desc",
+    "file_name": "jojijoji-2.0.0.zip",
+    "file_size": 195137,
+    "url": "/file/jojijoji-2.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.jojijoji.name": "Joji Joji Model",
+        "tlm.jojijoji.desc": "Joji Fans Model"
+      },
+      "zh_cn": {
+        "tlm.jojijoji.name": "Joji Joji Model",
+        "tlm.jojijoji.desc": "来自酒姬民的模型"
+      }
+    }
+  },
+  {
+    "checksum": 3122844890,
+    "version": "1.0.0",
+    "upload_time": 1621154437761,
+    "name": "tlm.ib_maid_pack.name",
+    "author": [
+      "jingjing2016"
+    ],
+    "desc": "tlm.ib_maid_pack.desc",
+    "file_name": "ib_maid_pack-1.0.0.zip",
+    "file_size": 13504,
+    "url": "/file/ib_maid_pack-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.ib_maid_pack.name": "Ib Maid Pack",
+        "tlm.ib_maid_pack.desc": "Some model from Ib"
+      },
+      "zh_cn": {
+        "tlm.ib_maid_pack.name": "恐怖美术馆模型包",
+        "tlm.ib_maid_pack.desc": "来自于《恐怖美术馆》的模型"
+      }
+    }
+  },
+  {
+    "checksum": 3877861979,
+    "version": "0.2.3",
+    "upload_time": 1621154437757,
+    "name": "tlm.7_year_later.name",
+    "author": [
+      "vanli"
+    ],
+    "desc": "tlm.7_year_later.desc",
+    "file_name": "7_year_later-0.2.3.zip",
+    "file_size": 496495,
+    "url": "/file/7_year_later-0.2.3.zip",
+    "type": [
+      "maid",
+      "chair"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.7_year_later.name": "7 Years from Now",
+        "tlm.7_year_later.desc": "7 Years from Now is a free story-based mobile RPG developed and released by Hiraya-Space/Mafumi Yoshida on August 3rd, 2017!"
+      },
+      "zh_cn": {
+        "tlm.7_year_later.name": "我在7年后等着你",
+        "tlm.7_year_later.desc": "《我在7年后等着你》是一款免费手机RPG游戏"
+      }
+    }
+  },
+  {
+    "checksum": 1360334764,
+    "version": "1.0.0",
+    "upload_time": 1620657357475,
+    "name": "tlm.tiandingwu_random_model.name",
+    "author": [
+      "tiandingwu"
+    ],
+    "desc": "tlm.tiandingwu_random_model.desc",
+    "file_name": "tiandingwu_random_model-1.0.0.zip",
+    "file_size": 17932,
+    "url": "/file/tiandingwu_random_model-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.tiandingwu_random_model.name": "Tiandingwu Random Model",
+        "tlm.tiandingwu_random_model.desc": "Some random model made by tiandingwu"
+      },
+      "zh_cn": {
+        "tlm.tiandingwu_random_model.name": "天顶乌的随意模型",
+        "tlm.tiandingwu_random_model.desc": "一些由天顶乌制作的随意模型"
+      }
+    }
+  },
+  {
+    "checksum": 2072846964,
+    "version": "1.0.0",
+    "upload_time": 1609422368804,
+    "name": "tlm.touhou_kaikidan.name",
+    "author": [
+      "galahad1024"
+    ],
+    "desc": "tlm.touhou_kaikidan.desc",
+    "file_name": "touhou_kaikidan-1.0.0.zip",
+    "file_size": 58856,
+    "url": "/file/touhou_kaikidan-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.touhou_kaikidan.name": "Touhou Kaikidan Pack",
+        "tlm.touhou_kaikidan.desc": "Models from Touhou Kaikidan"
+      },
+      "zh_cn": {
+        "tlm.touhou_kaikidan.name": "东方怪绮谈模型包",
+        "tlm.touhou_kaikidan.desc": "来自于怪绮谈的角色"
+      }
+    }
+  },
+  {
+    "checksum": 1716836316,
+    "version": "1.0.0",
+    "upload_time": 1609422330274,
+    "name": "tlm.medium5.name",
+    "author": [
+      "hanaya_baka"
+    ],
+    "desc": "tlm.medium5.desc",
+    "file_name": "medium5-1.0.0.zip",
+    "file_size": 60591,
+    "url": "/file/medium5-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.medium5.name": "Medium5 Model Pack",
+        "tlm.medium5.desc": "The world belongs to the medium5!\\nNew Year's Day model pack!"
+      },
+      "zh_cn": {
+        "tlm.medium5.name": "五维介质模型包",
+        "tlm.medium5.desc": "§e世界属于§b五§2维§6介§4质\\n§r元旦贺岁模型包！"
+      }
+    }
+  },
+  {
+    "checksum": 721720169,
+    "version": "1.0.1",
+    "upload_time": 1609422330271,
+    "name": "tlm.jojo_log.name",
+    "author": [
+      "DY_ZNG"
+    ],
+    "desc": "tlm.jojo_log.desc",
+    "file_name": "jojo_log-1.0.1.zip",
+    "file_size": 57197,
+    "url": "/file/jojo_log-1.0.1.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.jojo_log.name": "JoJo Model Pack",
+        "tlm.jojo_log.desc": "Some Character From JoJo"
+      },
+      "zh_cn": {
+        "tlm.jojo_log.name": "JoJo 模型包",
+        "tlm.jojo_log.desc": "一些来自于 JoJo 的角色"
+      }
+    }
+  },
+  {
+    "checksum": 2181019744,
+    "version": "1.0.0",
+    "upload_time": 1608544025457,
+    "name": "tlm.senren_banka.name",
+    "author": [
+      "tartaric_acid"
+    ],
+    "desc": "tlm.senren_banka.desc",
+    "file_name": "senren_banka-1.0.0.zip",
+    "file_size": 48683,
+    "url": "/file/senren_banka-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.senren_banka.name": "Senren * Banka Model",
+        "tlm.senren_banka.desc": "some character from game \"senren banka\""
+      },
+      "zh_cn": {
+        "tlm.senren_banka.name": "千恋 * 万花模型包",
+        "tlm.senren_banka.desc": "来自于游戏《千恋 * 万花》的角色"
+      }
+    }
+  },
+  {
+    "checksum": 2075642665,
+    "version": "1.1.0",
+    "upload_time": 1605970660805,
+    "name": "tlm.nekoparaii.name",
+    "author": [
+      "Barracuda_1966, NANODESU"
+    ],
+    "desc": "tlm.nekoparaii.desc",
+    "file_name": "nekoparaii-1.1.0.zip",
+    "file_size": 37529,
+    "url": "/file/nekoparaii-1.1.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.nekoparaii.name": "Neko Para Model",
+        "tlm.nekoparaii.desc": "Some character from nekopara"
+      },
+      "zh_cn": {
+        "tlm.nekoparaii.name": "猫娘乐园模型包",
+        "tlm.nekoparaii.desc": "一些来自于游戏猫娘乐园的角色"
+      }
+    }
+  },
+  {
+    "checksum": 2093773245,
+    "version": "1.1.4",
+    "upload_time": 1605970660802,
+    "name": "tlm.hanaya_baka.name",
+    "author": [
+      "hanaya_baka"
+    ],
+    "desc": "tlm.hanaya_baka.desc",
+    "file_name": "hanaya_baka-1.1.4.zip",
+    "file_size": 174449,
+    "url": "/file/hanaya_baka-1.1.4.zip",
+    "type": [
+      "maid",
+      "chair"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.hanaya_baka.name": "Hanaya Baka Pack",
+        "tlm.hanaya_baka.desc": "HanayaBaka's collection of model exercises"
+      },
+      "zh_cn": {
+        "tlm.hanaya_baka.name": "花玥的玩具箱",
+        "tlm.hanaya_baka.desc": "花玥的模型练习集"
+      }
+    }
+  },
+  {
+    "checksum": 2646063879,
+    "version": "1.0.1",
+    "upload_time": 1603722160907,
+    "name": "tlm.some_bilibili_ups.name",
+    "author": [
+      "tartaric_acid"
+    ],
+    "desc": "tlm.some_bilibili_ups.desc",
+    "file_name": "some_bilibili_ups-1.0.1.zip",
+    "file_size": 22186,
+    "url": "/file/some_bilibili_ups-1.0.1.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.some_bilibili_ups.name": "Bilibili Ups Model Pack",
+        "tlm.some_bilibili_ups.desc": "Some bilibili up's model"
+      },
+      "zh_cn": {
+        "tlm.some_bilibili_ups.name": "哔哩哔哩UP模型",
+        "tlm.some_bilibili_ups.desc": "一些来自于哔哩哔哩视频网站的UP主模型"
+      }
+    }
+  },
+  {
+    "checksum": 4094428593,
+    "version": "1.0.0",
+    "upload_time": 1603289286918,
+    "name": "tlm.th_bsm.name",
+    "author": [
+      "yi13"
+    ],
+    "desc": "tlm.th_bsm.desc",
+    "file_name": "th_bsm-1.0.0.zip",
+    "file_size": 172686,
+    "url": "/file/th_bsm-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.th_bsm.name": "Book of Star Mythology Pack",
+        "tlm.th_bsm.desc": "Book of Star Mythology is a fan-made Touhou Project game made using Touhou Danmakufu ph3."
+      },
+      "zh_cn": {
+        "tlm.th_bsm.name": "东方魔宝城模型包",
+        "tlm.th_bsm.desc": "东方魔宝城是东方Project系列的同人STG作品。"
+      }
+    }
+  },
+  {
+    "checksum": 1079563486,
+    "version": "1.0.0",
+    "upload_time": 1602677700734,
+    "name": "tlm.soulworker.name",
+    "author": [
+      "斯塔"
+    ],
+    "desc": "tlm.soulworker.desc",
+    "file_name": "soulworker-1.0.0.zip",
+    "file_size": 36489,
+    "url": "/file/soulworker-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.soulworker.name": "Soulworker Model Pack",
+        "tlm.soulworker.desc": "SoulWorker is an anime-style free action massively multiplayer online role-playing game developed by Lion Games Studios from South Korea."
+      },
+      "zh_cn": {
+        "tlm.soulworker.name": "灵魂武器模型包",
+        "tlm.soulworker.desc": "来自于游戏“灵魂武器”的角色模型包"
+      }
+    }
+  },
+  {
+    "checksum": 1540065261,
+    "version": "1.3.0",
+    "upload_time": 1602677700731,
+    "name": "tlm.practice_by_hollow.name",
+    "author": [
+      "Hollow"
+    ],
+    "desc": "tlm.practice_by_hollow.desc",
+    "file_name": "practice_by_hollow-1.3.0.zip",
+    "file_size": 137150,
+    "url": "/file/practice_by_hollow-1.3.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.practice_by_hollow.name": "Hollow's Practice Model",
+        "tlm.practice_by_hollow.desc": "Some practice models made by Hollow"
+      },
+      "zh_cn": {
+        "tlm.practice_by_hollow.name": "Hollow 的练习作品",
+        "tlm.practice_by_hollow.desc": "一些 Hollow 制作的练习模型作品"
+      }
+    }
+  },
+  {
+    "checksum": 364982805,
+    "version": "3.0.0",
+    "upload_time": 1602677502551,
+    "name": "tlm.honkai_impact_3.name",
+    "author": [
+      "Vic"
+    ],
+    "desc": "tlm.honkai_impact_3.desc",
+    "file_name": "honkai_impact_3-3.0.0.zip",
+    "file_size": 126681,
+    "url": "/file/honkai_impact_3-3.0.0.zip",
+    "type": [
+      "chair",
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.honkai_impact_3.name": "Honkai Impact 3rd Pack",
+        "tlm.honkai_impact_3.desc": "Honkai Impact 3rd is a \"gacha\" style game that allows players to obtain items both through gameplay and through the usage of its in-game currency called \"Crystals\"."
+      },
+      "zh_cn": {
+        "tlm.honkai_impact_3.name": "崩坏3模型包",
+        "tlm.honkai_impact_3.desc": "来自于游戏“崩坏3”的角色模型包"
+      }
+    }
+  },
+  {
+    "checksum": 2057513654,
+    "version": "1.0.2",
+    "upload_time": 1601564943985,
+    "name": "tlm.ryuowork.name",
+    "author": [
+      "tartaric_acid"
+    ],
+    "desc": "tlm.ryuowork.desc",
+    "file_name": "ryuowork-1.0.2.zip",
+    "file_size": 52050,
+    "url": "/file/ryuowork-1.0.2.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.ryuowork.name": "Ryuo's Work Pack",
+        "tlm.ryuowork.desc": "The Ryuo's Work is Never Done! is a Japanese light novel series written by Shirow Shiratori and illustrated by Shirabi."
+      },
+      "zh_cn": {
+        "tlm.ryuowork.name": "龙王的工作模型包",
+        "tlm.ryuowork.desc": "《龙王的工作！》是白鸟士郎撰写，しらび绘制插画的日本轻小说作品。由SB Creative的GA文库发行，已发售12册。漫画版为こげたおこげ作画。"
+      }
+    }
+  },
+  {
+    "checksum": 2102975239,
+    "version": "1.2.0",
+    "upload_time": 1601535370045,
+    "name": "tlm.hapi_skin.name",
+    "author": [
+      "momizi"
+    ],
+    "desc": "tlm.hapi_skin.desc",
+    "file_name": "hapi_skin-1.2.0.zip",
+    "file_size": 70952,
+    "url": "/file/hapi_skin-1.2.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.hapi_skin.name": "HAPI's Skin Pack",
+        "tlm.hapi_skin.desc": "Made by momizi, for HAPI"
+      },
+      "zh_cn": {
+        "tlm.hapi_skin.name": "HAPI 的皮肤",
+        "tlm.hapi_skin.desc": "由日站玩家 momizi 制作，献给 niconico 主播 HAPI"
+      }
+    }
+  },
+  {
+    "checksum": 3160947687,
+    "version": "1.0.0",
+    "upload_time": 1601122584695,
+    "name": "tlm.sa_cutemobs.name",
+    "author": [
+      "沙吉",
+      "yarrmateys"
+    ],
+    "desc": "tlm.sa_cutemobs.desc",
+    "file_name": "sa_cutemobs-1.0.0.zip",
+    "file_size": 14354,
+    "url": "/file/sa_cutemobs-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.sa_cutemobs.name": "Sa Cute Mobs Pack",
+        "tlm.sa_cutemobs.desc": "Some cute mobs model from Yarr Cute Mob Models mod"
+      },
+      "zh_cn": {
+        "tlm.sa_cutemobs.name": "萌化怪物模型包",
+        "tlm.sa_cutemobs.desc": "一些来自于萌化怪物模组的模型"
+      }
+    }
+  },
+  {
+    "checksum": 3055173024,
+    "version": "1.0.0",
+    "upload_time": 1600581775023,
+    "name": "tlm.thegodofobleisk.name",
+    "author": [
+      "裤管炸了救救我"
+    ],
+    "desc": "tlm.thegodofobleisk.desc",
+    "file_name": "thegodofobleisk-1.0.0.zip",
+    "file_size": 931186,
+    "url": "/file/thegodofobleisk-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.thegodofobleisk.name": "Obelisk Model Pack",
+        "tlm.thegodofobleisk.desc": "Add ＴＨＥ ＧＯＤ ＯＦ ＯＢＥＬＩＳＫ form Yu-Gi-Oh!"
+      },
+      "zh_cn": {
+        "tlm.thegodofobleisk.name": "巨神兵模型包",
+        "tlm.thegodofobleisk.desc": "添加来自于《游戏王》的角色：欧贝利斯克的巨神兵"
+      }
+    }
+  },
+  {
+    "checksum": 111258752,
+    "version": "1.0.0",
+    "upload_time": 1599460952524,
+    "name": "tlm.gokou_ruri_maid.name",
+    "author": [
+      "Sunny_Wind"
+    ],
+    "desc": "tlm.gokou_ruri_maid.desc",
+    "file_name": "gokou_ruri_maid-1.0.0.zip",
+    "file_size": 63150,
+    "url": "/file/gokou_ruri_maid-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.gokou_ruri_maid.name": "Gokou Ruri Model Pack",
+        "tlm.gokou_ruri_maid.desc": "Gokou Ruri Model Pack"
+      },
+      "zh_cn": {
+        "tlm.gokou_ruri_maid.name": "五更琉璃女仆模型",
+        "tlm.gokou_ruri_maid.desc": "五更琉璃女仆模型"
+      }
+    }
+  },
+  {
+    "checksum": 4166681365,
+    "version": "2.7.0",
+    "upload_time": 1598769851487,
+    "name": "tlm.cultural_relic.name",
+    "author": [
+      "hanaya_baka"
+    ],
+    "desc": "tlm.cultural_relic.desc",
+    "file_name": "cultural_relic-2.7.0.zip",
+    "file_size": 4048087,
+    "url": "/file/cultural_relic-2.7.0.zip",
+    "type": [
+      "maid",
+      "chair"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.cultural_relic.name": "Cultural Relic Model Pack",
+        "tlm.cultural_relic.desc": "All models are made with reference to the original painting of \"Personification of National Treasure Cultural Relics\"\nOriginal Author：\n§b林茶以的知错就改§r\n§bAkiyako_秋也子§r\n(Authorized)"
+      },
+      "zh_cn": {
+        "tlm.cultural_relic.name": "“国家宝藏”模型包",
+        "tlm.cultural_relic.desc": "模型为“国家宝藏文物拟人”同人延伸。\n原人设：\n§b林茶以的知错就改§r\n§bAkiyako_秋也子§r\n（已授权）"
+      }
+    }
+  },
+  {
+    "checksum": 2322490140,
+    "version": "1.0.0",
+    "upload_time": 1597905209243,
+    "name": "tlm.violet_evergarden.name",
+    "author": [
+      "hanaya_baka"
+    ],
+    "desc": "tlm.violet_evergarden.desc",
+    "file_name": "violet_evergarden-1.0.0.zip",
+    "file_size": 20295,
+    "url": "/file/violet_evergarden-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.violet_evergarden.name": "Violet Evergarden Pack",
+        "tlm.violet_evergarden.desc": " Violet Evergarden is a light novel series written by Kana Akatsuki and illustrated by Akiko Takase, and the anime adaption produced by Kyoto Animation."
+      },
+      "zh_cn": {
+        "tlm.violet_evergarden.name": "紫罗兰永恒花园模型包",
+        "tlm.violet_evergarden.desc": "《紫罗兰永恒花园》，是由晓佳奈创作、高濑亚贵子插画的一部轻小说，本作品有动画等衍生作品。"
+      }
+    }
+  },
+  {
+    "checksum": 3330677876,
+    "version": "1.0.0",
+    "upload_time": 1597818155948,
+    "name": "tlm.miku_miku.name",
+    "author": [
+      "carret233"
+    ],
+    "desc": "tlm.miku_miku.desc",
+    "file_name": "miku_miku-1.0.0.zip",
+    "file_size": 211958,
+    "url": "/file/miku_miku-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.miku_miku.name": "Miku Miku Pack",
+        "tlm.miku_miku.desc": "Just a maid model: Miku! (～￣▽￣)～"
+      },
+      "zh_cn": {
+        "tlm.miku_miku.name": "初音初音模型包",
+        "tlm.miku_miku.desc": "就只有一个角色：初音！(～￣▽￣)～"
+      }
+    }
+  },
+  {
+    "checksum": 226283674,
+    "version": "1.1.0",
+    "upload_time": 1597504345418,
+    "name": "tlm.worldend.name",
+    "author": [
+      "wangquehuixiang"
+    ],
+    "desc": "tlm.worldend.desc",
+    "file_name": "worldend-1.1.0.zip",
+    "file_size": 121684,
+    "url": "/file/worldend-1.1.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.worldend.name": "World End Pack",
+        "tlm.worldend.desc": "WorldEnd, short for What Do You Do at the End of the World? Are You Busy? Will You Save Us? also known as SukaSuka, is a Japanese light novel series written by Akira Kareno and illustrated by Ue."
+      },
+      "zh_cn": {
+        "tlm.worldend.name": "末日三问模型包",
+        "tlm.worldend.desc": "末日三问，是《末日时在做什么？有没有空？可以来拯救吗？》的缩写，这是由枯野瑛创作的一部轻小说，并有漫画、动画等衍生作品。"
+      }
+    }
+  },
+  {
+    "checksum": 420801282,
+    "version": "1.0",
+    "upload_time": "1582381367000",
+    "name": "tlm.anime_model_pack.name",
+    "author": [
+      "Memories1999"
+    ],
+    "desc": "tlm.anime_model_pack.desc",
+    "file_name": "anime_model_pack-1.0.zip",
+    "file_size": 29781,
+    "url": "/file/anime_model_pack-1.0.zip",
+    "type": [
+      "maid",
+      "chair"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.anime_model_pack.name": "Anime Model Pack",
+        "tlm.anime_model_pack.desc": "Made a few simple anime character models"
+      },
+      "zh_cn": {
+        "tlm.anime_model_pack.name": "动漫模型女仆资源包",
+        "tlm.anime_model_pack.desc": "制作了几个简单的动漫角色模型"
+      }
+    }
+  },
+  {
+    "checksum": 837972737,
+    "version": "1.0.1",
+    "upload_time": "1582381367000",
+    "name": "tlm.jao_shingan.name",
+    "author": [
+      "Jao_Shingan"
+    ],
+    "desc": "tlm.jao_shingan.desc",
+    "file_name": "jao_shingan-1.0.1.zip",
+    "file_size": 89597,
+    "url": "/file/jao_shingan-1.0.1.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.jao_shingan.name": "MC Tangyuan Mod Addons",
+        "tlm.jao_shingan.desc": "Contains some maid models of minecraft video anchor on the bilibili website"
+      },
+      "zh_cn": {
+        "tlm.jao_shingan.name": "MC 牌汤圆模组车万女仆附属包",
+        "tlm.jao_shingan.desc": "包含一些哔哩哔哩网站视频主播对应的女仆模型"
+      }
+    }
+  },
+  {
+    "checksum": 1036377651,
+    "version": "1.0.0",
+    "upload_time": "1582381367000",
+    "name": "tlm.snownee.name",
+    "author": [
+      "Succinum",
+      "Pajinyi",
+      "Tian_mi"
+    ],
+    "desc": "tlm.snownee.desc",
+    "file_name": "snownee-1.0.0.zip",
+    "file_size": 162463,
+    "url": "/file/snownee-1.0.0.zip",
+    "license": "CC BY-NC-SA 4.0",
+    "type": [
+      "maid",
+      "chair"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.snownee.name": "Snownee Resources Pack",
+        "tlm.snownee.desc": "Randomly maid models, including some cushion models with meme"
+      },
+      "zh_cn": {
+        "tlm.snownee.name": "雪尼资源包",
+        "tlm.snownee.desc": "随意制作的女仆模型，同时包含一些带有梗的坐垫模型"
+      }
+    }
+  },
+  {
+    "checksum": 356182047,
+    "version": "1.0.0",
+    "upload_time": 1596445988580,
+    "name": "tlm.mahoraba.name",
+    "author": [
+      "tartaric_acid"
+    ],
+    "desc": "tlm.mahoraba.desc",
+    "file_name": "mahoraba-1.0.0.zip",
+    "file_size": 56943,
+    "url": "/file/mahoraba-1.0.0.zip",
+    "type": [
+      "maid",
+      "chair"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.mahoraba.name": "Mahoraba Model Pack",
+        "tlm.mahoraba.desc": "Mahoraba (まほらば) is a Japanese manga series by Akira Kojima."
+      },
+      "zh_cn": {
+        "tlm.mahoraba.name": "我们的仙境",
+        "tlm.mahoraba.desc": "我们的仙境（日文原名：まほらば）是漫画家小岛あきら的漫画作品"
+      }
+    }
+  },
+  {
+    "checksum": 2489272653,
+    "version": "0.4.1",
+    "upload_time": 1596527659321,
+    "name": "tlm.urara_littlemaid.name",
+    "author": [
+      "Skeleton_Druid"
+    ],
+    "desc": "tlm.urara_littlemaid.desc",
+    "file_name": "urara_littlemaid-0.4.1.zip",
+    "file_size": 81098,
+    "url": "/file/urara_littlemaid-0.4.1.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.urara_littlemaid.name": "Urara Model Pack",
+        "tlm.urara_littlemaid.desc": "Urara Meirocho is a Japanese four-panel manga series by Harikamo"
+      },
+      "zh_cn": {
+        "tlm.urara_littlemaid.name": "Urara 迷路帖模型包",
+        "tlm.urara_littlemaid.desc": "《Urara迷路帖》（日语：うらら迷路帖）是由はりかも创作的一部漫画，并有动画等衍生作品。"
+      }
+    }
+  },
+  {
+    "checksum": 415242814,
+    "version": "1.1.0",
+    "upload_time": 1597134933196,
+    "name": "tlm.xuanxuan_sound.name",
+    "author": [
+      "Xuanxuan"
+    ],
+    "desc": "tlm.xuanxuan_sound.desc",
+    "file_name": "xuanxuan_sound-1.1.0.zip",
+    "file_size": 7372908,
+    "url": "/file/xuanxuan_sound-1.1.0.zip",
+    "type": [
+      "sound"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.xuanxuan_sound.name": "Xuanxuan Sound Pack",
+        "tlm.xuanxuan_sound.desc": "Maid sound pack made by bilibili up xuanxuan"
+      },
+      "zh_cn": {
+        "tlm.xuanxuan_sound.name": "煊煊声音包",
+        "tlm.xuanxuan_sound.desc": "由哔哩哔哩 UP 煊煊制作的女仆声音包。"
+      }
+    }
+  },
+  {
+    "checksum": 1870477541,
+    "version": "1.0.1",
+    "upload_time": "1586872663000",
+    "name": "tlm.tartaric_maid.name",
+    "author": [
+      "baka943"
+    ],
+    "desc": "tlm.tartaric_maid.desc",
+    "file_name": "tartaric_maid-1.0.1.zip",
+    "file_size": 13367,
+    "url": "/file/tartaric_maid-1.0.1.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.tartaric_maid.name": "Tartaric Maid Model Pack",
+        "tlm.tartaric_maid.desc": "Just for fun"
+      },
+      "zh_cn": {
+        "tlm.tartaric_maid.name": "酒石女仆模型包",
+        "tlm.tartaric_maid.desc": "仅供娱乐"
+      }
+    }
+  },
+  {
+    "checksum": 1029218562,
+    "version": "1.0.0",
+    "upload_time": "1585921505000",
+    "name": "tlm.danxin_sound.name",
+    "author": [
+      "Danxin"
+    ],
+    "desc": "tlm.danxin_sound.desc",
+    "file_name": "danxin_sound-1.0.0.zip",
+    "file_size": 2618178,
+    "url": "/file/danxin_sound-1.0.0.zip",
+    "type": [
+      "sound"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.danxin_sound.name": "Danxin Sound Pack",
+        "tlm.danxin_sound.desc": "Maid sound pack made by danxin"
+      },
+      "zh_cn": {
+        "tlm.danxin_sound.name": "淡心女仆声音包",
+        "tlm.danxin_sound.desc": "由 淡心 制作的女仆声音包"
+      }
+    }
+  },
+  {
+    "checksum": 33219361,
+    "version": "1.0.0",
+    "upload_time": "1583657998000",
+    "name": "tlm.alicesdolls.name",
+    "author": [
+      "iwa_yukinoshita"
+    ],
+    "desc": "tlm.alicesdolls.desc",
+    "file_name": "alicesdolls-1.0.0.zip",
+    "file_size": 37169,
+    "url": "/file/alicesdolls-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.alicesdolls.name": "Alices Dolls Model Pack",
+        "tlm.alicesdolls.desc": "Contains several alices dolls models"
+      },
+      "zh_cn": {
+        "tlm.alicesdolls.name": "爱丽丝玩偶模型包",
+        "tlm.alicesdolls.desc": "包含了几个爱丽丝玩偶模型"
+      }
+    }
+  },
+  {
+    "checksum": 1792547792,
+    "version": "1.0.0",
+    "upload_time": "1582381367000",
+    "name": "tlm.syougatu.name",
+    "author": [
+      "Pajinyi"
+    ],
+    "desc": "tlm.syougatu.desc",
+    "file_name": "syougatu-1.0.0.zip",
+    "file_size": 2329571,
+    "url": "/file/syougatu-1.0.0.zip",
+    "license": "CC BY-NC-SA 4.0",
+    "type": [
+      "chair"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.syougatu.name": "Syougatu Model Pack",
+        "tlm.syougatu.desc": "Contains several Japanese new year cushion models"
+      },
+      "zh_cn": {
+        "tlm.syougatu.name": "正月模型包",
+        "tlm.syougatu.desc": "包含了几个日式新年的坐垫模型"
+      }
+    }
+  },
+  {
+    "checksum": 1934239828,
+    "version": "1.0.0",
+    "upload_time": "1586872458000",
+    "name": "tlm.mr_black_rabbit_3d.name",
+    "author": [
+      "N_Nameless"
+    ],
+    "desc": "tlm.mr_black_rabbit_3d.desc",
+    "file_name": "mr_black_rabbit_3d-1.0.0.zip",
+    "file_size": 14318,
+    "url": "/file/mr_black_rabbit_3d-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.mr_black_rabbit_3d.name": "Mr. Black Rabbit Model Pack",
+        "tlm.mr_black_rabbit_3d.desc": "Model made by N_Nameless"
+      },
+      "zh_cn": {
+        "tlm.mr_black_rabbit_3d.name": "黑兔先生模型包",
+        "tlm.mr_black_rabbit_3d.desc": "来自于 N_Nameless 制作的模型"
+      }
+    }
+  },
+  {
+    "checksum": 421653432,
+    "version": "1.0.0",
+    "upload_time": "1583657998000",
+    "name": "tlm.pajinyi.name",
+    "author": [
+      "Pajinyi"
+    ],
+    "desc": "tlm.pajinyi.desc",
+    "file_name": "pajinyi-1.0.0.zip",
+    "file_size": 1822257,
+    "url": "/file/pajinyi-1.0.0.zip",
+    "license": "CC BY-NC-SA 4.0",
+    "type": [
+      "maid",
+      "chair"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.pajinyi.name": "Pajinyi Model Pack",
+        "tlm.pajinyi.desc": "Contains several random models"
+      },
+      "zh_cn": {
+        "tlm.pajinyi.name": "帕金伊模型包",
+        "tlm.pajinyi.desc": "包含了几个随意制作的模型"
+      }
+    }
+  },
+  {
+    "checksum": 3426331061,
+    "version": "1.1.0",
+    "upload_time": "1584017615000",
+    "name": "tlm.lovely_robot.name",
+    "author": [
+      "Succinum",
+      "Yarrmateys"
+    ],
+    "desc": "tlm.lovely_robot.desc",
+    "file_name": "lovely_robot-1.1.0.zip",
+    "file_size": 43082,
+    "url": "/file/lovely_robot-1.1.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.lovely_robot.name": "Lovely Robot Mod Model Pack",
+        "tlm.lovely_robot.desc": "Model from the Lovely Robot Mod"
+      },
+      "zh_cn": {
+        "tlm.lovely_robot.name": "可爱机器人模组模型",
+        "tlm.lovely_robot.desc": "来自于可爱机器人模组的模型"
+      }
+    }
+  },
+  {
+    "checksum": 1775616271,
+    "version": "1.0.0",
+    "upload_time": "1592555646000",
+    "name": "tlm.shinkai_shoujo_miku.name",
+    "author": [
+      "献于你最初的歌"
+    ],
+    "desc": "tlm.shinkai_shoujo_miku.desc",
+    "file_name": "shinkai_shoujo_miku-1.0.0.zip",
+    "file_size": 564290,
+    "url": "/file/shinkai_shoujo_miku-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.shinkai_shoujo_miku.name": "Shinkai Shoujo Miku Pack",
+        "tlm.shinkai_shoujo_miku.desc": "Shinkai Shoujo Miku"
+      },
+      "zh_cn": {
+        "tlm.shinkai_shoujo_miku.name": "深海少女模型包",
+        "tlm.shinkai_shoujo_miku.desc": "初音未来—深海少女"
+      }
+    }
+  },
+  {
+    "checksum": 4138311042,
+    "version": "0.0.1",
+    "upload_time": 1593877790039,
+    "name": "tlm.fate.grand.order.name",
+    "author": [
+      "over_flyer"
+    ],
+    "desc": "tlm.fate.grand.order.desc",
+    "file_name": "fate.grand.order-0.0.1.zip",
+    "file_size": 43851,
+    "url": "/file/fate.grand.order-0.0.1.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.fate.grand.order.name": "Fate/Grand Order Pack",
+        "tlm.fate.grand.order.desc": "Fate/Grand Order"
+      },
+      "zh_cn": {
+        "tlm.fate.grand.order.name": "FGO 模型包",
+        "tlm.fate.grand.order.desc": "Fate/Grand Order"
+      }
+    }
+  },
+  {
+    "checksum": 2218571175,
+    "version": "1.0.0",
+    "upload_time": "1590250128000",
+    "name": "tlm.yqnuannuancun.name",
+    "author": [
+      "yunque"
+    ],
+    "desc": "tlm.yqnuannuancun.desc",
+    "file_name": "yqnuannuancun-1.0.0.zip",
+    "file_size": 41227,
+    "url": "/file/yqnuannuancun-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.yqnuannuancun.name": "Yqnuannuancun Pack",
+        "tlm.yqnuannuancun.desc": "Random maid model made by yunque"
+      },
+      "zh_cn": {
+        "tlm.yqnuannuancun.name": "云雀暖暖村模型包",
+        "tlm.yqnuannuancun.desc": "由玩家“云雀”制作的模型"
+      }
+    }
+  },
+  {
+    "checksum": 2081515035,
+    "version": "1.0.0",
+    "upload_time": "1584017615000",
+    "name": "tlm.buildcraft_robot.name",
+    "author": [
+      "BuildCraft Team",
+      "Tian_mi"
+    ],
+    "desc": "tlm.buildcraft_robot.desc",
+    "file_name": "buildcraft_robot-1.0.0.zip",
+    "file_size": 39997,
+    "url": "/file/buildcraft_robot-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.buildcraft_robot.name": "Buildcraft Robot Model Pack",
+        "tlm.buildcraft_robot.desc": "Model from the buildcraft's robot"
+      },
+      "zh_cn": {
+        "tlm.buildcraft_robot.name": "Buildcraft 机器人模型",
+        "tlm.buildcraft_robot.desc": "来自于 Buildcraft 的机器人模型"
+      }
+    }
+  }
+]

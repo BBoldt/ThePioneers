@@ -1,0 +1,36 @@
+[ignitium]
+equipSound = "minecraft:item.armor.equip_netherite"
+mendingBonus = 0.15
+fireResistant = true
+quiverSlots = 12
+
+[ignitium.durability]
+toolDurability = 2437
+bowDurability = 0
+addedShieldDurability = 450
+
+[ignitium.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 15
+
+[ignitium.offense]
+addedAttackDamage = 6.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[ignitium.defense]
+gauntletArmorAmount = 5
+armorToughness = 4.0
+knockbackResistance = 0.15
+baseProtectionAmmount = 9.0
+afterBasePercentReduction = 0.9
+
+[ignitium.crafting]
+repairItem = ["minecraft:netherite_ingot", "cataclysm:ignitium_ingot"]
+isSingleAddition = true
+onlyReplaceResource = ["Netherite"]
+smithingTemplate = "cataclysm:ignitium_upgrade_smithing_template"

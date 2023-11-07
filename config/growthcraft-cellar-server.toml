@@ -1,0 +1,25 @@
+
+[brewKettle]
+	#Set the light level for the brew kettle when it is lit. Setting to 0 uses neighbor light level.
+	#Range: 0 ~ 15
+	LitLightLevel = 15
+	#Set the Brew Kettle processing time in ticks.
+	#Range: 20 ~ 24000
+	DefaultProcessingTime = 600
+
+[grape_vine]
+	#Set to the minimum amount of fruit dropped by grape vines.
+	#Range: 1 ~ 100
+	min_fruit_yield = 1
+	#Set to the maximum amount of fruit dropped by grape vines.
+	#Range: 1 ~ 100
+	max_fruit_yield = 4
+
+[hops_crop]
+	#Set to the minimum amount of hops dropped by Hope crops.
+	#Range: 1 ~ 100
+	min_fruit_yield = 1
+	#Set to the maximum amount of hops dropped by Hope crops.
+	#Range: 1 ~ 100
+	max_fruit_yield = 3
+

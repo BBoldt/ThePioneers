@@ -1,0 +1,16 @@
+
+[fetzis-asian-decoration]
+	#chatmessage = false        & displayonce = false → Join Discord message disabled
+	#chatmessage = true / false & displayonce = true  → Join Discord message will only be displayed at joining a world for the first time
+	#chatmessage = true         & displayonce = false → Join Discord message will be displayed everytime when joining the game
+	#
+	#Show join Discord message?
+	#Allowed values are: true | false
+	#
+	show_dc_join_message = false
+	#
+	#Display the join Discord message only once?
+	#Allowed values are: true | false
+	#
+	display_once = true
+

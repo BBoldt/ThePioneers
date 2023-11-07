@@ -1,0 +1,18 @@
+
+[General]
+	#Should wind be displayed?
+	#Default: true
+	should_display_wind = true
+	#Wind Frequency for: Forest, Taiga, and Desert biomes
+	#Default: 0.005
+	#Range: 0.0 ~ 1.0
+	low_wind_frequency = 0.005
+	#Wind Frequency for: Plains and Savanna biomes
+	#Default: 0.01
+	#Range: 0.0 ~ 1.0
+	medium_wind_frequency = 0.01
+	#Wind Frequency for: Mountainous biomes
+	#Default: 0.015
+	#Range: 0.0 ~ 1.0
+	high_wind_frequency = 0.015
+

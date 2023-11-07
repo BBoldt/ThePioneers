@@ -1,0 +1,17 @@
+
+[worldgen]
+	#Set to false to disable Growthcraft Salt Ore Generation.
+	saltOreGenEnabled = true
+	#Set to the max number of ores to generate in the vein.
+	#Range: 1 ~ 10
+	saltOreGenVeinSize = 5
+	#Set to the minimum Y value height to generate Salt ore.
+	#Range: -64 ~ 255
+	saltOreGenHeightMin = -32
+	#Set to the maximum Y value height to generate Salt ore. This value must be higher than saltOreGenHeightMin.
+	#Range: -64 ~ 255
+	saltOreGenHeightMax = 64
+	#Set to the satutration spread for salt ore generation within a chunk.
+	#Range: 1 ~ 20
+	saltOreGenSpreadAmount = 10
+

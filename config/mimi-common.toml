@@ -1,0 +1,18 @@
+
+["World Generation"]
+	#Toggles whether Instrumentalist shops should generate in villages.
+	enableInstrumentalistShop = true
+
+["Server Music"]
+	#Server music cache limit. The maximum number of MIDI files (from Floppy Disks) to keep in the server-side music cache.
+	#Range: 0 ~ 999
+	serverMusicCacheSize = 100
+	#Whether or not to allow web URLs for Floppy Disks.
+	allowWebMidi = true
+	#Allowed web hosts for Floppy Disk URLs (comma-separated). If no hosts are specified any host is allowed. Hosts should not include the protocol (I.E: https) or any paths (I.E: /path). Ex: bitmidi.com
+	allowedMusicHosts = ""
+	#Wether or not the server should allow the above web MIDI settings to be modified via in-game commands by players with 'op' privileges.
+	allowWebCommands = true
+	#Whether or not the server should allow the list of server-provided MIDI Files to be modified via in-game commands by players with 'op' privileges.
+	allowServerCommands = true
+

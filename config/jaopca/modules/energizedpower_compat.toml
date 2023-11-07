@@ -1,0 +1,11 @@
+
+[general]
+	#The material blacklist of this module.
+	materialBlacklist = []
+
+[recipes]
+	#The materials that should not have pulverizer to dust recipes added.
+	toDustMaterialBlacklist = []
+	#The materials that should not have compressor to plate recipes added.
+	toPlateMaterialBlacklist = []
+

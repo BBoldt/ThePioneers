@@ -1,0 +1,17 @@
+{
+  "client": {
+    "Gui Colors": {
+      "red": -3927277,
+      "green": -16711936
+    }
+  },
+  "server": {
+    "other": {
+      "development_mode": false
+    },
+    "enchants": {
+      "better_infinity": true,
+      "better_loyalty": true
+    }
+  }
+}

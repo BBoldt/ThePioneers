@@ -1,0 +1,10 @@
+
+###############################
+# GUI properties
+###############################
+[gui]
+	# Enable/Disable whether to use Treasure2's custom guis for chest inventory screens.
+	enableCustomChestInventoryGui = true
+	# Enable/disable white fog.
+	enableFog = true
+

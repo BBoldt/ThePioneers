@@ -1,0 +1,17 @@
+
+#Tick settings (20 ticks = 1 second)
+[tickSettings]
+	#Number of ticks to craft a recipe
+	#Range: > 1
+	craftingTicks = 8
+	#Number of ticks to cool down
+	#Range: > 1
+	cooldownTicks = 16
+
+#Network settings
+[networkSettings]
+	#Synchronize tick settings to players.
+	#Disabling this setting may cause visual glitches for other players in crafting progress.
+	#Other players may need to manually alter their tick settings to match the server host.
+	synchronizeTickSettings = true
+

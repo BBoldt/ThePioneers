@@ -1,0 +1,17 @@
+
+[beeBox]
+	#Set the range for the bee box to look for flowers.
+	#Range: 0 ~ 18
+	flowerRange = 9
+	#Set the process time for the bee box to update. Default is once a minute.
+	#Range: 200 ~ 1728000
+	maxProcessingTime = 1200
+	#Set the percentage chance to increment bee population in the Bee Box.
+	#Range: 1 ~ 100
+	chanceBeeIncrement = 33
+	#Set the percentage chance to replicate a flower near by.
+	#Range: 1 ~ 100
+	chanceReplicateFlower = 10
+	#Set to false to disable flower replication by the bee box
+	replicateFlowers = true
+

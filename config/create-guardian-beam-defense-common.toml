@@ -1,0 +1,49 @@
+
+#Create Guardian Beam Defense common configuration settings
+["Basic Guardian Beam Turret Settings"]
+	#The amount of 'mob' damage the basic turret inflicts (Default: 6)
+	#Range: > 1
+	"Basic Guardian Beam Turret Physical Damage" = 6
+	#The amount of 'magic' damage the basic turret inflicts (Default: 3)
+	#Range: > 1
+	"Basic Guardian Beam Turret Magic Damage" = 3
+	#The maximum range of entities that the basic turret can target (Default: 17)
+	#Range: 1 ~ 30
+	"Basic Guardian Beam Turret Maximum Range" = 17
+	#The maximum amount of entities that the basic turret can target at the same time (Default: 1)
+	#Range: 1 ~ 20
+	"Basic Guardian Beam Turret Maximum Targets" = 1
+	#Whether or not the basic turret ignores invulnerability frames (Default: false)
+	"Basic Guardian Beam Turret Ignores Invulnerability Frames" = false
+
+["Advanced Guardian Beam Turret Settings"]
+	#The amount of 'mob' damage the advanced turret inflicts (Default: 6)
+	#Range: > 1
+	"Advanced Guardian Beam Turret Physical Damage" = 6
+	#The amount of 'magic' damage the advanced turret inflicts (Default: 3)
+	#Range: > 1
+	"Advanced Guardian Beam Turret Magic Damage" = 3
+	#The maximum range of entities that the advanced turret can target (Default: 17)
+	#Range: 1 ~ 30
+	"Advanced Guardian Beam Turret Maximum Range" = 17
+	#The maximum amount of entities that the basic turret can target at the same time (Default: 10)
+	#Range: 1 ~ 20
+	"Advanced Guardian Beam Turret Maximum Targets" = 10
+	#Whether or not the advanced turret ignores invulnerability frames (Default: false)
+	"Advanced Guardian Beam Turret Ignores Invulnerability Frames" = false
+
+["Beam Reactor Helmet Settings"]
+	#The amount of 'player' damage the beam reactor helmet's laser inflicts (Default: 8)
+	#Range: > 1
+	"Beam Reactor Helmet Physical Damage" = 8
+	#The amount of 'magic' damage the beam reactor helmet's laser inflicts (Default: 4)
+	#Range: > 1
+	"Beam Reactor Helmet Magic Damage" = 4
+	#The maximum range of the beam reactor helmet's laser (Default: 15)
+	#Range: 1 ~ 30
+	"Beam Reactor Helmet Maximum Range" = 15
+	#Whether or not the beam reactor helmet's laser damage increases based on the player's base attack damage attribute (e.g. when a player drinks a strength potion) (Default: true)
+	"Beam Reactor Helmet Scales Damage" = true
+	#Whether or not the beam reactor helmet's laser ignores invulnerability frames (makes the helmet very OP and broken lol) (Default: false)
+	"Beam Reactor Helmet Ignores Invulnerability Frames" = false
+

@@ -1,0 +1,16 @@
+
+[Common]
+	#Require creative to turn bubbles on/off and open/close pipes. [Default: false]
+	creative_wrench = false
+	#Require creative to link pipes. [Default: false]
+	creative_wrench_pipe_linking = false
+
+#Warp Pipes Config
+[Debug]
+	#Enable debug selection box for Clear Warp Pipes. [Default: false]
+	debug_selection_box = false
+	#Enable debug selection box for Clear Warp Pipes in Creative. [Default: true]
+	debug_selection_box_creative = true
+	#Enable debug selection box for Pipe Bubbles. Creative Only. [Default: false]
+	debug_pipe_bubbles_selection_box = false
+

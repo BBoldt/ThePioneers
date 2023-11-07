@@ -1,0 +1,125 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = config/fancymenu/images/tanpaperold.jpg
+  action = texturizebackground
+}
+
+customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  baseheight = 1369
+  action = autoscale
+  basewidth = 2560
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = mid-centered
+  hidden = true
+  original_pos_size_calculation = false
+  x = -192
+  width = 384
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = f29e5ff7-0723-4bc2-aae8-d42714a272d91698130334799
+  y = -48
+  height = 96
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = 7e0a7289-c58a-4889-b41c-b07b6eacf4751698130334807
+  y = -1000000
+  height = 0
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  original_pos_size_calculation = true
+  x = 64
+  width = 384
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = 745d445d-ffda-4256-a675-c337bf77e9231698130334807
+  y = 314
+  height = 10
+}
+
+customization {
+  orientation = bottom-centered
+  background_color = #ABC8F7
+  x = -534
+  width = 1051
+  bar_color = #00563B
+  action = custom_layout_element:drippy_custom_loading_bar
+  actionid = f74f6c0b-dcef-400c-aec7-09c038d157d91698131252631
+  y = -82
+  progress_for_element_orientation = true
+  direction = right
+  height = 20
+}
+
+customization {
+  path = config/fancymenu/images/spongerock2.png
+  orientation = element
+  orientation_element = f74f6c0b-dcef-400c-aec7-09c038d157d91698131252631
+  x = 10
+  width = 76
+  action = addtexture
+  actionid = 00effc68-02be-40d7-bf73-fbe66d28cf6b1698131468935
+  y = -97
+  height = 100
+}
+
+customization {
+  path = config/fancymenu/images/cacti.png
+  orientation = bottom-centered
+  x = 532
+  width = 80
+  action = addtexture
+  actionid = 9117de0c-56d8-4a0c-b53e-510e72f656801698131622022
+  y = -162
+  height = 140
+}
+
+customization {
+  path = config/fancymenu/images/cacti.png
+  orientation = bottom-centered
+  x = -622
+  width = 80
+  action = addtexture
+  actionid = b4123148-2467-4b67-bf27-e2c149f6a2211698131676387
+  y = -168
+  height = 140
+}
+
+customization {
+  path = config/fancymenu/images/pioneersdark.png
+  orientation = mid-centered
+  x = -250
+  width = 500
+  action = addtexture
+  actionid = 1a9a2723-f4ea-4335-9aef-2ddb65ba81561698134007654
+  y = -250
+  height = 500
+}
+

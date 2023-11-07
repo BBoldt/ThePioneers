@@ -1,0 +1,13 @@
+
+#General settings
+[similsaxtranstructors]
+
+	[similsaxtranstructors.range]
+		#How far away from you this tool can build
+		#How far you can build using the basic transtructor
+		#Range: 2 ~ 128
+		basic = 32
+		#How far you can build using the advanced transtructor
+		#Range: 2 ~ 256
+		advanced = 128
+

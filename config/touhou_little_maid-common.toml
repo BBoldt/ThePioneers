@@ -1,0 +1,66 @@
+
+[maid]
+	#The item that can tamed maid
+	#Use the registered name of the item directly or write tag name with # as prefix
+	MaidTamedItem = "minecraft:cake"
+	#The item that can temptation maid
+	#Use the registered name of the item directly or write tag name with # as prefix
+	MaidTemptationItem = "minecraft:cake"
+	#The item that can NTR maid
+	#Use the registered name of the item directly or write tag name with # as prefix
+	MaidNtrItem = "minecraft:structure_void"
+	#The max range of maid home mode
+	#Range: 3 ~ 64
+	MaidHomeRange = 8
+	#Maid can switch models freely
+	MaidChangeModel = true
+	#The maximum number of maids the player own
+	#Range: > 0
+	OwnerMaxMaidNum = 2147483647
+	#The entity that the maid will not hurt when in ranged attack
+	MaidRangedAttackIgnore = []
+
+[chair]
+	#Chair can switch models freely
+	ChairChangeModel = true
+	#Chair can be destroyed by anyone
+	ChairCanDestroyedByAnyone = true
+
+[misc]
+	#Maid fairy's power point
+	#Range: 0.0 ~ 5.0
+	MaidFairyPowerPoint = 0.16
+	#Maid fairy's spawn probability (zombie is 100, enderman is 10)
+	#Range: > 0
+	MaidFairySpawnProbability = 70
+	#The following biome do not spawn maid fairy
+	MaidFairyBlacklistBiome = ["minecraft:the_void", "minecraft:mushroom_fields"]
+	#The following dimension do not spawn maid fairy
+	MaidFairyBlacklistDimension = ["minecraft:the_nether", "minecraft:the_end", "twilightforest:twilight_forest"]
+	#Loss power point after player death
+	#Range: 0.0 ~ 5.0
+	PlayerDeathLossPowerPoint = 1.0
+	#Give a soul spell item for player first join
+	GiveSoulSpell = true
+	#Give the Memorizable Gensokyo book item for player first join
+	GivePatchouliBook = true
+	#Shrine Lamp Effect Cost (Power Point/Per Hour)
+	#Range: 0.0 ~ 1.7976931348623157E308
+	ShrineLampEffectCost = 0.9
+	#Shrine Lamp Max Storage Power Point
+	#Range: 0.0 ~ 1.7976931348623157E308
+	ShrineLampMaxStorage = 100.0
+	#Shrine Lamp Max Range Of Absorb Power Point
+	#Range: > 0
+	ShrineLampMaxRange = 6
+
+[vanilla]
+	#Whether to replace the vanilla slime model with the yukkuri.
+	ReplaceSlimeModel = true
+	#Whether to replace the vanilla xp orb texture with the point items.
+	ReplaceXPTexture = true
+	#Whether to replace the vanilla totem texture with the life point.
+	ReplaceTotemTexture = true
+	#Whether to replace the vanilla bottle of xp texture with the point items.
+	ReplaceXPBottleTexture = true
+

@@ -1,0 +1,156 @@
+#----------------------------------
+#
+# Whether to activate an internal datapack to add Alex's Caves biomes and blocks to certain tags for better mod compat.
+#
+applyTagAdjustments = true
+#----------------------------------
+#
+# Whether to make Underweed, Tree Star, Fiddlehead, and Curly Fern be replaceable by
+# another block when right clicking them while holding a block in your hands.
+#
+replaceableSmallPlants = true
+#----------------------------------
+#
+# Minimum amount of time that Primative Club can stun a mob.
+# Full stun time calculation is (Base Time) + (a random number between 0 and Random Extra Time)
+#
+#Range: 0 ~ 1000000
+primitiveClubBaseStunTime = 150
+#----------------------------------
+#
+# Random amount of extra time that Primative Club can stun a mob.
+# Full stun time calculation is (Base Time) + (a random number between 0 and Random Extra Time)
+#
+#Range: 0 ~ 1000000
+primitiveClubRandomExtraStunTime = 150
+#----------------------------------
+#
+# Whether to revert the End Story back to its original form when beating Minecraft.
+# Alex's Caves replaces this story with their own. This config puts it back to normal if enabled.
+#
+restoreEndStory = false
+#----------------------------------
+#
+# How long Cloak of Darkness can keep you in Darkness Incarnate mode.
+#
+#Range: 0 ~ 1000000
+cloakOfDarknessTickLength = 200
+#----------------------------------
+#
+# How many ticks is required till Cloak of Darkness can use Darkness Incarnate mode again.
+#
+#Range: 0 ~ 1000000
+cloakOfDarknessTicksTillRecharged = 1000
+
+["Mob Attack/Health Options"]
+	#Range: 1.0 ~ 1000000.0
+	boundroidMaxHealth = 20.0
+	#Range: 1.0 ~ 1000000.0
+	boundroidAttackDamage = 5.0
+	#Range: 1.0 ~ 1000000.0
+	boundroidWrinchMaxHealth = 20.0
+	#Range: 1.0 ~ 1000000.0
+	brainiacWrinchMaxHealth = 40.0
+	#Range: 1.0 ~ 1000000.0
+	brainiacAttackDamage = 5.0
+	#Range: 1.0 ~ 1000000.0
+	corrodentMaxHealth = 16.0
+	#Range: 1.0 ~ 1000000.0
+	corrodentAttackDamage = 3.0
+	#Range: 1.0 ~ 1000000.0
+	deepOneMaxHealth = 30.0
+	#Range: 1.0 ~ 1000000.0
+	deepOneAttackDamage = 3.0
+	#Range: 1.0 ~ 1000000.0
+	deepOneKnightMaxHealth = 60.0
+	#Range: 1.0 ~ 1000000.0
+	deepOneKnightAttackDamage = 5.0
+	#Range: 1.0 ~ 1000000.0
+	deepOneMageMaxHealth = 80.0
+	#Range: 1.0 ~ 1000000.0
+	deepOneMageAttackDamage = 4.0
+	#Range: 1.0 ~ 1000000.0
+	ferrouslimeMaxHealth = 10.0
+	#Range: 1.0 ~ 1000000.0
+	ferrouslimeAttackDamage = 2.0
+	#Range: 1.0 ~ 1000000.0
+	forsakenMaxHealth = 250.0
+	#Range: 1.0 ~ 1000000.0
+	forsakenAttackDamage = 10.0
+	#Range: 1.0 ~ 1000000.0
+	gammaroachMaxHealth = 14.0
+	#Range: 1.0 ~ 1000000.0
+	gammaroachAttackDamage = 2.0
+	#Range: 1.0 ~ 1000000.0
+	gloomothMaxHealth = 4.0
+	#Range: 1.0 ~ 1000000.0
+	gossamerWormMaxHealth = 10.0
+	#Range: 1.0 ~ 1000000.0
+	grottoceratopsMaxHealth = 50.0
+	#Range: 1.0 ~ 1000000.0
+	grottoceratopsAttackDamage = 10.0
+	#Range: 1.0 ~ 1000000.0
+	hullbreakerMaxHealth = 400.0
+	#Range: 1.0 ~ 1000000.0
+	hullbreakerAttackDamage = 16.0
+	#Range: 1.0 ~ 1000000.0
+	lanternfishMaxHealth = 2.0
+	#Range: 1.0 ~ 1000000.0
+	magnetronMaxHealth = 30.0
+	#Range: 1.0 ~ 1000000.0
+	magnetronAttackDamage = 2.0
+	#Range: 1.0 ~ 1000000.0
+	mineGuardianMaxHealth = 20.0
+	#Range: 1.0 ~ 1000000.0
+	mineGuardianAttackDamage = 1.0
+	#Range: 1.0 ~ 1000000.0
+	notorMaxHealth = 6.0
+	#Range: 1.0 ~ 1000000.0
+	nucleeperMaxHealth = 30.0
+	#Range: 1.0 ~ 1000000.0
+	radgillMaxHealth = 8.0
+	#Range: 1.0 ~ 1000000.0
+	raycatMaxHealth = 24.0
+	#Range: 1.0 ~ 1000000.0
+	raycatAttackDamage = 1.0
+	#Range: 1.0 ~ 1000000.0
+	relicheirusMaxHealth = 120.0
+	#Range: 1.0 ~ 1000000.0
+	relicheirusAttackDamage = 12.0
+	#Range: 1.0 ~ 1000000.0
+	seaPigMaxHealth = 8.0
+	#Range: 1.0 ~ 1000000.0
+	subterranodonMaxHealth = 20.0
+	#Range: 1.0 ~ 1000000.0
+	subterranodonAttackDamage = 2.0
+	#Range: 1.0 ~ 1000000.0
+	teletorMaxHealth = 18.0
+	#Range: 1.0 ~ 1000000.0
+	teletorttackDamage = 2.0
+	#Range: 1.0 ~ 1000000.0
+	tremorsaurusMaxHealth = 150.0
+	#Range: 1.0 ~ 1000000.0
+	tremorsaurusAttackDamage = 14.0
+	#Range: 1.0 ~ 1000000.0
+	trilocarisMaxHealth = 10.0
+	#Range: 1.0 ~ 1000000.0
+	trilocarisAttackDamage = 1.0
+	#Range: 1.0 ~ 1000000.0
+	tripodfishMaxHealth = 8.0
+	#Range: 1.0 ~ 1000000.0
+	underzealotMaxHealth = 20.0
+	#Range: 1.0 ~ 1000000.0
+	underzealotAttackDamage = 4.0
+	#Range: 1.0 ~ 1000000.0
+	vallumraptorMaxHealth = 24.0
+	#Range: 1.0 ~ 1000000.0
+	vallumraptorAttackDamage = 3.0
+	#Range: 1.0 ~ 1000000.0
+	vesperMaxHealth = 16.0
+	#Range: 1.0 ~ 1000000.0
+	vesperAttackDamage = 3.0
+	#Range: 1.0 ~ 1000000.0
+	watcherMaxHealth = 30.0
+	#Range: 1.0 ~ 1000000.0
+	watcherAttackDamage = 4.0
+

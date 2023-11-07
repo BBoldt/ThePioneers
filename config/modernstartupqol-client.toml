@@ -1,0 +1,10 @@
+
+#Startup Settings
+[startup]
+	#How long should the timer take to fade out? (in ticks)
+	#Range: 0 ~ 10000
+	fadeOutTime = 1000
+	#How long should the timer take to fade in? (in ticks)
+	#Range: 0 ~ 10000
+	fadeInTime = 500
+

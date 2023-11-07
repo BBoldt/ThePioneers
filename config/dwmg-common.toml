@@ -1,0 +1,9 @@
+
+[sound]
+	#Range: 0.0 ~ 1.0
+	ambientSoundChance = 1.0
+	zombiesUseGirlSound = false
+	skeletonsUseGirlSound = false
+	zombiesNoAmbientSound = false
+	skeletonsNoAmbientSound = false
+

@@ -1,0 +1,21 @@
+
+[general]
+	#Set to true to enable debug logging.
+	enableDebugLogging = false
+
+[fishtrap]
+	#Set to the minimum number of minutes the fishtrap should try to fish.
+	#Range: 1 ~ 5
+	minTickFishingInMinutes = 1
+	#Set to the maximum number of minutes the fishtrap should try to fish.
+	#Range: 5 ~ 60
+	maxTickFishingInMinutes = 5
+
+[spawneggtrap]
+	#Set to the minimum number of minutes the animal trap should try to trap animals.
+	#Range: 5 ~ 10
+	minTickTrappingInMinutes = 5
+	#Set to the maximum number of minutes the animal trap should try to trap.
+	#Range: 10 ~ 60
+	maxTickTrappingInMinutes = 10
+

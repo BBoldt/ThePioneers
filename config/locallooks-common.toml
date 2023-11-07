@@ -1,0 +1,7 @@
+
+[locallooks-server]
+	#Whether players should be given a Magic Mirror when entering a world for the first time.
+	"Give Magic Mirror on Game Start" = true
+	#Whether Magic Mirrors are single-use in survival mode or not.
+	"Single Use Mirror" = true
+

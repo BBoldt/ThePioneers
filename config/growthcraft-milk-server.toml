@@ -1,0 +1,24 @@
+
+[churn]
+	#Set to true to allow users to access the Churn GUI.
+	guiEnabled = true
+
+[mixing_vat]
+	#Set to true to allow users to access the Mixing Vat GUI.
+	guiEnabled = true
+	#Set to true to add additional logging to debug the missing vat.
+	debugEnabled = false
+	#Set to true to allow users to access the Mixing Vat GUI.
+	consumeMixingVatActivator = false
+
+[pancheon]
+	#Set to true to allow users to access the Pancheon GUI.
+	guiEnabled = true
+
+[loot_modifiers]
+	#Set to true to enable looting of stomach from cows.
+	stomachLootEnabled = true
+	#Chance to loot a stomach from a cow. stomachLootEnabled must be set to true.
+	#Range: 0 ~ 100
+	stomachLootChance = 5
+

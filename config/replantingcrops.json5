@@ -1,0 +1,4 @@
+{
+	// If enabled, players must hold a hoe in their hand to automatically replant the crop.
+	"mustHoldHoeForReplanting": true
+}

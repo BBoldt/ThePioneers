@@ -1,0 +1,15 @@
+
+[general]
+	#True if player UI has plague hearts render when the effect is active.
+	"Plague Heart Overlay" = true
+	#If true, being under the effect of Synesthesia will tint your screen yellow.
+	"Synesthesia Shader" = true
+	#True if rats flutes can occasionally play the flute sound at the end of the Spongebob intro. Might be smart to disable this while streaming.
+	"Rat Flutes play Spongebob flute sound" = true
+	#True if rats should rarely make a funny noise when creating rat nuggets.
+	"Rat Fart Noises" = true
+	#If true, rats that have the rat upgrade: god will display with an enchantment overlay.
+	"Rat God Upgrade Glint" = true
+	#If true, rats that have the rat upgrade: angel will display with a white overlay when respawning.
+	"Rat Angel Upgrade Glint" = true
+

@@ -1,0 +1,16 @@
+
+#General settings
+[general]
+	#Number of icons on the icon sheet (not including the empty icon at 0,0)
+	#Range: 1 ~ 1024
+	icons = 28
+	#Size of an individual icon
+	#Range: 2 ~ 512
+	iconSize = 32
+	#Horizontal numbers of icons on the signs.png icon sheet
+	#Range: 1 ~ 128
+	horizontalIcons = 8
+	#Vertical numbers of icons on the signs.png icon sheet
+	#Range: 1 ~ 128
+	verticalIcons = 8
+

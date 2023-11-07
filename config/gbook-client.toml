@@ -1,0 +1,13 @@
+
+#Options for customizing the display of tools on the player
+[display]
+	#Use -1 for same as GUI scale, 0 for auto, 1+ for small/medium/large.
+	#Range: > -1
+	book_gui_scale = -1
+	#Keep at false to use integral scaling, which makes the font pixels evently scaled. If set to true, the books will fill the screen space, even if the font becomes wonky.
+	flexible_scale = false
+	#If TRUE, flips the scroll direction to the opposite of what the system reports.
+	flip_scroll_direction = false
+	#If TRUE, flips the buttons on the GUI to point how the page flips, and not what direction the book advances.
+	use_natural_arrows = false
+

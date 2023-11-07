@@ -1,0 +1,5 @@
+
+[locallooks-client]
+	#Whether to display transparency in skins properly.
+	"Transparent skins" = true
+

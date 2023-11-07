@@ -1,0 +1,6 @@
+
+#GUI options
+[gui]
+	#Show small help button in the top right corner of the screen that leads to online manual
+	help_button = true
+

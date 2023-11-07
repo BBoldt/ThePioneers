@@ -1,0 +1,263 @@
+
+[Ratlantis]
+	#If true, the ratlantis datapack will automatically be enabled when creating a new world.
+	"Ratlantis Datapack Enabled by Default" = false
+
+[Spawning]
+	#Percentage for every random tick to spawn a rat for a garbage pile.
+	#Range: 0.0 ~ 1.0
+	"Garbage Pile Spawn Chance" = 0.15000000596046448
+	#True if rats should spawn like monsters, meaning they will also despawn when get far away (this only applies to wild rats of course). False if they should only spawn once per world, like pigs and sheep.
+	"Rats Spawn Like Monsters" = true
+	#A separate random roll that only spawns rats if a one-out-of-X chance, x being this number. raise this number to make them more rare.
+	#Range: > 0
+	"Rat Spawn Decrease" = 5
+	#A separate random roll that only spawns pipers if a one-out-of-X chance, x being this number. raise this number to make them more rare.
+	#Range: > 0
+	"Piper Spawn Decrease" = 2
+
+[Villages]
+	#True if iron golems will attack wild rats
+	"Golems Target Rats" = true
+	#True if pet shops can spawn in villages
+	"Village Pet Shops" = true
+	#Defines how often Pet Shops should spawn in villages. A higher number means Pet Shops will spawn more often.
+	#Range: 0 ~ 100
+	"Village Pet Shop Weight" = 15
+	#Defines how often Pet Shops should spawn in zombie villages. A higher number means Pet Shops will spawn more often.
+	#Range: 0 ~ 100
+	"Zombie Village Pet Shop Weight" = 10
+	#True if garbage heaps can spawn in villages
+	"Village Garbage Heap" = true
+	#Defines how often Garbage Heaps should spawn in villages. A higher number means Garbage Heaps will spawn more often.
+	#Range: 0 ~ 100
+	"Village Garbage Heap Weight" = 1
+	#Defines how often Garbage Heaps should spawn in villages. A higher number means Garbage Heaps will spawn more often.
+	#Range: 0 ~ 100
+	"Zombie Village Garbage Heap Weight" = 5
+
+[Cheesemaking]
+	#True if cheese can be created in cauldrons
+	Cheesemaking = true
+	#The time in ticks(20 per second) it takes for milk to turn into cheese in a cauldron
+	#Range: 20 ~ 1000000
+	"Milk Curdling Time" = 150
+	#The how many chunks away can a rat here a rat flute
+	#Range: 1 ~ 100
+	"Rat Flute Distance" = 2
+
+["Black Death"]
+	#If true, a plague doctor will be converted into the Black Death when struck by lightning.
+	"Black Death Lightning Strike" = true
+	#If true, Black Death will respawn Plague Rats when it has less than the max defined Plague Rats at its command.
+	"Black Death Constantly Spawns Rats" = false
+	#Defines the amount of Plague Rats Black Death can have at its command at a time.
+	#Range: 0 ~ 100
+	"Black Death Max Plague Rats" = 15
+	#If true, Black Death will respawn Plague Clouds when it has less than the max defined Plague Clouds at its command.
+	"Black Death Constantly Spawns Plague Clouds" = true
+	#Defines the amount of Plague Clouds Black Death can have at its command at a time.
+	#Range: 0 ~ 100
+	"Black Death Max Plague Clouds" = 4
+	#If true, Black Death will respawn Plague Beasts when it has less than the max defined Plague Beasts at its command.
+	"Black Death Constantly Spawns Plague Beasts" = false
+	#Defines the amount of Plague Beasts Black Death can have at its command at a time.
+	#Range: 0 ~ 100
+	"Black Death Plague Beasts" = 3
+
+["Rat King"]
+	#If true, the Rat King will reabsorb rats that circle around it if it doesnt have an active target.
+	"Rat King Reabsorbs Rats" = true
+	#Defines the amount of health the Rat King heals when reabsorbing a rat
+	#Range: 0.0 ~ 3.4028234663852886E38
+	"Rat King Absorption Heal Rate" = 0.0
+	#If true, the Rat King will respawn Rats when it has less than the max defined Plague Rats at its command.
+	"Rat King Max Constantly Spawns Rats" = true
+	#Defines the amount of Rats the Rat King can have at its command at a time.
+	#Range: 0 ~ 100
+	"Rat King Max Rats" = 10
+
+["Ratlantean Automaton"]
+	#If true, the Ratlantean Automaton will only be summonable in Ratlantis. Building it in any other dimension will have no effect.
+	"Summon Ratlantean Automaton only in Ratlantis" = false
+	#How often the Ratlantean Automaton will shoot a laser. It will shoot a laser every 1 in X attacks, X being the number defined.
+	#Range: > 0
+	"Ratlantean Automaton Shooting Chance" = 2
+	#The distance the Ratlantean Automaton can hit you with its saw.
+	#Range: > 0
+	"Ratlantean Automaton Melee Attack Distance" = 7
+	#The distance the Ratlantean Automaton can hit you with its laser.
+	#Range: > 0
+	"Ratlantean Automaton Ranged Attack Distance" = 10
+
+[Neo-Ratlantean]
+	#If true, the Neo-Ratlantean will only be summonable in Ratlantis. Throwing the vial in any other dimension will have no effect.
+	"Summon Neo-Ratlantean only in Ratlantis" = false
+	#If true, the Neo-Ratlantean will utilize Laser Portals in its fight that shoot lasers at you.
+	"Neo-Ratlantean Laser Portals" = true
+	#The time it will take the Neo-Ratlantean to perform another attack after using the Laser Portal attack. Time is in ticks.
+	#Range: > 0
+	"Neo-Ratlantean Attack Cooldown after Laser Portals" = 100
+	#If true, the Neo-Ratlantean will occasionally summon lightning bolts nearby. The lightning is completely harmless.
+	"Neo-Ratlantean Fake Lightning" = true
+	#The time it will take the Neo-Ratlantean to perform another attack after using the Fake Lightning attack. Time is in ticks.
+	#Range: > 0
+	"Neo-Ratlantean Attack Cooldown after Fake Lightning" = 40
+	#If true, the Neo-Ratlantean will pick up blocks and throw them in your direction.
+	"Neo-Ratlantean Throws Blocks" = true
+	#The time it will take the Neo-Ratlantean to perform another attack after using the Block Throwing attack. Time is in ticks.
+	#Range: > 0
+	"Neo-Ratlantean Attack Cooldown after Throwing Blocks" = 40
+	#If true, the Neo-Ratlantean will randomly afflict the use with wither, glowing, and levitation for 10 seconds.
+	"Neo-Ratlantean Adds Harmful Effects" = true
+	#The time it will take the Neo-Ratlantean to perform another attack after using the Mob Effect attack. Time is in ticks.
+	#Range: > 0
+	"Neo-Ratlantean Attack Cooldown after Effects" = 100
+
+["Flying Dutchrat"]
+	#If true, the Flying Dutchrat will only be summonable in Ratlantis. Ringing the bell in any other dimension will have no effect.
+	"Summon Flying Dutchrat only in Ratlantis" = false
+	#How many blocks away the dutchrat can fly away from its home point, which is the spot where the bell was when summoned.
+	#Range: 0 ~ 64
+	"Flying Dutchrat Restriction Radius" = 20
+	#How often the Flying Dutchrat will throw a sword. It will throw a sword every 1 in X attacks, X being the number defined.
+	#Range: > 0
+	"Flying Dutchrat Sword Throw Chance" = 5
+
+["Rat Baron"]
+	#If true, the Rat Baron will only be summonable in Ratlantis. Activating the siren in any other dimension will have no effect.
+	"Summon Automaton only in Ratlantis" = false
+	#The height above the ground the rat baron plane will hover around. A random amount of blocks between 0 and 10 will be added to the number provided at random points to keep things interesting.
+	#Range: 0 ~ 100
+	"Rat Baron Y Hover Height" = 20
+	#How often the Rat Baron Plane will fire a bullet. It will fire a bullet every X ticks, X being the number defined.
+	#Range: > 1
+	"Rat Baron Shot Frequency" = 2
+	#The amount of damage each bullet fired from the Rat Baron plane does. Setting to 0 will make the bullets purely visual.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Rat Baron Bullet Damage" = 0.5
+
+["Rat Griefing"]
+	#True if wild rats will destroy and eat crops
+	"Rats Raid Crops" = true
+	#True if wild rats will steal from chests
+	"Rats Steal From Chests" = true
+	#True if wild rats should be allowed to climb over tall blocks, such as fences and walls.
+	"Rats Climb over Fences and Walls" = true
+	#True if wild rats contaminate food when they steal from chests
+	"Rats Contaminate Food" = true
+	#True if rats can dig holes
+	"Rats Dig Holes" = true
+	#True if infected mobs with plague can spread it by interacting or attacking.
+	"Other Mobs can spread Plague" = true
+	#The max block hardness that rats are allowed to dig through. (Dirt = 0.5F, Cobblestone = 2.0F, Obsidian = 50.0F)
+	#Range: 0.0 ~ 1000000.0
+	"Rat Dig Strength" = 6.0
+	#True if tamed rats will destroy crops when they harvest them
+	"Rats Break Crops on Harvest" = true
+
+["Rat Upgrades"]
+	#If true, rats will recharge items held in their main hand when they have an energy upgrade.
+	"Rats Charge Held Items" = true
+	#How much RF a rat with a basic energy transfer upgrade can transport at a time.
+	#Range: > 1
+	"Rat RF Transfer Rate Basic" = 1000
+	#How much RF per tick a rat can charge their held item with a basic energy transfer upgrade.
+	#Range: > 1
+	"Rat Item Charge Rate Basic" = 10
+	#How much RF a rat with an advanced energy transfer upgrade can transport at a time.
+	#Range: > 1
+	"Rat RF Transfer Rate Advanced" = 5000
+	#How much RF per tick a rat can charge their held item with an advanced energy transfer upgrade.
+	#Range: > 1
+	"Rat Item Charge Rate Advanced" = 50
+	#How much RF a rat with an elite energy transfer upgrade can transport at a time.
+	#Range: > 1
+	"Rat RF Transfer Rate Elite" = 10000
+	#How much RF per tick a rat can charge their held item with an elite energy transfer upgrade.
+	#Range: > 1
+	"Rat Item Charge Rate Elite" = 100
+	#How much RF a rat with an extreme energy transfer upgrade can transport at a time.
+	#Range: > 1
+	"Rat RF Transfer Rate Extreme" = 100000
+	#How much RF per tick a rat can charge their held item with an extreme energy transfer upgrade.
+	#Range: > 1
+	"Rat Item Charge Rate Extreme" = 500
+	#How far away from players the Rat Upgrade: Voodoo Doll is effective.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Voodoo Doll Rat distance" = 32.0
+	#Sets a Rat's max health to this value when they have the Warrior Upgrade.
+	#Range: 0.0 ~ 1024.0
+	"Warrior Health Upgrade" = 40.0
+	#Sets a Rat's Armor to this value when they have the Warrior Upgrade.
+	#Range: 0.0 ~ 30.0
+	"Warrior Armor Upgrade" = 2.0
+	#Sets a Rat's attack damage to this value when they have the Warrior Upgrade.
+	#Range: 0.0 ~ 2048.0
+	"Warrior Damage Upgrade" = 5.0
+	#Sets a Rat's max health to this value when they have the God Upgrade.
+	#Range: 0.0 ~ 1024.0
+	"God Health Upgrade" = 150.0
+	#Sets a Rat's Armor to this value when they have the God Upgrade.
+	#Range: 0.0 ~ 30.0
+	"God Armor Upgrade" = 10.0
+	#Sets a Rat's attack damage to this value when they have the God Upgrade.
+	#Range: 0.0 ~ 2048.0
+	"God Damage Upgrade" = 15.0
+	#Sets a Rat's max health to this value when they have the God Upgrade.
+	#Range: 0.0 ~ 1024.0
+	"Dragon Health Upgrade" = 50.0
+	#Sets a Rat's Armor to this value when they have the God Upgrade.
+	#Range: 0.0 ~ 30.0
+	"Dragon Armor Upgrade" = 5.0
+	#Sets a Rat's attack damage to this value when they have the God Upgrade.
+	#Range: 0.0 ~ 2048.0
+	"Dragon Damage Upgrade" = 8.0
+	#Sets a Rat's max health to this value when they have the Demon Upgrade.
+	#Range: 0.0 ~ 1024.0
+	"Demon Health Upgrade" = 40.0
+	#Sets a Rat's attack damage to this value when they have the Demon Upgrade.
+	#Range: 0.0 ~ 2048.0
+	"Demon Damage Upgrade" = 4.0
+	#Sets a Rat's max health to this value when they have the Voodoo Upgrade.
+	#Range: 0.0 ~ 1024.0
+	"Voodoo Health Upgrade" = 100.0
+	#Sets a Rat's Armor to this value when they have the Ratinator Upgrade.
+	#Range: 0.0 ~ 30.0
+	"Ratinator Armor Upgrade" = 15.0
+	#Sets a Rat's max health to this value when they have the Nonbeliever Upgrade.
+	#Range: 0.0 ~ 1024.0
+	"Nonbeliever Health Upgrade" = 350.0
+	#Sets a Rat's Armor to this value when they have the Nonbeliever Upgrade.
+	#Range: 0.0 ~ 30.0
+	"Nonbeliever Armor Upgrade" = 20.0
+	#Sets a Rat's attack damage to this value when they have the Nonbeliever Upgrade.
+	#Range: 0.0 ~ 2048.0
+	"Nonbeliever Damage Upgrade" = 40.0
+	#Rats that have an upgrade that regenerates health will regen half a heart every X ticks, X being the number defined here. Set to 0 to disable health regeneration.
+	#Range: > 0
+	"Upgrade Regeneration Rate" = 30
+	#If true, Rats that have the Psychic upgrade will pick up blocks and throw them towards enemies.
+	"Psychic Throws Blocks" = false
+
+["Misc Rat Adjustments"]
+	#Defines the amount of rats you can store in a sack at one time.
+	#Range: 1 ~ 64
+	"Rat Sack Capacity" = 16
+	#Rats will continue to breed in cages until there are this many rats in one cage block
+	#Range: 1 ~ 10000
+	"Rat Cage Max Occupancy" = 4
+	#The max amount of Baby Rats will be produced when Rats breed. You will get anywhere between 1 and this number of baby rats.
+	#Range: 1 ~ 10
+	"Rat Litter Size" = 1
+	#The amount of time it takes after a rat successfully breeds for it to breed again. Time is in ticks. (24000 ticks = 1200 seconds = 20 minutes)
+	#Range: > 0
+	"Rat Breeding Cooldown" = 24000
+	#Rats will conduct expensive CPU operations like looking for crops or chests, once every this number of ticks(with added standard deviation for servers)
+	#Range: 1 ~ 10000
+	"Rat Update Delay" = 100
+	#If true, wild rats will rarely spawn wearing a santa hat. Rats will spawn with Santa hats during the Christmas season regardless, this will enable you to find them year round.
+	"Rats Spawn with Santa Hats" = false
+	#If true, wild rats will rarely spawn wearing a randomly colored party hat. Rats will spawn with Party hats during the New Year's Eve and special dates regardless, this will enable you to find them year round.
+	"Rats Spawn with Party Hats" = false
+

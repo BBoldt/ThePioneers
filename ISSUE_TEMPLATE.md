@@ -3,10 +3,12 @@ Hello! First of all thank you for playing the pack, hope you are enjoying it! So
 
 Before you write anything:
 * Check to see if your issue has been posted before.
-* Make sure you're on the latest version of the modpack.
+* Make sure you're on the latest version of the modpack, please list what version you are using.
 
 Thanks again for taking the time to submit a bug report!
 -->
+
+**Modpack Version:**
 
 **Issue Description:**
 

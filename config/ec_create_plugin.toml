@@ -1,0 +1,72 @@
+[brass]
+equipSound = "minecraft:item.armor.equip_gold"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 4
+
+[brass.durability]
+toolDurability = 250
+bowDurability = 480
+addedShieldDurability = 150
+
+[brass.enchanting]
+offenseEnchantability = 18
+defenseEnchantability = 12
+
+[brass.offense]
+addedAttackDamage = 2.0
+arrowDamage = 3.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 3.0
+
+[brass.defense]
+gauntletArmorAmount = 2
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 3.0
+afterBasePercentReduction = 0.6
+
+[brass.crafting]
+repairItem = ["minecraft:iron_ingot", "create:brass_ingot", "create:brass_sheet"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[mechanical_brass]
+equipSound = "minecraft:item.armor.equip_gold"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[mechanical_brass.durability]
+toolDurability = 275
+bowDurability = 0
+addedShieldDurability = 0
+
+[mechanical_brass.enchanting]
+offenseEnchantability = 18
+defenseEnchantability = 12
+
+[mechanical_brass.offense]
+addedAttackDamage = 2.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[mechanical_brass.defense]
+gauntletArmorAmount = 2
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 0.0
+afterBasePercentReduction = 0.0
+
+[mechanical_brass.crafting]
+repairItem = ["minecraft:iron_ingot", "create:brass_ingot", "create:brass_sheet"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"

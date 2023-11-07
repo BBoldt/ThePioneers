@@ -1,0 +1,22 @@
+
+#Graphics settings
+[graphics]
+	#Enable better particle/effect layering.
+	#Fixes particles and effects rendering behind clouds and weather.
+	#NOTE: Does NOT work with fabulous graphics mode.
+	betterLayering = true
+	#Enable large item models.
+	largeItemModel = true
+	#Enable spells animations player.
+	spellsAnimation = true
+	#Enable spells item animations.
+	spellsItemAnimation = true
+	#Enable spells first person item animations.
+	spellsFirstPersonItemAnimation = true
+
+	#Wissen mechanism's
+	[graphics.wissenMechanisms]
+		#Maximum Y value for arcanum ore veins
+		#Range: 1 ~ 10
+		particlePerBlock = 4
+
