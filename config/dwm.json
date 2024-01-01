@@ -1,0 +1,9 @@
+{
+  "hideTheEndConditionally": true,
+  "tardisRecallOperatorOnly": true,
+  "tardisFlightDistanceRate": "1000",
+  "tardisMaxFlightTime": "4000",
+  "tardisFuelRefillTiming": "40",
+  "tardisFuelConsumeTiming": "20",
+  "tardisFuelToEnergyRating": "5000"
+}

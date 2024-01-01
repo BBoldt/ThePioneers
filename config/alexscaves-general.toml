@@ -5,7 +5,7 @@
 	cave_biome_mean_width = 320.0
 	#Average separation (in blocks) between each Alex's Caves cave biome.
 	#Range: > 50
-	cave_biome_mean_separation = 4000
+	cave_biome_mean_separation = 2000
 	#How irregularly shaped Alex's Caves cave biomes can generate. 0 = all biomes nearly circular. 1 = biomes completely squiggly in shape.
 	#Range: 0.0 ~ 1.0
 	cave_biome_width_randomness = 0.15
@@ -47,6 +47,10 @@
 	#The amount of time (in ticks) that players can fly with the Cloak of Darkness ability.
 	#Range: > 20
 	darkness_cloak_fly_time = 200
+	#True if one Cave Codex is all that is needed to unlock every Cave Compendium entry.
+	only_one_research_needed = false
+	#Whether some block items are dropped by nuclear explosions. False if all destroyed blocks do not drop items.
+	nuke_spawn_item_drops = true
 
 [vanilla-changes]
 	#percent chance of bastion having a cave tablet for magnetic caves in its loot table:

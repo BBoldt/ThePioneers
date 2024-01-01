@@ -1,0 +1,69 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "biomesoplenty:clover_patch",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:grassland",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:highland",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:lavender_field",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:origin_valley",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:pasture",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:prairie",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:rocky_shrubland",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:scrubland",
+            "required": false
+        },
+		{
+			"id": "aether:skyroot_meadow",
+			"required": false
+		},
+		{
+			"id": "aether:skyroot_woodland",
+			"required": false
+		},
+		{
+			"id": "deep_aether:aerlavender_fields",
+			"required": false
+		},
+		{
+			"id": "good_nights_sleep:good_dream_plains",
+			"required": false
+		},
+		{
+			"id": "good_nights_sleep:shameful_plains",
+			"required": false
+		},
+		{
+            "id": "sgjourney:chulak_plains",
+            "required": false
+        },
+		{
+            "id": "sgjourney:milky_way_plains",
+            "required": false
+        }
+    ]
+  }

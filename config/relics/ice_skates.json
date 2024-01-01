@@ -1,0 +1,43 @@
+{
+  "ability": {
+    "abilities": {
+      "skating": {
+        "requiredPoints": 1,
+        "requiredLevel": 0,
+        "maxLevel": 10,
+        "stats": {
+          "duration": {
+            "minInitialValue": 25.0,
+            "maxInitialValue": 50.0,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.1
+          },
+          "speed": {
+            "minInitialValue": 0.01,
+            "maxInitialValue": 0.035,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.15
+          }
+        }
+      },
+      "ram": {
+        "requiredPoints": 1,
+        "requiredLevel": 5,
+        "maxLevel": 10,
+        "stats": {
+          "damage": {
+            "minInitialValue": 0.05,
+            "maxInitialValue": 0.25,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.1
+          }
+        }
+      }
+    }
+  },
+  "leveling": {
+    "initialCost": 100,
+    "maxLevel": 10,
+    "step": 200
+  }
+}

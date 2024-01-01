@@ -1,0 +1,30 @@
+{
+  "ability": {
+    "abilities": {
+      "dissection": {
+        "requiredPoints": 1,
+        "requiredLevel": 0,
+        "maxLevel": 10,
+        "stats": {
+          "distance": {
+            "minInitialValue": 16.0,
+            "maxInitialValue": 32.0,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.25
+          },
+          "time": {
+            "minInitialValue": 5.0,
+            "maxInitialValue": 10.0,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.5
+          }
+        }
+      }
+    }
+  },
+  "leveling": {
+    "initialCost": 100,
+    "maxLevel": 10,
+    "step": 200
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "processors": [
+    {
+      "max_xp": 5050000,
+      "min_xp": 210000,
+      "processor_type": "embers:crystal_seed_processor",
+      "size": 900
+    },
+    {
+      "processor_type": "embers:entity_mobilizer"
+    }
+  ]
+}

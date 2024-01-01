@@ -1,7 +1,7 @@
 
 [Ratlantis]
 	#If true, the ratlantis datapack will automatically be enabled when creating a new world.
-	"Ratlantis Datapack Enabled by Default" = false
+	"Ratlantis Datapack Enabled by Default" = true
 
 [Spawning]
 	#Percentage for every random tick to spawn a rat for a garbage pile.

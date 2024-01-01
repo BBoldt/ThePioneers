@@ -1,0 +1,18 @@
+#Whether to enable Soul Fire Aspect enchantment.
+#Has higher priority than all other Soul Fire Aspect configs.
+"enable soul fire aspect" = true
+#Whether Soul Fire Aspect can appear in the enchanting table and loots.
+"enable soul fire aspect discovery" = true
+#Whether Soul Fire Aspect can be traded with villagers.
+"enable soul fire aspect trades" = true
+#Whether Soul Fire Aspect is a treasure enchantment (like Vanilla Mending).
+"enable soul fire aspect treasure" = false
+#Whether to enable Soul Flame enchantment.
+"enable soul flame" = true
+#Whether Soul Flame can appear in the enchanting table and loots.
+"enable soul flame discovery" = true
+#Whether Soul Flame can be traded with villagers.
+"enable soul flame trades" = true
+#Whether Soul Flame is a treasure enchantment (like Vanilla Mending).
+"enable soul flame treasure" = false
+

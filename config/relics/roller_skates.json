@@ -1,0 +1,30 @@
+{
+  "ability": {
+    "abilities": {
+      "skating": {
+        "requiredPoints": 1,
+        "requiredLevel": 0,
+        "maxLevel": 10,
+        "stats": {
+          "duration": {
+            "minInitialValue": 15.0,
+            "maxInitialValue": 35.0,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.2
+          },
+          "speed": {
+            "minInitialValue": 0.001,
+            "maxInitialValue": 0.005,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.15
+          }
+        }
+      }
+    }
+  },
+  "leveling": {
+    "initialCost": 100,
+    "maxLevel": 10,
+    "step": 200
+  }
+}

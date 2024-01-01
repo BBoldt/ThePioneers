@@ -1,0 +1,53 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id":"biomesoplenty:grassland",
+            "required": false
+        },
+        {
+            "id":"biomesoplenty:mediterranean_forest",
+            "required": false
+        },
+        {
+            "id":"biomesoplenty:pasture",
+            "required": false
+        },
+        {
+            "id":"biomesoplenty:prairie",
+            "required": false
+        },
+        {
+            "id":"biomesoplenty:rocky_shrubland",
+            "required": false
+        },
+        {
+            "id":"biomesoplenty:scrubland",
+            "required": false
+        },
+		{
+            "id": "sgjourney:athos_forest",
+            "required": false
+        },
+		{
+            "id": "sgjourney:chulak_forest",
+            "required": false
+        },
+		{
+            "id": "sgjourney:chulak_plains",
+            "required": false
+        },
+		{
+            "id": "sgjourney:milky_way_forest",
+            "required": false
+        },
+		{
+            "id": "sgjourney:milky_way_plains",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:temperate_grove",
+            "required": false
+        }
+    ]
+  }

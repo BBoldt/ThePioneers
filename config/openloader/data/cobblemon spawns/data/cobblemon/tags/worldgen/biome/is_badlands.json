@@ -1,0 +1,29 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id":"biomesoplenty:dryland",
+            "required": false
+        },
+        {
+            "id":"biomesoplenty:wasteland",
+            "required": false
+        },
+		{
+            "id":"far_end:ender_waste",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:dry_bushland",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:fen",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:joshua_desert",
+            "required": false
+        }
+    ]
+  }

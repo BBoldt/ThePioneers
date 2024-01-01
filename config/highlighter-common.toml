@@ -14,4 +14,6 @@
 		# The position of new item markers.
 		#Allowed Values: UpperLeft, UpperRight, LowerLeft, LowerRight
 		icon_position = "UpperLeft"
+		# If new item markers should be cleared when the item is selected on the hotbar.
+		clear_on_select = true
 

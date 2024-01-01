@@ -1,0 +1,9 @@
+
+[general]
+	enable_tooltip = true
+	toggle_hand_enchantments = ["silk_touch;#00AA00", "fire_aspect;#FFAA00", "flame;#FFAA00"]
+	toggle_helmet_enchantments = []
+	toggle_chestplate_enchantments = []
+	toggle_leggings_enchantments = []
+	toggle_boots_enchantments = ["frost_walker;#A5F2F3"]
+

@@ -1,0 +1,6 @@
+
+#General settings for Molten Vents
+[common]
+	#When true, orestone blocks will only replace liquid source blocks. This means that you will require a constant supply of liquid to generate orestones. Default: true
+	useLiquid = true
+

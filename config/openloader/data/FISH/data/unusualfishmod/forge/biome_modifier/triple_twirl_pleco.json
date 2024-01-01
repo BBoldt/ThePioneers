@@ -1,0 +1,17 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:river",
+	"regions_unexplored:tropical_river",
+	"twilightforest:stream",
+	"sgjourney:lantean_deep_ocean"
+	
+  ],
+  "spawners":
+  {
+    "type": "unusualfishmod:triple_twirl_pleco",
+    "weight": 10,
+    "minCount": 2,
+    "maxCount": 4
+  }
+}

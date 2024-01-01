@@ -1,0 +1,27 @@
+
+[CommonSettings]
+
+	[CommonSettings.TARDIS]
+		#List of Dimensions that will not be displayed in the TARDIS Dimensions List
+		#Example: minecraft:the_end
+		dimensionsBlacklist = ["immersive_portals:alternate1", "immersive_portals:alternate2", "immersive_portals:alternate3", "immersive_portals:alternate4", "immersive_portals:alternate5"]
+		#Hide The End from the TARDIS Dimensions List until the Dragon is defeated
+		hideTheEndConditionally = true
+		#Allow only operators to recall the TARDIS by key
+		tardisRecallOperatorOnly = true
+		#Time ratio divider in ticks per distance traveled (aka TARDIS speed)
+		#Range: > 1
+		tardisFlightDistanceRate = 1000
+		#Max flight time in ticks for TARDIS
+		#Range: > 1
+		tardisMaxFlightTime = 4000
+		#Frequency of restoration of 1 unit of fuel
+		#Range: > 1
+		tardisFuelRefillTiming = 40
+		#Frequency of consumption of 1 unit of fuel
+		#Range: > 1
+		tardisFuelConsumeTiming = 20
+		#Price of energy per flight tick when fuel is over
+		#Range: > 1
+		tardisFuelToEnergyRating = 5000
+

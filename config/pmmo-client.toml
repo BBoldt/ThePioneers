@@ -1,0 +1,134 @@
+
+#PMMO Client Configuration
+[Client]
+
+	#Configuration settings for the guis
+	[Client.GUI]
+		#how far right from the top left corner the skill list should be
+		#Range: 0.0 ~ 1.0
+		"Skill List Xoffset" = 0.01
+		#how far down from the top left corner the skill list should be
+		#Range: 0.0 ~ 1.0
+		"Skill List Yoffset" = 5.0E-4
+		#Should the skill list be displayed
+		"Display Skill List" = true
+		#how far right from the bottom left corner the vein guage sholud be
+		#Range: 0.0 ~ 1.0
+		"Vein Gauge Xoffset" = 0.01
+		#how far up from the bottm left corner the vein guage should be
+		#Range: 0.0 ~ 1.0
+		"Vein Gauge Yoffset" = 0.95
+		#Should the vein charge data be displayed
+		"Display Vein Gauge" = true
+		#how far offset from center the gain list should be
+		#Range: 0.0 ~ 1.0
+		"Gain List Xoffset" = 0.45
+		#how far down from the top left corner the gain list should be
+		#Range: 0.0 ~ 1.0
+		"Gain List Yoffset" = 5.0E-4
+		#Should the Gain list be displayed
+		"Display Gain List" = true
+		#what color should the background be for the section header lines in the glossary
+		"Section Header Color" = 352630048
+		#What color should the background be for the salvage item lines in the glossary
+		"Salvage Item Color" = 366125849
+		#how much xp gain history should display
+		"Gain List Size" = 3
+		#How long, in ticks, items on the gain list should stay on screen before disappearing
+		"Gain List Linger Duration" = 100
+		#skills that should now show their gains in the gain list.  this can be used to limit spammy skills
+		"Gain Blacklist" = []
+		#if true, removes the skills button from the inventory screen
+		"hide skill button" = false
+		#the horizontal location of the skill button in the inventory.
+		#Default = 126.  For removing overlaps, 150 is a good setting
+		skill_button_x = 126
+		#the vertical location (from center) of the skill button in the inventory.
+		#Default = -22
+		skill_button_y = -22
+
+	#Generic Tooltip Settings
+	[Client.ToolTip_Settings]
+		#Should met reqs be hidden on the tooltip.
+		"Hide Met Req Tooltips" = true
+
+	#This section covers the various tooltip elements and whether they should be enabled
+	[Client.Tooltip_Visibility]
+
+		[Client.Tooltip_Visibility.Requirement_Tooltips]
+			"WEAR Req  tooltip enabled" = true
+			"USE_ENCHANTMENT Req  tooltip enabled" = true
+			"TOOL Req  tooltip enabled" = true
+			"WEAPON Req  tooltip enabled" = true
+			"USE Req  tooltip enabled" = true
+			"PLACE Req  tooltip enabled" = true
+			"BREAK Req  tooltip enabled" = true
+			"KILL Req  tooltip enabled" = true
+			"TRAVEL Req  tooltip enabled" = true
+			"RIDE Req  tooltip enabled" = true
+			"TAME Req  tooltip enabled" = true
+			"BREED Req  tooltip enabled" = true
+			"INTERACT Req  tooltip enabled" = true
+			"ENTITY_INTERACT Req  tooltip enabled" = true
+
+		[Client.Tooltip_Visibility.Xp_Gain_Tooltips]
+			"ANVIL_REPAIR XP Gain  tooltip enabled" = true
+			"BLOCK_BREAK XP Gain  tooltip enabled" = true
+			"BREAK_SPEED XP Gain  tooltip enabled" = true
+			"BLOCK_PLACE XP Gain  tooltip enabled" = true
+			"BREATH_CHANGE XP Gain  tooltip enabled" = true
+			"BREED XP Gain  tooltip enabled" = true
+			"BREW XP Gain  tooltip enabled" = true
+			"CONSUME XP Gain  tooltip enabled" = true
+			"CRAFT XP Gain  tooltip enabled" = true
+			"CROUCH XP Gain  tooltip enabled" = true
+			"RECEIVE_DAMAGE XP Gain  tooltip enabled" = true
+			"DEAL_DAMAGE XP Gain  tooltip enabled" = true
+			"DEATH XP Gain  tooltip enabled" = true
+			"ENCHANT XP Gain  tooltip enabled" = true
+			"EFFECT XP Gain  tooltip enabled" = true
+			"FISH XP Gain  tooltip enabled" = true
+			"SMELT XP Gain  tooltip enabled" = true
+			"GROW XP Gain  tooltip enabled" = true
+			"HEALTH_CHANGE XP Gain  tooltip enabled" = true
+			"HEALTH_INCREASE XP Gain  tooltip enabled" = true
+			"HEALTH_DECREASE XP Gain  tooltip enabled" = true
+			"JUMP XP Gain  tooltip enabled" = true
+			"SPRINT_JUMP XP Gain  tooltip enabled" = true
+			"CROUCH_JUMP XP Gain  tooltip enabled" = true
+			"HIT_BLOCK XP Gain  tooltip enabled" = true
+			"ACTIVATE_BLOCK XP Gain  tooltip enabled" = true
+			"ACTIVATE_ITEM XP Gain  tooltip enabled" = true
+			"ENTITY XP Gain  tooltip enabled" = true
+			"RIDING XP Gain  tooltip enabled" = true
+			"SHIELD_BLOCK XP Gain  tooltip enabled" = true
+			"SKILL_UP XP Gain  tooltip enabled" = true
+			"SPRINTING XP Gain  tooltip enabled" = true
+			"SUBMERGED XP Gain  tooltip enabled" = true
+			"SWIMMING XP Gain  tooltip enabled" = true
+			"DIVING XP Gain  tooltip enabled" = true
+			"SURFACING XP Gain  tooltip enabled" = true
+			"SWIM_SPRINTING XP Gain  tooltip enabled" = true
+			"TAMING XP Gain  tooltip enabled" = true
+
+		[Client.Tooltip_Visibility.Bonus_Tooltips]
+			"BIOME Bonus  tooltip enabled" = true
+			"HELD Bonus  tooltip enabled" = true
+			"WORN Bonus  tooltip enabled" = true
+			"DIMENSION Bonus  tooltip enabled" = true
+
+	#Client Settings Related to the Vein Mining Ability
+	[Client.Vein_Miner]
+		#The max blocks a vein activation should consume regardless of charge
+		#Range: > 0
+		Vein_Limit = 64
+
+	#Toggles for helpful features related to mechanics
+	[Client.Tutorial]
+		#Should blocks affected by Reuse Penalty show a red outline?
+		"Enable Reuse Penalty Highlights" = true
+		#Should the owner of a block show when hovering?
+		"Enable Owner Highlights" = true
+		#Should hovering over a salvage block show helpful tips?
+		"Enable Salvage Tips" = true
+

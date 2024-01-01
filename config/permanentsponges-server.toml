@@ -1,0 +1,27 @@
+#Nearby sponges will immediately suck up liquids placed from buckets.
+prevent_emptying_buckets = false
+#The cooldown in ticks after using a sponge on a stick item, just like ender pearls.
+#Set to '0' to disable the cooldown.
+#Range: 0 ~ 72000
+stick_cooldown_ticks = 20
+
+[aquatic_sponge]
+	#The radius in blocks centered on where the sponge on a stick was clicked where all liquids will be removed.
+	#Range: 1 ~ 16
+	stick_radius = 2
+	#The radius in blocks centered on the sponge where all liquids will be removed.
+	#Range: 1 ~ 16
+	block_radius = 4
+	#Should the sponge be destroyed after removing a hot liquid such as lava.
+	destroy_touching_hot = true
+
+[magmatic_sponge]
+	#The radius in blocks centered on where the sponge on a stick was clicked where all liquids will be removed.
+	#Range: 1 ~ 16
+	stick_radius = 3
+	#The radius in blocks centered on the sponge where all liquids will be removed.
+	#Range: 1 ~ 16
+	block_radius = 6
+	#Should the sponge be destroyed after removing a hot liquid such as lava.
+	destroy_touching_hot = false
+

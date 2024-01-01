@@ -1,0 +1,33 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "biomesoplenty:floodplain",
+            "required": false
+        },
+		{
+            "id": "eco:floating_river",
+            "required": false
+        },
+		{
+            "id": "twilightforest:lake",
+            "required": false
+        },
+		{
+            "id": "twilightforest:stream",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:cold_river",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:muddy_river",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:tropical_river",
+            "required": false
+        }
+    ]
+  }

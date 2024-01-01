@@ -61,6 +61,7 @@
 		ticks_to_increase_power = 15
 		#do enderman heads work when looked from any side?
 		work_from_any_side = false
+		drop_head = true
 
 	[redstone.turn_table]
 		enabled = true
@@ -97,6 +98,8 @@
 		slide_on_fall = true
 		#In case you want to disable supplementaries ropes you can specify here another mod rope and they will be used for rope arrows and in mineshafts instead
 		rope_override = "supplementaries:rope"
+		#Enables horizontal placement of ropes
+		horizontal_ropes = true
 
 	[functional.jar]
 		enabled = true
@@ -172,6 +175,13 @@
 		#Dyed Bock types that cannot be cleaned with soap
 		clean_blacklist = ["minecraft:glazed_terracotta", "botania:mystical_flower"]
 
+		#This is a map of special blocks that can be cleaned with soap
+		[functional.soap.special_blocks]
+			"minecraft:sticky_piston" = "minecraft:piston"
+			"quark:dirty_glass_pane" = "minecraft:glass_pane"
+			"quark:dirty_glass" = "minecraft:glass"
+			"#alexscaves:cave_paintings" = "alexscaves:smooth_limestone"
+
 	[functional.present]
 		enabled = true
 		trapped_present = true
@@ -208,6 +218,11 @@
 	doormat = true
 	flint_block = true
 	candle_holder = true
+
+	[building.hat_stand]
+		enabled = true
+		#Allow all items to go on hat stand
+		unrestricted = false
 
 	[building.blackboard]
 		enabled = true
@@ -417,6 +432,8 @@
 		allow_fire_charges = false
 		#Allows snowballs to be thrown by slingshots
 		allow_snowballs = false
+		#Allows enderpearls to be thrown by slingshots
+		allow_enderpearls = false
 
 	[tools.antique_ink]
 		enabled = true
@@ -552,6 +569,8 @@
 		min_search_radius = 75
 		#Makes blocks tagged as 'tinted_on_map' use their tint color. This allows for accurate biome colors for water and grass as well as other custom block that use any tint
 		tinted_blocks_on_maps = true
+		#Select a random structure to look for instead of iterating through all of the ones in the tag returning the closest. Turning on will make ones that have diff structures (aka all different ruined portals) show up more. On could take much more time to compute
+		random_adventurer_maps_select_random_structure = true
 
 	[tweaks.ceiling_banners]
 		#Allow banners to be placed on ceilings
@@ -568,6 +587,8 @@
 		enchanted_book_power = 1.334
 		#Allow all books to be placed both vertically and horizontally
 		mixed_books = false
+		#Allows written books to be placed down. Requires shift clicking
+		written_books = true
 
 	[tweaks.zombie_horse]
 		#Feed a stack of rotten flesh to a skeleton horse to buff him up to a zombie horse

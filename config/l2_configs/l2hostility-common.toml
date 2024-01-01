@@ -1,0 +1,355 @@
+
+[scaling]
+	#Health factor per level
+	#Range: 0.0 ~ 1000.0
+	healthFactor = 0.03
+	#Damage factor per level
+	#Range: 0.0 ~ 1000.0
+	damageFactor = 0.02
+	#Experience drop factor per level
+	#Range: 0.0 ~ 1000.0
+	expDropFactor = 0.05
+	#Armor rank per n level
+	#Range: 0 ~ 1000
+	armorFactor = 10
+	#Enchantment bonus per level.
+	#Note: use it only when Apotheosis is installed
+	#Otherwise too high enchantment level will yield no enchantment
+	#Range: 0.0 ~ 1000.0
+	enchantmentFactor = 0.0
+	#Difficulty bonus per level visited
+	#Range: 0 ~ 1000
+	dimensionFactor = 10
+	#Difficulty bonus per block from origin
+	#Range: 0.0 ~ 1000.0
+	distanceFactor = 0.003
+	#Chance for health/damage bonus and trait to apply
+	#Not applicable to mobs with minimum level.
+	#Range: 0.0 ~ 1.0
+	globalApplyChance = 1.0
+	#Chance for trait to apply
+	#Not applicable to mobs with minimum level.
+	#Range: 0.0 ~ 1.0
+	globalTraitChance = 1.0
+	#Chance to stop adding traits after adding a trait
+	#Not applicable to mobs with minimum level.
+	#Range: 0.0 ~ 1.0
+	globalTraitSuppression = 0.1
+	#Allow legendary traits
+	allowLegendary = true
+	#Allow chunk section to accumulate difficulty
+	allowSectionDifficulty = true
+	#Allow difficulty clearing bypass mob minimum level
+	allowBypassMinimum = true
+	#Default dimension base difficulty for mod dimensions
+	#Range: 0 ~ 1000
+	defaultLevelBase = 20
+	#Default dimension difficulty variation for mod dimensions
+	#Range: 0.0 ~ 1000.0
+	defaultLevelVar = 16.0
+	#Default dimension difficulty scale for mod dimensions
+	#Range: 0.0 ~ 10.0
+	defaultLevelScale = 1.5
+	#Use exponential health
+	exponentialHealth = false
+	#Use exponential damage
+	exponentialDamage = false
+	#Allow level-related extra enchantment spawning
+	allowExtraEnchantments = true
+	#Mobs at Lv.N will have N x k% chance to have trait
+	#Default k% = 0.01, so Lv.N mobs with have N% chance to have trait
+	#Mobs with entity config and trait chance of 1 will not be affected
+	#Range: 0.0 ~ 1.0
+	initialTraitChanceSlope = 0.01
+	#Slimes hostility loot drop rate decay per split
+	#Range: 0.0 ~ 1.0
+	splitDropRateFactor = 0.5
+
+[difficulty]
+	#Difficulty increment takes this many kills of same level mob
+	#Range: 1 ~ 100000
+	killsPerLevel = 30
+	#Decay in player difficulty on death
+	#Range: 0.0 ~ 2.0
+	playerDeathDecay = 0.8
+	#Allow KeepInventory to keep difficulty as well
+	keepInventoryRuleKeepDifficulty = false
+	#On player death, clear dimension penalty
+	deathDecayDimension = true
+	#On player death, reduce max trait spawned by 1
+	deathDecayTraitCap = true
+	#Max player adaptive level
+	#Range: 600 ~ 100000
+	maxPlayerLevel = 2000
+
+[items]
+	#Number of level to add when using bottle of curse
+	#Range: 1 ~ 1000
+	bottleOfCurseLevel = 50
+	#Max percentage of max health a damage can hurt wearer of Ring of Life
+	#Range: 0.0 ~ 1.0
+	ringOfLifeMaxDamage = 0.9
+	#Time in ticks of Soul Flame to inflict
+	#Range: 1 ~ 10000
+	flameThornTime = 100
+	#Radius in blocks for Ring of Reflection to work
+	#Range: 1 ~ 256
+	ringOfReflectionRadius = 16
+	#Factor of effect duration for witch wand, to make up for splash decay
+	#Range: 1 ~ 100
+	witchWandFactor = 4
+	#Number of level to add when using Curse of Envy
+	#Range: 0 ~ 1000
+	envyExtraLevel = 50
+	#Number of level to add when using Curse of Greed
+	#Range: 0 ~ 1000
+	greedExtraLevel = 50
+	#Number of level to add when using Curse of Lust
+	#Range: 0 ~ 1000
+	lustExtraLevel = 50
+	#Number of level to add when using Curse of Wrath
+	#Range: 0 ~ 1000
+	wrathExtraLevel = 50
+	#Hostility loot drop factor when using Curse of Greed
+	#Range: 1.0 ~ 10.0
+	greedDropFactor = 2.0
+	#Trait item drop rate per rank when using Curse of Envy
+	#Range: 0.0 ~ 1.0
+	envyDropRate = 0.02
+	#Bottle of Curse drop rate per level when using Curse of Gluttony
+	#Range: 0.0 ~ 1.0
+	gluttonyDropRate = 0.01
+	#Damage bonus per level difference when using Curse of Wrath
+	#Range: 0.0 ~ 1.0
+	wrathDamageBonus = 0.05
+	#Damage bonus per level when using Curse of Pride
+	#Range: 0.0 ~ 1.0
+	prideDamageBonus = 0.02
+	#Health boost per level in percentage when using Curse of Pride
+	#Range: 0.0 ~ 1.0
+	prideHealthBonus = 0.02
+	#Trait cost multiplier when using Curse of Pride
+	#Range: 0.01 ~ 1.0
+	prideTraitFactor = 0.5
+	#Minimum duration for witch charge to be effective, in ticks
+	#Range: 20 ~ 10000
+	witchChargeMinDuration = 200
+	#Factor of maximum durability to cost for ring of corrosion
+	#Range: 0.0 ~ 1.0
+	ringOfCorrosionFactor = 0.2
+	#Penalty of maximum durability to cost for ring of corrosion
+	#Range: 0.0 ~ 1.0
+	ringOfCorrosionPenalty = 0.1
+	#Percentage of health to heal every second
+	#Range: 0.0 ~ 1.0
+	ringOfHealingRate = 0.05
+	#Number of level to add when using Abrahadabra
+	#Range: 0 ~ 1000
+	abrahadabraExtraLevel = 100
+	#Number of level to add when using Greed of Nidhoggur
+	#Range: 0 ~ 1000
+	nidhoggurExtraLevel = 100
+	#All loot drop factor when using Greed of Nidhoggur
+	#Range: 0.0 ~ 10.0
+	nidhoggurDropFactor = 0.01
+	#Insulator Enchantment factor for reducing pushing
+	#Range: 0.0 ~ 1.0
+	insulatorFactor = 0.8
+
+[traits]
+	#Health bonus for Tank trait per level
+	#Range: 0.0 ~ 1000.0
+	tankHealth = 0.5
+	#Armor bonus for Tank trait per level
+	#Range: 0.0 ~ 1000.0
+	tankArmor = 10.0
+	#Toughness bonus for Tank trait per level
+	#Range: 0.0 ~ 1000.0
+	tankTough = 4.0
+	#Speed bonus for Speedy trait per level
+	#Range: 0.0 ~ 1000.0
+	speedy = 0.2
+	#Regen rate for Regeneration trait per second per level
+	#Range: 0.0 ~ 1000.0
+	regen = 0.02
+	#Damage factor for Adaptive. Higher means less reduction
+	#Range: 0.0 ~ 1000.0
+	adaptFactor = 0.5
+	#Reflect factor per level for Reflect. 0.5 means +50% extra damage
+	#Range: 0.0 ~ 1000.0
+	reflectFactor = 0.3
+	#Duration in ticks for enchantments to be disabled per level for Dispell
+	#Range: 1 ~ 60000
+	dispellTime = 200
+	#Duration in seconds to set target on fire by Fiery
+	#Range: 0 ~ 3000
+	fieryTime = 5
+	#Duration in ticks for Weakness
+	#Range: 0 ~ 3000
+	weakTime = 200
+	#Duration in ticks for Slowness
+	#Range: 0 ~ 3000
+	slowTime = 200
+	#Duration in ticks for Poison
+	#Range: 0 ~ 3000
+	poisonTime = 200
+	#Duration in ticks for Wither
+	#Range: 0 ~ 3000
+	witherTime = 200
+	#Duration in ticks for Levitation
+	#Range: 0 ~ 3000
+	levitationTime = 200
+	#Duration in ticks for Blindness
+	#Range: 0 ~ 3000
+	blindTime = 200
+	#Duration in ticks for Nausea
+	#Range: 0 ~ 3000
+	confusionTime = 200
+	#Duration in ticks for Soul Burner
+	#Range: 0 ~ 3000
+	soulBurnerTime = 60
+	#Duration in ticks for Freezing
+	#Range: 0 ~ 3000
+	freezingTime = 200
+	#Duration in ticks for Cursed
+	#Range: 0 ~ 3000
+	curseTime = 200
+	#Interval in ticks for Teleport
+	#Range: 0 ~ 3000
+	teleportDuration = 100
+	#Range in blocks for Teleport
+	#Range: 0 ~ 64
+	teleportRange = 16
+	#Range in blocks for Repell
+	#Range: 0 ~ 64
+	repellRange = 10
+	#Repell force strength, default is 0.2
+	#Range: 0.0 ~ 1.0
+	repellStrength = 0.2
+	#Fraction of remaining durability to corrode, per trait rank
+	#Range: 0.0 ~ 1.0
+	corrosionDurability = 0.3
+	#Damage bonus when nothing to corrode
+	#Range: 0.0 ~ 1.0
+	corrosionDamage = 0.25
+	#Fraction of lost durability to erode, per trait rank
+	#Range: 0.0 ~ 1.0
+	erosionDurability = 0.1
+	#Damage bonus when nothing to erode
+	#Range: 0.0 ~ 1.0
+	erosionDamage = 0.25
+	#Seal time per level for Ragnarok
+	#Range: 1 ~ 1000
+	ragnarokTime = 20
+	#Allow Ragnarok to seal items with Backpack in its id
+	ragnarokSealBackpack = false
+	#Allow Ragnarok to seal curios items that adds curios slot
+	ragnarokSealSlotAdder = false
+	#Damage for killer aura
+	#Range: 1 ~ 10000
+	killerAuraDamage = 10
+	#Range for for killer aura
+	#Range: 1 ~ 32
+	killerAuraRange = 6
+	#Interval for for killer aura
+	#Range: 1 ~ 10000
+	killerAuraInterval = 120
+	#Interval for for shulker
+	#Range: 1 ~ 10000
+	shulkerInterval = 40
+	#Interval for for explode shulker
+	#Range: 1 ~ 10000
+	explodeShulkerInterval = 60
+	#Damage bonus for each negative effects
+	#Range: 0.0 ~ 100.0
+	drainDamage = 0.1
+	#Duration boost for negative effects
+	#Range: 0.0 ~ 100.0
+	drainDuration = 0.5
+	#Max duration boost for negative effects
+	#Range: 0 ~ 10000
+	drainDurationMax = 1200
+	#Interval in ticks for Counter Strike
+	#Range: 0 ~ 3000
+	counterStrikeDuration = 100
+	#Range in blocks for Counter Strike
+	#Range: 0 ~ 64
+	counterStrikeRange = 6
+	#Range in blocks for Pulling
+	#Range: 0 ~ 64
+	pullingRange = 10
+	#Pulling force strength, default is 0.2
+	#Range: 0.0 ~ 10.0
+	pullingStrength = 0.2
+	#Reprint damage factor per enchantment point
+	#Range: 0.0 ~ 1.0
+	reprintDamage = 0.02
+	#Reprint will gain Void Touch 20 and Vanishing Curse when it hits a mob with max Enchantment level of X or higher
+	#Range: 0 ~ 10000
+	reprintBypass = 10
+	#Effect range for trait gravity
+	#Range: 0 ~ 100
+	gravityRange = 10
+	#Effect range for trait moonwalk
+	#Range: 0 ~ 100
+	moonwalkRange = 10
+	#Effect range for trait arena
+	#Range: 0 ~ 100
+	arenaRange = 24
+
+["Trait toggle"]
+	allow_tank = true
+	allow_speedy = true
+	allow_protection = true
+	allow_invisible = true
+	allow_fiery = true
+	allow_regenerate = true
+	allow_adaptive = true
+	allow_reflect = true
+	allow_dementor = true
+	allow_dispell = true
+	allow_undying = true
+	allow_teleport = true
+	allow_repelling = true
+	allow_weakness = true
+	allow_slowness = true
+	allow_poison = true
+	allow_wither = true
+	allow_levitation = true
+	allow_blindness = true
+	allow_nausea = true
+	allow_soul_burner = true
+	allow_freezing = true
+	allow_cursed = true
+	allow_shulker = true
+	allow_grenade = true
+	allow_corrosion = true
+	allow_erosion = true
+	allow_growth = true
+	allow_split = true
+	allow_drain = true
+	allow_killer_aura = true
+	allow_ragnarok = true
+	allow_counter_strike = true
+	allow_gravity = true
+	allow_moonwalk = true
+	allow_arena = true
+	allow_pulling = true
+	allow_reprint = true
+
+[orb_and_spawner]
+	#Allow to use hostility orb
+	allowHostilityOrb = true
+	#Radius for Hostility Orb to take effect.
+	#0 means 1x1x1 section, 1 means 3x3x3 sections, 2 means 5x5x5 sections
+	#Range: 0 ~ 10
+	orbRadius = 2
+	#Allow to use hostility spawner
+	allowHostilitySpawner = true
+	#Number of mobs to spawn in Hostility Spawner
+	#Range: 1 ~ 64
+	hostilitySpawnCount = 16
+	#Level bonus factor for mobs to spawn in Hostility Spawner
+	#Range: 1 ~ 10000
+	hostilitySpawnLevelFactor = 2
+

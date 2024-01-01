@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:mushroom_fields",
+	"sgjourney:lantean_deep_ocean"
+  ],
+  "spawners":
+  {
+    "type": "unusualfishmod:eyelash_fish",
+    "weight": 30,
+    "minCount": 4,
+    "maxCount": 6
+  }
+}

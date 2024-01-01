@@ -1,5 +1,409 @@
 [
   {
+    "checksum": 1112441509,
+    "version": "1.0.0",
+    "upload_time": 1701608522419,
+    "name": "tlm.huangushi.name",
+    "author": [
+      "幻古诗"
+    ],
+    "desc": "tlm.huangushi.desc",
+    "file_name": "huangushi-1.0.0.zip",
+    "file_size": 654735,
+    "url": "/file/huangushi-1.0.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.huangushi.name": "Huangushi's Model Pack",
+        "tlm.huangushi.desc": "Recommended for high-performance computers"
+      },
+      "zh_cn": {
+        "tlm.huangushi.name": "幻古诗的模型包",
+        "tlm.huangushi.desc": "建议高性能电脑使用"
+      }
+    }
+  },
+  {
+    "checksum": 4176944738,
+    "version": "1.0.0",
+    "upload_time": 1700918582021,
+    "name": "tlm.littlemaid_wolf.name",
+    "author": [
+      "霜月優 (CV)",
+      "Tamemaru"
+    ],
+    "desc": "tlm.littlemaid_wolf.desc",
+    "file_name": "littlemaid_wolf-1.0.0.zip",
+    "file_size": 7830708,
+    "url": "/file/littlemaid_wolf-1.0.0.zip",
+    "type": [
+      "sound"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.littlemaid_wolf.name": "LittleMaid WOLF Sound",
+        "tlm.littlemaid_wolf.desc": "§7This is a voice pack of a dignified furry-eared lady. Are you my master? Hmmmmm... not bad... CV: 霜月優"
+      },
+      "zh_cn": {
+        "tlm.littlemaid_wolf.name": "LittleMaid WOLF 语音包",
+        "tlm.littlemaid_wolf.desc": "§7这是一位优雅的兽耳女仆。 “你这家伙就是我的主人吗，嗯，还不错”  CV：霜月優"
+      }
+    }
+  },
+  {
+    "checksum": 1258448961,
+    "version": "1.1.0",
+    "upload_time": 1700839378884,
+    "name": "tlm.tendou_arisu.name",
+    "author": [
+      "Nexon",
+      "Annihilator"
+    ],
+    "desc": "tlm.tendou_arisu.desc",
+    "file_name": "tendou_arisu-1.1.0.zip",
+    "file_size": 5689135,
+    "url": "/file/tendou_arisu-1.1.0.zip",
+    "type": [
+      "maid",
+      "sound"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.tendou_arisu.name": "Tendou Arisu Sound Pack",
+        "tlm.tendou_arisu.desc": "Tendou Arisu Model Pack"
+      },
+      "zh_cn": {
+        "tlm.tendou_arisu.name": "天童爱丽丝声音包",
+        "tlm.tendou_arisu.desc": "爱丽丝也想喝咖啡"
+      }
+    }
+  },
+  {
+    "checksum": 1485331013,
+    "version": "1.0.0",
+    "upload_time": 1700839207421,
+    "name": "tlm.littlemaid_peco.name",
+    "author": [
+      "秋野かえで (CV)",
+      "Tamemaru"
+    ],
+    "desc": "tlm.littlemaid_peco.desc",
+    "file_name": "littlemaid_peco-1.0.0.zip",
+    "file_size": 7708110,
+    "url": "/file/littlemaid_peco-1.0.0.zip",
+    "type": [
+      "sound"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.littlemaid_peco.name": "LittleMaid PECO Sound",
+        "tlm.littlemaid_peco.desc": "This is a sound pack of the energetic hungry maid, 秋野かえで (CV), made by Tamemaru."
+      },
+      "zh_cn": {
+        "tlm.littlemaid_peco.name": "LittleMaid PECO 声音包",
+        "tlm.littlemaid_peco.desc": "这是一个饥肠辘辘但却活力四射的女仆音效包。秋野かえで (CV)，由 Tamemaru 制作。"
+      }
+    }
+  },
+  {
+    "checksum": 592934612,
+    "version": "1.0.0",
+    "upload_time": 1700655074314,
+    "name": "tlm.zhi_ban.name",
+    "author": [
+      "木宁苒/纸板"
+    ],
+    "desc": "tlm.zhi_ban.desc",
+    "file_name": "zhi_ban-1.0.0.zip",
+    "file_size": 2140796,
+    "url": "/file/zhi_ban-1.0.0.zip",
+    "type": [
+      "sound",
+      "sound",
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.zhi_ban.name": "Zhiban's Models & Sounds",
+        "tlm.zhi_ban.desc": "Some models made by Zhiban"
+      },
+      "zh_cn": {
+        "tlm.zhi_ban.name": "纸板的模型声音包",
+        "tlm.zhi_ban.desc": "添加了一些由纸板（B 站 ID 木宁苒）的模型，包括碧蓝档案的小春、飞马鸟时等模型和声音包"
+      }
+    }
+  },
+  {
+    "checksum": 512502209,
+    "version": "1.0.0",
+    "upload_time": 1700569270693,
+    "name": "tlm.teacon_2021_things.name",
+    "author": [
+      "pajinyi",
+      "Succinum",
+      "光影",
+      "玄月桑"
+    ],
+    "desc": "tlm.teacon_2021_things.desc",
+    "file_name": "teacon_2021_things-1.0.0.zip",
+    "file_size": 39616,
+    "url": "/file/teacon_2021_things-1.0.0.zip",
+    "type": [
+      "chair",
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.teacon_2021_things.name": "Teacon 2021 Things",
+        "tlm.teacon_2021_things.desc": "Some model made for teacon 2021"
+      },
+      "zh_cn": {
+        "tlm.teacon_2021_things.name": "Teacon 2021 模型包",
+        "tlm.teacon_2021_things.desc": "为 Teacon 2021 做的模型包"
+      }
+    }
+  },
+  {
+    "checksum": 308458692,
+    "version": "1.1.2",
+    "upload_time": 1700569270692,
+    "name": "tlm.tartaric_acid_things.name",
+    "author": [
+      "tartaric_acid",
+      "pajinyi"
+    ],
+    "desc": "tlm.tartaric_acid_things.desc",
+    "file_name": "tartaric_acid_things-1.1.2.zip",
+    "file_size": 99729,
+    "url": "/file/tartaric_acid_things-1.1.2.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.tartaric_acid_things.name": "Tartaric Acid Things",
+        "tlm.tartaric_acid_things.desc": "Some random model from tartaric acid"
+      },
+      "zh_cn": {
+        "tlm.tartaric_acid_things.name": "酒石酸的随意模型",
+        "tlm.tartaric_acid_things.desc": "一些酒石酸菌制作的随意模型"
+      }
+    }
+  },
+  {
+    "checksum": 3559751716,
+    "version": "1.1.6",
+    "upload_time": 1700558320045,
+    "name": "tlm.genshin_impact.name",
+    "author": [
+      "tartaric_acid",
+      "Hu Kakao"
+    ],
+    "desc": "tlm.genshin_impact.desc",
+    "file_name": "genshin_impact-1.1.6.zip",
+    "file_size": 252081,
+    "url": "/file/genshin_impact-1.1.6.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.genshin_impact.name": "Genshin Impact Pack",
+        "tlm.genshin_impact.desc": "Some character from the genshin impact, produced by TartaricAcid and Hu Kakao.\nHu Kakao's Twitter: @HuTaoFullSimp"
+      },
+      "zh_cn": {
+        "tlm.genshin_impact.name": "原神模型包",
+        "tlm.genshin_impact.desc": "一些来自于游戏原神的模型，由酒石酸菌和 Hu Kakao 协作完成。\nHu Kakao 的 Twitter: @HuTaoFullSimp"
+      }
+    }
+  },
+  {
+    "checksum": 3183477032,
+    "version": "1.1.0",
+    "upload_time": 1700483291719,
+    "name": "tlm.toufamahetadeluer.name",
+    "author": [
+      "gyhgyj88"
+    ],
+    "desc": "tlm.toufamahetadeluer.desc",
+    "file_name": "toufamahetadeluer-1.1.0.zip",
+    "file_size": 51125,
+    "url": "/file/toufamahetadeluer-1.1.0.zip",
+    "type": [
+      "maid"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.toufamahetadeluer.name": "Toufa's Characters Model Pack",
+        "tlm.toufamahetadeluer.desc": "Some characters of Bilibili's artist Toufa"
+      },
+      "zh_cn": {
+        "tlm.toufamahetadeluer.name": "头发妈的女儿们",
+        "tlm.toufamahetadeluer.desc": "B站画师——咦我的头发呢的一些作品"
+      }
+    }
+  },
+  {
+    "checksum": 868709779,
+    "version": "1.0.0",
+    "upload_time": 1700483258876,
+    "name": "tlm.the_best_soldier.name",
+    "author": [
+      "EA"
+    ],
+    "desc": "tlm.the_best_soldier.desc",
+    "file_name": "the_best_soldier-1.0.0.zip",
+    "file_size": 903503,
+    "url": "/file/the_best_soldier-1.0.0.zip",
+    "type": [
+      "sound"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.the_best_soldier.name": "The Best Soldier Pack",
+        "tlm.the_best_soldier.desc": "The Best Soldier"
+      },
+      "zh_cn": {
+        "tlm.the_best_soldier.name": "优质战士语音包",
+        "tlm.the_best_soldier.desc": "最优质的战士"
+      }
+    }
+  },
+  {
+    "checksum": 2582960499,
+    "version": "1.1.0",
+    "upload_time": 1700483173821,
+    "name": "tlm.shirayuki_noa.name",
+    "author": [
+      "YUZUSOFT"
+    ],
+    "desc": "tlm.shirayuki_noa.desc",
+    "file_name": "shirayuki_noa-1.1.0.zip",
+    "file_size": 6016586,
+    "url": "/file/shirayuki_noa-1.1.0.zip",
+    "type": [
+      "maid",
+      "sound"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.shirayuki_noa.name": "Shirayuki Noa Maid Pack",
+        "tlm.shirayuki_noa.desc": "YSM model made by Almeta_owx"
+      },
+      "zh_cn": {
+        "tlm.shirayuki_noa.name": "白雪乃爱女仆包",
+        "tlm.shirayuki_noa.desc": "由B站UPAlmeta_owx制作的YSM模型"
+      }
+    }
+  },
+  {
+    "checksum": 3036965698,
+    "version": "1.0.0",
+    "upload_time": 1700483144665,
+    "name": "tlm.ottoman_sound_pack.name",
+    "author": [
+      "EA"
+    ],
+    "desc": "tlm.ottoman_sound_pack.desc",
+    "file_name": "ottoman_sound_pack-1.0.0.zip",
+    "file_size": 1336359,
+    "url": "/file/ottoman_sound_pack-1.0.0.zip",
+    "type": [
+      "sound"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.ottoman_sound_pack.name": "Ottoman Maid Sound Pack",
+        "tlm.ottoman_sound_pack.desc": "Ottoman Maid Sound Pack"
+      },
+      "zh_cn": {
+        "tlm.ottoman_sound_pack.name": "苏丹禁卫女仆语音包",
+        "tlm.ottoman_sound_pack.desc": "萝马超人语音包"
+      }
+    }
+  },
+  {
+    "checksum": 2360638675,
+    "version": "1.0.4",
+    "upload_time": 1700483028398,
+    "name": "tlm.murasame.name",
+    "author": [
+      "SF2403"
+    ],
+    "desc": "tlm.murasame.desc",
+    "file_name": "murasame-1.0.4.zip",
+    "file_size": 7040429,
+    "url": "/file/murasame-1.0.4.zip",
+    "type": [
+      "maid",
+      "sound"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.murasame.name": "Murasame Maid Sound Pack",
+        "tlm.murasame.desc": "Model Author: Almeta_owx, Editing/Production: SF2403, Sound Effects: Yuzusoft - Senren Banka"
+      },
+      "zh_cn": {
+        "tlm.murasame.name": "丛雨女仆声音包",
+        "tlm.murasame.desc": "模型作者：Almeta_owx, 剪辑/制作：SF2403，音效来源 Yuzusoft -《千恋*万花》。"
+      }
+    }
+  },
+  {
+    "checksum": 1805547761,
+    "version": "1.0.0",
+    "upload_time": 1700482994205,
+    "name": "tlm.france_sound.name",
+    "author": [
+      "EA"
+    ],
+    "desc": "tlm.france_sound.desc",
+    "file_name": "france_sound-1.0.0.zip",
+    "file_size": 918542,
+    "url": "/file/france_sound-1.0.0.zip",
+    "type": [
+      "sound"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.france_sound.name": "France Maid Sound Pack",
+        "tlm.france_sound.desc": "Sound pack made by Electronic Arts (Maybe?)"
+      },
+      "zh_cn": {
+        "tlm.france_sound.name": "法国女仆声音包",
+        "tlm.france_sound.desc": "EA 出品音频（也许？）"
+      }
+    }
+  },
+  {
+    "checksum": 3426781618,
+    "version": "1.0.0",
+    "upload_time": 1700482908988,
+    "name": "tlm.dio_sounds.name",
+    "author": [
+      "酮戊二酸"
+    ],
+    "desc": "tlm.dio_sounds.desc",
+    "file_name": "dio_sounds-1.0.0.zip",
+    "file_size": 1691015,
+    "url": "/file/dio_sounds-1.0.0.zip",
+    "type": [
+      "sound"
+    ],
+    "language": {
+      "en_us": {
+        "tlm.dio_sounds.name": "Dio Brando Sound Pack",
+        "tlm.dio_sounds.desc": "Wryyyyyyyyy!!!"
+      },
+      "zh_cn": {
+        "tlm.dio_sounds.name": "Dio 语言包",
+        "tlm.dio_sounds.desc": "Wryyyyyyyyy！！！"
+      }
+    }
+  },
+  {
     "checksum": 2814419065,
     "version": "1.0.0",
     "upload_time": 1699374112658,
@@ -601,32 +1005,6 @@
     }
   },
   {
-    "checksum": 1524869335,
-    "version": "1.0.0",
-    "upload_time": 1657794888287,
-    "name": "tlm.toufamahetadeluer.name",
-    "author": [
-      "gyhgyj88"
-    ],
-    "desc": "tlm.toufamahetadeluer.desc",
-    "file_name": "toufamahetadeluer-1.0.0.zip",
-    "file_size": 42471,
-    "url": "/file/toufamahetadeluer-1.0.0.zip",
-    "type": [
-      "maid"
-    ],
-    "language": {
-      "en_us": {
-        "tlm.toufamahetadeluer.name": "Toufa's Characters Model Pack",
-        "tlm.toufamahetadeluer.desc": "Some characters of Bilibili's artist Toufa"
-      },
-      "zh_cn": {
-        "tlm.toufamahetadeluer.name": "头发妈的女儿们",
-        "tlm.toufamahetadeluer.desc": "B站画师——咦我的头发呢的一些作品"
-      }
-    }
-  },
-  {
     "checksum": 2355875865,
     "version": "1.0.2",
     "upload_time": 1657794851748,
@@ -675,33 +1053,6 @@
       "zh_cn": {
         "tlm.chronoir.name": "ChroNoiR 模型包",
         "tlm.chronoir.desc": "来自虚拟 Vtuber 组合 ChroNoiR 的角色"
-      }
-    }
-  },
-  {
-    "checksum": 3948614420,
-    "version": "1.1.5",
-    "upload_time": 1654343535695,
-    "name": "tlm.genshin_impact.name",
-    "author": [
-      "tartaric_acid",
-      "Hu Kakao"
-    ],
-    "desc": "tlm.genshin_impact.desc",
-    "file_name": "genshin_impact-1.1.5.zip",
-    "file_size": 233549,
-    "url": "/file/genshin_impact-1.1.5.zip",
-    "type": [
-      "maid"
-    ],
-    "language": {
-      "en_us": {
-        "tlm.genshin_impact.name": "Genshin Impact Pack",
-        "tlm.genshin_impact.desc": "Some character from the genshin impact, produced by TartaricAcid and Hu Kakao.\nHu Kakao's Twitter: @HuTaoFullSimp"
-      },
-      "zh_cn": {
-        "tlm.genshin_impact.name": "原神模型包",
-        "tlm.genshin_impact.desc": "一些来自于游戏原神的模型，由酒石酸菌和 Hu Kakao 协作完成。\nHu Kakao 的 Twitter: @HuTaoFullSimp"
       }
     }
   },
@@ -1228,33 +1579,6 @@
       "zh_cn": {
         "tlm.little_maid_mob.name": "Little Maid Mob 女仆模型包",
         "tlm.little_maid_mob.desc": "来自于日站 Little Maid Mob 模组的女仆模型，由 MMM 制作"
-      }
-    }
-  },
-  {
-    "checksum": 3460526996,
-    "version": "1.1.1",
-    "upload_time": 1628072613581,
-    "name": "tlm.tartaric_acid_things.name",
-    "author": [
-      "tartaric_acid",
-      "pajinyi"
-    ],
-    "desc": "tlm.tartaric_acid_things.desc",
-    "file_name": "tartaric_acid_things-1.1.1.zip",
-    "file_size": 127583,
-    "url": "/file/tartaric_acid_things-1.1.1.zip",
-    "type": [
-      "maid"
-    ],
-    "language": {
-      "en_us": {
-        "tlm.tartaric_acid_things.name": "Tartaric Acid Things",
-        "tlm.tartaric_acid_things.desc": "Some random model from tartaric acid"
-      },
-      "zh_cn": {
-        "tlm.tartaric_acid_things.name": "酒石酸的随意模型",
-        "tlm.tartaric_acid_things.desc": "一些酒石酸菌制作的随意模型"
       }
     }
   },

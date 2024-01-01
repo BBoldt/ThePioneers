@@ -1,0 +1,89 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "terralith:skylands_autumn",
+			"required": false
+		},
+		{
+			"id": "terralith:skylands_spring",
+			"required": false
+		},
+		{
+			"id": "terralith:skylands_summer",
+			"required": false
+		},
+		{
+			"id": "terralith:skylands_winter",
+			"required": false
+		},
+		{
+			"id": "aether:skyroot_forest",
+			"required": false
+		},
+		{
+			"id": "aether:skyroot_grove",
+			"required": false
+		},
+		{
+			"id": "aether:skyroot_meadow",
+			"required": false
+		},
+		{
+			"id": "aether:skyroot_woodland",
+			"required": false
+		},
+		{
+			"id": "deep_aether:aerglow_forest",
+			"required": false
+		},
+		{
+			"id": "deep_aether:aerlavender_fields",
+			"required": false
+		},
+		{
+			"id": "deep_aether:blue_aerglow_forest",
+			"required": false
+		},
+		{
+			"id": "deep_aether:golden_heights",
+			"required": false
+		},
+		{
+			"id": "deep_aether:mystic_aerglow_forest",
+			"required": false
+		},
+		{
+			"id": "deep_aether:yagroot_swamp",
+			"required": false
+		},
+		{
+            "id": "far_end:amethyst_forest",
+            "required": false
+        },
+        {
+            "id": "far_end:ashfall_delta",
+            "required": false
+        },
+        {
+            "id": "far_end:end_wilds",
+            "required": false
+        },
+        {
+            "id": "far_end:ender_waste",
+            "required": false
+        },
+        {
+            "id": "far_end:the_nest",
+            "required": false
+        },
+        {
+            "id": "far_end:void",
+            "required": false
+        },
+        {
+            "id": "far_end:warped_marsh",
+            "required": false
+        }
+	]
+}

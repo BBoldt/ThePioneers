@@ -1,0 +1,33 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "biomesoplenty:erupting_inferno",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:volcanic_plains",
+            "required": false
+        },
+		{
+            "id": "far_end:ashfall_delta",
+            "required": false
+        },
+        {
+            "id": "alexscaves:primordial_caves",
+            "required": false
+        },
+        {
+            "id": "rats:ratlantis",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:blackstone_basin",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:scorching_caves",
+            "required": false
+        }
+    ]
+  }

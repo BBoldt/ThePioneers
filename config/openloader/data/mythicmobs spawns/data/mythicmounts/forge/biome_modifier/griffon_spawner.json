@@ -1,0 +1,30 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:windswept_gravelly_hills",
+    "minecraft:windswept_forest",
+    "minecraft:snowy_slopes",
+    "minecraft:jagged_peaks",
+    "minecraft:windswept_hills",
+	"aether:skyroot_meadow",
+	"deep_aether:golden_heights",
+	"far_end:end_wilds",
+	"regions_unexplored:arid_mountains",
+	"regions_unexplored:chalk_cliffs",
+	"regions_unexplored:icy_heights",
+	"regions_unexplored:mauve_hills",
+	"regions_unexplored:mountains",
+	"regions_unexplored:spires",
+	"regions_unexplored:towering_cliffs",
+	"sgjourney:abydos_spires",
+	"twilightforest:highlands",
+	"biomesoplenty:crag",
+	"biomesoplenty:highland"
+  ],
+  "spawners": {
+    "type": "mythicmounts:griffon",
+    "weight": 10,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

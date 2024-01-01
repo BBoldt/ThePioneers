@@ -132,6 +132,17 @@
 		#Range: 0.01 ~ 200.0
 		wobbling_period = 12.0
 
+	[blocks.hat_stand]
+
+		[blocks.hat_stand.swing_physics]
+			min_angle = 0.0
+			collision_force = 15.0
+			damping = 1.625
+			collision_inertia = 1.0
+			collision_considers_entity_hitbox = true
+			frequency = 1.4
+			max_angle = 54.999996
+
 #Particle parameters
 [particles]
 
@@ -161,6 +172,8 @@
 	#ignore this
 	#Range: -10.0 ~ 10.0
 	test3 = 0.0
+	#Disables Optifine warn screen
+	no_optifine_warn_screen = false
 
 #Game tweaks
 [tweaks]

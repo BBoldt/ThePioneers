@@ -1,0 +1,4 @@
+#Initial Rows (x9 slots) for backpack
+#Range: 1 ~ 8
+initialRows = 2
+

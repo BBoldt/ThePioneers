@@ -1,4 +1,4 @@
-# === Energized Power Common Config (IMPORTANT: Values are not synced from the server to the client.) ===
+# === Energized Power Common Config (IMPORTANT: Not all values are synced from the server to the client.) ===
 
 # The energy capacity of the Battery (Tier I) in FE
 # [Default value]: 256
@@ -183,7 +183,7 @@ block.ehv_transformers.transfer_rate = 2097152
 
 # The energy extraction mode defines how cables extract energy.
 # - PUSH: Producers must push energy into cables.
-# - PULL: Cables pull energy from cables.
+# - PULL: Cables pull energy from producers.
 # - BOTH: Both systems are used.
 # => Set to PULL for the behavior of cables before version 2.1.1.
 # => Set to BOTH for compatibility with any FE energy producers.
@@ -284,92 +284,92 @@ block.coal_engine.transfer_rate = 256
 block.coal_engine.energy_production_multiplier = 1.000000
 
 # The energy capacity of the Solar Panel (Tier I) in FE
-# [Default value]: 640
+# [Default value]: 80
 # [Validation]: Value >= 1
 block.solar_panel_1.capacity = 640
 
 # The energy transfer rate of the Solar Panel (Tier I) in FE per tick
-# [Default value]: 64
+# [Default value]: 8
 # [Validation]: Value >= 1
 block.solar_panel_1.transfer_rate = 64
 
 # The peak energy production of the Solar Panel (Tier I) for ideal conditions (e.g. at noon with clear sky for solar panels) in FE per tick
-# [Default value]: 16
+# [Default value]: 2
 # [Validation]: Value >= 1
 block.solar_panel_1.energy_peak_production = 16
 
 # The energy capacity of the Solar Panel (Tier II) in FE
-# [Default value]: 5120
+# [Default value]: 640
 # [Validation]: Value >= 1
 block.solar_panel_2.capacity = 5120
 
 # The energy transfer rate of the Solar Panel (Tier II) in FE per tick
-# [Default value]: 512
+# [Default value]: 64
 # [Validation]: Value >= 1
 block.solar_panel_2.transfer_rate = 512
 
 # The peak energy production of the Solar Panel (Tier II) for ideal conditions (e.g. at noon with clear sky for solar panels) in FE per tick
-# [Default value]: 128
+# [Default value]: 16
 # [Validation]: Value >= 1
 block.solar_panel_2.energy_peak_production = 128
 
 # The energy capacity of the Solar Panel (Tier III) in FE
-# [Default value]: 40960
+# [Default value]: 5120
 # [Validation]: Value >= 1
 block.solar_panel_3.capacity = 40960
 
 # The energy transfer rate of the Solar Panel (Tier III) in FE per tick
-# [Default value]: 4096
+# [Default value]: 512
 # [Validation]: Value >= 1
 block.solar_panel_3.transfer_rate = 4096
 
 # The peak energy production of the Solar Panel (Tier III) for ideal conditions (e.g. at noon with clear sky for solar panels) in FE per tick
-# [Default value]: 1024
+# [Default value]: 128
 # [Validation]: Value >= 1
 block.solar_panel_3.energy_peak_production = 1024
 
 # The energy capacity of the Solar Panel (Tier IV) in FE
-# [Default value]: 327680
+# [Default value]: 81920
 # [Validation]: Value >= 1
 block.solar_panel_4.capacity = 327680
 
 # The energy transfer rate of the Solar Panel (Tier IV) in FE per tick
-# [Default value]: 32768
+# [Default value]: 8192
 # [Validation]: Value >= 1
 block.solar_panel_4.transfer_rate = 32768
 
 # The peak energy production of the Solar Panel (Tier IV) for ideal conditions (e.g. at noon with clear sky for solar panels) in FE per tick
-# [Default value]: 8192
+# [Default value]: 2048
 # [Validation]: Value >= 1
 block.solar_panel_4.energy_peak_production = 8192
 
 # The energy capacity of the Solar Panel (Tier V) in FE
-# [Default value]: 1310720
+# [Default value]: 327680
 # [Validation]: Value >= 1
 block.solar_panel_5.capacity = 1310720
 
 # The energy transfer rate of the Solar Panel (Tier V) in FE per tick
-# [Default value]: 524288
+# [Default value]: 131072
 # [Validation]: Value >= 1
 block.solar_panel_5.transfer_rate = 524288
 
 # The peak energy production of the Solar Panel (Tier V) for ideal conditions (e.g. at noon with clear sky for solar panels) in FE per tick
-# [Default value]: 65536
+# [Default value]: 16384
 # [Validation]: Value >= 1
 block.solar_panel_5.energy_peak_production = 65536
 
 # The energy capacity of the Solar Panel (Tier VI) in FE
-# [Default value]: 2097152
+# [Default value]: 1048576
 # [Validation]: Value >= 1
 block.solar_panel_6.capacity = 2097152
 
 # The energy transfer rate of the Solar Panel (Tier VI) in FE per tick
-# [Default value]: 1048576
+# [Default value]: 524288
 # [Validation]: Value >= 1
 block.solar_panel_6.transfer_rate = 1048576
 
 # The peak energy production of the Solar Panel (Tier VI) for ideal conditions (e.g. at noon with clear sky for solar panels) in FE per tick
-# [Default value]: 262144
+# [Default value]: 131072
 # [Validation]: Value >= 1
 block.solar_panel_6.energy_peak_production = 262144
 
@@ -559,6 +559,33 @@ block.auto_crafter.recipe_duration = 100
 # [Default value]: []
 # [Validation]: Syntax (whitespaces are ignored): [namespace1:path1, namespace2:path2, ...]
 block.auto_crafter.recipe_blacklist = []
+
+# The energy capacity of the Advanced Auto Crafter in FE
+# [Default value]: 16384
+# [Validation]: Value >= 1
+block.advanced_auto_crafter.capacity = 16384
+
+# The energy transfer rate of the Advanced Auto Crafter in FE per tick
+# [Default value]: 1024
+# [Validation]: Value >= 1
+block.advanced_auto_crafter.transfer_rate = 1024
+
+# The energy consumption of the Advanced Auto Crafter if active in FE per tick per ingredient
+# [Default value]: 16
+# [Validation]: Value >= 1
+block.advanced_auto_crafter.energy_consumption_per_tick_per_ingredient = 16
+
+# The time a recipe of the Advanced Auto Crafter requires in ticks
+# [Default value]: 50
+# [Validation]: Value >= 1
+block.advanced_auto_crafter.recipe_duration = 50
+
+# The recipe blacklist for the Advanced Auto Crafter.
+# The blacklist is a list of recipe ids which can not be crafted in the Advanced Auto Crafter
+#
+# [Default value]: []
+# [Validation]: Syntax (whitespaces are ignored): [namespace1:path1, namespace2:path2, ...]
+block.advanced_auto_crafter.recipe_blacklist = []
 
 # The energy capacity of the Heat Generator in FE
 # [Default value]: 10000

@@ -10,7 +10,6 @@ enableQuivers = true
 enableShields = true
 enableWeapons = true
 crossbowVelocityBonus = 0.5
-bowRecipeType = "SMITHING_ONLY"
 enableFletchingTable = true
 
 [shieldProtectionConfig]
@@ -855,3 +854,299 @@ repairItem = ["minecraft:netherite_ingot"]
 isSingleAddition = true
 onlyReplaceResource = ["Diamond"]
 smithingTemplate = "minecraft:netherite_upgrade_smithing_template"
+
+[heartStealer]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = true
+quiverSlots = 0
+
+[heartStealer.durability]
+toolDurability = 2031
+bowDurability = 0
+addedShieldDurability = 0
+
+[heartStealer.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 0
+
+[heartStealer.offense]
+addedAttackDamage = 4.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[heartStealer.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 0.0
+afterBasePercentReduction = 0.0
+
+[heartStealer.crafting]
+repairItem = ["minecraft:netherite_ingot"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+
+[heat]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = true
+quiverSlots = 0
+
+[heat.durability]
+toolDurability = 2031
+bowDurability = 0
+addedShieldDurability = 0
+
+[heat.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 0
+
+[heat.offense]
+addedAttackDamage = 4.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[heat.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 0.0
+afterBasePercentReduction = 0.0
+
+[heat.crafting]
+repairItem = ["minecraft:netherite_ingot"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+
+[frost]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[frost.durability]
+toolDurability = 1561
+bowDurability = 0
+addedShieldDurability = 0
+
+[frost.enchanting]
+offenseEnchantability = 10
+defenseEnchantability = 0
+
+[frost.offense]
+addedAttackDamage = 3.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[frost.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 0.0
+afterBasePercentReduction = 0.0
+
+[frost.crafting]
+repairItem = ["minecraft:diamond"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+
+[voidTouched]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[voidTouched.durability]
+toolDurability = 2031
+bowDurability = 0
+addedShieldDurability = 0
+
+[voidTouched.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 0
+
+[voidTouched.offense]
+addedAttackDamage = 4.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[voidTouched.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 0.0
+afterBasePercentReduction = 0.0
+
+[voidTouched.crafting]
+repairItem = ["minecraft:netherite_ingot"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+
+[soul]
+equipSound = "minecraft:item.armor.equip_netherite"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[soul.durability]
+toolDurability = 2031
+bowDurability = 0
+addedShieldDurability = 0
+
+[soul.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 15
+
+[soul.offense]
+addedAttackDamage = 4.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[soul.defense]
+gauntletArmorAmount = 3
+armorToughness = 3.0
+knockbackResistance = 0.10000000149011612
+baseProtectionAmmount = 0.0
+afterBasePercentReduction = 0.0
+
+[soul.crafting]
+repairItem = ["minecraft:netherite_ingot"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+
+[fighters]
+equipSound = "minecraft:item.armor.equip_diamond"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[fighters.durability]
+toolDurability = 1561
+bowDurability = 0
+addedShieldDurability = 0
+
+[fighters.enchanting]
+offenseEnchantability = 10
+defenseEnchantability = 10
+
+[fighters.offense]
+addedAttackDamage = 3.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[fighters.defense]
+gauntletArmorAmount = 3
+armorToughness = 2.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 0.0
+afterBasePercentReduction = 0.0
+
+[fighters.crafting]
+repairItem = ["minecraft:diamond"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+
+[maulers]
+equipSound = "minecraft:item.armor.equip_diamond"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[maulers.durability]
+toolDurability = 1561
+bowDurability = 0
+addedShieldDurability = 0
+
+[maulers.enchanting]
+offenseEnchantability = 10
+defenseEnchantability = 10
+
+[maulers.offense]
+addedAttackDamage = 3.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[maulers.defense]
+gauntletArmorAmount = 3
+armorToughness = 2.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 0.0
+afterBasePercentReduction = 0.0
+
+[maulers.crafting]
+repairItem = ["minecraft:diamond"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+
+[gauntlet]
+equipSound = "minecraft:item.armor.equip_netherite"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[gauntlet.durability]
+toolDurability = 2031
+bowDurability = 0
+addedShieldDurability = 0
+
+[gauntlet.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 15
+
+[gauntlet.offense]
+addedAttackDamage = 4.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[gauntlet.defense]
+gauntletArmorAmount = 3
+armorToughness = 3.0
+knockbackResistance = 0.10000000149011612
+baseProtectionAmmount = 0.0
+afterBasePercentReduction = 0.0
+
+[gauntlet.crafting]
+repairItem = ["minecraft:netherite_ingot"]
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"

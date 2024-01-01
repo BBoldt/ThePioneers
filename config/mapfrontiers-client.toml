@@ -1,0 +1,86 @@
+#Range: 0 ~ 11
+newFrontierShape = 0
+#Range: 0 ~ 999
+newFrontierShapeWidth = 10
+#Range: 0 ~ 999
+newFrontierShapeRadius = 20
+#Range: 0 ~ 7
+newFrontierChunkShape = 0
+#Range: 0 ~ 32
+newFrontierChunkShapeWidth = 5
+#Range: 0 ~ 32
+newFrontierChunkShapeLength = 5
+#Allowed Values: Vertex, Chunk
+newFrontierMode = "Vertex"
+#Allowed Values: Info, Edit, Nothing
+afterCreatingFrontier = "Info"
+pasteName = false
+pasteVisibility = true
+pasteColor = true
+pasteBanner = true
+pasteOptionsVisible = false
+#Show buttons on fullscreen map.
+fullscreenButtons = true
+#Force all frontier to be shown or hidden on the fullscreen map. In Manual you can decide for each frontier.
+#Allowed Values: Custom, Always, Never
+fullscreenVisibility = "Custom"
+#Force all frontier names to be shown or hidden on the fullscreen map. In Manual you can decide for each frontier.
+#Allowed Values: Custom, Always, Never
+fullscreenNameVisibility = "Custom"
+#Force all frontier owners to be shown or hidden on the fullscreen map. In Manual you can decide for each frontier.
+#Allowed Values: Custom, Always, Never
+fullscreenOwnerVisibility = "Custom"
+#Force all frontier to be shown or hidden on the minimap. In Manual you can decide for each frontier.
+#Allowed Values: Custom, Always, Never
+minimapVisibility = "Custom"
+#Force all frontier names to be shown or hidden on the minimap. In Manual you can decide for each frontier.
+#Allowed Values: Custom, Always, Never
+minimapNameVisibility = "Custom"
+#Force all frontier owners to be shown or hidden on the minimap. In Manual you can decide for each frontier.
+#Allowed Values: Custom, Always, Never
+minimapOwnerVisibility = "Custom"
+#Show the frontier announcement above the hotbar instead of showing it as a title.
+titleAnnouncementAboveHotbar = false
+#Announce unnamed frontiers in chat/title.
+announceUnnamedFrontiers = false
+#Hides the name if it is wider than the frontier at the zoom level it is being viewed.
+hideNamesThatDontFit = true
+#Transparency of the frontier polygons. 0.0 is fully transparent and 1.0 is opaque.
+#Range: 0.0 ~ 1.0
+polygonsOpacity = 0.4
+#Distance at which vertices are attached to nearby vertices.
+#Range: 0 ~ 16
+snapDistance = 8
+#Allowed Values: All, Global, Personal
+filterFrontierType = "All"
+#Allowed Values: All, You, Others
+filterFrontierOwner = "All"
+filterFrontierDimension = "all"
+
+[hud]
+	#Show the HUD on screen.
+	enabled = true
+	#Automatically switch to nearest anchor when HUD position is edited (on settings screen).
+	autoAdjustAnchor = true
+	#Automatically snap to closest border when HUD position is edited (on settings screen).
+	snapToBorder = true
+	#Size of the HUD banner.
+	#Range: 1 ~ 8
+	bannerSize = 3
+	#HUD element on slot 1.
+	#Allowed Values: None, Name, Owner, Banner
+	slot1 = "Name"
+	#HUD element on slot 2.
+	#Allowed Values: None, Name, Owner, Banner
+	slot2 = "Owner"
+	#HUD element on slot 3.
+	#Allowed Values: None, Name, Owner, Banner
+	slot3 = "Banner"
+	#Anchor point of the HUD. In the case of choosing the minimap as an anchor, its default position will be used as a reference in the coordinates.
+	#Allowed Values: ScreenTop, ScreenTopRight, ScreenRight, ScreenBottomRight, ScreenBottom, ScreenBottomLeft, ScreenLeft, ScreenTopLeft, Minimap, MinimapHorizontal, MinimapVertical
+	anchor = "MinimapHorizontal"
+	#Range: > -2147483648
+	xPosition = 0
+	#Range: > -2147483648
+	yPosition = 0
+

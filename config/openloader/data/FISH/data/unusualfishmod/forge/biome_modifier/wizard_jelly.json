@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:ocean",
+	"sgjourney:lantean_deep_ocean"
+  ],
+  "spawners":
+  {
+    "type": "unusualfishmod:wizard_jelly",
+    "weight": 20,
+    "minCount": 3,
+    "maxCount": 4
+  }
+}

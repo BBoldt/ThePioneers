@@ -3,7 +3,7 @@
 [overworld]
 	#The weighting of primary bop biome regions in the overworld.
 	#Range: > 0
-	bop_primary_overworld_region_weight = 10
+	bop_primary_overworld_region_weight = 11
 	#The weighting of secondary bop biome regions in the overworld.
 	#Range: > 0
 	bop_secondary_overworld_region_weight = 8

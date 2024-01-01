@@ -1,0 +1,44 @@
+{
+  "type": "embers:cave_structure",
+  "biomes": {
+    "type": "forge:and",
+    "values": [
+      {
+        "type": "forge:or",
+        "values": [
+          "#minecraft:is_overworld"
+        ]
+      },
+      {
+        "type": "forge:not",
+        "value": {
+          "type": "forge:or",
+          "values": [
+            "minecraft:deep_dark"
+          ]
+        }
+      }
+    ]
+  },
+  "max_distance_from_center": 80,
+  "size": 2,
+  "spawn_overrides": {
+    "monster": {
+      "bounding_box": "full",
+      "spawns": [
+        {
+          "type": "embers:ancient_golem",
+          "maxCount": 1,
+          "minCount": 1,
+          "weight": 20
+        }
+      ]
+    }
+  },
+  "start_height": {
+    "above_bottom": 100
+  },
+  "start_pool": "embers:small_ruin",
+  "step": "underground_structures",
+  "use_expansion_hack": false
+}

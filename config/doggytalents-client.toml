@@ -1,7 +1,5 @@
 
 ["Dog Render"]
-	#Enables the particle effect on Dire Level 30 dogs.
-	enable_dire_particles = true
 	#When enabled, dogs with points in pack puppy will have chests on their side.
 	render_chest = true
 	#If disabled will use the default minecraft wolf skin for all dog textures.
@@ -48,4 +46,15 @@
 	#This can be disabled if you prefer not to render it on some
 	#less compatible model.
 	mouth_item_force_render = true
+	#Enables the particle effect on Full Kami dogs.
+	enable_kami_particles = false
+	#Do not render dogs' name whose owner is not you.
+	render_diffowner_name_dont = false
+	#ALways render dog nametags regardless even if player blocks it by F1 mode.
+	always_render_dog_name = false
+	#Specify the max latency allowed before force adjusting the animation time
+	#clientside to sync with server's animation time. The unit is in ticks.
+	#Provide a non positive integer to disable this. Value from 0 to 7 both inclusive will be defaulted to 7.
+	#Range: > -2147483648
+	max_animation_latency_allowed = 10
 

@@ -1,0 +1,36 @@
+{
+  "ability": {
+    "abilities": {
+      "tendon": {
+        "requiredPoints": 1,
+        "requiredLevel": 0,
+        "maxLevel": 10,
+        "stats": {
+          "damage": {
+            "minInitialValue": 3.0,
+            "maxInitialValue": 5.0,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.075
+          },
+          "distance": {
+            "minInitialValue": 3.0,
+            "maxInitialValue": 5.0,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.25
+          },
+          "cooldown": {
+            "minInitialValue": 15.0,
+            "maxInitialValue": 7.5,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": -0.075
+          }
+        }
+      }
+    }
+  },
+  "leveling": {
+    "initialCost": 100,
+    "maxLevel": 10,
+    "step": 200
+  }
+}

@@ -1,0 +1,17 @@
+#Put quiver preview near the center of the screen, rather than edge of the screen
+previewOnCenter = true
+#Reverse scrolling direction for quick swap
+reverseScroll = false
+#Backpack inventory quick insert requires shift click
+backpackInsertRequiresShift = false
+#Backpack inventory quick insert allows left click insert
+backpackEnableLeftClickInsert = true
+#Backpack inventory quick insert allows right click insert
+backpackEnableRightClickInsert = true
+#Show arrow quick swap when switching to a bow
+popupArrowOnSwitch = true
+#Show tool quick swap when switching to a tool
+popupToolOnSwitch = false
+#Show armor quick swap when switching to empty hand
+popupArmorOnSwitch = false
+

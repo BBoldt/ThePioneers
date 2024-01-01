@@ -16,6 +16,12 @@ playSempiternalSanctumMusic = true
 # Whether to show the item on the Bee Queen that the Queen wants for Bonus Trades.
 #
 renderBeeQueenBonusTradeItem = true
+# 
+#-----------------------------------------------------
+#  Whether to not render the shader for Essence Blocks.
+#  Will default to normal block textures instead.
+#
+disableEssenceBlockShaders = false
 
 ["The Bumblezone Client Dimension Options"]
 	# 

@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#minecraft:is_overworld",
+  "spawners":
+  {
+    "type": "unusualfishmod:blind_sailfin",
+    "weight": 30,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

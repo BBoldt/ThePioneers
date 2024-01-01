@@ -1,0 +1,24 @@
+{
+  "ability": {
+    "abilities": {
+      "walking": {
+        "requiredPoints": 1,
+        "requiredLevel": 0,
+        "maxLevel": 10,
+        "stats": {
+          "time": {
+            "minInitialValue": 30.0,
+            "maxInitialValue": 60.0,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.1
+          }
+        }
+      }
+    }
+  },
+  "leveling": {
+    "initialCost": 100,
+    "maxLevel": 10,
+    "step": 100
+  }
+}

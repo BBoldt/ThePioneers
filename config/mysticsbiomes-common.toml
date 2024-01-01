@@ -1,0 +1,13 @@
+
+#Mystic's Biomes
+#Common Config Center
+["World Gen"]
+	#The higher the number, the more common the biomes will be.
+	#Default: 4
+	"Biome Region Weight" = 4
+	#Determines if each biome will generate or not.
+	"Enable Strawberry Fields" = true
+	"Enable Bamboo Blossom Forest" = true
+	"Enable Lavender Meadow" = true
+	"Enable Autumnal Grove" = true
+

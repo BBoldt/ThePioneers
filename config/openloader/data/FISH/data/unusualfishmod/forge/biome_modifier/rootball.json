@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:beach"
+  ],
+  "spawners":
+  {
+    "type": "unusualfishmod:aero_mono",
+    "weight": 30,
+    "minCount": 3,
+    "maxCount": 5
+  }
+}

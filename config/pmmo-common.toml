@@ -1,0 +1,35 @@
+
+#===============================================
+#
+#
+#Most Configurations are found in the server config
+#You can find that in worldname/serverconfig/
+#
+#
+#===============================================
+[Common]
+
+	#PMMO Error Logging Configuration
+	#
+	#===================================================
+	#To enable Logging with MsLoggy, enter a logging
+	#keyword into the logging level list that you want.
+	#the list of keywords are (lowercase only):
+	#'api', 'autovalues', 'chunk', 'data', 'event', 
+	#'feature', 'gui', 'loading', 'network', and 'xp'
+	#===================================================
+	[Common."Ms Loggy"]
+		#Which MsLoggy info logging should be enabled?  This will flood your log with data, but provides essential details
+		# when trying to find data errors and bug fixing.  
+		"Info Logging" = ["loading", "network", "api"]
+		#Which MsLoggy debug logging should be enabled?  This will flood your log with data, but provides essential details
+		# when trying to find bugs. DEVELOPER SETTING (mostly).  
+		"Debug Logging" = ["autovalues"]
+		#Which MsLoggy warn logging should be enabled?  This log type is helpful for catching important but non-fatal issues
+		"Warn Logging" = ["api"]
+		#Which Error Logging should be enabled.  it is highly recommended this stay true.  however, you can
+		#disable it to remove pmmo errors from the log.
+		"Error Logging" = ["data", "api"]
+		#Which MsLoggy fatal logging should be enabled?  I can't imagine a situation where you'd want this off, but here you go.
+		"Fatal Logging" = ["api"]
+

@@ -22,6 +22,10 @@
 	dummy_decoy = false
 
 [mobs_damage_numbers]
-	enabled = false
-	player_only = true
+	#Show damage taken form
+	#Allowed Values: ALL_ENTITIES, ALL_PLAYERS, LOCAL_PLAYER, NONE
+	damage_mode = "NONE"
+	#Show healing taken for
+	#Allowed Values: ALL_ENTITIES, ALL_PLAYERS, LOCAL_PLAYER, NONE
+	healing_mode = "NONE"
 

@@ -1,0 +1,43 @@
+{
+  "ability": {
+    "abilities": {
+      "unsinkable": {
+        "requiredPoints": 1,
+        "requiredLevel": 0,
+        "maxLevel": 0,
+        "stats": {}
+      },
+      "shock": {
+        "requiredPoints": 1,
+        "requiredLevel": 0,
+        "maxLevel": 10,
+        "stats": {
+          "damage": {
+            "minInitialValue": 0.5,
+            "maxInitialValue": 2.5,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.2
+          }
+        }
+      },
+      "paralysis": {
+        "requiredPoints": 1,
+        "requiredLevel": 5,
+        "maxLevel": 10,
+        "stats": {
+          "duration": {
+            "minInitialValue": 0.5,
+            "maxInitialValue": 1.5,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.1
+          }
+        }
+      }
+    }
+  },
+  "leveling": {
+    "initialCost": 100,
+    "maxLevel": 10,
+    "step": 200
+  }
+}

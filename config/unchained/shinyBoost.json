@@ -1,0 +1,15 @@
+{
+  "koStreakPoints": 1,
+  "koCountPoints": 0,
+  "captureStreakPoints": 0,
+  "captureCountPoints": 0,
+  "effectiveRange": 64,
+  "thresholds": {
+    "100": 1,
+    "300": 2,
+    "500": 3
+  },
+  "debug": false,
+  "blacklist": [],
+  "whitelist": []
+}

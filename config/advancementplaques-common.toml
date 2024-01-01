@@ -16,12 +16,13 @@
 		goals = true
 		# If plaques should show for challenge advancements (high-difficulty advancements).
 		challenges = true
-		# Text color to use for plaque titles (like "Advancement made!"). Can be entered as an 8-digit hex color code 0xAARRGGBB for convenience.
-		#Range: 0 ~ 4294967295
+		# Text color to use for plaque titles (like "Advancement made!"). Can be entered as an 8-digit hex color code #AARRGGBB for convenience. If Prism library is installed, any Prism color definition is supported.
 		title_color = 4281541120
-		# Text color to use for advancement names on plaques. Can be entered as an 8-digit hex color code 0xAARRGGBB for convenience.
-		#Range: 0 ~ 4294967295
+		# Text color to use for advancement names on plaques. Can be entered as an 8-digit hex color code #AARRGGBB for convenience. If Prism library is installed, any Prism color definition is supported.
 		name_color = 4294967295
+		# The horizontal offset from the center, in pixels.
+		#Range: -256 ~ 256
+		horizontal_offset = 0
 
 	[client.duration_options]
 		# Duration of the shiny effect fade in for tasks.
@@ -54,11 +55,21 @@
 
 	[client.functionality_options]
 		# Whitelist of advancements to show plaques for.  Leave empty to display for all.
+		# Same options available as blacklist.
 		whitelist = []
-		# If task sounds should be muted.
-		mute_tasks = false
-		# If goal sounds should be muted.
-		mute_goals = false
-		# If challenge sounds should be muted.
-		mute_challenges = false
+		# Blacklist of advancements to never show plaques for.  Takes precedence over whitelist if they conflict.
+		# Options:
+		#  Advancement ID (eg. "minecraft:adventure/adventuring_time")
+		#  Mod ID (Omit the colon, eg. "minecraft")
+		#  Advancement Category (End with a /, eg. "minecraft:story/")
+		blacklist = []
+		# Volume of task sounds.  Set to 0 to mute.
+		#Range: 0.0 ~ 1.0
+		task_volume = 1.0
+		# Volume of goal sounds.  Set to 0 to mute.
+		#Range: 0.0 ~ 1.0
+		goal_volume = 1.0
+		# Volume of challenge sounds.  Set to 0 to mute.
+		#Range: 0.0 ~ 1.0
+		challenge_volume = 1.0
 

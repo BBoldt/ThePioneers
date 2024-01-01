@@ -1,0 +1,8 @@
+#Show inventory tabs
+showTabs = true
+#Show inventory tabs only in curio page. Only works when showTabs is true and curio is installed.
+showTabsOnlyCurio = false
+#Number of attribure lines per page
+#Range: 1 ~ 100
+attributeLinePerPage = 15
+

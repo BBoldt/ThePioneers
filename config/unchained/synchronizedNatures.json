@@ -1,0 +1,12 @@
+{
+  "koStreakPoints": 1,
+  "koCountPoints": 0,
+  "captureStreakPoints": 0,
+  "captureCountPoints": 0,
+  "effectiveRange": 64,
+  "mustBeFirst": true,
+  "debug": false,
+  "blacklist": [],
+  "whitelist": [],
+  "percentChance": 0.5
+}

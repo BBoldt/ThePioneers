@@ -1,0 +1,37 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "biomesoplenty:coniferous_forest",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:lavender_forest",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:old_growth_woodland",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:ominous_woods",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:rainforest",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:redwood_forest",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:snowy_maple_woods",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:saguaro_desert",
+            "required": false
+        }
+    ]
+  }

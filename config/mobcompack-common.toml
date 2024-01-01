@@ -1,0 +1,9 @@
+
+#Modify mob parameters
+["Mob Configs"]
+	#Determines whether or not Crystalline Slimes have thorns or not.
+	crystalSlimeThornToggle = true
+	#Changes the odds that Crystalline Slime Thorns will trigger
+	#Range: 0 ~ 100
+	jawbreakerspawn = 35
+

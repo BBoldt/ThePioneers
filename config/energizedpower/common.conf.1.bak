@@ -268,6 +268,76 @@ block.time_controller.capacity = 8388608
 # [Validation]: Value >= 1
 block.time_controller.transfer_rate = 32768
 
+# The energy capacity of the Teleporter in FE
+# [Default value]: 8388608
+# [Validation]: Value >= 1
+block.teleporter.capacity = 8388608
+
+# The energy transfer rate of the Teleporter in FE per tick
+# [Default value]: 65536
+# [Validation]: Value >= 1
+block.teleporter.transfer_rate = 65536
+
+# Intra dimensional teleportation (= within a dimension) is not allowed if set to false.
+# [Default value]: true
+block.teleporter.intra_dimensional_enabled = true
+
+# Inter dimensional teleportation (= across multiple dimension) is not allowed if set to false.
+# [Default value]: true
+block.teleporter.inter_dimensional_enabled = true
+
+# Teleportation within, from, and to dimensions in this list are not allowed.
+# [Default value]: []
+# [Validation]: Syntax (whitespaces are ignored): [namespace1:path1, namespace2:path2, ...]
+block.teleporter.dimension_blacklist = []
+
+# Teleportation within dimensions in this list are not allowed.
+# Teleportation to and from dimensions in this list are still allowed.
+#
+# [Default value]: []
+# [Validation]: Syntax (whitespaces are ignored): [namespace1:path1, namespace2:path2, ...]
+block.teleporter.intra_dimensional_blacklist = []
+
+# Teleportation from dimensions in this list are not allowed.
+# Teleportation within and to dimensions in this list are still allowed.
+#
+# [Default value]: []
+# [Validation]: Syntax (whitespaces are ignored): [namespace1:path1, namespace2:path2, ...]
+block.teleporter.inter_dimension_from_blacklist = []
+
+# Teleportation to dimensions in this list are not allowed.
+# Teleportation within and from dimensions in this list are still allowed.
+#
+# [Default value]: []
+# [Validation]: Syntax (whitespaces are ignored): [namespace1:path1, namespace2:path2, ...]
+block.teleporter.inter_dimension_to_blacklist = []
+
+# Teleportation within, from, and to dimension types in this list are not allowed.
+# [Default value]: []
+# [Validation]: Syntax (whitespaces are ignored): [namespace1:path1, namespace2:path2, ...]
+block.teleporter.dimension_type_blacklist = []
+
+# Teleportation within dimension types in this list are not allowed.
+# Teleportation to and from dimension types in this list are still allowed.
+#
+# [Default value]: []
+# [Validation]: Syntax (whitespaces are ignored): [namespace1:path1, namespace2:path2, ...]
+block.teleporter.intra_dimensional_type_blacklist = []
+
+# Teleportation from dimension types in this list are not allowed.
+# Teleportation within and to dimension types in this list are still allowed.
+#
+# [Default value]: []
+# [Validation]: Syntax (whitespaces are ignored): [namespace1:path1, namespace2:path2, ...]
+block.teleporter.inter_dimension_from_type_blacklist = []
+
+# Teleportation to dimension types in this list are not allowed.
+# Teleportation within and from dimension types in this list are still allowed.
+#
+# [Default value]: []
+# [Validation]: Syntax (whitespaces are ignored): [namespace1:path1, namespace2:path2, ...]
+block.teleporter.inter_dimension_to_type_blacklist = []
+
 # The energy capacity of the Coal Engine in FE
 # [Default value]: 2048
 # [Validation]: Value >= 1

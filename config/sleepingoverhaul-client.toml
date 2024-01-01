@@ -1,0 +1,6 @@
+
+[clientGeneral]
+	# The action to perform when all players are sleeping
+	#Allowed Values: SurfaceOrbit, SurfaceRotation, None
+	timelapseCameraType = "SurfaceOrbit"
+

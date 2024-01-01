@@ -1,0 +1,18 @@
+#Render Traits in name plate form
+showTraitOverHead = false
+#Render mob level in name plate form
+showLevelOverHead = false
+#Name plate render distance
+#Range: 0 ~ 128
+overHeadRenderDistance = 32
+#Show nameplate style trait and name only when hovered
+showOnlyWhenHovered = false
+#Detector Glasses glowing range for hidden mobs
+#Range: 1 ~ 256
+glowingRangeHidden = 32
+#Detector Glasses glowing range for nearby mobs
+#Range: 1 ~ 256
+glowingRangeNear = 16
+#Render undying particles
+showUndyingParticles = true
+

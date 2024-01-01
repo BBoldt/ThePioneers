@@ -1,0 +1,8 @@
+{
+	// The maximum distance in blocks the player can be away from a spider in order for the it to produce a web periodically.
+	// min: 1, max: 256
+	"maxDistanceToSpiderBlocks": 32,
+	// The delay in between spiders producing a web in ticks (1 second = 20 ticks).
+	// min: 1, max: 72000
+	"spiderWebProduceDelayTicks": 12000
+}

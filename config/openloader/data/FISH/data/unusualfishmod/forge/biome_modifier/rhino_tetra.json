@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:river",
+	"sgjourney:lantean_deep_ocean"
+  ],
+  "spawners":
+  {
+    "type": "unusualfishmod:rhino_tetra",
+    "weight": 30,
+    "minCount": 3,
+    "maxCount": 5
+  }
+}

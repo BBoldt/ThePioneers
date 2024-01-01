@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#minecraft:is_overworld",
+  "spawners":
+  {
+    "type": "unusualfishmod:deep_crawler",
+    "weight": 30,
+    "minCount": 1,
+    "maxCount": 2
+  }
+}

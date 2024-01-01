@@ -1,0 +1,34 @@
+#maximum available rank (Not implemented. Don't change.)
+#Range: 5 ~ 5
+maxRank = 5
+#maximum level per rank (Not tested. Don't change)
+#Range: 1 ~ 100
+maxLevelPerRank = 4
+#level per sub stats granted (Not Tested. Don't change)
+#Range: 1 ~ 100
+levelPerSubStat = 4
+#maximum available slots for artifact pocket
+#Range: 64 ~ 1024
+storageSmall = 256
+#maximum available slots for upgraded artifact pocket
+#Range: 64 ~ 1024
+storageLarge = 512
+#exponential experience requirement per rank
+#Range: 1.0 ~ 10.0
+expConsumptionRankFactor = 2.0
+#exponential experience requirement per level
+#Range: 1.0 ~ 10.0
+expLevelFactor = 1.05
+#experience requirement for level 0 rank 1 artifact
+#Range: 1 ~ 10000
+baseExpConsumption = 100
+#experience retained for using upgraded artifact to upgrade
+#Range: 0.0 ~ 1.0
+expRetention = 0.9
+#experience available for level 0 rank 1 artifact
+#Range: 1 ~ 1000000
+baseExpConversion = 100
+#exponential experience available per rank
+#Range: 1.0 ~ 10.0
+expConversionRankFactor = 2.0
+

@@ -1,0 +1,46 @@
+[
+  {
+    "biomeName": "terralith:skylands_summer",
+    "chance": 10
+  },
+  {
+    "biomeName": "terralith:lavender_forest",
+    "chance": 3
+  },
+  {
+    "biomeName": "terralith:amethyst_canyon",
+    "chance": 15
+  },
+  {
+    "biomeName": "terralith:arid_highlands",
+    "chance": 3
+  },
+  {
+    "biomeName": "terralith:hot_shrublands",
+    "chance": 3
+  },
+  {
+    "biomeName": "terralith:moonlight_grove",
+    "chance": 5
+  },
+  {
+    "biomeName": "terralith:lavender_valley",
+    "chance": 3
+  },
+  {
+    "biomeName": "terralith:savanna_badlands",
+    "chance": 5
+  },
+  {
+    "biomeName": "terralith:tropical_jungle",
+    "chance": 5
+  },
+  {
+    "biomeName": "terralith:amethyst_rainforest",
+    "chance": 20
+  },
+  {
+    "biomeName": "terralith:moonlight_valley",
+    "chance": 5
+  }
+]

@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "biomesoplenty:highland",
+            "required": false
+        },
+		{
+            "id": "deep_aether:golden_heights",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:chalk_cliffs",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:highland_fields",
+            "required": false
+        }
+    ]
+  }

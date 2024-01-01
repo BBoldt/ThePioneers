@@ -1,0 +1,61 @@
+{
+  "ability": {
+    "abilities": {
+      "freeze": {
+        "requiredPoints": 1,
+        "requiredLevel": 5,
+        "maxLevel": 10,
+        "stats": {
+          "duration": {
+            "minInitialValue": 0.75,
+            "maxInitialValue": 1.0,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.075
+          },
+          "chance": {
+            "minInitialValue": 0.05,
+            "maxInitialValue": 0.15,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.1
+          }
+        }
+      },
+      "warming": {
+        "requiredPoints": 1,
+        "requiredLevel": 0,
+        "maxLevel": 0,
+        "stats": {}
+      },
+      "icicle": {
+        "requiredPoints": 1,
+        "requiredLevel": 0,
+        "maxLevel": 10,
+        "stats": {
+          "amount": {
+            "minInitialValue": 3.0,
+            "maxInitialValue": 7.0,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.5
+          },
+          "chance": {
+            "minInitialValue": 0.4,
+            "maxInitialValue": 0.75,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": -0.035
+          },
+          "cooldown": {
+            "minInitialValue": 7.5,
+            "maxInitialValue": 5.0,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": -0.05
+          }
+        }
+      }
+    }
+  },
+  "leveling": {
+    "initialCost": 100,
+    "maxLevel": 10,
+    "step": 200
+  }
+}

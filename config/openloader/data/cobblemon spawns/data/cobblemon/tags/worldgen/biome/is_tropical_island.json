@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "biomesoplenty:tropics",
+            "required": false
+        },
+		{
+            "id": "rats:ratlantis",
+            "required": false
+        }
+    ]
+  }

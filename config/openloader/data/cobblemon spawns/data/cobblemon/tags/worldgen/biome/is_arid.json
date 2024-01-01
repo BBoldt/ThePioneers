@@ -1,0 +1,26 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "biomesoplenty:dune_beach",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:lush_desert",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:wasteland",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:wasteland_steppe",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:shrubland",
+            "required": false
+        }
+    ]
+  }
+  

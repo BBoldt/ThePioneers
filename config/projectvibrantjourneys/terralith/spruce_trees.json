@@ -1,0 +1,70 @@
+[
+  {
+    "biomeName": "terralith:alpine_grove",
+    "chance": 5
+  },
+  {
+    "biomeName": "terralith:highlands",
+    "chance": 3
+  },
+  {
+    "biomeName": "terralith:wintry_lowlands",
+    "chance": 15
+  },
+  {
+    "biomeName": "terralith:moonlight_grove",
+    "chance": 5
+  },
+  {
+    "biomeName": "terralith:shield",
+    "chance": 10
+  },
+  {
+    "biomeName": "terralith:siberian_taiga",
+    "chance": 10
+  },
+  {
+    "biomeName": "terralith:forested_highlands",
+    "chance": 10
+  },
+  {
+    "biomeName": "terralith:yellowstone",
+    "chance": 10
+  },
+  {
+    "biomeName": "terralith:cold_shrublands",
+    "chance": 5
+  },
+  {
+    "biomeName": "terralith:alpine_highlands",
+    "chance": 5
+  },
+  {
+    "biomeName": "terralith:lush_valley",
+    "chance": 10
+  },
+  {
+    "biomeName": "terralith:bryce_canyon",
+    "chance": 5
+  },
+  {
+    "biomeName": "terralith:rocky_shrublands",
+    "chance": 5
+  },
+  {
+    "biomeName": "terralith:wintry_forest",
+    "chance": 15
+  },
+  {
+    "biomeName": "terralith:skylands_winter",
+    "chance": 10
+  },
+  {
+    "biomeName": "terralith:snowy_shield",
+    "chance": 10
+  },
+  {
+    "biomeName": "terralith:moonlight_valley",
+    "chance": 5
+  }
+]

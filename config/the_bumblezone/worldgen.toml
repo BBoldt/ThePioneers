@@ -24,4 +24,12 @@
 	#
 	#Range: 0.0 ~ 1.0
 	spawnerRateSpiderBeeDungeon = 0.2
+	# 
+	#-----------------------------------------------------
+	#
+	# How rare Tree Dungeons are. Higher numbers means more rare.
+	# Default rate is 1. Setting to 1001 will disable Tree Dungeons.
+	#
+	#Range: 1 ~ 1001
+	treeDungeonRarity = 2
 

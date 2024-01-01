@@ -1,0 +1,36 @@
+{
+  "ability": {
+    "abilities": {
+      "explode": {
+        "requiredPoints": 1,
+        "requiredLevel": 0,
+        "maxLevel": 10,
+        "stats": {
+          "damage": {
+            "minInitialValue": 0.25,
+            "maxInitialValue": 0.5,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.5
+          },
+          "stun": {
+            "minInitialValue": 0.05,
+            "maxInitialValue": 0.25,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.25
+          },
+          "capacity": {
+            "minInitialValue": 20.0,
+            "maxInitialValue": 60.0,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.35
+          }
+        }
+      }
+    }
+  },
+  "leveling": {
+    "initialCost": 100,
+    "maxLevel": 10,
+    "step": 200
+  }
+}

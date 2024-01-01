@@ -1,0 +1,42 @@
+{
+  "ability": {
+    "abilities": {
+      "mold": {
+        "requiredPoints": 1,
+        "requiredLevel": 0,
+        "maxLevel": 10,
+        "stats": {
+          "damage": {
+            "minInitialValue": 0.05,
+            "maxInitialValue": 0.25,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.1
+          },
+          "freeze": {
+            "minInitialValue": 1.0,
+            "maxInitialValue": 2.0,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.3
+          },
+          "size": {
+            "minInitialValue": 12.0,
+            "maxInitialValue": 32.0,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.2
+          },
+          "stun": {
+            "minInitialValue": 0.025,
+            "maxInitialValue": 0.05,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.15
+          }
+        }
+      }
+    }
+  },
+  "leveling": {
+    "initialCost": 100,
+    "maxLevel": 10,
+    "step": 100
+  }
+}

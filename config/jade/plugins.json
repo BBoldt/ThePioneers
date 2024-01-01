@@ -51,9 +51,10 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "deepresonance": {
-    "crystal": true,
-    "generator_part": true
+  "treechop": {
+    "plugin": true,
+    "show_tree_block_counts": true,
+    "show_num_chops_remaining": true
   },
   "endertanks": {
     "hud.basic": true,
@@ -61,9 +62,11 @@
     "hud.status": true,
     "hud.contents": true
   },
-  "endercrop": {
-    "endercrop": true,
-    "endstone": true
+  "cobblemonintegrations": {
+    "healer": true,
+    "apricorn": true,
+    "pokemon_entity": true,
+    "berry_bush": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -73,41 +76,11 @@
     "registry_name": "OFF",
     "mod_name": true
   },
-  "mcjtylib": {
-    "jadeaddons": true
-  },
-  "lootr": {
-    "info": true
-  },
-  "refinedcooking": {
-    "kitchen_access_point": true,
-    "kitchen_station": true
-  },
-  "ars_nouveau": {
-    "mob_jar": true
-  },
-  "jadeaddons": {
-    "equipment_requirement": ""
-  },
-  "shetiphiancore": {
-    "hud.rgb16": true,
-    "hud": true,
-    "hud.redstone": true
-  },
-  "mysticalagradditions": {
-    "infused_farmland": true
-  },
-  "touhou_little_maid": {
-    "maid": true
-  },
-  "twilightforest": {
-    "quest_ram_wool": true
-  },
   "create": {
     "filter": true,
+    "backtank_capacity": true,
     "goggles.requires_goggles": true,
     "goggles": false,
-    "copper_backtank": true,
     "blaze_burner": true,
     "exact_block": true,
     "crafting_blueprint": true,
@@ -127,14 +100,77 @@
     "milk_jar": true,
     "toaster": true
   },
-  "mysticalagriculture": {
-    "infused_farmland": true,
-    "crop": true,
-    "inferium_crop": true
+  "securitycraft": {
+    "showowner": true,
+    "showmodules": true,
+    "info": true,
+    "showcustomname": true
   },
   "storagedrawers": {
     "display.stacklimit": true,
     "display.content": true,
     "display.status": true
+  },
+  "l2hostility": {
+    "mob": true
+  },
+  "deepresonance": {
+    "crystal": true,
+    "generator_part": true
+  },
+  "pneumaticcraft": {
+    "pneumatic": true,
+    "tube_module": true,
+    "entity": true,
+    "redstone": true,
+    "camo": true,
+    "semiblock": true
+  },
+  "mcjtylib": {
+    "jadeaddons": true
+  },
+  "lootr": {
+    "info": true
+  },
+  "refinedcooking": {
+    "kitchen_access_point": true,
+    "kitchen_station": true
+  },
+  "productivebees": {
+    "solitary_nest": true,
+    "jar": true,
+    "canvas_beehive": true,
+    "bee_attributes": true,
+    "productive_bee": true
+  },
+  "ars_nouveau": {
+    "mob_jar": true
+  },
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
+  "shetiphiancore": {
+    "hud.rgb16": true,
+    "hud": true,
+    "hud.redstone": true
+  },
+  "mysticalagradditions": {
+    "infused_farmland": true
+  },
+  "twilightforest": {
+    "quest_ram_wool": true
+  },
+  "supplementaries": {
+    "hat_stand": true
+  },
+  "mysticalagriculture": {
+    "infused_farmland": true,
+    "crop": true,
+    "inferium_crop": true
+  },
+  "drinkbeer": {
+    "mixed_beer": true,
+    "trade_box": true,
+    "beer_barrel": true
   }
 }

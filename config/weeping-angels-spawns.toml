@@ -1,0 +1,15 @@
+
+[spawn]
+	#The minimum amount of 'Weeping Angels' that spawn at each spawn attempt
+	#Range: 1 ~ 100
+	minCount = 1
+	#The maximum amount of 'Weeping Angels' that spawn at each spawn attempt
+	#Range: 1 ~ 100
+	maxCount = 3
+	#The weight of spawn in relation to other mods 'Weeping Angels' will spawn in. Less than 100 = Rarer
+	#Range: > 1
+	spawn_weight = 2
+	#'Weeping Angel' spawn classification
+	#Allowed Values: MONSTER, CREATURE, AMBIENT, AXOLOTLS, UNDERGROUND_WATER_CREATURE, WATER_CREATURE, WATER_AMBIENT, MISC
+	spawnType = "MONSTER"
+

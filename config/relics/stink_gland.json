@@ -1,0 +1,55 @@
+{
+  "ability": {
+    "abilities": {
+      "defense": {
+        "requiredPoints": 1,
+        "requiredLevel": 0,
+        "maxLevel": 10,
+        "stats": {
+          "duration": {
+            "minInitialValue": 2.0,
+            "maxInitialValue": 5.0,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.1
+          },
+          "cooldown": {
+            "minInitialValue": 20.0,
+            "maxInitialValue": 15.0,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": -0.05
+          },
+          "radius": {
+            "minInitialValue": 1.5,
+            "maxInitialValue": 3.0,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.1
+          }
+        }
+      },
+      "dash": {
+        "requiredPoints": 1,
+        "requiredLevel": 0,
+        "maxLevel": 10,
+        "stats": {
+          "cooldown": {
+            "minInitialValue": 10.0,
+            "maxInitialValue": 7.0,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": -0.075
+          },
+          "power": {
+            "minInitialValue": 0.75,
+            "maxInitialValue": 1.75,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.075
+          }
+        }
+      }
+    }
+  },
+  "leveling": {
+    "initialCost": 100,
+    "maxLevel": 10,
+    "step": 200
+  }
+}

@@ -93,6 +93,24 @@
 			#The energy required to keep the Stargate open after exceeding the maximum open time is multiplied by this number
 			#Range: > 1
 			energy_bypass_multiplier = 100000
+			#If true, allow the destruction of Blocks by Kawooshes
+			kawoosh_destroys_blocks = true
+			#If true, allow the disintegration of Entities by Kawooshes
+			kawoosh_disintegrates_entities = true
+			#If true, allow the disintegration of Items by Kawooshes
+			kawoosh_disintegrates_items = true
+			#Enables upgrading the Classic Stargate
+			enable_classic_stargate_upgrades = true
+			#Enables creating Stargate Variants
+			enable_stargate_variants = true
+			#If true, Stargate item will always display the 9-Chevron Address of the Stargate in the inventory
+			always_display_stargate_id = false
+			#The maximum amount of energy the Stargate can hold
+			#Range: 0 ~ 9223372036854775807
+			stargate_energy_capacity = 1000000000000
+			#The maximum amount of energy the Stargate can reveive at once
+			#Range: 0 ~ 9223372036854775807
+			stargate_energy_max_receive = 1000000000000
 
 	["Stargate Journey Common Config"."Naquadah Generator Config"]
 
@@ -149,6 +167,8 @@
 			#Z chunk bounds within which a Buried Stargate may generate
 			#Range: 0 ~ 64
 			buried_stargate_generation_z_bound = 64
+			#Stargates Network will not consider DHDs when choosing preferred Stargate
+			disable_dhd_preference = false
 
 	["Stargate Journey Common Config"."Tech Config"]
 

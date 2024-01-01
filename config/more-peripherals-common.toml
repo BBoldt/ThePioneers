@@ -1,0 +1,23 @@
+
+["Common Configs for More Peripherals"]
+	#Chance to get a mobs data when hit by a Spawner Card
+	#Range: 0.0 ~ 1.0
+	mobDataCaptureChance = 0.8999999761581421
+	#Conversion Rate for the Induction charger (1 RF = x Turtle Fuel
+	#Range: 0 ~ 15
+	conversionRate = 1
+	#Extraction Rate for each tick
+	#Range: 1 ~ 100
+	extractRate = 4
+	#Max Range for Magnetic Turtles
+	#Range: 1 ~ 32
+	maxRangeMagnet = 8
+	#Defines how many seconds between a solar turtle recharges 1 fuel to itself
+	#Range: 0.125 ~ 60.0
+	solarChargeRate = 1.0
+	#Does Magnetic Turtle uses fuel
+	magnetConsumesFuel = true
+	#Range for Keyboards
+	#Range: 1 ~ 128
+	keyboardRange = 16
+

@@ -1,0 +1,15 @@
+#Whether Pandora's Box will inject loot into loot tables
+allowLootTableInjection = true
+#How long a box will last (with continuous effects). Represented by 'chance to continue'.
+#Range: 0.0 ~ 1.0
+boxLongevity = 0.2
+#How many effects a box will have at once. Represented by 'chance for another effect'. Ex.: 0 for 'Always exactly one effect', 3 for '3 times the default chance'.
+#Range: 0.0 ~ 10.0
+boxIntensity = 1.0
+#The value up to which the intensity can increase. Keep in mind high values can cause strong lag.
+#Range: 1 ~ 100
+maxEffectsPerBox = 3
+#The chance for each effect to be 'positive'.
+#Range: 0.0 ~ 10.0
+goodEffectChance = 0.49
+

@@ -84,6 +84,20 @@
 		#Maximum lifetime in ticks of projectile.
 		lifetime = 160
 
+	[parameters.hearth_coil]
+		#The amount of ember consumed per tick.
+		ember_cost = 1.0
+		#The amount of heat gained per tick when consuming ember.
+		heating_speed = 1.0
+		#The amount of heat lost per tick when not consuming ember.
+		cooling_speed = 1.0
+		#The maximum heat value the hearth coil can reach without upgrades.
+		max_heat = 280.0
+		#The time in ticks it takes to cook 1 item at the highest heat.
+		min_cook_time = 20
+		#The time in ticks it takes to cook 1 item at the lowest heat.
+		max_cook_time = 300
+
 #Miscellaneous settings
 [misc]
 	#Codex entries need to be completed before the next one unlocks.

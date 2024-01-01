@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:mushroom_fields",
+	"sgjourney:lantean_deep_ocean"
+  ],
+  "spawners":
+  {
+    "type": "unusualfishmod:kalappa",
+    "weight": 8,
+    "minCount": 1,
+    "maxCount": 2
+  }
+}

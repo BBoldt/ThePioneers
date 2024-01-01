@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:deep_lukewarm_ocean",
+	"sgjourney:lantean_deep_ocean"
+  ],
+  "spawners":
+  {
+    "type": "unusualfishmod:trumpet_squid",
+    "weight": 20,
+    "minCount": 1,
+    "maxCount": 2
+  }
+}

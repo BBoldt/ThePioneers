@@ -1,0 +1,24 @@
+
+[behaviour]
+	#This section determines the behaviour of the Weeping Angels - if you wish to ban a block from being interacted with by Weeping Angels, you will need to create a datapack and edit weeping_angels:no_breaking
+	#Determines the range quantum locked entities will check if the player is looking in
+	#Range: 1 ~ 100
+	stalk_range = 65
+	#If enabled alongside the mobGriefing gamerule, angels will interact with blocks that emit light
+	block_breaking = true
+
+[damage]
+	#Hurt
+	#Allowed Values: PICKAXE, PICKAXE_AND_GENERATOR, NONE, GENERATOR, ANYTHING
+	hurt_type = "PICKAXE_AND_GENERATOR"
+
+[teleporting]
+	#Determines the range that a player can be teleported from their current location
+	#Range: > 1
+	teleport_range = 400
+	#Determines the chance a player will be teleported
+	#Range: 1 ~ 100
+	teleport_chance = 50
+	#A list of Dimensions that angels cannot teleport players to
+	banned_dimensions = ["minecraft:the_end", "bloodmagic:dungeon", "sgjourney:abydos", "sgjourney:chulak", "sgjourney:lantea", "mahoutsukai:reality_marble", "createteleporters:pocket_dimension", "graveyard:past", "the_bumblezone:the_bumblezone", "dimdungeons:build_dimension", "dimdungeons:dungeon_dimension"]
+

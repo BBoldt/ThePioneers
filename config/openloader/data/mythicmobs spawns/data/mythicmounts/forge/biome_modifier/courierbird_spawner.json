@@ -1,0 +1,28 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:jungle",
+    "minecraft:sparse_jungle",
+    "minecraft:bamboo_jungle",
+	"deep_aether:mystic_aerglow_forest",
+	"alexscaves:primordial_caves",
+	"mysticsbiomes:bamboo_blossom_forest",
+	"rats:ratlantis",
+	"regions_unexplored:eucalyptus_forest",
+	"regions_unexplored:rainforest",
+	"regions_unexplored:sparse_rainforest",
+	"regions_unexplored:tropics",
+	"sgjourney:abydos_oasis",
+	"the_bumblezone:floral_meadow",
+	"biomesoplenty:lush_desert",
+	"biomesoplenty:rainforest",
+	"biomesoplenty:rocky_rainforest",
+	"biomesoplenty:tropics"
+  ],
+  "spawners": {
+    "type": "mythicmounts:courierbird",
+    "weight": 20,
+    "minCount": 2,
+    "maxCount": 4
+  }
+}

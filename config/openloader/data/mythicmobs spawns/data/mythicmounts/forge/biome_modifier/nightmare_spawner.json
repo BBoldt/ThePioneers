@@ -1,0 +1,17 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:basalt_deltas",
+    "minecraft:soul_sand_valley",
+	"good_nights_sleep:nightmare_mound",
+	"good_nights_sleep:shameful_plains",
+	"good_nights_sleep:wasted_forest",
+	"deeperdarker:overcast_columns"
+  ],
+  "spawners": {
+    "type": "mythicmounts:nightmare",
+    "weight": 100,
+    "minCount": 2,
+    "maxCount": 3
+  }
+}

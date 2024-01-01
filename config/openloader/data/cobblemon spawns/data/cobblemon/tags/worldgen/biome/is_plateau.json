@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "biomesoplenty:wasteland_steppe",
+			"required": false
+		},
+		{
+			"id": "regions_unexplored:steppe",
+			"required": false
+		}
+	]
+}

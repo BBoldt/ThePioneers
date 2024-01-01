@@ -1,0 +1,30 @@
+{
+  "ability": {
+    "abilities": {
+      "swimming": {
+        "requiredPoints": 1,
+        "requiredLevel": 0,
+        "maxLevel": 10,
+        "stats": {
+          "duration": {
+            "minInitialValue": 15.0,
+            "maxInitialValue": 35.0,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.2
+          },
+          "speed": {
+            "minInitialValue": 0.005,
+            "maxInitialValue": 0.01,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.25
+          }
+        }
+      }
+    }
+  },
+  "leveling": {
+    "initialCost": 100,
+    "maxLevel": 10,
+    "step": 100
+  }
+}

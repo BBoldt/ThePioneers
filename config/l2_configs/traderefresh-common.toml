@@ -1,0 +1,11 @@
+banAllTradeEnchantmentsByDefault = false
+tradeNamespaceBlacklist = []
+tradeNamespaceWhitelist = ["minecraft"]
+tradeIdBlacklist = []
+tradeIdWhitelist = ["minecraft:unbreaking"]
+banAllTableEnchantmentsByDefault = false
+tableNamespaceBlacklist = []
+tableNamespaceWhitelist = ["minecraft"]
+tableIdBlacklist = []
+tableIdWhitelist = ["minecraft:unbreaking"]
+

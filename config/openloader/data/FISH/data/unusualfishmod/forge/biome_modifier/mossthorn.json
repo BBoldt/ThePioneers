@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:lush_caves",
+	"sgjourney:lantean_deep_ocean"
+  ],
+  "spawners":
+  {
+    "type": "unusualfishmod:mossthorn",
+    "weight": 20,
+    "minCount": 2,
+    "maxCount": 3
+  }
+}

@@ -95,11 +95,11 @@
       "weapon_attributes": "bettercombat:twin_blade"
     },
     {
-      "item_id_regex": "cutlass|scimitar|machete",
+      "item_id_regex": "cutlass|scimitar|machete|saber",
       "weapon_attributes": "bettercombat:cutlass"
     },
     {
-      "item_id_regex": "sword|blade",
+      "item_id_regex": "sword|blade|clarent|caliburn|morgan",
       "weapon_attributes": "bettercombat:sword"
     }
   ],

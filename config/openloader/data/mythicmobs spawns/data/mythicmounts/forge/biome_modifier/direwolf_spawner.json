@@ -1,0 +1,30 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:old_growth_spruce_taiga",
+    "minecraft:old_growth_pine_taiga",
+	"aether:skyroot_woodland",
+	"ars_nouveau:archwood_forest",
+	"good_nights_sleep:wasted_forest",
+	"nyctophobia:eroded_haunted_forest",
+	"nyctophobia:haunted_forest",
+	"regions_unexplored:ancient_delta",
+	"regions_unexplored:magnolia_woodland",
+	"regions_unexplored:old_growth_bayou",
+	"regions_unexplored:redwoods",
+	"regions_unexplored:willow_forest",
+	"sgjourney:milky_way_forest",
+	"twilightforest:dark_forest",
+	"twilightforest:spooky_forest",
+	"biomesoplenty:coniferous_forest",
+	"biomesoplenty:mystic_grove",
+	"biomesoplenty:ominous_woods",
+	"biomesoplenty:redwood_forest"
+  ],
+  "spawners": {
+    "type": "mythicmounts:direwolf",
+    "weight": 20,
+    "minCount": 2,
+    "maxCount": 4
+  }
+}

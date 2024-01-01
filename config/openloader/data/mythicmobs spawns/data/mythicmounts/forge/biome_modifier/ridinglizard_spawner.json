@@ -1,0 +1,17 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:desert",
+	"regions_unexplored:joshua_desert",
+	"regions_unexplored:outback",
+	"regions_unexplored:saguaro_desert",
+	"sgjourney:abydos_desert",
+	"biomesoplenty:lush_desert"
+  ],
+  "spawners": {
+    "type": "mythicmounts:ridinglizard",
+    "weight": 10,
+    "minCount": 2,
+    "maxCount": 3
+  }
+}

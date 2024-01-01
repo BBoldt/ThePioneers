@@ -1,0 +1,69 @@
+{
+  "ability": {
+    "abilities": {
+      "slots": {
+        "requiredPoints": 2,
+        "requiredLevel": 0,
+        "maxLevel": 10,
+        "stats": {
+          "talisman": {
+            "minInitialValue": 0.0,
+            "maxInitialValue": 2.0,
+            "upgradeOperation": "ADD",
+            "upgradeModifier": 1.0
+          }
+        }
+      },
+      "anchor": {
+        "requiredPoints": 1,
+        "requiredLevel": 0,
+        "maxLevel": 10,
+        "stats": {
+          "sinking": {
+            "minInitialValue": 5.0,
+            "maxInitialValue": 3.0,
+            "upgradeOperation": "ADD",
+            "upgradeModifier": -0.1
+          },
+          "slowness": {
+            "minInitialValue": 0.5,
+            "maxInitialValue": 0.25,
+            "upgradeOperation": "ADD",
+            "upgradeModifier": -0.05
+          }
+        }
+      },
+      "pressure": {
+        "requiredPoints": 1,
+        "requiredLevel": 0,
+        "maxLevel": 10,
+        "stats": {
+          "damage": {
+            "minInitialValue": 1.25,
+            "maxInitialValue": 2.0,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.1
+          }
+        }
+      },
+      "riptide": {
+        "requiredPoints": 1,
+        "requiredLevel": 0,
+        "maxLevel": 10,
+        "stats": {
+          "cooldown": {
+            "minInitialValue": 10.0,
+            "maxInitialValue": 5.0,
+            "upgradeOperation": "ADD",
+            "upgradeModifier": -0.5
+          }
+        }
+      }
+    }
+  },
+  "leveling": {
+    "initialCost": 100,
+    "maxLevel": 10,
+    "step": 100
+  }
+}

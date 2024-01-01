@@ -1,0 +1,14 @@
+{
+  "koStreakPoints": 100,
+  "koCountPoints": 1,
+  "captureStreakPoints": 0,
+  "captureCountPoints": 0,
+  "effectiveRange": 64,
+  "thresholds": {
+    "99": 1
+  },
+  "marbles": 5,
+  "debug": false,
+  "blacklist": [],
+  "whitelist": []
+}

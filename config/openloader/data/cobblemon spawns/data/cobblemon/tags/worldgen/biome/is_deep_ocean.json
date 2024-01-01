@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "alexscaves:abyssal_chasm",
+            "required": false
+        },
+		{
+            "id": "sgjourney:lantean_deep_ocean",
+            "required": false
+        }
+    ]
+  }

@@ -1,0 +1,20 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:mushroom_fields",
+	"alexscaves:forlorn_hollows",
+	"good_nights_sleep:good_dream_plains",
+	"regions_unexplored:bioshroom_caves",
+	"regions_unexplored:fungal_fen",
+	"sgjourney:chulak_plains",
+	"twilightforest:dense_mushroom_forest",
+	"twilightforest:mushroom_forest",
+	"biomesoplenty:fungal_jungle"
+  ],
+  "spawners": {
+    "type": "mythicmounts:colelytra",
+    "weight": 10,
+    "minCount": 2,
+    "maxCount": 3
+  }
+}

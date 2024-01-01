@@ -2,7 +2,7 @@
 #Config for Regions Unexplored!
 [region_configs]
 	#Enable this before changing the other region config files. If disabled, RU will use builtin biome placement.
-	toggle_custom_regions = false
+	toggle_custom_regions = true
 	#Sets Terrablender region weight for the primary region.
 	#Range: 0 ~ 2147483646
 	primary_region_weight = 11
@@ -11,10 +11,10 @@
 	secondary_region_weight = 8
 	#Sets Terrablender region weight for the rare region.
 	#Range: 0 ~ 2147483646
-	rare_region_weight = 1
+	rare_region_weight = 2
 	#Sets Terrablender region weight for Nether region.
 	#Range: 0 ~ 2147483646
-	nether_region_weight = 14
+	nether_region_weight = 13
 
 [biome_toggles]
 	#overworld_biomes

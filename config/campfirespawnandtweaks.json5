@@ -1,0 +1,21 @@
+{
+	// When enabled, a newly placed campfire will be unlit.
+	"campfiresStartUnlit": true,
+	// Crouching/Sneaking and right-clicking on a campfire unsets the campfire spawn point.
+	"sneakRightClickCampfireToUnset": true,
+	// When enabled, sneak/crouch + right-clicking a bed will override the campfire spawn point.
+	"bedsOverrideCampfireSpawnOnSneakRightClick": true,
+	// When enabled, the mod breaks the blocks above a campfire on respawn if it would somehow be blocked.
+	"createAirPocketIfBlocksAboveCampfire": true,
+	// When enabled, a message will be sent to the player whenever a new campfire spawn point is set.
+	"sendMessageOnNewCampfireSpawnSet": true,
+	// When enabled, a message will be sent to the player whenever a campfire spawn point is unset.
+	"sendMessageOnCampfireSpawnUnset": true,
+	// When enabled, a message will be sent to the player whenever a campfire spawn point is missing on respawn.
+	"sendMessageOnCampfireSpawnMissing": true,
+	// When enabled, a message will be sent to the player whenever a campfire spawn point is overridden by the PlayerSetSpawnEvent.
+	"sendMessageOnCampfireSpawnOverride": true,
+	// The duration of fire resistance when a player respawns at a campfire. A value of 0 disables this feature, and places the player next to the campfire instead.
+	// min: 0, max: 3600000
+	"fireResitanceDurationOnRespawnInMs": 10000
+}

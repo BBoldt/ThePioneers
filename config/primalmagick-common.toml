@@ -1,0 +1,9 @@
+
+#Misc settings
+[misc]
+	#Show affinities of blocks and items even without scanning them
+	showUnscannedAffinities = false
+	#Progress rate modifier for Research Table theory yields
+	#Allowed Values: SLOW, NORMAL, FAST
+	theorycraftSpeed = "NORMAL"
+

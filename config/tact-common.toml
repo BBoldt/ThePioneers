@@ -31,16 +31,9 @@ primitiveClubRandomExtraStunTime = 150
 restoreEndStory = false
 #----------------------------------
 #
-# How long Cloak of Darkness can keep you in Darkness Incarnate mode.
+# If enabled, this config makes the Compendium have all biomes and their info unlocked immediately on log-in.
 #
-#Range: 0 ~ 1000000
-cloakOfDarknessTickLength = 200
-#----------------------------------
-#
-# How many ticks is required till Cloak of Darkness can use Darkness Incarnate mode again.
-#
-#Range: 0 ~ 1000000
-cloakOfDarknessTicksTillRecharged = 1000
+unlockAllCompendiumInfo = false
 
 ["Mob Attack/Health Options"]
 	#Range: 1.0 ~ 1000000.0

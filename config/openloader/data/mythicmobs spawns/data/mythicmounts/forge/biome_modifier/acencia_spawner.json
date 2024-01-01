@@ -1,0 +1,28 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:grove",
+    "minecraft:snowy_taiga",
+	"aether:skyroot_grove",
+	"ars_nouveau:archwood_forest",
+	"good_nights_sleep:lollipop_lands",
+	"mysticsbiomes:autumnal_grove",
+	"regions_unexplored:alpha_grove",
+	"regions_unexplored:blackwood_taiga",
+	"regions_unexplored:cold_boreal_taiga",
+	"regions_unexplored:frozen_pine_taiga",
+	"regions_unexplored:temperate_grove",
+	"sgjourney:athos_forest",
+	"twilightforest:highlands",
+	"biomesoplenty:clover_patch",
+	"biomesoplenty:snowblossom_grove",
+	"biomesoplenty:snowy_fir_clearing",
+	"biomesoplenty:tundra"
+  ],
+  "spawners": {
+    "type": "mythicmounts:acencia",
+    "weight": 15,
+    "minCount": 2,
+    "maxCount": 3
+  }
+}

@@ -1,0 +1,37 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "biomesoplenty:fir_clearing",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:highland",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:origin_valley",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:volcanic_plains",
+            "required": false
+        },
+        {
+            "id": "good_nights_sleep:sleepy_hills",
+            "required": false
+        },
+        {
+            "id": "stellarity:frosted_hills",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:fen",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:mauve_hills",
+            "required": false
+        }
+    ]
+  }

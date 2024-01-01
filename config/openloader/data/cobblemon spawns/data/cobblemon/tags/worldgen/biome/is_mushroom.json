@@ -1,0 +1,33 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "biomesoplenty:fungal_jungle",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:glowing_grotto",
+            "required": false
+        },
+        {
+            "id": "alexscaves:forlorn_hollows",
+            "required": false
+        },
+		{
+            "id": "twilightforest:dense_mushroom_forest",
+            "required": false
+        },
+		{
+            "id": "twilightforest:mushroom_forest",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:bioshroom_caves",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:fungal_fen",
+            "required": false
+        }
+    ]
+  }

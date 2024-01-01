@@ -1,0 +1,6 @@
+
+#Client settings
+[client]
+	#When enabled makes the mobs look more gender neutral (default: false)
+	genderNeutral = false
+

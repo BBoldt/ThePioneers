@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:frozen_river",
+	"sgjourney:lantean_deep_ocean"
+  ],
+  "spawners":
+  {
+    "type": "unusualfishmod:pinkfin",
+    "weight": 20,
+    "minCount": 1,
+    "maxCount": 2
+  }
+}

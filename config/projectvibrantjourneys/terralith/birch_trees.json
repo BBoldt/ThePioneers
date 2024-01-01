@@ -1,0 +1,66 @@
+[
+  {
+    "biomeName": "terralith:shield",
+    "chance": 3
+  },
+  {
+    "biomeName": "terralith:skylands_spring",
+    "chance": 3
+  },
+  {
+    "biomeName": "terralith:haze_mountain",
+    "chance": 5
+  },
+  {
+    "biomeName": "terralith:sakura_grove",
+    "chance": 5
+  },
+  {
+    "biomeName": "terralith:skylands_autumn",
+    "chance": 5
+  },
+  {
+    "biomeName": "terralith:orchid_swamp",
+    "chance": 10
+  },
+  {
+    "biomeName": "terralith:lavender_forest",
+    "chance": 10
+  },
+  {
+    "biomeName": "terralith:yellowstone",
+    "chance": 5
+  },
+  {
+    "biomeName": "terralith:lavender_valley",
+    "chance": 10
+  },
+  {
+    "biomeName": "terralith:temperate_highlands",
+    "chance": 10
+  },
+  {
+    "biomeName": "terralith:alpine_highlands",
+    "chance": 5
+  },
+  {
+    "biomeName": "terralith:sakura_valley",
+    "chance": 5
+  },
+  {
+    "biomeName": "terralith:birch_taiga",
+    "chance": 20
+  },
+  {
+    "biomeName": "terralith:white_cliffs",
+    "chance": 5
+  },
+  {
+    "biomeName": "terralith:blooming_valley",
+    "chance": 10
+  },
+  {
+    "biomeName": "terralith:lush_valley",
+    "chance": 10
+  }
+]

@@ -1,0 +1,108 @@
+
+[materials]
+	#Requirement for obtaining Captured Wind. Unit: Block per Tick
+	#Range: 0.1 ~ 100.0
+	windSpeed = 10.0
+	#Requirement for void eye drop
+	#Range: 0 ~ 128
+	belowVoid = 16
+	#Requirement for sun membrane drop
+	#Range: 0 ~ 10000
+	phantomHeight = 200
+	#Requirement for explosion shard drop
+	#Range: 1 ~ 10000
+	explosionDamage = 80
+	#Requirement for space shard drop
+	#Range: 1 ~ 1000000
+	spaceDamage = 16384
+	#Allow mods to ban space shard
+	allowModBanSpaceShard = true
+	#Enable immunity enchantments
+	#Be sure to inform players when you turn this off
+	enableImmunityEnchantments = true
+	#digging Enchantment Requires Shift to work
+	#Be sure to inform players when you turn this on, as it's opposite to enchantment descriptions
+	diggingEnchantmentRequiresShiftToWork = false
+
+["fire charge"]
+	#Soul Fire Charge Duration
+	#Range: 1 ~ 10000
+	soulFireChargeDuration = 60
+	#Black Fire Charge Duration
+	#Range: 1 ~ 10000
+	blackFireChargeDuration = 100
+	#Strong Fire Charge Power
+	#Range: 1 ~ 10
+	strongFireChargePower = 2
+
+[properties]
+	#Totemic Armor healing interval
+	#Range: 1 ~ 1000
+	totemicHealDuration = 100
+	#Totemic Armor healing amount
+	#Range: 1 ~ 1000
+	totemicHealAmount = 1
+	#Wind Sweep enchantment increment to sweep hit box
+	#Range: 0.1 ~ 100.0
+	windSweepIncrement = 1.0
+	#Damage factor of emerald splash
+	#Range: 0.001 ~ 1000.0
+	emeraldDamageFactor = 0.5
+	#Base range for emerald splash
+	#Range: 1 ~ 100
+	emeraldBaseRange = 10
+	#Sonic Shooter Damage
+	#Range: 1 ~ 1000
+	sonicShooterDamage = 10
+	#Hellfire Wand Damage
+	#Range: 1 ~ 1000
+	hellfireWandDamage = 10
+	#Base duration for iceBlade
+	#Range: 1 ~ 10000
+	iceEnchantDuration = 100
+	#Duration for flameBlade
+	#Range: 1 ~ 10000
+	flameEnchantDuration = 60
+	#Base duration for sharpBlade
+	#Range: 1 ~ 10000
+	bleedEnchantDuration = 80
+	#Base duration for cursedBlade
+	#Range: 1 ~ 10000
+	curseEnchantDuration = 100
+	#Max effect level for sharpBlade
+	#Range: 1 ~ 10000
+	bleedEnchantMax = 3
+	#Void Touch chance for true damage
+	#Range: 0.0 ~ 1.0
+	voidTouchChance = 0.05
+	#Void Touch chance for true damage if bypass armor or magic
+	#Range: 0.0 ~ 1.0
+	voidTouchChanceBonus = 0.5
+	#Bonus damage factor for specific materials against specific mob types
+	#Range: 0.0 ~ 1000.0
+	mobTypeBonus = 1.0
+	#Damage factor for lifeSync (damage to user per durability cost)
+	#Range: 0.0 ~ 1000.0
+	lifeSyncFactor = 1.0
+	#Max radius for blocks to be considered for tree chopping, except upward direction
+	#Range: 0 ~ 32
+	treeChopMaxRadius = 16
+	#Max height for blocks to be considered for tree chopping.
+	#Range: 0 ~ 512
+	treeChopMaxHeight = 256
+	#Max number of blocks to be considered for tree chopping.
+	#Range: 0 ~ 16384
+	treeChopMaxBlock = 1024
+	#Max number of blocks to break before resort to delayed breaking
+	#Range: 1 ~ 1024
+	chainDiggingDelayThreshold = 64
+	#Max number of blocks to break per tick in delayed breaking
+	#Range: 1 ~ 1024
+	chainDiggingBlockPerTick = 16
+	#Max hardness blocks to break may have, as a factor of the hardness of the block broken.
+	#Apotheosis implementation of chain digging use 3 has their hardness factor.
+	#Range: 1.0 ~ 100.0
+	chainDiggingHardnessRange = 3.0
+	#Delayed breaking requires Ender Transport to take effect to reduce lag
+	delayDiggingRequireEnder = true
+

@@ -1,0 +1,61 @@
+
+#General Regeneration Settings
+[common]
+	#If this is false you won't lose your regenerations if you get killed during regeneration
+	loseRegensOnDeath = false
+	#Spawn fire during fiery regeneration
+	fieryRegen = true
+	#Players are immune to fire damage while regenerating
+	fireImmunity = true
+	#Toggle whether mobs have regenerations. In most cases, requires a game restart.
+	mobsHaveRegens = true
+	#Sends a message to chat to say that a player is regenerating, and the reason for it
+	sendRegenDeathMessages = true
+
+	#Post Regen Settings
+	[common."Post Regeneration"]
+		#Amount of seconds the post-regeneration effect lasts
+		#Range: > 0
+		postRegenDuration = 360
+		#The level of the regeneration status effect granted after you regenerate
+		#Range: > 0
+		postRegenLevel = 4
+		#Regenerate hunger bars
+		resetHunger = true
+		#Regenerate Oxygen
+		resetOxygen = true
+		#The amount of absorption hearts you get when regenerating
+		#Range: > 0
+		absorbtionLevel = 10
+
+	#Grace Settings
+	[common."Grace Stage"]
+		#The time in seconds before your grace period enters a critical phase
+		gracePhaseLength = 900
+		#Chance that a player in critical phase gets damaged at a given tick. Higher number means more damage.
+		#Range: > 0
+		criticalDamageChance = 1
+		#The time in seconds you can stay in the critical phase without dying
+		criticalPhaseLength = 60
+		#Interval (in seconds) at which your hands start to glow
+		#Range: > 0
+		handGlowInterval = 120
+		#Amount of time (in seconds) you have when your hands start glowing before you start to regenerate
+		#Range: > 0
+		handTriggerDelay = 10
+
+	#Mid Regen Settings
+	[common."While Regenerating"]
+		#Upon regeneration every mob inside of this radius is immediately killed. Keep in mind that you should round up to accommodate for mobs that aren't standing in the center of a block
+		#Range: > 0
+		regenKillRange = 4
+		#The amount of knockback every mob inside of the knock back radius gets
+		regenerativeKnockback = 2.5
+		#Range wherein every mob is knocked back upon regeneration
+		#Range: > 0
+		regenerativeKnockbackRange = 7
+		#Players can be knocked back when too close to a regeneration
+		regenerationKnocksbackPlayers = true
+		#Toggle whether the server allows for players to fly upwards during certain Regeneration transitions
+		upwardsMotion = true
+

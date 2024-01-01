@@ -1,0 +1,96 @@
+
+["Weapon Type Features"]
+	#Dagger damage multiplier when hitting targets not targeting user
+	#Range: 1.0 ~ 1000.0
+	dagger_bonus = 2.0
+	#Claw damage bonus for each consecutive hit
+	#Range: 0.0 ~ 10.0
+	claw_bonus = 0.1
+	#Claw damage bonus maximum hit for one claw (two claw has double maximum)
+	#Range: 1 ~ 1000
+	claw_max = 5
+	#Claw damage bonus timeout
+	#Range: 1 ~ 1000
+	claw_timeout = 60
+	#Claw block damage time
+	#Range: 0 ~ 1000
+	claw_block_time = 3
+	#Shield reflect cost
+	#Range: 0.0 ~ 1.0
+	reflectCost = 0.2
+
+["Legendary Weapon Effects"]
+	#Shadow Hunter teleport distance
+	#Range: 1 ~ 128
+	shadowHunterDistance = 8
+	#Haunting Demon of the End teleport distance
+	#Range: 1 ~ 128
+	hauntingDemonDistance = 64
+	#Hammer of Incarceration effect radius
+	#Range: 1 ~ 64
+	hammerOfIncarcerationRadius = 8
+	#Hammer of Incarceration effect duration
+	#Range: 1 ~ 60000
+	hammerOfIncarcerationDuration = 60
+	#Dogmatic Standoff absorption gain percentage
+	#Range: 1.0E-4 ~ 1.0
+	dogmaticStandoffGain = 0.02
+	#Dogmatic Standoff absorption max percentage
+	#Range: 1.0E-4 ~ 100.0
+	dogmaticStandoffMax = 0.1
+
+[Enchantments]
+	#Heavy enchantment reduction on attack speed
+	#Range: 1.0E-4 ~ 100.0
+	heavySpeedReduction = 0.2
+	#Heavy enchantment crit damage bonus
+	#Range: 1.0E-4 ~ 100.0
+	heavyCritBonus = 0.3
+	#Stealth enchantment no aggro chance
+	#Range: 1.0E-4 ~ 100.0
+	stealthChance = 0.2
+	#Stealth enchantment damage reduction
+	#Range: 1.0E-4 ~ 100.0
+	stealthDamageReduction = 0.1
+	#HeavyShield enchantment reduction on attack speed
+	#Range: 1.0E-4 ~ 100.0
+	heavyShieldSpeedReduction = 0.1
+	#HeavyShield enchantment defense bonus
+	#Range: 1.0E-4 ~ 100.0
+	heavyShieldDefenseBonus = 0.1
+	#HardShield enchantment defense bonus
+	#Range: 1.0E-4 ~ 100.0
+	hardShieldDefenseBonus = 0.05
+	#Raised Spirit enchantment bonus on attack speed per stacking level per enchantment level
+	#Range: 1.0E-4 ~ 100.0
+	raisedSpiritSpeedBonus = 0.01
+	#Energized Will enchantment bonus on attack range per stacking level per enchantment level
+	#Range: 1.0E-4 ~ 100.0
+	energizedWillReachBonus = 0.02
+
+["Twilight Forest Compat"]
+	#Damage bonus to enemies not immune to fire
+	#Range: 0.0 ~ 1000.0
+	knightmetalBonus = 0.5
+	#Extra damage reflection
+	#Range: 0.0 ~ 1000.0
+	knightmetalReflect = 0.5
+	#Ignite enemy by seconds
+	#Range: 0 ~ 1000
+	fieryDuration = 15
+	#Damage bonus to enemies without armor
+	#Range: 0.0 ~ 1000.0
+	steeleafBonus = 0.5
+	#Extra damage reflection
+	#Range: 0.0 ~ 1000.0
+	steeleafReflect = 0.5
+	#Effect Application Chance
+	#Range: 0.0 ~ 1000.0
+	steeleafChance = 0.5
+	#Regeneration interval (in ticks)
+	#Range: 1 ~ 10000
+	ironwoodRegenDuration = 100
+	#Resistance duration (in ticks)
+	#Range: 1 ~ 10000
+	ironwoodEffectDuration = 100
+

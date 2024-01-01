@@ -1,0 +1,8 @@
+{
+	// If enabled, any name tag that drops on an entity's death will keep its named value.
+	"droppedNameTagbyEntityKeepsNameValue": true,
+	// If enabled, adds the /nametag <name> command. Used to change the name value without an anvil.
+	"enableNameTagCommand": true,
+	// If enabled, replaces underscores with spaces when using the /nametag command.
+	"nameTagCommandReplaceUnderscoresWithSpaces": true
+}

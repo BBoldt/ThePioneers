@@ -32,11 +32,11 @@
 	MaidFairyPowerPoint = 0.16
 	#Maid fairy's spawn probability (zombie is 100, enderman is 10)
 	#Range: > 0
-	MaidFairySpawnProbability = 70
+	MaidFairySpawnProbability = 5
 	#The following biome do not spawn maid fairy
 	MaidFairyBlacklistBiome = ["minecraft:the_void", "minecraft:mushroom_fields"]
 	#The following dimension do not spawn maid fairy
-	MaidFairyBlacklistDimension = ["minecraft:the_nether", "minecraft:the_end", "twilightforest:twilight_forest"]
+	MaidFairyBlacklistDimension = ["minecraft:the_nether", "minecraft:the_end", "twilightforest:twilight_forest", "aether:the_aether", "bloodmagic:dungeon", "deeperdarker:otherside", "sgjourney:abydos", "sgjourney:chulak", "sgjourney:lantea", "the_bumblezone:the_bumblezone", "aether:the_aether"]
 	#Loss power point after player death
 	#Range: 0.0 ~ 5.0
 	PlayerDeathLossPowerPoint = 1.0

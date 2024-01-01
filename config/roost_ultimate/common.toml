@@ -1,0 +1,50 @@
+
+["Roost Ultimate Config"]
+	#Enable/Disable Handheld Crafting via Guidebook
+	"Guidebook Crafting Grid" = true
+	#Production Speed in Seconds
+	"Roost Speed" = 20
+	"Breeder Speed" = 30
+	"Trainer Speed" = 25
+	"Soul Extractor Speed" = 10
+	"Soul Breeder Speed" = 40
+	#Roost XP - 0.1F = 10% of Trainer - 0.0F = Disabled
+	"Roost XP" = 0.1
+	#             
+	#             
+	#Seeds Tier 1-9 and Vanilla is the XP Amount for the tiered Seeds.
+	"Vanilla Seeds" = 20
+	"Seeds Tier 1" = 100
+	"Seeds Tier 2" = 125
+	"Seeds Tier 3" = 150
+	"Seeds Tier 4" = 300
+	"Seeds Tier 5" = 350
+	"Seeds Tier 6" = 500
+	"Seeds Tier 7" = 700
+	"Seeds Tier 8" = 1000
+	"Seeds Tier 9" = 2500
+	#             
+	#             
+	#XP Tier 1-9 - is the needed XP Amount for a levelup for each Tier of Chicken.
+	"XP Tier 1" = 500
+	"XP Tier 2" = 2500
+	"XP Tier 3" = 12500
+	"XP Tier 4" = 62500
+	"XP Tier 5" = 125000
+	"XP Tier 6" = 250000
+	"XP Tier 7" = 325000
+	"XP Tier 8" = 400000
+	"XP Tier 9" = 500000
+	#             
+	#             
+	#Tier 1-9 - sets the maxlevel for each Tier of Chicken.
+	"Max Level Tier 1" = 60
+	"Max Level Tier 2" = 60
+	"Max Level Tier 3" = 60
+	"Max Level Tier 4" = 60
+	"Max Level Tier 5" = 60
+	"Max Level Tier 6" = 60
+	"Max Level Tier 7" = 60
+	"Max Level Tier 8" = 60
+	"Max Level Tier 9" = 60
+
