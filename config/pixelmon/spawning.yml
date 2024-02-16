@@ -1,0 +1,107 @@
+despawn-radius: 80
+shiny-rate: 4096.0
+ultra-space-shiny-rate-multiplier: 0.5
+shiny-charm-rate-multiplier: 3.0
+hidden-ability-rate: 150.0
+ultra-space-hidden-ability-multiplier: 0.5
+ultra-space-horde-spawn-rate: 0.4000000059604645
+legendary-spawn-ticks: 25000
+legendary-spawn-chance: 0.30000001192092896
+spawn-ticks-player-multiplier: 0.009999999776482582
+spawn-levels-closer-to-player-levels: true
+spawn-levels-increase-in-caves: true
+spawn-levels-increase-in-ultra-space: true
+cave-max-multiplier: 4
+ultra-space-level-multiplier: 2.0
+transform-to-ditto-on-catch: 0.001
+meltan-transform-chance: 0.75
+meltan-box-spawn-rate: 300
+meltan-box-spawn-radius: 15
+meltan-box-initial-scraps-count: 4
+meltan-box-scraps-multiplier: 1.8
+meltan-box-open-duration-millis: 100000
+meltan-box-cooldown-duration-millis: 3000000
+can-transform-to-ditto-on-catch:
+- Pidgey
+- Rattata
+- Gastly
+- Zubat
+- Mankey
+- Yanma
+- Hoothoot
+- Sentret
+- Zigzagoon
+- Gulpin
+- Whismur
+- Taillow
+- Remoraid
+- Starly
+gigantamax-factor-rate: 512.0
+ultra-space-gigantamax-factor-modifier: -1.0
+allow-legendary-spawn: true
+legendary-despawn-ticks: 6000
+display-legendary-global-message: true
+do-legendary-raid-event: true
+use-recent-level-moves: false
+despawn-on-flee-or-loss: false
+bell-success-chance: 0.01
+bell-inclusion-range: 10
+lure-flute-duration: 180
+lure-flute-level-modifier: 10
+blocked-generations: []
+spawn-zygarde-cells: true
+player-tracking-spawner-spawn-collection-rate: 100
+level-distance:
+    spawn-levels-by-distance: false
+    max-level-by-distance: 60
+    distance-per-level: 30
+wild-spawning:
+    entities-per-player: 30
+    spawns-per-pass: 2
+    spawn-frequency: 60.0
+    minimum-distance-between-spawns: 15.0
+    minimum-distance-from-centre: 18
+    maximum-distance-from-centre: 64
+    horizontal-track-factor: 80.0
+    vertical-track-factor: 0.0
+    horizontal-slice-radius: 10
+    vertical-slice-radius: 25
+    maximum-spawned-pokemon: 3000
+    maximum-spawned-flying-pokemon: 500
+    maximum-spawned-flying-pokemon-per-player: 45
+boss-spawning:
+    boss-rate: 256.0
+    ultra-space-boss-modifier: 0.5
+    bosses-always-mega-if-possible: true
+    boss-spawn-ticks: 10000
+    boss-spawn-chance: 0.30000001192092896
+poke-loot:
+    spawn-normal: true
+    spawn-hidden: true
+    spawn-grotto: true
+    spawn-rate: NORMAL
+    spawn-mode: FCFS
+    loot-time: 24
+poke-stop:
+    enabled: true
+    loot-time: 24
+auto-tag-specs:
+    gen1: generation:1
+    gen2: generation:2
+    gen3: generation:3
+    gen4: generation:4
+    gen5: generation:5
+    nonlegendary: islegendary:false
+    gen6: generation:6
+    legendary: islegendary:true
+    gen7: generation:7
+    gen8: generation:8
+    shiny: shiny
+interval-seconds:
+    wormhole_ultra_space: 400
+    wormhole_overworld: 1200
+always-aggressive-dimensions:
+- pixelmon:ultra_space
+horde-battle-dimensions:
+- pixelmon:ultra_space
+spawning-disabled-dimensions: []

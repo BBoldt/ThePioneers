@@ -1,5 +1,8 @@
 {
   "client": {
+    "compat_settings": {
+      "render_mode": "AUTO"
+    },
     "Gui Colors": {
       "red": -3927277,
       "green": -16711936
@@ -7,11 +10,13 @@
   },
   "server": {
     "other": {
-      "development_mode": false
+      "development_mode": false,
+      "forge_reload_mode": true
     },
     "enchants": {
       "better_infinity": true,
-      "better_loyalty": true
+      "better_loyalty": true,
+      "lean_enchantments": true
     }
   }
 }

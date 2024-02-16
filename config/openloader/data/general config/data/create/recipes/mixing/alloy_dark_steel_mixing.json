@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/iron"
+    },
+    {
+      "tag": "forge:dusts/coal"
+    },
+    {
+      "tag": "forge:obsidian"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "enderio:dark_steel_ingot"
+    }
+  ]
+}

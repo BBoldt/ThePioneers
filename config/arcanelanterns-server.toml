@@ -1,0 +1,137 @@
+#Allow falling at normal speed while the slow falling effect is active when sneaking. The player will still not take any fall damage.
+slow_falling_quick_descent = true
+
+[love_lantern]
+	#Delay in ticks after which the lantern runs its effects again.
+	#Range: > 1
+	delay = 1200
+	#Range on the xz-plane where this lantern affects entities.
+	#Range: > -2147483648
+	horizontal_range = 5
+	#Range on the y-axis where this lantern affects entities.
+	#Range: > -2147483648
+	vertical_range = 3
+	#Maximum animals of a certain type (e.g. sheep or pigs) before the love lamp stops breeding that type. All animals of a type are counted, also those that cannot breed (like babies).
+	#Range: > 2
+	max_animals = 12
+
+[brilliant_lantern]
+	#Delay in ticks after which the lantern runs its effects again.
+	#Range: > 1
+	delay = 20
+	#Range on the xz-plane where this lantern affects entities.
+	#Range: > -2147483648
+	horizontal_range = 4
+	#Range on the y-axis where this lantern affects entities.
+	#Range: > -2147483648
+	vertical_range = 4
+	#Animals the briliant lantern will not turn into experience.
+	#Format for every entry is "<namespace>:<path>". Tags are supported, must be in the format of "#<namespace>:<path>". Namespace may be omitted to use "minecraft" by default. May use asterisk as wildcard parameter via pattern matching, e.g. "minecraft:*_shulker_box" to match all shulker boxes no matter of color.
+	blacklist = []
+
+[feral_lantern]
+	#Delay in ticks after which the lantern runs its effects again.
+	#Range: > 1
+	delay = 20
+	#The maximum light level at a checked position where the feral lamp will place a flare.
+	#Range: 0 ~ 15
+	max_light_level = 5
+	#Range on the xz-plane where this lantern affects entities.
+	#Range: > -2147483648
+	horizontal_range = 40
+	#The maximum amount of flares the feral lamp will place before destroying itself.
+	#Range: 1 ~ 9999
+	max_placed_flares = 40
+	#Range on the y-axis where this lantern affects entities.
+	#Range: > -2147483648
+	vertical_range = 15
+
+[withering_lantern]
+	#Delay in ticks after which the lantern runs its effects again.
+	#Range: > 1
+	delay = 20
+	#Range on the xz-plane where this lantern affects entities.
+	#Range: > -2147483648
+	horizontal_range = 7
+	#Range on the y-axis where this lantern affects entities.
+	#Range: > -2147483648
+	vertical_range = 3
+	#Duration in seconds this lamp's potion effect should be applied for to nearby entities.
+	#Range: > 0
+	effect_duration = 2
+
+[boreal_lantern]
+	#Delay in ticks after which the lantern runs its effects again.
+	#Range: > 1
+	delay = 2
+	#Range on the xz-plane where this lantern affects entities.
+	#Range: > -2147483648
+	horizontal_range = 10
+	#Range on the y-axis where this lantern affects entities.
+	#Range: > -2147483648
+	vertical_range = 10
+	#Duration in seconds this lamp's potion effect should be applied for to nearby entities.
+	#Range: > 0
+	effect_duration = 5
+
+[containing_lantern]
+	#Range on the y-axis where this lantern affects entities.
+	#Range: > -2147483648
+	vertical_range = 3
+	#Delay in ticks after which the lantern runs its effects again.
+	#Range: > 1
+	delay = 5
+	#Range on the xz-plane where this lantern affects entities.
+	#Range: > -2147483648
+	horizontal_range = 10
+
+[wailing_lantern]
+	#Delay in ticks after which the lantern runs its effects again.
+	#Range: > 1
+	delay = 20
+	#Range on the xz-plane where this lantern affects entities.
+	#Range: > -2147483648
+	horizontal_range = 10
+	#Range on the y-axis where this lantern affects entities.
+	#Range: > -2147483648
+	vertical_range = 5
+	#Duration in seconds this lamp's potion effect should be applied for to nearby entities.
+	#Range: > 0
+	effect_duration = 5
+
+[cloud_lantern]
+	#Delay in ticks after which the lantern runs its effects again.
+	#Range: > 1
+	delay = 80
+	#Range on the xz-plane where this lantern affects entities.
+	#Range: > -2147483648
+	horizontal_range = 10
+	#Range on the y-axis where this lantern affects entities.
+	#Range: > -2147483648
+	vertical_range = 10
+	#Duration in seconds this lamp's potion effect should be applied for to nearby entities.
+	#Range: > 0
+	effect_duration = 9
+
+[life_lantern]
+	#Range on the y-axis where this lantern affects entities.
+	#Range: > -2147483648
+	vertical_range = 3
+	#Delay in ticks after which the lantern runs its effects again.
+	#Range: > 1
+	delay = 120
+	#Range on the xz-plane where this lantern affects entities.
+	#Range: > -2147483648
+	horizontal_range = 5
+
+[warding_lantern]
+	#Range on the y-axis where this lantern affects entities.
+	#Range: > -2147483648
+	vertical_range = 5
+	#Delay in ticks after which the lantern runs its effects again.
+	#Range: > 1
+	delay = 10
+	#Range on the xz-plane where this lantern affects entities.
+	#Range: > -2147483648
+	horizontal_range = 10
+

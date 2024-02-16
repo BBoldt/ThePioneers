@@ -1,0 +1,27 @@
+
+[Compatibility]
+
+	[Compatibility.vampirism]
+		enable_compat_vampirism = true
+		disable_integrations_version_check = false
+
+	[Compatibility.biomesoplenty]
+		enable_compat_biomesoplenty = true
+		#Whether sundamage should be applied to vampires in this biome or not
+		disable_sundamage_ominous_woods = true
+
+	[Compatibility.nyctophobia]
+		enable_compat_nyctophobia = true
+		#Whether sundamage should be applied to vampires in the haunted biomes or not
+		disable_sundamage_haunted = true
+		#Whether sundamage should be applied to vampires in the other graveyard biomes or not
+		disable_sundamage_other = false
+
+	[Compatibility.player_companions]
+		enable_compat_player_companions = true
+		#Replenish companion blood on companion death
+		replenish_blood_on_death = true
+
+	[Compatibility.jade]
+		enable_compat_jade = true
+

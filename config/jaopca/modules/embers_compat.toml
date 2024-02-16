@@ -1,0 +1,21 @@
+
+[general]
+	#The material blacklist of this module.
+	materialBlacklist = []
+
+[recipes]
+	#The materials that should not have ingot melting recipes added.
+	materialToMoltenMaterialBlacklist = []
+	#The materials that should not have storage block melting recipes added.
+	storageBlockToMoltenMaterialBlacklist = []
+	#The materials that should not have nugget melting recipes added.
+	nuggetToMoltenMaterialBlacklist = []
+	#The materials that should not have plate melting recipes added.
+	plateToMoltenMaterialBlacklist = []
+	#The materials that should not have ingot stamping recipes added.
+	toMaterialMaterialBlacklist = []
+	#The materials that should not have nugget stamping recipes added.
+	toNuggetMaterialBlacklist = []
+	#The materials that should not have plate stamping recipes added.
+	toPlateMaterialBlacklist = []
+

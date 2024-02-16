@@ -31,4 +31,6 @@ baseExpConversion = 100
 #exponential experience available per rank
 #Range: 1.0 ~ 10.0
 expConversionRankFactor = 2.0
+#Enable Artifact Rank up recipe
+enableArtifactRankUpRecipe = true
 

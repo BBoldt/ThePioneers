@@ -9,12 +9,16 @@
           "damage": {
             "minInitialValue": 2.5,
             "maxInitialValue": 5.0,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "MULTIPLY_BASE",
             "upgradeModifier": 0.25
           },
           "size": {
             "minInitialValue": 2.5,
             "maxInitialValue": 5.0,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "MULTIPLY_BASE",
             "upgradeModifier": 0.3
           }
@@ -28,6 +32,8 @@
           "modifier": {
             "minInitialValue": 0.75,
             "maxInitialValue": 0.5,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "ADD",
             "upgradeModifier": -0.05
           }

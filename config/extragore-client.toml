@@ -1,0 +1,56 @@
+
+["Functionality Handler"]
+	#Enable blood particle effect for players only.
+	Only_Player = false
+	#Enable blood particle effect for mobs only.
+	Only_Mobs = false
+	#Enable blood particle effect for both players and mobs, overriding other settings.
+	Both = true
+	#Entity list which will be blacklisted from getting any particle effects.
+	Blacklisted_Entity = ["minecraft:ender_dragon", "minecraft:wither"]
+
+#====================================================================================
+#Entities not listed in these specific lists will bleed red particles by default.
+#If you want to disable all the particles for an entity, just put the entity id inside the Blacklisted_Entity list.
+["Custom List"]
+	#Entity list which will bleed with violet particles.
+	Violet_Entity = ["minecraft:enderman", "minecraft:endermite", "minecraft:phantom", "minecraft:shulker", "minecraft:silverfish", "minecraft:allay", "minecraft:warden"]
+	#Entity list which will bleed with white particles.
+	White_Entity = ["minecraft:skeleton", "minecraft:ghast", "minecraft:iron_golem", "minecraft:skeleton_horse", "minecraft:snow_golem", "minecraft:stray", "minecraft:vex", "minecraft:wither_skeleton"]
+	#Entity list which will bleed with green particles.
+	Green_Entity = ["minecraft:cave_spider", "minecraft:creeper", "minecraft:slime", "minecraft:spider", "minecraft:witch"]
+	#Entity list which will bleed with yellow particles.
+	Yellow_Entity = ["minecraft:blaze", "minecraft:magma_cube", "minecraft:strider"]
+	#Entity list which will bleed with blue particles.
+	Blue_Entity = ["minecraft:squid", "minecraft:glow_squid", "minecraft:elder_guardian", "minecraft:guardian"]
+
+["Particle Configuration"]
+	#Define the particle's lifetime before it disappears in ticks. The fade effect is applied during the final third of the specified duration.
+	#Example: If the lifetime is set to 120 ticks, fading will start at the 80th tick (120/3 = 40, 40 x 2 = 80).
+	#Range: 5 ~ 2000
+	Lifetime = 120
+	#Small scale represents the size of particles with entities smaller than the player.
+	Small_Scale = 0.015
+	#Normal scale represents the size of particles for entities nearly equal to the size of the player or with a slight size difference.
+	Normal_Scale = 0.06
+	#Large scale represents the size of particles for entities larger than the player.
+	Large_Scale = 0.12
+	#Define the maximum value of the particle amount that will be dropped once the health falls below 50%.
+	#Range: 1 ~ 50
+	Max_Particle_Count = 5
+	#Define the minimum value of the particle amount that will be dropped at full health.
+	#Range: 1 ~ 50
+	Min_Particle_Count = 1
+	#Small amplifier represents the size multiplier for the small scale value.
+	Small_Amplifier = 6.0
+	#Large amplifier represents the size multiplier for the large scale value.
+	Large_Amplifier = 4.0
+	#Normal amplifier represents the size multiplier for the normal scale value.
+	Normal_Amplifier = 3.0
+	#Defines the spread quality of the particles on the damage impact.
+	Spread = 0.15
+
+["Particle Variant"]
+	#Allowed Values: SQUARE, GORE, SPIKE
+	Blood_Particle_Variant = "GORE"
+

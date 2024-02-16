@@ -1,0 +1,24 @@
+{
+  "type": "thermal:smelter",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/nether_brick",
+      "count": 1
+    },
+    {
+      "item": "minecraft:nether_wart",
+      "count": 4
+    },
+    {
+      "item": "minecraft:clay_ball",
+      "count": 6
+    }
+  ],
+  "result": [
+    {
+      "item": "enderio:nethercotta",
+      "count": 1
+    }
+  ],
+  "energy": 7600
+}

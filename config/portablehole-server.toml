@@ -1,0 +1,26 @@
+#How deep does the hole go created by a portable hole.
+#Range: > 1
+temporary_hole_depth = 12
+#For how long does a temporary hole stay open.
+#Range: > 0
+temporary_hole_duration = 100
+#Maximum block hardness a portable hole can replace.
+#Check out the Minecraft Wiki for more information: https://minecraft.fandom.com/wiki/Breaking#Blocks_by_hardness
+#Range: 4.9E-324 ~ 1.7976931348623157E308
+max_block_hardness = 20.0
+#Cooldown in ticks after using a portable hole.
+#Range: 0 ~ 72000
+portable_hole_cooldown = 40
+#Allow portable holes to go through block entities. Not safe to use (e.g. breaks double chests), therefore disabled by default.
+replace_block_entities = false
+
+[visuals]
+	#Render the end portal overlay on the outside of a temporary hole.
+	portal_overlay = true
+	#Play a breaking sound and show particles when blocks reappear from a temporary hole.
+	#May want to disable this feature to increase performance when a large hole depth is set.
+	particles_for_reappearing_blocks = true
+	#Render spark particles to indicate the block replaced by a temporary hole.
+	#May want to disable this feature to increase performance when a large hole depth is set.
+	spark_particles = true
+

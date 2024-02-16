@@ -9,6 +9,8 @@
           "talisman": {
             "minInitialValue": 0.0,
             "maxInitialValue": 2.0,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "ADD",
             "upgradeModifier": 1.0
           }
@@ -22,12 +24,16 @@
           "sinking": {
             "minInitialValue": 5.0,
             "maxInitialValue": 3.0,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "ADD",
             "upgradeModifier": -0.1
           },
           "slowness": {
             "minInitialValue": 0.5,
             "maxInitialValue": 0.25,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "ADD",
             "upgradeModifier": -0.05
           }
@@ -41,6 +47,8 @@
           "damage": {
             "minInitialValue": 1.25,
             "maxInitialValue": 2.0,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "MULTIPLY_BASE",
             "upgradeModifier": 0.1
           }
@@ -54,6 +62,8 @@
           "cooldown": {
             "minInitialValue": 10.0,
             "maxInitialValue": 5.0,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "ADD",
             "upgradeModifier": -0.5
           }

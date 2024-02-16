@@ -1,9 +1,0 @@
-{
-    "replace": false,
-    "values": [
-        {
-            "id": "biomesoplenty:undergrowth",
-            "required": false
-        }
-    ]
-  }

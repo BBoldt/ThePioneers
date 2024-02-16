@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "tag": "forge:end_stones"
+    },
+    {
+      "tag": "forge:ingots/dark_steel"
+    },
+    {
+      "tag": "forge:obsidian"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "enderio:end_steel_ingot"
+    }
+  ]
+}

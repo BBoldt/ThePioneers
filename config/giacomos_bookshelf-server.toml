@@ -1,0 +1,10 @@
+
+[bookshelves]
+	#Bookshelf Config
+	#If true you need silk touch enchantment to harvest the whole bookshelf without breaking it
+	silktouchRequired = true
+	#This is the list of items that can be inserted in a bookshelf but will not give enchantment power to the table
+	items = ["minecraft:painting", "minecraft:paper", "minecraft:filled_map", "minecraft:item_frame", "minecraft:glow_item_frame", "minecraft:map"]
+	#This is the list of items that can be inserted in a bookshelf and will give enchantment power to the table
+	books = ["minecraft:book", "minecraft:writable_book", "minecraft:written_book", "minecraft:enchanted_book"]
+

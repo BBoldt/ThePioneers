@@ -1,0 +1,144 @@
+
+[misc]
+	#When enabled it stops the blinking effect of night vision when low duration, disable if it causes rendering issues with other mods.
+	stableNightVision = true
+	#Whether the range of the breath should be rendered (while hitboxes are shown)
+	renderBreathRange = true
+	#Enable client-side debug messages
+	clientDebugMessages = false
+	#Should the cast mode where you click the keybind to cast be used?
+	alternateCastMode = false
+	#The amount of undos and redos that are saved in the dragon editor.
+	#Range: 1 ~ 1000
+	editorHistory = 10
+
+[rendering]
+	#Enable movement based physics on the tail, this is still a work in progress and can be buggy.
+	enableTailPhysics = false
+	#Should items be rendered in third person for dragon players?
+	renderHeldItem = true
+	#Should the body rotate with the camera when turning around.
+	rotateBodyWithCamera = true
+	#Should the armor be rendered as a layer on the dragon? Some shaders requires this to be off. Can cause some weird effects with armor when turned off.
+	armorRenderLayer = true
+	#Should other player skins be rendered?
+	renderOtherPlayerSkins = true
+	#Do you want your dragon skin to be rendered as a adult dragon?
+	renderAdultSkin = true
+	#Do you want your dragon skin to be rendered as a young dragon?
+	renderYoungSkin = true
+	#Do you want your dragon skin to be rendered as a newborn dragon?
+	renderNewbornSkin = true
+	#Should the tools on the claws and teeth be rendered for your dragon?
+	renderDragonClaws = true
+	#Should items be rendered near the mouth of dragons rather then hovering by their side?
+	renderItemsInMouth = false
+
+[nametag]
+	#Show name tags for dragons.
+	dragonNameTags = false
+
+[inventory]
+	#Should the third person item render for dragons use the default rotations? Use this if modded items are rendering weird when held.
+	thirdPersonItemRender = false
+	#Should held items be rendered as if you are in third-person even in first person as a dragon?
+	alternateHeldItem = false
+	#Should the buttons for toggeling between dragon and normaly inventory be added?
+	inventoryToggle = true
+	#Should dragon tabs be added to the default player inventory?
+	dragonTabs = true
+	#Should the default inventory be replaced as a dragon?
+	dragonInventory = true
+
+[flight]
+	#Should the rotation effect during gliding of other players be shown?
+	renderOtherPlayerRotation = true
+	#Should other players particles from spin attack be shown for you?
+	othersSpinParticles = true
+	#Should particles from your own spin attack be displayed for you?
+	ownSpinParticles = true
+	#Should the camera movement while gliding as a dragon be enabled
+	flightCameraMovement = true
+	#Should the zoom effect while gliding as a dragon be enabled
+	flightZoomEffect = true
+	#Is it required to look up to start flying while jumping, requires that jumpToFly is on
+	lookAtSkyForFlight = false
+	#Should flight be activated when jumping in the air
+	jumpToFly = false
+	#Notifies of wing status in chat message
+	notifyWingStatus = false
+
+[firstperson]
+	#Use rotation of your tail in first person, otherwise the tail is always opposite of your camera. If the tail is constantly climbing in your face, put false.
+	firstPersonRotation = false
+	#Render dragon model in first person while gliding. We don't advise you to turn it on.
+	renderFirstPersonFlight = false
+	#Render dragon model in first person. If your own tail scares you, write false
+	renderFirstPerson = true
+
+[ui]
+
+	[ui.magic]
+		#Offset the y position of the mana bar in relation to its normal position
+		#Range: -1000 ~ 1000
+		manabarYOffset = 0
+		#Offset the x position of the mana bar in relation to its normal position
+		#Range: -1000 ~ 1000
+		manabarXOffset = 0
+		#Offset the y position of the magic skill bar in relation to its normal position
+		#Range: -1000 ~ 1000
+		skillbarYOffset = 0
+		#Offset the x position of the magic skill bar in relation to its normal position
+		#Range: -1000 ~ 1000
+		skillbarXOffset = 0
+		#Offset the y position of the cast bar in relation to its normal position
+		#Range: -1000 ~ 1000
+		casterBarYPos = 0
+		#Offset the x position of the cast bar in relation to its normal position
+		#Range: -1000 ~ 1000
+		casterBarXPos = 0
+
+	[ui.growth]
+		#Offset the y position of the item growth icon in relation to its normal position
+		#Range: -1000 ~ 1000
+		growthYOffset = 0
+		#Offset the x position of the item growth icon in relation to its normal position
+		#Range: -1000 ~ 1000
+		growthXOffset = 0
+
+	[ui.spin]
+		#Offset the y position of the spin cooldown indicator in relation to its normal position
+		#Range: -1000 ~ 1000
+		spinCooldownYOffset = 0
+		#Offset the x position of the spin cooldown indicator in relation to its normal position
+		#Range: -1000 ~ 1000
+		spinCooldownXOffset = 0
+
+	[ui.emotes]
+		#Offset the y position of the emote button in relation to its normal position
+		#Range: -1000 ~ 1000
+		emoteYOffset = 0
+		#Offset the x position of the emote button in relation to its normal position
+		#Range: -1000 ~ 1000
+		emoteXOffset = 0
+
+	[ui.hud]
+		#Re-enable the vanilla hud for the experience bar
+		vanillaExperienceBar = false
+		#Re-enable the vanilla hud for the food level
+		vanillaFoodLevel = false
+
+[tooltips]
+	#Hide the AppleSkin tooltip if you're a dragon. The tooltip will only show correct food values for humans.
+	hideAppleskinTooltip = true
+	#Always show the help tooltip border
+	alwaysShowHelpTooltip = false
+	#Should the effect of the help tooltips be enabled?
+	helpTooltips = true
+	#Should dragon foods have their tooltip color changed to show which type of dragon can consume it?
+	dragonFoodTooltips = true
+	#Should the tooltip be hidden for unsafe (negative effects) food?
+	hideUnsafeFood = true
+	#Should the mod be allowed ot change the color and appearance of tooltips?
+	tooltipChanges = true
+

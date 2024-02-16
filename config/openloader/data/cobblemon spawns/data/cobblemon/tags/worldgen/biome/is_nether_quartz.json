@@ -1,9 +1,0 @@
-{
-    "replace": false,
-    "values": [
-        {
-            "id": "biomesoplenty:crystalline_chasm",
-            "required": false
-        }
-    ]
-  }

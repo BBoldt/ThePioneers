@@ -1,0 +1,9 @@
+{
+  "type": "aether:ambrosium_enchanting",
+  "ingredient": {
+    "block": "aether:gravitite_ore"
+  },
+  "result": {
+    "block": "minecraft:diamond_ore"
+  }
+}

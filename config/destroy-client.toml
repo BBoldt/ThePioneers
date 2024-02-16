@@ -1,0 +1,52 @@
+
+#.
+#Many many molecules
+[clientChemistry]
+	#.
+	#.
+	#Show IUPAC systematic names rather than common names
+	#[Reload may be required to take full effect]
+	iupacNames = false
+	#.
+	#Units of temperature to display by default
+	#[Reload may be required to take full effect]
+	#Allowed Values: KELVINS, DEGREES_CELCIUS, DEGREES_FARENHEIT
+	temperatureUnit = "DEGREES_CELCIUS"
+	#.
+	#Display additional technical details in some tooltips
+	nerdMode = false
+
+#.
+#The buttons to open Destroy's configurations which appear on the main menu and pause menu
+[buttonPositions]
+	#.
+	#Enable the tooltip for Items which are likely to change in the full release of Destroy.
+	TempramentalItemDescriptions = true
+
+	#.
+	#.
+	[buttonPositions."Main Menu Button"]
+		#.
+		#Choose the menu row that the Destroy config button appears on in the main menu
+		#Set to 0 to disable the button altogether
+		#Range: 0 ~ 4
+		mainMenuConfigButtonRow = 2
+		#.
+		#Offset the Destroy config button in the main menu by this many pixels on the X axis
+		#The sign (-/+) of this value determines what side of the row the button appears on (left/right)
+		#Range: > -2147483648
+		mainMenuConfigButtonOffsetX = -28
+
+	#.
+	[buttonPositions."Pause Menu Button"]
+		#.
+		#Choose the menu row that the Destroy config button appears on in the pause menu
+		#Set to 0 to disable the button altogether
+		#Range: 0 ~ 5
+		ingameMenuConfigButtonRow = 3
+		#.
+		#Offset the Destroy config button in the pause menu by this many pixels on the X axis
+		#The sign (-/+) of this value determines what side of the row the button appears on (left/right)
+		#Range: > -2147483648
+		ingameMenuConfigButtonOffsetX = -28
+

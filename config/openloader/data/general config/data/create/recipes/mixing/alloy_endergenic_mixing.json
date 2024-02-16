@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/redstone"
+    },
+    {
+      "tag": "forge:ingots/gold"
+    },
+    {
+      "tag": "forge:dusts/glowstone"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "enderio:energetic_alloy_ingot"
+    }
+  ]
+}

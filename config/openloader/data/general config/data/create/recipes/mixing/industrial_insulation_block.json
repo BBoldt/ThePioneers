@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/lapis"
+    },
+    {
+      "tag": "minecraft:wool"
+    },
+    {
+      "tag": "enderio:insulation_metals"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "enderio:industrial_insulation_block"
+    }
+  ]
+}

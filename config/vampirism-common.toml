@@ -1,0 +1,47 @@
+
+#Common configuration settings. Most other configuration can be found in the world (server)configuration folder
+[common]
+	#Send mod version, MC version and mod count to mod author
+	collectStats = true
+
+	[common.internal]
+		#INTERNAL - Set to 'never' if you don't want to be notified about integration mods
+		integrationsNotifier = ""
+		#INTERNAL
+		optifineBloodvisionWarning = false
+
+#Affects all worlds. This is only considered on server (or in singleplayer), but Forge requires us to put it here
+[common-server]
+	#Whether glass bottles should be automatically be converted to blood bottles when needed
+	autoConvertGlassBottles = true
+	#If enabled adds a craftable umbrella that can be used to slowly walk though sunlight without taking damage
+	umbrella = false
+	#Enable a custom vampirism log file that logs specific faction actions
+	#Requires restart
+	enableFactionLogging = false
+
+	#Settings here require a game restart
+	[common-server.world]
+		#Whether to inject the vampire forest into the default overworld generation and to replace some Taiga areas
+		addVampireForestToOverworld = true
+		#Only considered if terrablender installed. Heigher values increase Vampirism region weight (likelyhood to appear)
+		#Range: 1 ~ 1000
+		vampireForestWeight_terrablender = 2
+		#Control hunter camp generation. If disabled you should set hunterSpawnChance to 75.
+		enableHunterTentGeneration = true
+		#Use the vanilla campfire block instead of Vampirism's much cooler one
+		useVanillaCampfire = false
+
+		[common-server.world.village]
+			#Weight of the Totem Building inside the Village
+			#Range: 0 ~ 140
+			totemWeight = 20
+			#Chance for a totem to have a faction after generation
+			#Range: 0.0 ~ 1.0
+			villageTotemFactionChance = 0.6
+			#Weight of the Hunter Trainer Building inside the Village
+			#Range: 0 ~ 140
+			villageHunterTrainerWeight = 50
+			#Whether village Temples should be replaced with versions that contain church altars.
+			villageReplaceTemples = true
+

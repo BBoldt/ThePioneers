@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/energetic_alloy"
+    },
+    {
+      "tag": "forge:ender_pearls"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "enderio:vibrant_alloy_ingot"
+    }
+  ]
+}

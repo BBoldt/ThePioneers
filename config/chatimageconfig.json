@@ -1,0 +1,16 @@
+{
+  "cachePath": "ChatImageCache",
+  "MaxFileSize": 10240,
+  "limitWidth": 125,
+  "limitHeight": 125,
+  "paddingLeft": 1,
+  "paddingRight": 1,
+  "paddingTop": 1,
+  "paddingBottom": 1,
+  "gifSpeed": 3,
+  "nsfw": false,
+  "cqCode": true,
+  "checkImageUri": true,
+  "dragUseCicode": true,
+  "timeout": 5
+}

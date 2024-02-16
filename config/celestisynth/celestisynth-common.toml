@@ -1,0 +1,132 @@
+
+["Base Damage Modifications (Temporarily Unusable)"]
+	#Define the base attack damage of the Solaris.
+	#Range: 0 ~ 1000
+	"Base Damage: Solaris" = 7
+	#Define the base attack damage of the Crescentia.
+	#Range: 0 ~ 1000
+	"Base Damage: Crescentia" = 8
+
+#Some attacks deal a specified amount of damage FOR EVERY HIT, so be careful as you tweak these values!
+# 
+["Value Modifiers - Solaris"]
+	#Define how much damage does the Solaris deal in a specified attack skill.
+	#Range: 0.0 ~ 1000.0
+	"Damage: Spinning Flames - Full Round" = 0.85
+	#Define how much damage does the Solaris deal in a specified attack skill.
+	#Range: 0.0 ~ 1000.0
+	"Damage: Spinning Flames - Soul Straight Dash [Shift]" = 1.2
+	#Define the duration of the cooldown provided by the Solaris in a particular attack skill, measured in ticks.
+	#Range: 0 ~ 1000
+	"Cooldown: Spinning Flames - Full Round" = 70
+	#Define the duration of the cooldown provided by the Solaris in a particular attack skill, measured in ticks.
+	#Range: 0 ~ 1000
+	"Cooldown: Spinning Flames - Soul Straight Dash [Shift]" = 130
+
+["Value Modifiers - Crescentia"]
+	#Define how much damage does the Crescentia deal in a specified attack skill.
+	#Range: 0.0 ~ 1000.0
+	"Damage: Lunar Celebration Barrage" = 0.5
+	#Define how much damage does the Crescentia deal in a specified attack skill.
+	#Range: 0.0 ~ 1000.0
+	"Damage: Dragon Crescent Boom [Shift]" = 0.7
+	#Define the duration of the cooldown provided by the Crescentia in a particular attack skill, measured in ticks.
+	#Range: 0 ~ 1000
+	"Cooldown: Lunar Celebration Barrage" = 100
+	#Define the duration of the cooldown provided by the Crescentia in a particular attack skill, measured in ticks.
+	#Range: 0 ~ 1000
+	"Cooldown: Dragon Crescent Boom [Shift]" = 40
+
+["Value Modifiers - Breezebreaker"]
+	#Define how much damage does the Breezebreaker deal in a specified attack skill.
+	#Range: 0.0 ~ 1000.0
+	"Damage: Galestorm + Dual Galestorm" = 7.0
+	#Define how much damage does the Breezebreaker deal in a specified attack skill.
+	#Range: 0.0 ~ 1000.0
+	"Damage: Full-Force Whirlwind Extravagance [Shift]" = 0.85
+	#Define how much damage does the Breezebreaker deal in a specified attack skill.
+	#Range: 0.0 ~ 1000.0
+	"Damage: Roar of the Wind [Sprint]" = 11.5
+	#Define how much damage does the Breezebreaker deal in a specified attack skill.
+	#Range: 0.0 ~ 1000.0
+	"Damage: Zephyr's Death Wheel [Mid-air]" = 8.0
+	#Define the duration of the cooldown provided by the Breezebreaker in a particular attack skill, measured in ticks.
+	#Range: 0 ~ 1000
+	"Cooldown: Galestorm + Dual Galestorm" = 15
+	#Define the duration of the cooldown provided by the Breezebreaker in a particular attack skill, measured in ticks.
+	#Range: 0 ~ 1000
+	"Cooldown: Full-Force Whirlwind Extravagance [Shift]" = 35
+	#Define the duration of the cooldown provided by the Breezebreaker in a particular attack skill, measured in ticks.
+	#Range: 0 ~ 1000
+	"Cooldown: Roar of the Wind [Sprint]" = 15
+	#Define the duration of the cooldown provided by the Breezebreaker in a particular attack skill, measured in ticks.
+	#Range: 0 ~ 1000
+	"Cooldown: Zephyr's Death Wheel [Mid-air]" = 40
+
+["Value Modifiers - Poltergeist"]
+	#Define how much damage does the Poltergeist deal in a specified attack skill.
+	#Range: 0.0 ~ 1000.0
+	"Damage: Cosmic Steel Annihilation" = 17.5
+	#Define how much damage does the Poltergeist deal in a specified attack skill.
+	#Range: 0.0 ~ 1000.0
+	"Damage: Barrier Call" = 10.0
+	#Define the duration of the cooldown provided by the Poltergeist in a particular attack skill, measured in ticks.
+	#Range: 0 ~ 1000
+	"Cooldown: Cosmic Steel Annihilation" = 200
+	#Define the duration of the cooldown provided by the Poltergeist in a particular attack skill, measured in ticks.
+	#Range: 0 ~ 1000
+	"Cooldown: Barrier Call" = 80
+	#Enables the increasing of Poltergeist's Cosmic Steel Annihilation damage with smash height.
+	"Enable Height Damage" = true
+
+["Value Modifiers - Frostbound"]
+	#Define how much damage does the Frostbound deal in a specified attack skill.
+	#Range: 0.0 ~ 1000.0
+	"Damage: Dance of the Seven-Thousand Snowflakes" = 17.5
+	#Define how much damage does the Frostbound deal in a specified attack skill.
+	#Range: 0.0 ~ 1000.0
+	"Damage: Calamity Frost Cast" = 10.0
+	#Define the duration of the cooldown provided by the Frostbound in a particular attack skill, measured in ticks.
+	#Range: 0 ~ 1000
+	"Cooldown: Dance of the Seven-Thousand Snowflakes" = 160
+	#Define the duration of the cooldown provided by the Frostbound in a particular attack skill, measured in ticks.
+	#Range: 0 ~ 1000
+	"Cooldown: Calamity Frost Cast" = 100
+
+["Value Modifiers - Aquaflora"]
+	#Define how much damage does the Aquaflora deal in a specified attack skill.
+	#Range: 0.0 ~ 1000.0
+	"Damage: Petal Pierces" = 0.35
+	#Define how much damage does the Aquaflora deal in a specified attack skill.
+	#Range: 0.0 ~ 1000.0
+	"Damage: Blasting Off Together" = 7.0
+	#Define how much damage does the Aquaflora deal in a specified attack skill.
+	#Range: 0.0 ~ 1000.0
+	"Damage: Exorbitant Slashing Frenzy" = 1.15
+	#Define how much damage does the Aquaflora deal in a specified attack skill.
+	#Range: 0.0 ~ 1000.0
+	"Damage: Flowers Away" = 0.0
+	#Define the duration of the cooldown provided by the Aquaflora in a particular attack skill, measured in ticks.
+	#Range: 0 ~ 1000
+	"Cooldown: Petal Pierces" = 20
+	#Define the duration of the cooldown provided by the Aquaflora in a particular attack skill, measured in ticks.
+	#Range: 0 ~ 1000
+	"Cooldown: Blasting Off Together" = 20
+	#Define the duration of the cooldown provided by the Aquaflora in a particular attack skill, measured in ticks.
+	#Range: 0 ~ 1000
+	"Cooldown: Exorbitant Slashing Frenzy" = 200
+	#Define the duration of the cooldown provided by the Aquaflora in a particular attack skill, measured in ticks.
+	#Range: 0 ~ 1000
+	"Cooldown: Flowers Away" = 40
+
+["Value Modifiers - Rainfall Serenity"]
+	#Define how much damage does the Rainfall Serenity's Arrow deal.
+	#Range: 0.0 ~ 1000.0
+	"Damage: Rainfall Serenity Arrow" = 4.0
+	#Define how much damage does the Rainfall Serenity's Arrow from Quasar Link deal.
+	#Range: 0.0 ~ 1000.0
+	"Damage: Rainfall Serenity Arrow (Quasar)" = 2.0
+	#Define how much damage does the Rainfall Serenity's Arrow from Quasar Link deal.
+	#Range: 0.0 ~ 1000.0
+	"Extra: Rainfall Serenity Draw Speed" = 7.5
+

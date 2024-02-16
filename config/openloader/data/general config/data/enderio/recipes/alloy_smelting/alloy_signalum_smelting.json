@@ -1,0 +1,41 @@
+{
+	"type": "enderio:alloy_smelting",
+	"energy": 12000,
+	"experience": 0.3,
+	"inputs": [
+		{
+			"count": 3,
+			"ingredient": [
+				{
+					"tag": "forge:ingots/copper"
+				},
+				{
+					"tag": "forge:dusts/copper"
+				}
+			]
+		},
+		{
+			"count": 1,
+			"ingredient": [
+				{
+					"tag": "forge:ingots/silver"
+				},
+				{
+					"tag": "forge:dusts/silver"
+				}
+			]
+		},
+		{
+			"count": 4,
+			"ingredient": [
+				{
+					"tag": "forge:dusts/redstone"
+				}
+			]
+		}
+	],
+	"result": {
+		"item": "thermal:signalum_ingot",
+		"count": 4
+	}
+}

@@ -1,0 +1,24 @@
+{
+  "type": "thermal:smelter",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/lapis",
+      "count": 1
+    },
+    {
+      "tag": "minecraft:wool",
+      "count": 1
+    },
+    {
+      "tag": "enderio:insulation_metals",
+      "count": 1
+    }
+  ],
+  "result": [
+    {
+      "item": "enderio:industrial_insulation_block",
+      "count": 1
+    }
+  ],
+  "energy": 3200
+}

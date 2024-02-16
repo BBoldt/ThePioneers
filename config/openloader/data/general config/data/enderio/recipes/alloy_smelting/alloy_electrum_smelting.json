@@ -1,0 +1,33 @@
+{
+  "type": "enderio:alloy_smelting",
+  "energy": 3200,
+  "experience": 0.3,
+  "inputs": [
+    {
+      "count": 1,
+      "ingredient": [
+        {
+          "tag": "forge:ingots/gold"
+        },
+        {
+          "tag": "forge:dusts/gold"
+        }
+      ]
+    },
+    {
+      "count": 1,
+      "ingredient": [
+        {
+          "tag": "forge:ingots/silver"
+        },
+        {
+          "tag": "forge:dusts/silver"
+        }
+      ]
+    }
+  ],
+  "result": {
+    "item": "thermal:electrum_ingot",
+    "count": 2
+  }
+}

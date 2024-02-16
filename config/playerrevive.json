@@ -10,7 +10,8 @@
       {
         "effect": "minecraft:slowness",
         "amplifier": 2,
-        "duration": 10
+        "duration": 10,
+        "hideParticles": false
       }
     ],
     "affectHunger": true,
@@ -22,7 +23,8 @@
     "disableOtherDamage": false,
     "hasShaderEffect": true,
     "changePermissionLevel": false,
-    "permissionLevel": 0
+    "permissionLevel": 0,
+    "canBePushed": true
   },
   "revive": {
     "requiredReviveProgress": 100.0,
@@ -35,7 +37,8 @@
       {
         "effect": "minecraft:slowness",
         "amplifier": 2,
-        "duration": 1
+        "duration": 1,
+        "hideParticles": false
       }
     ],
     "reviveItem": "{id:\"item\",item:\"minecraft:paper\"}",

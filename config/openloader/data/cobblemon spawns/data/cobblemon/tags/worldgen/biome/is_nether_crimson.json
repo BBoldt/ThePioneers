@@ -1,9 +1,0 @@
-{
-    "replace": false,
-    "values": [
-        {
-            "id": "regions_unexplored:infernal_holt",
-            "required": false
-        }
-    ]
-  }

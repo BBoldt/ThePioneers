@@ -15,6 +15,8 @@
           "amount": {
             "minInitialValue": 0.01,
             "maxInitialValue": 0.1,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "MULTIPLY_BASE",
             "upgradeModifier": 1.0
           }

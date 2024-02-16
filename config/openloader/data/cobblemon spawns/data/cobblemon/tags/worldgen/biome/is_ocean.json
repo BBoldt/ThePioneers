@@ -1,9 +1,0 @@
-{
-    "replace": false,
-    "values": [
-		{
-            "id": "sgjourney:lantean_deep_ocean",
-            "required": false
-        }
-    ]
-  }

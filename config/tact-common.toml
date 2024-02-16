@@ -34,6 +34,17 @@ restoreEndStory = false
 # If enabled, this config makes the Compendium have all biomes and their info unlocked immediately on log-in.
 #
 unlockAllCompendiumInfo = false
+#----------------------------------
+#
+# Allows setting overrides for how many arrows to spawn with Dreadbow's rain-like attack.
+# Format is the arrow item registry name. Then an equal sign =. And ends with the arrow amount.
+# Separate multiple entries with a comma , and whitespace will be ignored.
+# Example: "alexscaves:seeking_arrow=5, alexscaves:burrowing_arrow=100"
+#
+# Otherwise, will default to Alex's Caves original code for determining arrow amount for
+# the attack which is 30 arrows for dark colored arrows and 5 arrows for all other arrows.
+#
+dreadbowArrowRainOverrides = ""
 
 ["Mob Attack/Health Options"]
 	#Range: 1.0 ~ 1000000.0

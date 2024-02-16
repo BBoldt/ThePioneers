@@ -1,0 +1,9 @@
+allow-breeding: true
+allow-ditto-ditto-breeding: false
+allow-random-breeding-eggs-to-be-legendary: false
+allow-random-breeding-eggs-to-be-mythic: false
+allow-random-breeding-eggs-to-be-ultrabeast: false
+allow-cross-region-hidden-ability-inheritance: true
+oval-charm-multiplier: 0.5
+steps-per-egg-cycle: 255
+default-day-care-amount: 3

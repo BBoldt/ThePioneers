@@ -1,0 +1,9 @@
+
+["Client-side Configurations"]
+	#Should the weapon attack effects be visible on first person mode?
+	"Is Visible?" = true
+	#Defines if your left arm must be shown during the ability casting process.
+	"Show Left Arm" = true
+	#Defines if your right arm must be shown during the ability casting process.
+	"Show Right Arm" = true
+

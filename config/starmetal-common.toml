@@ -1,0 +1,35 @@
+
+["Falling Star Settings"]
+	#The MAXIMUM time MUST be greater than the MINIMUM time or your game will most likely crash!  Use the /starmetals_reset_spawn_timer command in game to refresh the timers.
+	#Range: 0 ~ 999999
+	"Maximum time in SECONDS that can pass between a Falling Star Spawn" = 3600
+	#Range: 0 ~ 999999
+	"Minimum time in SECONDS that can pass between a Falling Star Spawn" = 900
+	#Range: 0 ~ 100
+	"Maximum BLOCK RANGE from the player a Falling Star can spawn" = 40
+	#Setting Star Metal Drop Chance to 1.0 will stop Fragments from dropping all together.  Setting to 0.0 will ONLY drop Fragments.
+	#Range: 0.0 ~ 1.0
+	"Chance for a Star Metal to drop instead of a single Star Fragment" = 0.1
+	"Falling Stars will explode on impact during spawn" = true
+	"Impact Explosion damages environment following Mob Griefing Game Rules" = false
+	"Falling Stars have a small chance to ignite nearby blocks" = true
+
+["Item Settings"]
+	"Star Metal Item is Fire Resistant" = true
+	"Star Fragment Item is Fire Resistant" = true
+
+["Sound Settings"]
+	#Range: 0.0 ~ 5.0
+	"Falling Star Spawn Sound Volume" = 1.0
+	#Range: 0.0 ~ 5.0
+	"Star Metal and Star Fragment Item Sound Volume" = 1.0
+
+["Particle Settings"]
+	#Disabling Particle Effects may increase performance
+	"Falling Stars emit Particles" = true
+	"Star Metal and Star Fragment Items emits Portal Particles when dropped" = true
+
+["Nether Star Settings"]
+	"Nether Stars have the same sound settings as Star Metal and Star Fragments" = true
+	"Nether Stars give off the same Particles as Star Metal and Star Fragments" = true
+

@@ -1,0 +1,10 @@
+{
+  "type": "aether:enchanting",
+  "category": "enchanting_misc",
+  "cookingtime": 1500,
+  "experience": 1.5,
+  "ingredient": {
+    "item": "aether:golden_amber"
+  },
+  "result": "minecraft:gold_ingot"
+}

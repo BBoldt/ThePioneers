@@ -1,0 +1,182 @@
+starting-balance: 0.0
+award-tokens: false
+allow-pokemon-nicknames: true
+allow-vanilla-mobs: false
+allow-capture-outside-battle: true
+allow-random-pokemon-to-be-legendary: true
+growth-scale-modifier: 1.0
+allow-planting: true
+cloning-machine-enabled: true
+lake-trio-max-enchants: 3
+engage-player-by-poke-ball: true
+enable-wild-aggression: true
+shrine-encounter-mode: Once
+spawners-op-only: true
+npc-editor-op-only: true
+quest-editor-op-only: true
+traders-reusable: false
+moves-per-tutor: 20
+use-system-time-for-world-time: false
+time-update-interval: 30
+allow-pokemon-editors: true
+allow-chisels: true
+max-level: 100
+can-pokemon-be-hit: false
+always-have-mega-ring: false
+always-have-dynamax-band: false
+chance-to-get-special-bidoof: 30
+disabled-non-player-movement: false
+fallback-capture-method: gen8
+allow-shiny-charm-from-pokedex: true
+allow-oval-charm-from-pokedex: true
+exp-charm-multiplier: 1.5
+catching-charm-multiplier: 1.1
+mark-charm-rolls: 3
+hammer-durability-loss-multiplier: 3
+ore-colors:
+    '11':
+        block-id: pixelmon:sapphire_ore
+        color: 4879335
+        pattern: 1
+    '12':
+        block-id: pixelmon:ruby_ore
+        color: 14490675
+        pattern: 1
+    '13':
+        block-id: pixelmon:fossil
+        color: 4472114
+        pattern: 6
+    '14':
+        block-id: pixelmon:crystal_ore
+        color: 11529966
+        pattern: 4
+    '15':
+        block-id: pixelmon:bauxite_ore
+        color: 13743492
+        pattern: 0
+    '16':
+        block-id: pixelmon:dawn_dusk_ore
+        color: 0
+        pattern: 7
+    '17':
+        block-id: pixelmon:water_stone_ore
+        color: 6123935
+        pattern: 8
+    '18':
+        block-id: pixelmon:thunder_stone_ore
+        color: 15793921
+        pattern: 9
+    '19':
+        block-id: pixelmon:leaf_stone_ore
+        color: 8298855
+        pattern: 10
+    '0':
+        block-id: minecraft:coal_ore
+        color: 14860458
+        pattern: 0
+    '1':
+        block-id: minecraft:iron_ore
+        color: 14860458
+        pattern: 0
+    '2':
+        block-id: minecraft:gold_ore
+        color: 16576075
+        pattern: 0
+    '3':
+        block-id: minecraft:redstone_ore
+        color: 16711680
+        pattern: 0
+    '4':
+        block-id: minecraft:emerald_ore
+        color: 1564002
+        pattern: 0
+    '5':
+        block-id: minecraft:diamond_ore
+        color: 6682083
+        pattern: 0
+    '6':
+        block-id: minecraft:lapis_ore
+        color: 1594813
+        pattern: 2
+    '7':
+        block-id: minecraft:quartz_ore
+        color: 15394270
+        pattern: 3
+    '8':
+        block-id: pixelmon:amethyst_ore
+        color: 9782185
+        pattern: 4
+    '9':
+        block-id: pixelmon:sun_stone_ore
+        color: 15038274
+        pattern: 5
+    '20':
+        block-id: pixelmon:fire_stone_ore
+        color: 13398322
+        pattern: 11
+    '10':
+        block-id: pixelmon:silicon_ore
+        color: 14868462
+        pattern: 0
+average-lure-expiry-ticks: 17920
+limit-shop-keeper-stack-size: true
+old-gen-dimensions: []
+both-gen-dimensions:
+- pixelmon:ultra_space
+- pixelmon:drowned
+- minecraft:overworld
+- minecraft:the_nether
+- minecraft:the_end
+dynamax-size: 15.0
+allow-illegal-shinies: true
+berry-juice-crafting: true
+poke-gift-reusable: false
+elevator-search-range: 10
+starter-on-join: true
+use-discord-rich-presence: true
+debug:
+    print-errors: true
+    use-update-entity-with-optional-force-fix: false
+    verbose: false
+tms:
+    allow-t-m-reuse: true
+    allow-t-r-reuse: true
+    universal-t-ms: true
+    super-universal-t-ms: false
+drops:
+    pokemon-drops-enabled: true
+    use-drop-g-u-i: true
+    delete-unwanted-drops: false
+    den-star-drops:
+    - 2
+    - 4
+    - 6
+    - 8
+    - 10
+healing:
+    beds-heal-pokemon: true
+    use-passive-healer: true
+    chance-to-revive-passively: 0.0010000000474974513
+    chance-to-heal-status-passively: 0.004999999888241291
+    steps-to-heal-health-passively: 75
+    passive-healing-max-health-percentage: 0.25
+afk-handler:
+    enabled: false
+    afk-activate-seconds: 90
+    afk-timer-turn-seconds: 15
+pokerus:
+    enabled: true
+    spawn-rate: 12288.0
+    inform-players: true
+    spread-rate: 5
+riding:
+    allow-riding: true
+    riding-speed-multiplier: 1.0
+    enable-point-to-steer: true
+    land-mount: true
+    require-h-m: false
+    flying-speed-limit: 4.0
+outside-effects:
+    use-outside-effects: true
+    steps-to-apply-effects: 15
+    poison-max-damage: 5

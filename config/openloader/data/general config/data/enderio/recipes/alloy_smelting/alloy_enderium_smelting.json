@@ -1,0 +1,41 @@
+{
+	"type": "enderio:alloy_smelting",
+	"energy": 16000,
+	"experience": 0.3,
+	"inputs": [
+		{
+			"count": 3,
+			"ingredient": [
+				{
+					"tag": "forge:ingots/lead"
+				},
+				{
+					"tag": "forge:dusts/lead"
+				}
+			]
+		},
+		{
+			"count": 1,
+			"ingredient": [
+				{
+					"tag": "forge:dusts/diamond"
+				}
+			]
+		},
+		{
+			"count": 2,
+			"ingredient": [
+				{
+					"tag": "forge:ender_pearls"
+				},
+				{
+					"tag": "forge:dusts/ender_pearl"
+				}
+			]
+		}
+	],
+	"result": {
+		"item": "thermal:enderium_ingot",
+		"count": 2
+	}
+}

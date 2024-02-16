@@ -1,0 +1,33 @@
+{
+  "type": "enderio:alloy_smelting",
+  "energy": 3200,
+  "experience": 0.3,
+  "inputs": [
+    {
+      "count": 1,
+      "ingredient": [
+        {
+          "tag": "forge:ingots/copper"
+        },
+        {
+          "tag": "forge:dusts/copper"
+        }
+      ]
+    },
+    {
+      "count": 1,
+      "ingredient": [
+        {
+          "tag": "forge:ingots/nickel"
+        },
+        {
+          "tag": "forge:dusts/nickel"
+        }
+      ]
+    }
+  ],
+  "result": {
+    "item": "thermal:constantan_ingot",
+    "count": 2
+  }
+}

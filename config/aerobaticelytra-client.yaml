@@ -1,0 +1,161 @@
+## Aerobatic Elytra - Client config
+## Lang: en_us
+## Comments starting with 2 hash symbols (##) are documentation comments and will be reset if modified.
+
+## Controls
+controls:
+  ## Pitch (V) Sensitivity
+  ##   Vertical Mouse Sensitivity
+  ## [Float] [Range: >= 0.0]
+  pitch_sens: 1.0
+  ## Roll Sensitivity
+  ##   Horizontal Mouse Sensitivity
+  ## [Float] [Range: >= 0.0]
+  roll_sens: 1.0
+  ## Yaw (H) Sensitivity
+  ##   How fast do the strafing keys reach maximum yaw tilt
+  ## [Float] [Range: >= 0.0]
+  yaw_sens: 1.0
+  ## Invert Pitch (V)
+  ##   Invert Vertical Axis
+  ## [yes/no]
+  invert_pitch: 'no'
+  ## Invert Front Third Person
+  ##   Invert Controls on Front Third Person
+  ## [yes/no]
+  invert_front_third_person: 'no'
+## Look Around
+##   You can look around while flying by pressing a configurable key
+##   (Alt by default)
+lookaround:
+  ## Sensitivity
+  ##   Mouse sensitivity when looking around.
+  ##   Acts as a multiplier to the default mouse sensitivity
+  ## [Float] [Range: >= 0.0]
+  sensitivity: 1.0
+  ## Max Pitch (V)
+  ##   Maximum pitch (vertical) angle you can look around in degrees.
+  ##   It is recommended to keep this below 90°
+  ## [Float] [Range: ~]
+  max_pitch: 70.0
+  ## Max Yaw (H)
+  ##   Maximum yaw (horizontal) angle you can look around in degrees.
+  ##   It is recommended to keep this below 90°
+  ## [Float] [Range: ~]
+  max_yaw: 70.0
+  ## Aim With Bow
+  ##   Automatically look around while aiming a bow, if not already aiming
+  ## [yes/no]
+  aim_with_bow: 'yes'
+  ## Reset When Landing
+  ##   The look around angle can be made persistent (and reset) by double pressing the look around key
+  ##   It is possible to preserve the angle after landing and taking off again by setting this option off.
+  ## [yes/no]
+  reset_on_land: 'yes'
+
+## Style
+style:
+  ## Visual
+  visual:
+    ## FOV Effect Strength
+    ##   Multiplies how much does the FOV increase when flying
+    ## [Float] [Range: >= 0.0]
+    fov_effect_strength: 1.0
+    ## Enable Flight Crosshair
+    ##   Display a special crosshair when flying on first person,
+    ##   which displays your current tilt on each axis
+    ## [yes/no]
+    flight_crosshair: 'yes'
+    ## Flight Bar Visibility
+    ##   The Flight Bar shows your propulsion strength
+    ##   You may choose to hide it, replace the XP bar when flying, or show it over the XP bar
+    ## [Options: 'hide', 'over_xp', 'replace_xp']
+    flight_bar: over_xp
+    ## Flight Mode Toast Length
+    ##   How many seconds should the mode toast last
+    ##   The toast appearance can be changed by resource packs
+    ## [Double] [Range: >= 0.0]
+    mode_toast_length_seconds: 2.0
+    ## Horizontal Toast Position
+    ##   Horizontal toast position on screen in percentage
+    ## [Float] [Range: 0.0 ~ 100.0]
+    mode_toast_x_percentage: 50.0
+    ## Vertical Toast Position
+    ##   Vertical Toast position on screen in percentage
+    ## [Float] [Range: 0.0 ~ 100.0]
+    mode_toast_y_percentage: 70.0
+    ## Max Rendered Banner Layers
+    ##   Even though the loom only allows you to
+    ##   compose up to 6 layers in banners, the game can
+    ##   handle up to 16. Here you can expand that
+    ##   limit exclusively for banners in Aerobatic Elytras
+    ## [Integer] [Range: <= 16]
+    max_rendered_banner_layers: 16
+  
+  ## Visibility
+  visibility:
+    ## Fuel Display
+    ##   Where should the fuel be displayed
+    ## [Options: 'rockets', 'durability_bar', 'durability_bar_if_lower']
+    fuel_display: rockets
+    ## Fuel Visibility
+    ##   When should the fuel be displayed
+    ##   The currently equipped elytra always shows it
+    ## [Options: 'always', 'never', 'shift_down', 'shift_up', 'control_down', 'control_up', 'alt_down', 'alt_up']
+    fuel_visibility: always
+    ## Disable Wing Glint
+    ##   Disable glint rendering in aerobatic elytra wings.
+    ##   Helps see patterns in enchanted elytras
+    ## [yes/no]
+    disable_wing_glint: 'no'
+    ## Enchantment Glint Visibility
+    ##   When should the enchantment glint display in the inventory
+    ##   Helps see elytra colors
+    ## [Options: 'always', 'never', 'shift_down', 'shift_up', 'control_down', 'control_up', 'alt_down', 'alt_up']
+    enchantment_glint_visibility: alt_up
+  
+  ## Dark Theme
+  ##   Use darker textures in GUIs
+  ##   This includes the JEI recipe boxes
+  dark_theme:
+    ## [enabled/disabled]
+    enabled: disabled
+    ## Autodetect
+    ##   Detect automatically enabled resource packs with a name suggesting dark theme support
+    ##   Currently, if you change resource packs mid-game the change might not be detected
+    ## [yes/no]
+    auto_detect: 'yes'
+    ## Autodetect Resource Pack Pattern
+    ##   RegEx pattern used to match dark
+    ##   theme resource pack names
+    ## [Pattern] [Flags: (?i)]
+    auto_detect_pattern: dark.*(gui|theme)
+
+## Sound
+##   Control the volume of all mod sounds
+##   Resource packs may alter these sounds
+sound:
+  ## [Float] [Range: 0.0 ~ 1.0]
+  master: 1.0
+  ## Wind
+  ##   Affects the wind sound heard while flying
+  ## [Float] [Range: 0.0 ~ 1.0]
+  wind: 1.0
+  ## Rotating Wind
+  ##   Affects the wind sound heard while
+  ##   quickly rotating in the air
+  ## [Float] [Range: 0.0 ~ 1.0]
+  rotating_wind: 1.0
+  ## Whistle
+  ##   Affects the whistling sound heard while flying very fast
+  ## [Float] [Range: 0.0 ~ 1.0]
+  whistle: 1.0
+  ## Boost
+  ##   Affects the boost sounds, both when
+  ##   accelerating and slowing down
+  ## [Float] [Range: 0.0 ~ 1.0]
+  boost: 1.0
+  ## Brake
+  ##   Affects the wind sound heard while braking
+  ## [Float] [Range: 0.0 ~ 1.0]
+  brake: 1.0

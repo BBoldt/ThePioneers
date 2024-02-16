@@ -1,0 +1,28 @@
+## Aerobatic Elytra - Jetpack - Client config
+## Lang: en_us
+## Comments starting with 2 hash symbols (##) are documentation comments and will be reset if modified.
+## Disable Hover Mode when landing
+##   Most other jetpack mods offer this behaviour by default
+## [yes/no]
+disable_hover_when_landing: 'no'
+## Auto Repeat Dash
+##   Automatically repeat dashes as long as the key is being held
+## [yes/no]
+auto_repeat_dash: 'no'
+
+## Sound
+sound:
+  ## Master
+  ##   Affects all mod sounds
+  ## [Float] [Range: 0.0 ~ 1.0]
+  master: 1.0
+  ## Jetpack
+  ##   Affects the regular jetpack flight sound
+  ## [Float] [Range: 0.0 ~ 1.0]
+  jetpack: 1.0
+  ## Hover
+  ##   Affects the hovering jetpack sound
+  ## [Float] [Range: 0.0 ~ 1.0]
+  hover: 1.0
+  ## [Float] [Range: 0.0 ~ 1.0]
+  dash: 1.0

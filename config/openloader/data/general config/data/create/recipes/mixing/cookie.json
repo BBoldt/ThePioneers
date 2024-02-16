@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "enderio:flour"
+    },
+    {
+      "tag": "minecraft:cocoa_beans"
+    }
+  ],
+  "results": [
+    {
+      "count": 8,
+      "item": "minecraft:cookie"
+    }
+  ]
+}

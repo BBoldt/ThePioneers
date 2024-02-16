@@ -1,0 +1,20 @@
+{
+  "type": "thermal:smelter",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/redstone",
+      "count": 1
+    },
+    {
+      "tag": "forge:silicon",
+      "count": 1
+    }
+  ],
+  "result": [
+    {
+      "item": "enderio:redstone_alloy_ingot",
+      "count": 1
+    }
+  ],
+  "energy": 3200
+}

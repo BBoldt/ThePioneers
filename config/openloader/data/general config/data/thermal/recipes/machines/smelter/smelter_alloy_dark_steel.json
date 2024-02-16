@@ -1,0 +1,24 @@
+{
+  "type": "thermal:smelter",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/iron",
+      "count": 1
+    },
+    {
+      "tag": "forge:dusts/coal",
+      "count": 1
+    },
+    {
+      "tag": "forge:obsidian",
+      "count": 1
+    }
+  ],
+  "result": [
+    {
+      "item": "enderio:dark_steel_ingot",
+      "count": 1
+    }
+  ],
+  "energy": 6400
+}

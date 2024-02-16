@@ -143,3 +143,21 @@ disableEssenceBlockShaders = false
 	#Range: 0 ~ 10000
 	radianceEssenceArmorDurabilityYCoord = 16
 
+["Essence Item HUD Rendering Configs"]
+	# 
+	#-----------------------------------------------------
+	#
+	# How many of the rotating texture layers to show on HUD when Essence item is in offhand slot.
+	# 0 to turn the rendering off.
+	#
+	#Range: 0 ~ 3
+	essenceItemHUDVisualEffectLayers = 3
+	# 
+	#-----------------------------------------------------
+	#
+	# How fast to spin the rotating texture layers on HUD when Essence item is in offhand slot.
+	# 0.5 for half speed. 0 to turn the spinning off.
+	#
+	#Range: 0.0 ~ 100.0
+	essenceItemHUDVisualEffectSpeed = 1.0
+

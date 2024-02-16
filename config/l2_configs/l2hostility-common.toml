@@ -1,3 +1,5 @@
+#Allow entity specific difficulty configs to load
+enableEntitySpecificDatapack = true
 
 [scaling]
 	#Health factor per level
@@ -64,6 +66,12 @@
 	#Slimes hostility loot drop rate decay per split
 	#Range: 0.0 ~ 1.0
 	splitDropRateFactor = 0.5
+	#Allow mobs without AI to have levels
+	allowNoAI = false
+	#Allow mobs allied to player to have levels
+	allowPlayerAllies = false
+	#Keep traits on mobs tamed by player
+	allowTraitOnOwnable = false
 
 [difficulty]
 	#Difficulty increment takes this many kills of same level mob
@@ -116,9 +124,6 @@
 	#Trait item drop rate per rank when using Curse of Envy
 	#Range: 0.0 ~ 1.0
 	envyDropRate = 0.02
-	#Bottle of Curse drop rate per level when using Curse of Gluttony
-	#Range: 0.0 ~ 1.0
-	gluttonyDropRate = 0.01
 	#Damage bonus per level difference when using Curse of Wrath
 	#Range: 0.0 ~ 1.0
 	wrathDamageBonus = 0.05
@@ -155,6 +160,11 @@
 	#Insulator Enchantment factor for reducing pushing
 	#Range: 0.0 ~ 1.0
 	insulatorFactor = 0.8
+	#Bottle of Curse drop rate per level when using Curse of Gluttony
+	#Range: 0.0 ~ 1.0
+	gluttonyBottleDropRate = 0.02
+	#Disable curio requirement for hostility loot
+	disableHostilityLootCurioRequirement = false
 
 [traits]
 	#Health bonus for Tank trait per level

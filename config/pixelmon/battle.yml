@@ -1,0 +1,55 @@
+battle-a-i-wild: RANDOM
+battle-a-i-boss: AGGRESSIVE
+battle-a-i-trainer: TACTICAL
+multiple-photos-of-same-pokemon: true
+relaxed-battle-gimmick-rules: true
+battle-music-volume: 1.0
+allow-p-v-p-experience: true
+allow-trainer-experience: true
+return-held-items: true
+force-end-battle-result: WINNER
+exp-modifier: 1.0
+synchronize-chance: 1.0
+allow-happy-hour: true
+happy-hour-multiplier: 2
+allow-pay-day: true
+pay-day-multiplier: 5.0
+allow-g-max-gold-rush: true
+g-max-gold-rush-multiplier: 100.0
+allow-amulet-coin: true
+amulet-coin-multiplier: 2
+pickup-rate: 10
+allow-catch-combo: true
+catch-combo-thresholds:
+- 0
+- 10
+- 20
+- 30
+- 40
+catch-combo-exp-bonuses:
+- 1.0
+- 1.100000023841858
+- 1.5
+- 2.0
+- 2.5
+- 3.0
+catch-combo-shiny-modifiers:
+- 1.0
+- 1.0
+- 1.399999976158142
+- 1.7999999523162842
+- 2.200000047683716
+- 2.200000047683716
+catch-combo-perfect-i-vs:
+- 0
+- 0
+- 2
+- 3
+- 4
+- 4
+scale-grass-battles: false
+overworld-weather-affects-wild-battle-weather: true
+overworld-weather-affects-trainer-battle-weather: true
+overworld-weather-affects-pv-p-battle-weather: false
+overworld-weather-affects-raid-battle-weather: false
+overworld-weather-can-change-battle-weather-during-battle: true

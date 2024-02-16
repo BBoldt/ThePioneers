@@ -1,0 +1,20 @@
+{
+  "type": "thermal:smelter",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/energetic_alloy",
+      "count": 1
+    },
+    {
+      "tag": "forge:ender_pearls",
+      "count": 1
+    }
+  ],
+  "result": [
+    {
+      "item": "enderio:vibrant_alloy_ingot",
+      "count": 1
+    }
+  ],
+  "energy": 4800
+}

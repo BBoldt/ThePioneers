@@ -1,0 +1,25 @@
+
+#.
+#Enable/disable features
+[features]
+	#.
+	copycat_vertical_step = true
+	six_way_gearbox = true
+	item_silo = true
+	encased_chain_cogwheel = true
+	inverted_clutch = true
+	sequenced_pulse_generator = true
+	empty_fan_catalyst = true
+	parallel_gearbox = true
+	freewheel_clutch = true
+	shear_pin = true
+	inverted_gearshift = true
+	centrifugal_clutch = true
+	copycat_slab = true
+	overstress_clutch = true
+	brake = true
+	copycat_block = true
+	linked_transmitter = true
+	copycat_beam = true
+	brass_gearbox = true
+

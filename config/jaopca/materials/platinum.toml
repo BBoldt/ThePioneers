@@ -15,3 +15,7 @@
 	#The color of this material.
 	color = 9149608
 
+[molten]
+	#The temperature of this molten fluid.
+	temperature = 1000
+

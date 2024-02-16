@@ -5,4 +5,11 @@ showTabsOnlyCurio = false
 #Number of attribure lines per page
 #Range: 1 ~ 100
 attributeLinePerPage = 15
+#Redirect Inventory Tab to Curios Inventory
+redirectInventoryTabToCuriosInventory = true
+#List of tabs to hide. Use title translation key for tab id.
+#Example: menu.tabs.attribute for attribute tab
+#Example: menu.tabs.curios for curios tab
+#Example: pandora.menu.title for pandora tab
+hiddentTabs = []
 

@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/iron"
+    },
+    {
+      "tag": "forge:ender_pearls"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "enderio:pulsating_alloy_ingot"
+    }
+  ]
+}

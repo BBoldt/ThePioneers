@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "minecraft:deepslate"
+    },
+    "F": {
+      "item": "minecraft:furnace"
+    },
+    "B": {
+      "item": "minecraft:bricks"
+    }
+  },
+  "pattern": [
+    "FFF",
+    "DBD",
+    "DDD"
+  ],
+  "result": {
+    "item": "enderio:primitive_alloy_smelter"
+  },
+  "show_notification": true
+}

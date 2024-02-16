@@ -15,4 +15,12 @@ glowingRangeHidden = 32
 glowingRangeNear = 16
 #Render undying particles
 showUndyingParticles = true
+#Name plate render offset in lines, upward is positive
+#Range: -100.0 ~ 100.0
+overHeadRenderOffset = 0.0
+#Overhead render text becomes full bright
+overHeadRenderFullBright = true
+#Overhead level color in decimal form, converted from hex form
+#Range: > -2147483648
+overHeadLevelColor = 11184810
 

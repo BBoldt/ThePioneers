@@ -41,6 +41,14 @@
 	giantMummyAttackVillagers = true
 	giantMummyAttackBabyTurtles = true
 	enableGiantMummyDestroyBlocks = true
+	#Range: 0.0 ~ 32.0
+	monolithTargetDistance = 12.0
+	#Range: 0.0 ~ 32.0
+	monolithBeamAttackDistance = 15.0
+	#Range: 0.0 ~ 32.0
+	monolithRoarAttackDistance = 3.0
+	#Range: 0.0 ~ 32.0
+	monolithRoarAttackRange = 2.5
 
 	[entity.spawn]
 		#Range: 0.0 ~ 1.0

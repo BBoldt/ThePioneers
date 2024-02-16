@@ -9,18 +9,24 @@
           "duration": {
             "minInitialValue": 10.0,
             "maxInitialValue": 15.0,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "MULTIPLY_BASE",
             "upgradeModifier": 0.25
           },
           "delay": {
             "minInitialValue": 1.0,
             "maxInitialValue": 0.75,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "MULTIPLY_TOTAL",
             "upgradeModifier": -0.15
           },
           "radius": {
             "minInitialValue": 3.0,
             "maxInitialValue": 5.0,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "MULTIPLY_BASE",
             "upgradeModifier": 0.15
           }
@@ -34,6 +40,8 @@
           "slots": {
             "minInitialValue": 2.0,
             "maxInitialValue": 5.0,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "ADD",
             "upgradeModifier": 1.0
           }
@@ -47,18 +55,24 @@
           "duration": {
             "minInitialValue": 4.0,
             "maxInitialValue": 6.0,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "MULTIPLY_BASE",
             "upgradeModifier": 0.1
           },
           "multiplier": {
             "minInitialValue": 0.1,
             "maxInitialValue": 0.5,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "MULTIPLY_TOTAL",
             "upgradeModifier": 0.15
           },
           "cooldown": {
             "minInitialValue": 15.0,
             "maxInitialValue": 12.0,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "MULTIPLY_TOTAL",
             "upgradeModifier": -0.1
           }
@@ -72,6 +86,8 @@
           "modifier": {
             "minInitialValue": 1.0,
             "maxInitialValue": 1.0,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "ADD",
             "upgradeModifier": 1.0
           }

@@ -1,0 +1,8 @@
+essence-radius: 30
+essence-per-knockout: 1.5
+rare-pokemon-essence-modifier: 3.75
+random-tick-essence-gain-chance: 0.5
+generate-cosmetics-in-card-shop: true
+max-trades-per-trader: 12
+essence-to-fill-jar: 100
+saved-u-i-scale: -1

@@ -1,0 +1,5 @@
+computer-boxes: 30
+write-entities-to-world: false
+data-save-on-world-save: true
+use-async-saving: true
+async-interval: 60

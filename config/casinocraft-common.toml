@@ -1,0 +1,14 @@
+
+[configconfig]
+	#Allows Betting Inventory to be set to INFINITE
+	config_creative_token = true
+	#Allows Reward Inventory to be set to INFINITE
+	config_creative_reward = true
+	#Only Operators on a Server or Singleplayer with Cheats enabled can set INFINITE
+	config_creative_oponly = false
+	#Face Cards do a one frame animation sometimes
+	config_animated_cards = true
+	#How long until a player receives a timeout
+	#Range: 1 ~ 10000
+	config_timeout = 300
+

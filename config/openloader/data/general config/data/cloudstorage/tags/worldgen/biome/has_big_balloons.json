@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "#is_ocean",
+    "#is_beach",
+    "#is_river",
+    "#has_structure/mineshaft",
+    "#has_structure/stronghold",
+	"aether:skyroot_forest",
+	"aether:skyroot_grove",
+	"aether:skyroot_meadow",
+	"aether:skyroot_woodland",
+	"deep_aether:aerglow_forest",
+	"deep_aether:aerlavender_fields",
+	"deep_aether:blue_aerglow_forest",
+	"deep_aether:golden_grove",
+	"deep_aether:golden_heights",
+	"deep_aether:mystic_aerglow_forest"
+  ]
+}

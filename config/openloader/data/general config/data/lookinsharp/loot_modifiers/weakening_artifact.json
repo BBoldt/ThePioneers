@@ -1,0 +1,16 @@
+{
+  "type": "lookinsharp:artifact_drop",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:entities/husk"
+    },
+    {
+      "condition": "minecraft:random_chance",
+      "chance": 0.1
+    }
+  ],
+  "result": {
+    "id": "lookinsharp:weakening_artifact"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "aether:ambrosium_enchanting",
+  "ingredient": {
+    "block": "aether:ambrosium_ore"
+  },
+  "result": {
+    "block": "minecraft:redstone_ore"
+  }
+}

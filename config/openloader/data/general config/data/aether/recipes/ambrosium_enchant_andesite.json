@@ -1,0 +1,9 @@
+{
+  "type": "aether:ambrosium_enchanting",
+  "ingredient": {
+    "block": "deep_aether:aseterite"
+  },
+  "result": {
+    "block": "minecraft:andesite"
+  }
+}

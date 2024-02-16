@@ -1,0 +1,15 @@
+{
+  "type": "pneumaticcraft:pressure_chamber",
+  "inputs": [
+    {
+      "item": "pneumaticcraft:plastic"
+    }
+  ],
+  "pressure": 1.5,
+  "results": [
+    {
+      "count": 6,
+      "item": "industrialforegoing:plastic"
+    }
+  ]
+}

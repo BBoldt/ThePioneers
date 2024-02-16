@@ -9,18 +9,24 @@
           "duration": {
             "minInitialValue": 2.0,
             "maxInitialValue": 5.0,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "MULTIPLY_BASE",
             "upgradeModifier": 0.1
           },
           "cooldown": {
             "minInitialValue": 20.0,
             "maxInitialValue": 15.0,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "MULTIPLY_BASE",
             "upgradeModifier": -0.05
           },
           "radius": {
             "minInitialValue": 1.5,
             "maxInitialValue": 3.0,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "MULTIPLY_BASE",
             "upgradeModifier": 0.1
           }
@@ -34,12 +40,16 @@
           "cooldown": {
             "minInitialValue": 10.0,
             "maxInitialValue": 7.0,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "MULTIPLY_BASE",
             "upgradeModifier": -0.075
           },
           "power": {
             "minInitialValue": 0.75,
             "maxInitialValue": 1.75,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "MULTIPLY_BASE",
             "upgradeModifier": 0.075
           }

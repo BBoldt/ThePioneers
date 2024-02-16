@@ -1,0 +1,20 @@
+{
+  "type": "thermal:smelter",
+  "ingredients": [
+    {
+      "item": "enderio:flour",
+      "count": 1
+    },
+    {
+      "item": "minecraft:cocoa_beans",
+      "count": 1
+    }
+  ],
+  "result": [
+    {
+      "item": "minecraft:cookie",
+      "count": 8
+    }
+  ],
+  "energy": 2000
+}

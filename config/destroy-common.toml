@@ -1,0 +1,45 @@
+
+#.
+#Destroy's drugs and medicines
+[substances]
+
+	#.
+	#.
+	#Baby Blue
+	[substances.babyBlue]
+		#.
+		#Allow the production of Baby Blue.
+		enableBabyBlue = true
+		#.
+		#[0 to disable this feature]
+		#Each level corresponds to an additional second of withdrawal.
+		#Range: > 0
+		maxAddictionLevel = 590
+
+	#.
+	#Alcohol
+	[substances.alcohol]
+		#.
+		#[in ticks]
+		#How long each additional level of inebriation adds.
+		#Range: > 0
+		inebriationDuration = 1200
+		#.
+		#[in ticks]
+		#How long each level of inebriation adds to the Hangover effect.
+		#Range: > 0
+		hangoverDuration = 1200
+		#.
+		#How much Entities will slip when inebriated.
+		#Range: 0.0 ~ 1.0
+		drunkenSlipping = 0.699999988079071
+
+	#.
+	#Chorus Wine
+	[substances.chorusWine]
+		#.
+		#[inSeconds]
+		#How far in the past your position will be set when drinking Chorus Wine.
+		#Range: 1 ~ 60
+		teleportTime = 20
+

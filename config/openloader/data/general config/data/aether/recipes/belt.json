@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "a": {
+      "item": "deep_aether:tall_aerlavender"
+    },
+	"b": {
+      "item": "aether:blue_berry"
+    }
+  },
+  "pattern": [
+    "aba"
+  ],
+  "result": {
+    "count": 6,
+    "item": "create:belt_connector"
+  },
+  "show_notification": true
+}

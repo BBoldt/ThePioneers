@@ -1,0 +1,36 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/tin"
+    },
+	{
+      "tag": "forge:ingots/tin"
+    },
+	{
+      "tag": "forge:ingots/tin"
+    },
+	{
+      "tag": "forge:ingots/silver"
+    },
+	{
+	  "tag": "forge:dusts/glowstone"
+	},
+	{
+	  "tag": "forge:dusts/glowstone"
+	},
+	{
+	  "tag": "forge:dusts/glowstone"
+	},
+	{
+	  "tag": "forge:dusts/glowstone"
+	}
+  ],
+  "results": [
+    {
+      "count": 4,
+      "item": "thermal:lumium_ingot"
+    }
+  ]
+}

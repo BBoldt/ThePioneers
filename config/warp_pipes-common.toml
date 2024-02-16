@@ -1,9 +1,24 @@
 
 [Common]
-	#Require creative to turn bubbles on/off and open/close pipes. [Default: false]
-	creative_wrench = false
 	#Require creative to link pipes. [Default: false]
 	creative_wrench_pipe_linking = false
+	#Require creative to turn bubbles on/off. [Default: false]
+	require_creative_bubbles = false
+	#Require creative to open/close pipes. [Default: false]
+	require_creative_close_pipes = false
+	#Require creative to turn water spouts on/off. [Default: false]
+	require_creative_water_spouts = false
+	#Allow fast travel through Clear Warp Pipes. [Default: true]
+	allow_fast_travel = true
+	#Allow mobs to teleport. [Default: true]
+	teleport_mobs = true
+	#Allow non living entities to teleport. [Default: true]
+	teleport_non_mobs = true
+	#Allow players to teleport. [Default: true]
+	teleport_players = true
+	#Cooldown between teleports in ticks. [20 ticks = 1 second] [Default: 30]
+	#Range: 0 ~ 8000
+	warp_cooldown = 50
 
 #Warp Pipes Config
 [Debug]
@@ -13,4 +28,12 @@
 	debug_selection_box_creative = true
 	#Enable debug selection box for Pipe Bubbles. Creative Only. [Default: false]
 	debug_pipe_bubbles_selection_box = false
+	#Enable debug selection box for Water Spouts. Creative Only. [Default: false]
+	debug_water_spout_selection_box = false
+
+[Client]
+	#Display a warp cooldown message. [Default: false]
+	warp_cooldown_message = true
+	#Display a warp cooldown message with ticks. Requires "warp_cooldown_message". [Default: false]
+	warp_cooldown_message_with_ticks = false
 

@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/redstone"
+    },
+    {
+      "tag": "forge:silicon"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "enderio:redstone_alloy_ingot"
+    }
+  ]
+}

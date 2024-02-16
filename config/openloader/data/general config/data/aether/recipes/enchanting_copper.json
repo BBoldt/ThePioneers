@@ -1,0 +1,10 @@
+{
+  "type": "aether:enchanting",
+  "category": "enchanting_misc",
+  "cookingtime": 750,
+  "experience": 1.0,
+  "ingredient": {
+    "item": "deep_aether:skyjade"
+  },
+  "result": "minecraft:copper_ingot"
+}

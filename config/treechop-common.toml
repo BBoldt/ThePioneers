@@ -31,6 +31,8 @@
 [general]
 	#If false, log items will be destroyed when chopping
 	dropLootForChoppedBlocks = true
+	#If true, chopped logs will drop a log item immediately instead of waiting for the tree to be felled, restoring legacy behavior. Does nothing if dropLootForChoppedBlocks is false
+	dropLootOnFirstChop = false
 
 [treeDetection]
 	#Maximum number of log blocks that can be detected to belong to one tree
@@ -111,7 +113,10 @@
 	terraformers = true
 	#https://github.com/AtomicStryker/atomicstrykers-minecraft-mods
 	#Fixes bad behavior
-	multiMine = true
+	multiMine = false
+	#https://www.curseforge.com/minecraft/mc-mods/apotheosis
+	#Adds compatibility with the "chainsaw" enchantment.
+	apotheosis = true
 
 	[compatibility.general]
 		#Only chop when using the correct tool for drops, if any (does nothing in vanilla, but some mods add tool requirements to logs

@@ -51,72 +51,14 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "treechop": {
-    "plugin": true,
-    "show_tree_block_counts": true,
-    "show_num_chops_remaining": true
+  "l2hostility": {
+    "mob": true
   },
   "endertanks": {
     "hud.basic": true,
     "hud": true,
     "hud.status": true,
     "hud.contents": true
-  },
-  "cobblemonintegrations": {
-    "healer": true,
-    "apricorn": true,
-    "pokemon_entity": true,
-    "berry_bush": true
-  },
-  "jade": {
-    "coordinates.rel": false,
-    "distance": false,
-    "block_face": false,
-    "coordinates": false,
-    "registry_name": "OFF",
-    "mod_name": true
-  },
-  "create": {
-    "filter": true,
-    "backtank_capacity": true,
-    "goggles.requires_goggles": true,
-    "goggles": false,
-    "blaze_burner": true,
-    "exact_block": true,
-    "crafting_blueprint": true,
-    "goggles.detailed": false,
-    "placard": true
-  },
-  "waystones": {
-    "waystone": true
-  },
-  "gravestone": {
-    "grave": true
-  },
-  "cookingforblockheads": {
-    "fridge": true,
-    "oven": true,
-    "sink": true,
-    "milk_jar": true,
-    "toaster": true
-  },
-  "securitycraft": {
-    "showowner": true,
-    "showmodules": true,
-    "info": true,
-    "showcustomname": true
-  },
-  "storagedrawers": {
-    "display.stacklimit": true,
-    "display.content": true,
-    "display.status": true
-  },
-  "l2hostility": {
-    "mob": true
-  },
-  "deepresonance": {
-    "crystal": true,
-    "generator_part": true
   },
   "pneumaticcraft": {
     "pneumatic": true,
@@ -126,11 +68,31 @@
     "camo": true,
     "semiblock": true
   },
-  "mcjtylib": {
-    "jadeaddons": true
+  "jade": {
+    "coordinates.rel": false,
+    "distance": false,
+    "block_face": false,
+    "coordinates": false,
+    "registry_name": "OFF",
+    "mod_name": true
   },
-  "lootr": {
-    "info": true
+  "vampirism": {
+    "altar_pillar": true,
+    "weapon_table": true,
+    "player_faction.lord_level_number": false,
+    "alchemy_table": true,
+    "entity_blood.show_fraction": false,
+    "entity_blood.max_for_render": 40,
+    "potion_table": true,
+    "totem": true,
+    "research_table": true,
+    "entity_blood.icon_per_line": 10,
+    "player_faction": true,
+    "entity_blood": true,
+    "altar_of_infusion": true,
+    "garlic_beacon": true,
+    "pedestal_charging": true,
+    "altar_of_inspiration": true
   },
   "refinedcooking": {
     "kitchen_access_point": true,
@@ -146,16 +108,15 @@
   "ars_nouveau": {
     "mob_jar": true
   },
-  "jadeaddons": {
-    "equipment_requirement": ""
+  "player_companions": {
+    "player_companion_entity_provider": true,
+    "player_companion_collector_entity_provider": true,
+    "player_companion_guard_entity_provider": true
   },
   "shetiphiancore": {
     "hud.rgb16": true,
     "hud": true,
     "hud.redstone": true
-  },
-  "mysticalagradditions": {
-    "infused_farmland": true
   },
   "twilightforest": {
     "quest_ram_wool": true
@@ -163,14 +124,27 @@
   "supplementaries": {
     "hat_stand": true
   },
-  "mysticalagriculture": {
-    "infused_farmland": true,
-    "crop": true,
-    "inferium_crop": true
+  "waystones": {
+    "waystone": true
+  },
+  "gravestone": {
+    "grave": true
+  },
+  "cookingforblockheads": {
+    "fridge": true,
+    "oven": true,
+    "sink": true,
+    "milk_jar": true,
+    "toaster": true
   },
   "drinkbeer": {
     "mixed_beer": true,
     "trade_box": true,
     "beer_barrel": true
+  },
+  "storagedrawers": {
+    "display.stacklimit": true,
+    "display.content": true,
+    "display.status": true
   }
 }

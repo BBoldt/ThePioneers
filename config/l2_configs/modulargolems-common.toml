@@ -38,6 +38,8 @@ humanoidGolemSlot = 3
 #Default slots for dog golem
 #Range: 0 ~ 100
 dogGolemSlot = 2
+#Make mobs aggro to iron golem automatically aggro to modular golems
+doEnemyAggro = true
 
 [modifiers]
 	#Percentage damage reflection per level of thorn

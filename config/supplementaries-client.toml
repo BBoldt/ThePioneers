@@ -174,6 +174,9 @@
 	test3 = 0.0
 	#Disables Optifine warn screen
 	no_optifine_warn_screen = false
+	#Config button Y offset
+	#Range: -10000 ~ 10000
+	config_button_y_offset = 0
 
 #Game tweaks
 [tweaks]
@@ -189,7 +192,6 @@
 	#Renders an enchantment glint on placeable enchanted booksNote that turning this on will make book piles use tile renderer instead of baked models making them slower to render
 	placeable_books_glint = false
 	#Placeable books random colors
-	#This is a list. Add more entries with syntax [[...]]
 	placeable_books_random_colors = ["brown", "orange", "yellow", "red", "green", "lime", "cyan", "blue", "purple"]
 	#Enables banner pattern tooltip image preview
 	banner_pattern_tooltip = true
@@ -207,10 +209,14 @@
 	#A scalar multiplier that will be applied to sign text making it brighter, supposedly more legible
 	#Range: 0.0 ~ 5.0
 	sign_text_color_multiplier = 1.2000000476837158
-	#Needs the server config with same name on. If on here it will ignore the server one and keep vanilla colors
-	tinted_blocks_on_maps = true
-	#Colors tall grass same color as grass
-	tall_grass_color = true
+
+	[tweaks.colored_maps]
+		#Needs the server config with same name on. If on here it will ignore the server one and keep vanilla colors
+		tinted_blocks_on_maps = true
+		#Colors tall grass same color as grass
+		tall_grass_color = true
+		#Makes colored maps a bit more accurate. Might affect performance
+		accurate_colors = false
 
 [items]
 

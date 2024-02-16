@@ -9,18 +9,24 @@
           "damage": {
             "minInitialValue": 0.1,
             "maxInitialValue": 0.25,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "MULTIPLY_BASE",
             "upgradeModifier": 0.1
           },
           "distance": {
             "minInitialValue": 3.0,
             "maxInitialValue": 8.0,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "MULTIPLY_BASE",
             "upgradeModifier": 0.3
           },
           "cooldown": {
             "minInitialValue": 20.0,
             "maxInitialValue": 15.0,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "MULTIPLY_TOTAL",
             "upgradeModifier": -0.075
           }
@@ -34,18 +40,24 @@
           "heal": {
             "minInitialValue": 1.0E-4,
             "maxInitialValue": 2.5E-4,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "MULTIPLY_BASE",
             "upgradeModifier": 0.1
           },
           "attack_speed": {
             "minInitialValue": 0.005,
             "maxInitialValue": 0.01,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "MULTIPLY_BASE",
             "upgradeModifier": 0.05
           },
           "movement_speed": {
             "minInitialValue": 0.01,
             "maxInitialValue": 0.025,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "MULTIPLY_BASE",
             "upgradeModifier": 0.1
           }
@@ -59,18 +71,24 @@
           "duration": {
             "minInitialValue": 2.0,
             "maxInitialValue": 4.0,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "MULTIPLY_BASE",
             "upgradeModifier": 0.1
           },
           "incoming_damage": {
             "minInitialValue": 0.05,
             "maxInitialValue": 0.025,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "MULTIPLY_BASE",
             "upgradeModifier": 0.05
           },
           "dealt_damage": {
             "minInitialValue": 0.025,
             "maxInitialValue": 0.075,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
             "upgradeOperation": "MULTIPLY_BASE",
             "upgradeModifier": 0.1
           }

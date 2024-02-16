@@ -1,0 +1,7 @@
+# Use Cloth Config mod for the descriptions.
+---
+debug:
+  enable: false
+fragment:
+  enable: true
+dispenserFallableBlockPlacement: true

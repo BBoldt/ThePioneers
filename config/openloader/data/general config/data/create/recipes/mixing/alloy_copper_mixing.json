@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/copper"
+    },
+    {
+      "tag": "forge:silicon"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "enderio:copper_alloy_ingot"
+    }
+  ]
+}

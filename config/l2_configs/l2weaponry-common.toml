@@ -67,6 +67,9 @@
 	#Energized Will enchantment bonus on attack range per stacking level per enchantment level
 	#Range: 1.0E-4 ~ 100.0
 	energizedWillReachBonus = 0.02
+	#Cooldown for Instant Throwing
+	#Range: 1 ~ 6000
+	instantThrowCooldown = 60
 
 ["Twilight Forest Compat"]
 	#Damage bonus to enemies not immune to fire

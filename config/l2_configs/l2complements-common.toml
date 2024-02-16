@@ -1,3 +1,5 @@
+#When Ars Nouveau is present, use apparatus recipe for enchantments
+useArsNouveauForEnchantmentRecipe = true
 
 [materials]
 	#Requirement for obtaining Captured Wind. Unit: Block per Tick

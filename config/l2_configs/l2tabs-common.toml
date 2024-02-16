@@ -1,0 +1,5 @@
+#Sync player attribute names to client
+syncPlayerAttributeName = true
+#Sync all entity attribute name to client
+syncAllEntityAttributeName = false
+
