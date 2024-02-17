@@ -1,3 +1,6 @@
+For the pioneers version 5.7.
+
+List of mods to remove that are not supported serverside. (Clients will still be able to connect)
 
 * AmbientSounds
 * appleskin
