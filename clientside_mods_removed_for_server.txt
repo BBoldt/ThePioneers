@@ -2,6 +2,9 @@ For the pioneers version 6.0
 
 List of mods to remove that are not supported serverside.
 
+Version 6.0 is compatible with Forge 47.3.5 server which you can get here:
+https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html
+
 * Aether Emissivity
 * AmbientSounds
 * appleskin
