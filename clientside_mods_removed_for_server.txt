@@ -1,12 +1,12 @@
-For the pioneers version 5.7.
+For the pioneers version 6.0
 
-List of mods to remove that are not supported serverside. (Clients will still be able to connect)
+List of mods to remove that are not supported serverside.
 
+* Aether Emissivity
 * AmbientSounds
 * appleskin
 * bcfp
 * BetterAdvancements
-* betterjukebox
 * BetterThirdPerson
 * BHMenu
 * canary
@@ -14,30 +14,30 @@ List of mods to remove that are not supported serverside. (Clients will still be
 * Controlling
 * drippyloadingscreen
 * e4mc
-* ears
 * embeddium
 * embeddiumplus
 * emiffect
 * emitrades
 * emi_loot
-* entityculling
+* emoji-type
+* farsight
 * fancymenu
+geckoliboculuscompat
 * Highlighter
 * ItemBorders
-* jecharacters
 * LegendaryTooltips
 * lootbeams
-* MaFgLib
 * melody
+* merchantMarkers
 * ModernStartupQOL
 * ModernUI
-* ModifierKeyFix
 * MouseTweaks
-* notenoughcrashes
+* Neko's Enchanted Books
 * no_nv_flash
 * oculus
+* oculus flywheel
+* prism
+* polytone
 * Searchables
-* starlight
 * StylishEffects
-* textrues_embeddium_options
-* visuality
+* tempadwithshaders
